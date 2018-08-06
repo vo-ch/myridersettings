@@ -25,7 +25,7 @@
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
       </file>
-      <file name="/Dummy.cs" timestamp="1533552738810">
+      <file name="/Dummy.cs" timestamp="1533555661978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1533549846787">
@@ -39,15 +39,22 @@
         <mark key="^" line="128" column="23" />
         <mark key="." line="129" column="46" />
       </file>
+      <file name="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" timestamp="1533557423723">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
+      </file>
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1533550734053">
         <mark key="'" line="27" column="62" />
       </file>
-      <file name="C:/projects/UI-Web/Services/SitemapGenerator.cs" timestamp="1533552734469">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="3" />
-        <mark key="^" line="56" column="3" />
-        <mark key="." line="56" column="3" />
+      <file name="C:/projects/UI-Web/Services/SitemapGenerator.cs" timestamp="1533557983471">
+        <mark key="'" line="73" column="26" />
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="117" />
+        <mark key="^" line="54" column="104" />
+        <mark key="." line="53" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -90,44 +97,64 @@
       <jump line="36" column="9" filename="C:/projects/UI-Web/appsettings.json" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
       <jump line="107" column="31" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
-      <jump line="54" column="0" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="39" column="23" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="7" column="17" filename="C:/projects/UI-Web/ViewModels/Sitemap/BaseJsonApiEntity.cs" />
+      <jump line="4" column="18" filename="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" />
+      <jump line="10" column="0" filename="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" />
+      <jump line="1" column="0" filename="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" />
+      <jump line="55" column="22" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="54" column="107" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="37" column="8" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="73" column="26" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>sitemap.xml</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBhY3Rpb24K</text>
-      </register>
       <register name="&quot;" type="4">
         <text>sitemap.xml</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzUHJldmlld01vZGFsU2hvd24gPSBzaG93Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNob3dQcmV2aWV3TW9kYWwoc2hvdzogYm9vbGVhbik6IHZvaWQgewo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>noh</text>
-      </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>res</text>
+        <text>categ</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">L2FwaS92MS9jYXRlZ29yaWVzP2ZpbHRlcltsZXZlbF1baW5dPTEsMiZwYWdlW251bWJlcl09ezB9JnBhZ2Vbc2l6ZV09ezF9</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IAogICAgICAgCgogICAgICAgIA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLy9zc2RkZC8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIHNkZnNzZGZzc2Rmc3NkZnNzZGZzZGRkZGQgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgQ3VycmljdWx1bUF0dHJpYnV0ZXMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIHNkZnNzZGZzc2Rmc3NkZnNzZGZzZGRkZGQgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBhY3Rpb24K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name=":" type="4">
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>res</last-search>
+      <last-search>categ</last-search>
       <last-offset />
-      <last-pattern>res</last-pattern>
+      <last-pattern>categ</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -149,12 +176,13 @@
         <entry>auth</entry>
         <entry>hos</entry>
         <entry>res</entry>
+        <entry>categ</entry>
       </history-search>
       <history-cmd>
         <entry>close</entry>
         <entry>open</entry>
-        <entry>action AceAction</entry>
         <entry>noh</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -207,6 +235,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
