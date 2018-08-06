@@ -56,7 +56,7 @@
         <mark key="'" line="21" column="74" />
         <mark key="^" line="21" column="104" />
       </file>
-      <file name="/Dummy.cs" timestamp="1533562614751">
+      <file name="/Dummy.cs" timestamp="1533565825427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" timestamp="1533563421679">
@@ -66,13 +66,18 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="C:/projects/UI-Web/Utils/Http/HttpClientExtensions.cs" timestamp="1533561972868" />
-      <file name="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" timestamp="1533564583640">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="9" column="30" />
+      <file name="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" timestamp="1533565745975">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
+      <file name="C:/projects/UI-Web/ViewModels/Sitemap/Publisher.cs" timestamp="1533565668680">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1533550734053">
         <mark key="'" line="27" column="62" />
@@ -147,16 +152,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sitemap.xml</text>
+        <text>JsonProperty</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>JsonProperty</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>Updated</text>
+        <text>[DataMember(Name = &quot;owner_id&quot;)]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KFByb3BlcnR5TmFtZSA9ICJ0aXRsZSIpXSBwdWJsaWMgc3RyaW5nIFRpdGxlIHsgZ2V0OyBzZXQ7IH0K</text>
@@ -194,7 +199,7 @@
       <last-offset />
       <last-pattern>&quot;</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -223,6 +228,7 @@
         <entry>close</entry>
         <entry>open</entry>
         <entry>noh</entry>
+        <entry>reg</entry>
         <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
