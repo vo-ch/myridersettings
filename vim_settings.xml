@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1533571072278">
+      <file name="/Dummy.txt" timestamp="1533573778323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/components/payment/stores/PaymentStore.ts" timestamp="1533538559399">
@@ -30,18 +30,19 @@
         <mark key="'" line="136" column="41" />
         <mark key="." line="140" column="50" />
       </file>
+      <file name="/appsettings.json" timestamp="1533573568875" />
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1533287086437">
         <mark key="[" line="209" column="30" />
         <mark key="]" line="209" column="29" />
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1533568291947">
+      <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1533573000607">
         <mark key="'" line="120" column="45" />
-        <mark key="[" line="125" column="73" />
-        <mark key="]" line="125" column="84" />
-        <mark key="." line="125" column="84" />
-        <mark key="^" line="125" column="84" />
+        <mark key="[" line="128" column="20" />
+        <mark key="]" line="128" column="20" />
+        <mark key="." line="128" column="20" />
+        <mark key="^" line="128" column="20" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1533283247248">
         <mark key="'" line="145" column="50" />
@@ -55,12 +56,12 @@
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="C:/projects/UI-Web/Services/SitemapGenerator.cs" timestamp="1533571330871">
-        <mark key="'" line="33" column="614" />
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="43" column="37" />
-        <mark key="." line="43" column="37" />
+      <file name="C:/projects/UI-Web/Services/SitemapGenerator.cs" timestamp="1533572268570">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="91" column="37" />
+        <mark key="]" line="91" column="43" />
+        <mark key="^" line="91" column="43" />
+        <mark key="." line="91" column="43" />
       </file>
       <file name="/Dummy.cs" timestamp="1533570802578">
         <mark key="[" line="0" column="0" />
@@ -85,7 +86,7 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1533550734053">
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1533573642307">
         <mark key="'" line="27" column="62" />
       </file>
     </filemarks>
@@ -168,61 +169,69 @@
       <jump line="18" column="336" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
       <jump line="25" column="186" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
       <jump line="33" column="614" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="24" column="46" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="31" column="63" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="61" column="49" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="63" column="61" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="71" column="50" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="77" column="41" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="83" column="30" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="87" column="59" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="17" column="18" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>host</text>
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text>JsonObject</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
-        <text>host</text>
+        <text>re</text>
       </register>
       <register name="0" type="4">
-        <text>host</text>
+        <text>(string host)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgc3RyaW5nIGNjVG9rZW4gPSAoYXdhaXQgdGhpcy5jbGllbnRDcmVkZW50aWFsc1Rva2VuU2VydmljZS5HZXRUb2tlbigpKS5hY2Nlc3NfdG9rZW47CiAgICAgICAgICAgICAgICB2YXIgaG9zdHNMbXMgPSB0aGlzLnNldHRpbmdzLkhvc3RzLkxtczsKICAgICAgICAgICAgICAgIHZhciBob3N0c0dhdGV3YXkgPSB0aGlzLnNldHRpbmdzLkhvc3RzLkdhdGV3YXk7CiAgICAgICAgICAgICAgICB2YXIgaG9zdHNVaSA9IHRoaXMuc2V0dGluZ3MuSG9zdHMuVWk7CgogICAgICAgICAgICAgICAgYXdhaXQgU2l0ZW1hcEdlbmVyYXRvci5HZW5lcmF0ZSgKICAgICAgICAgICAgICAgICAgICBwYXRoLAogICAgICAgICAgICAgICAgICAgICQie2hvc3RzVWkuUHJvdG9jb2x9Oi8ve2hvc3RzVWkuSG9zdE5hbWV9Ontob3N0VWkuUG9yfSIsCiAgICAgICAgICAgICAgICAgICAgJCJ7aG9zdHNMbXMuUHJvdG9jb2x9Oi8ve2hvc3RzTG1zLkhvc3ROYW1lfTp7aG9zdHNMbXMuUG9ydH0iLAogICAgICAgICAgICAgICAgICAgICQie2hvc3RzR2F0ZXdheS5Qcm90b2NvbH06Ly97aG9zdHNHYXRld2F5Lkhvc3ROYW1lfTp7aG9zdHNHYXRld2F5LlBvcnR9IiwKICAgICAgICAgICAgICAgICAgICBjY1Rva2VuCiAgICAgICAgICAgICAgICApOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBob3N0ID0gImh0dHBzOi8vY3liZXJ1LmNvbSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KFByb3BlcnR5TmFtZSA9ICJ0aXRsZSIpXSBwdWJsaWMgc3RyaW5nIFRpdGxlIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbRGF0YU1lbWJlcihOYW1lID0gImxhYmVsIildCiAgICAgICAgcHVibGljIHN0cmluZyBVcGRhdGVkIHsgZ2V0OyBzZXQ7IH0KICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KCJ0cmFpbGVyX3VybCIpXQo=</text>
+        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KFByb3BlcnR5TmFtZSA9ICJ0aXRsZSIpXSBwdWJsaWMgc3RyaW5nIFRpdGxlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KCJsYWJlbCIpXQogICAgICAgIHB1YmxpYyBzdHJpbmcgbGFiZWwgeyBnZXQ7IHNldDsgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBbRGF0YU1lbWJlcihOYW1lID0gImxhYmVsIildCiAgICAgICAgcHVibGljIHN0cmluZyBVcGRhdGVkIHsgZ2V0OyBzZXQ7IH0KICAgIH0KfQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KCJ0cmFpbGVyX3VybCIpXQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KCJsYWJlbCIpXQogICAgICAgIHB1YmxpYyBzdHJpbmcgbGFiZWwgeyBnZXQ7IHNldDsgfQ==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHggPSBjb250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc29uc2UyID0gYXdhaXQgcmVzdWx0LkNvbnRlbnQuUmVhZE1vZGVsQXN5bmM8Sk9iamVjdD4oKTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IAogICAgICAgCgogICAgICAgIA==</text>
-      </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>host</last-search>
+      <last-search>re</last-search>
       <last-offset />
-      <last-pattern>host</last-pattern>
-      <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <last-pattern>re</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hos</entry>
         <entry>res</entry>
         <entry>categ</entry>
         <entry>cur</entry>
@@ -242,13 +251,14 @@
         <entry>cou</entry>
         <entry>cour</entry>
         <entry>host</entry>
+        <entry>re</entry>
       </history-search>
       <history-cmd>
         <entry>close</entry>
         <entry>open</entry>
-        <entry>noh</entry>
-        <entry>reg</entry>
         <entry>action AceAction</entry>
+        <entry>reg</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -302,7 +312,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
