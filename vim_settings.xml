@@ -12,6 +12,10 @@
         <mark key="." line="109" column="49" />
         <mark key="n" line="104" column="41" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1533541787101">
+        <mark key="'" line="157" column="16" />
+        <mark key="." line="140" column="50" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1533287086437">
         <mark key="[" line="209" column="30" />
         <mark key="]" line="209" column="29" />
@@ -36,6 +40,9 @@
       <jump line="145" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="1" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
       <jump line="220" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
+      <jump line="119" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="103" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="157" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -111,6 +118,9 @@
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -118,6 +128,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
