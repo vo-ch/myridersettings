@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="RiderUnitTestQuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift u" />
+  </action>
+  <action id="ShowUmlDiagramPopup" />
+</keymap>
