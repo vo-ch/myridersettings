@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1533552632342">
+      <file name="/Dummy.txt" timestamp="1533562899181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/components/payment/stores/PaymentStore.ts" timestamp="1533538559399">
@@ -15,6 +15,17 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" timestamp="1533548975349">
         <mark key="'" line="255" column="71" />
       </file>
+      <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" timestamp="1533560847286">
+        <mark key="'" line="189" column="16" />
+        <mark key="n" line="0" column="0" />
+      </file>
+      <file name="C:/projects/UI-Web/ViewModels/Sitemap/Course.cs" timestamp="1533564438800">
+        <mark key="'" line="14" column="39" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="17" column="35" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1533547364831">
         <mark key="'" line="136" column="41" />
         <mark key="." line="140" column="50" />
@@ -24,9 +35,6 @@
         <mark key="]" line="209" column="29" />
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1533555661978">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1533549846787">
         <mark key="[" line="112" column="16" />
@@ -39,22 +47,35 @@
         <mark key="^" line="128" column="23" />
         <mark key="." line="129" column="46" />
       </file>
-      <file name="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" timestamp="1533557423723">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
+      <file name="C:/projects/UI-Web/ViewModels/Sitemap/BaseJsonApiEntity.cs" timestamp="1533562489596">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="C:/projects/UI-Web/Services/SitemapGenerator.cs" timestamp="1533562637144">
+        <mark key="'" line="21" column="74" />
+        <mark key="^" line="21" column="104" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1533562614751">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" timestamp="1533563421679">
+        <mark key="'" line="8" column="27" />
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+      </file>
+      <file name="C:/projects/UI-Web/Utils/Http/HttpClientExtensions.cs" timestamp="1533561972868" />
+      <file name="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" timestamp="1533564583640">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1533550734053">
         <mark key="'" line="27" column="62" />
-      </file>
-      <file name="C:/projects/UI-Web/Services/SitemapGenerator.cs" timestamp="1533557983471">
-        <mark key="'" line="73" column="26" />
-        <mark key="[" line="38" column="46" />
-        <mark key="]" line="38" column="117" />
-        <mark key="^" line="54" column="104" />
-        <mark key="." line="53" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -103,65 +124,80 @@
       <jump line="10" column="0" filename="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" />
       <jump line="1" column="0" filename="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" />
       <jump line="55" column="22" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
-      <jump line="54" column="107" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
       <jump line="37" column="8" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
       <jump line="73" column="26" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="54" column="74" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="0" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
+      <jump line="191" column="29" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
+      <jump line="197" column="58" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
+      <jump line="74" column="30" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
+      <jump line="76" column="33" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
+      <jump line="85" column="27" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
+      <jump line="189" column="16" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
+      <jump line="10" column="37" filename="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" />
+      <jump line="17" column="27" filename="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" />
+      <jump line="14" column="37" filename="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" />
+      <jump line="11" column="27" filename="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" />
+      <jump line="8" column="27" filename="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" />
+      <jump line="8" column="32" filename="C:/projects/UI-Web/ViewModels/Sitemap/Course.cs" />
+      <jump line="11" column="43" filename="C:/projects/UI-Web/ViewModels/Sitemap/Course.cs" />
+      <jump line="14" column="39" filename="C:/projects/UI-Web/ViewModels/Sitemap/Course.cs" />
+      <jump line="5" column="7" filename="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" />
+      <jump line="13" column="0" filename="C:/projects/UI-Web/ViewModels/Sitemap/Curriculum.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>sitemap.xml</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>categ</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">L2FwaS92MS9jYXRlZ29yaWVzP2ZpbHRlcltsZXZlbF1baW5dPTEsMiZwYWdlW251bWJlcl09ezB9JnBhZ2Vbc2l6ZV09ezF9</text>
+        <text>Updated</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IAogICAgICAgCgogICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KFByb3BlcnR5TmFtZSA9ICJ0aXRsZSIpXSBwdWJsaWMgc3RyaW5nIFRpdGxlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLy9zc2RkZC8K</text>
+        <text encoding="base64">ICAgICAgICBbRGF0YU1lbWJlcihOYW1lID0gImxhYmVsIildCiAgICAgICAgcHVibGljIHN0cmluZyBVcGRhdGVkIHsgZ2V0OyBzZXQ7IH0KICAgIH0KfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHNkZnNzZGZzc2Rmc3NkZnNzZGZzZGRkZGQgCg==</text>
+        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KCJ0cmFpbGVyX3VybCIpXQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgQ3VycmljdWx1bUF0dHJpYnV0ZXMK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBbSnNvblByb3BlcnR5KCJsYWJlbCIpXQogICAgICAgIHB1YmxpYyBzdHJpbmcgbGFiZWwgeyBnZXQ7IHNldDsgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHggPSBjb250ZW50LlJlYWRBc1N0cmluZ0FzeW5jKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIHNkZnNzZGZzc2Rmc3NkZnNzZGZzZGRkZGQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc29uc2UyID0gYXdhaXQgcmVzdWx0LkNvbnRlbnQuUmVhZE1vZGVsQXN5bmM8Sk9iamVjdD4oKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBhY3Rpb24K</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAogICAgICAgCgogICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy9zc2RkZC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgIHNkZnNzZGZzc2Rmc3NkZnNzZGZzZGRkZGQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceAction</text>
       </register>
     </registers>
     <search>
-      <last-search>categ</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>categ</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>course</entry>
-        <entry>on*+Cl</entry>
         <entry>on</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry>prom</entry>
@@ -177,6 +213,11 @@
         <entry>hos</entry>
         <entry>res</entry>
         <entry>categ</entry>
+        <entry>cur</entry>
+        <entry>Jobjex</entry>
+        <entry>JObject</entry>
+        <entry>&quot;l</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>close</entry>
