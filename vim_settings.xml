@@ -36,6 +36,16 @@
         <mark key="^" line="128" column="23" />
         <mark key="." line="129" column="46" />
       </file>
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1533550734053">
+        <mark key="'" line="27" column="62" />
+      </file>
+      <file name="C:/projects/UI-Web/Services/SitemapGenerator.cs" timestamp="1533551344063">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="3" />
+        <mark key="^" line="56" column="3" />
+        <mark key="." line="56" column="3" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="152" column="74" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
@@ -67,6 +77,17 @@
       <jump line="131" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="255" column="71" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="313" column="96" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
+      <jump line="142" column="0" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="1" column="0" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="55" column="8" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="28" column="8" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="25" column="27" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="26" column="72" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="27" column="62" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="36" column="9" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="107" column="31" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
+      <jump line="54" column="0" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -97,15 +118,15 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>handl</text>
+        <text>hos</text>
       </register>
     </registers>
     <search>
-      <last-search>handl</last-search>
+      <last-search>hos</last-search>
       <last-offset />
-      <last-pattern>handl</last-pattern>
+      <last-pattern>hos</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -121,6 +142,9 @@
         <entry>unknown</entry>
         <entry>progress</entry>
         <entry>handl</entry>
+        <entry>scope</entry>
+        <entry>auth</entry>
+        <entry>hos</entry>
       </history-search>
       <history-cmd>
         <entry>close</entry>
@@ -173,6 +197,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
