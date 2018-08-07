@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" timestamp="1533637903345">
-        <mark key="'" line="435" column="0" />
-        <mark key="[" line="430" column="41" />
-        <mark key="]" line="430" column="41" />
-        <mark key="." line="430" column="41" />
-        <mark key="^" line="430" column="47" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" timestamp="1533648702359">
+        <mark key="'" line="429" column="38" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="56" />
+        <mark key="." line="431" column="30" />
+        <mark key="^" line="431" column="30" />
       </file>
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" timestamp="1533631055999">
         <mark key="'" line="69" column="31" />
@@ -26,14 +26,18 @@
         <mark key="^" line="114" column="16" />
         <mark key="." line="114" column="16" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" timestamp="1533648907770">
+        <mark key="'" line="126" column="37" />
+        <mark key="[" line="130" column="65" />
+        <mark key="]" line="130" column="77" />
+        <mark key="." line="130" column="77" />
+        <mark key="^" line="130" column="77" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1533287086437">
         <mark key="[" line="209" column="30" />
         <mark key="]" line="209" column="29" />
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1533570802578">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" timestamp="1533563421679">
         <mark key="'" line="8" column="27" />
@@ -65,9 +69,6 @@
       </file>
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1533573642307">
         <mark key="'" line="27" column="62" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1533573778323">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/components/payment/stores/PaymentStore.ts" timestamp="1533634552599">
         <mark key="'" line="91" column="12" />
@@ -149,28 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="12" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
-      <jump line="64" column="20" filename="C:/projects/UI-Web/Services/SitemapGenerator.cs" />
-      <jump line="153" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="24" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="28" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="30" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="35" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="40" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="48" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="52" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="148" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="142" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="140" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="137" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="135" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="129" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="126" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="110" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="105" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="103" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="97" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
-      <jump line="95" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
       <jump line="92" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
       <jump line="54" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
       <jump line="58" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
@@ -207,7 +186,6 @@
       <jump line="19" column="47" filename="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" />
       <jump line="14" column="13" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/IUiAction.ts" />
       <jump line="13" column="0" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/IUiAction.ts" />
-      <jump line="427" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="418" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="414" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="428" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
@@ -232,7 +210,6 @@
       <jump line="370" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="395" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="399" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
-      <jump line="403" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="407" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="412" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="417" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
@@ -249,6 +226,30 @@
       <jump line="36" column="33" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
       <jump line="34" column="0" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
       <jump line="434" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
+      <jump line="403" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
+      <jump line="427" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
+      <jump line="429" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
+      <jump line="103" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="121" column="3" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="12" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="18" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="20" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="30" column="60" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="134" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="28" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="71" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="72" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="90" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="91" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="98" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="107" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="108" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="109" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="111" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="114" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="126" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
+      <jump line="16" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -258,56 +259,54 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>courseDetailsStore</text>
       </register>
       <register name="/" type="4">
-        <text>cou</text>
+        <text encoding="base64">XDxjb3Vyc2VEZXRhaWxzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5TdGF0dXMgPSBkYXRhWyJzdGF0dXMiXT8uVmFsdWU8c3RyaW5nPigpOwo=</text>
+      <register name="0" type="4">
+        <text>courseDetails</text>
       </register>
-      <register name="1" type="4">
-        <text>{}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0KICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGNvdXJzZURldGFpbHNTdG9yZSwgYXV0aFN0b3JlIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>{}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGRhdGFDb2xsZWN0aW9uU3RvcmUg</text>
-      </register>
-      <register name="5" type="4">
         <text>{}</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">IGNvdXJzZURldGFpbHNTdG9yZSwgYXV0aFN0b3JlIA==</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">IGRhdGFDb2xsZWN0aW9uU3RvcmUg</text>
+        <text>{}</text>
       </register>
       <register name="7" type="4">
-        <text>''</text>
+        <text encoding="base64">IGRhdGFDb2xsZWN0aW9uU3RvcmUg</text>
       </register>
       <register name="8" type="4">
-        <text>udemy</text>
+        <text>{}</text>
       </register>
       <register name="9" type="4">
-        <text />
+        <text encoding="base64">IGRhdGFDb2xsZWN0aW9uU3RvcmUg</text>
       </register>
       <register name=":" type="4">
-        <text>jumps</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>cou</last-search>
+      <last-search encoding="base64">XDxjb3Vyc2VEZXRhaWxzXD4=</last-search>
       <last-offset />
-      <last-pattern>cou</last-pattern>
+      <last-pattern encoding="base64">XDxjb3Vyc2VEZXRhaWxzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
-        <entry>gat</entry>
         <entry>lm</entry>
         <entry>courseur</entry>
         <entry>sesurl</entry>
@@ -326,6 +325,8 @@
         <entry encoding="base64">XDxoYW5kbGVQdXJjaGFzZVw+</entry>
         <entry>ui</entry>
         <entry>cou</entry>
+        <entry>purch</entry>
+        <entry encoding="base64">XDxjb3Vyc2VEZXRhaWxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>close</entry>
@@ -333,8 +334,8 @@
         <entry>reg</entry>
         <entry>action AceAction</entry>
         <entry>action AceLineAction</entry>
-        <entry>noh</entry>
         <entry>jumps</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
