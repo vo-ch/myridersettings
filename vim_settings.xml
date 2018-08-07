@@ -294,7 +294,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>jumps</text>
       </register>
     </registers>
     <search>
@@ -334,6 +334,7 @@
         <entry>action AceAction</entry>
         <entry>action AceLineAction</entry>
         <entry>noh</entry>
+        <entry>jumps</entry>
       </history-cmd>
       <history-expr />
       <history-input />
