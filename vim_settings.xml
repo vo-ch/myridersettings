@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" timestamp="1533729223498">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" timestamp="1533731620588">
         <mark key="'" line="431" column="31" />
-        <mark key="[" line="427" column="0" />
-        <mark key="]" line="427" column="0" />
-        <mark key="." line="427" column="0" />
-        <mark key="^" line="424" column="9" />
+        <mark key="[" line="429" column="38" />
+        <mark key="]" line="429" column="59" />
+        <mark key="." line="429" column="37" />
+        <mark key="^" line="429" column="37" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" timestamp="1533637000168">
         <mark key="'" line="99" column="0" />
@@ -91,6 +91,10 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ui-actions/IBaseUiActionData.ts" timestamp="1533731722620">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="2" column="24" />
+      </file>
       <file name="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" timestamp="1533637283620">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="42" column="53" />
@@ -171,12 +175,12 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="43" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" timestamp="1533727941995">
-        <mark key="'" line="10" column="18" />
-        <mark key="[" line="20" column="1" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="20" column="19" />
+      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" timestamp="1533731917870">
+        <mark key="'" line="16" column="26" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionPayload.cs" timestamp="1533722827662">
         <mark key="[" line="10" column="16" />
@@ -212,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
       <jump line="127" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
       <jump line="76" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
       <jump line="85" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" />
@@ -312,16 +315,17 @@
       <jump line="390" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="392" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="393" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
+      <jump line="19" column="26" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>course-details-action</text>
+        <text>purchase-course-button</text>
       </register>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="*" type="4">
-        <text>course-details-action</text>
+        <text>purchase-course-button</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -336,43 +340,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>course</text>
       </register>
       <register name="0" type="4">
-        <text>purchase-course-button</text>
+        <text>actionType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdwbGF5JyB8CiAgICAncGF1c2UnIHwKICAgICdsZXNzb24tc3RhcnQnIHwKICAgICdsZXNzb24tZW5kJyB8CiAgICAnY2xvc2UtY291cnNlJyB8CiAgICAnd2F0Y2hlZC10aW1lLXVwZGF0ZSc7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHsgQWN0aXZpdHlUeXBlIH0gZnJvbSAnQ2xpZW50QXBwL21vZGVscy9hY3Rpdml0eS9JQWN0aXZpdHknOwo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHdhdGNoZWREdXJhdGlvbj86IG51bWJlcjsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZSB9IGZyb20gJ0NsaWVudEFwcC9tb2RlbHMvY291cnNlL0lDb3Vyc2UnOwo=</text>
+        <text encoding="base64">ICAgIGlzUXVpekFjdGl2ZT86IGJvb2xlYW47Cg==</text>
       </register>
       <register name="s" type="4">
         <text>CourseDetailsActionsInitializer</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLi4udGhpcy5sb2dBY3Rpb25EYXRhCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGFjdGl2aXR5SWQ6IHN0cmluZzsKICAgIGFjdGl2aXR5VHlwZTogQWN0aXZpdHlUeXBlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlY29yZHNCeVBhZ2VUeXBlID0gcmVjb3JkcwogICAgICAgICAgICAgICAgLkdyb3VwQnkocmVjID0+IFBsYXllckFjdGlvbnNQYXlsb2FkLkdldEFjdGlvblR5cGUocmVjLlBheWxvYWQpKTsKCiAgICAgICAgICAgIHJldHVybiByZWNvcmRzQnlQYWdlVHlwZS5TZWxlY3RNYW55KHJlYyA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAodGhpcy5TdWJQcm9jZXNzb3JzLk1hcC5UcnlHZXRWYWx1ZShyZWMuS2V5LCBvdXQgSVByb2Nlc3NvcjxJRGF0YVJlY29yZDxKT2JqZWN0Pj4gc3ViUHJvY2Vzc29yKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3ViUHJvY2Vzc29yLlByb2Nlc3MocmVjLlRvTGlzdCgpKTsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5CYXNlUHJvY2VzcyhyZWNvcmRzCiAgICAgICAgICAgICAgICAgICAgICAgIC5TZWxlY3QociA9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgci5Db252ZXJ0UGF5bG9hZCh4ID0+IG5ldyBQbGF5ZXJBY3Rpb25zUGF5bG9hZCh4KSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBJRGF0YVJlY29yZDxJUGxheWVyQWN0aW9uc1BheWxvYWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICkuVG9MaXN0KCkKICAgICAgICAgICAgICAgICAgICAsIGlzUmVwcm9jZXNzaW5nKTsKCiAgICAgICAgICAgIH0pLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgIGNvdXJzZTogSUNvdXJzZTsKICAgIGFjdGl2aXR5SWQ6IHN0cmluZzsKICAgIGFjdGl2aXR5VHlwZTogQWN0aXZpdHlUeXBlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlY29yZHNCeVBhZ2VUeXBlLlNlbGVjdE1hbnkocmVjID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmICh0aGlzLlN1YlByb2Nlc3NvcnMuTWFwLlRyeUdldFZhbHVlKHJlYy5LZXksIG91dCBJUHJvY2Vzc29yPElEYXRhUmVjb3JkPEpPYmplY3Q+PiBzdWJQcm9jZXNzb3IpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBzdWJQcm9jZXNzb3IuUHJvY2VzcyhyZWMuVG9MaXN0KCkpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLkJhc2VQcm9jZXNzKHJlY29yZHMKICAgICAgICAgICAgICAgICAgICAgICAgLlNlbGVjdChyID0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByLkNvbnZlcnRQYXlsb2FkKHggPT4gbmV3IFBsYXllckFjdGlvbnNQYXlsb2FkKHgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIElEYXRhUmVjb3JkPElQbGF5ZXJBY3Rpb25zUGF5bG9hZD4KICAgICAgICAgICAgICAgICAgICAgICAgKS5Ub0xpc3QoKQogICAgICAgICAgICAgICAgICAgICwgaXNSZXByb2Nlc3NpbmcpOwoKICAgICAgICAgICAgfSkuVG9MaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICdwbGF5JyB8CiAgICAncGF1c2UnIHwKICAgICdsZXNzb24tc3RhcnQnIHwKICAgICdsZXNzb24tZW5kJyB8CiAgICAnY2xvc2UtY291cnNlJyB8CiAgICAnd2F0Y2hlZC10aW1lLXVwZGF0ZSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlY29yZHNCeVBhZ2VUeXBlLlNlbGVjdE1hbnkocmVjID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmICh0aGlzLlN1YlByb2Nlc3NvcnMuTWFwLlRyeUdldFZhbHVlKHJlYy5LZXksIG91dCBJUHJvY2Vzc29yPElEYXRhUmVjb3JkPEpPYmplY3Q+PiBzdWJQcm9jZXNzb3IpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBzdWJQcm9jZXNzb3IuUHJvY2VzcyhyZWMuVG9MaXN0KCkpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQWN0aXZpdHlUeXBlIH0gZnJvbSAnQ2xpZW50QXBwL21vZGVscy9hY3Rpdml0eS9JQWN0aXZpdHknOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmV0dXJuIHJlY29yZHNCeVBhZ2VUeXBlLlNlbGVjdE1hbnkocmVjID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGlmICh0aGlzLlN1YlByb2Nlc3NvcnMuTWFwLlRyeUdldFZhbHVlKHJlYy5LZXksIG91dCBJUHJvY2Vzc29yPElEYXRhUmVjb3JkPEpPYmplY3Q+PiBzdWJQcm9jZXNzb3IpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBzdWJQcm9jZXNzb3IuUHJvY2VzcyhyZWMuVG9MaXN0KCkpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZSB9IGZyb20gJ0NsaWVudEFwcC9tb2RlbHMvY291cnNlL0lDb3Vyc2UnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4udGhpcy5sb2dBY3Rpb25EYXRhCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
