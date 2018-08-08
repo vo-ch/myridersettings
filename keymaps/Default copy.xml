@@ -4,5 +4,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="RiderUnitTestQuickListPopupAction" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="ShowUmlDiagramPopup" />
 </keymap>
