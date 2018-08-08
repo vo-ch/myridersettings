@@ -141,12 +141,12 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" timestamp="1533735775871">
-        <mark key="'" line="96" column="91" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="96" column="104" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" timestamp="1533744494720">
+        <mark key="'" line="96" column="80" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="114" column="51" />
       </file>
       <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1533573000607">
         <mark key="'" line="120" column="45" />
@@ -155,13 +155,13 @@
         <mark key="." line="128" column="20" />
         <mark key="^" line="128" column="20" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1533738125082">
-        <mark key="a" line="129" column="12" />
-        <mark key="'" line="166" column="93" />
-        <mark key="[" line="400" column="39" />
-        <mark key="]" line="400" column="59" />
-        <mark key="^" line="401" column="49" />
-        <mark key="." line="401" column="49" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1533744743619">
+        <mark key="a" line="130" column="12" />
+        <mark key="'" line="167" column="89" />
+        <mark key="[" line="408" column="36" />
+        <mark key="]" line="408" column="36" />
+        <mark key="^" line="408" column="36" />
+        <mark key="." line="408" column="36" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionPayload.cs" timestamp="1533735928378">
         <mark key="[" line="72" column="0" />
@@ -235,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
-      <jump line="360" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
-      <jump line="353" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="350" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="347" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="343" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
@@ -315,10 +312,7 @@
       <jump line="165" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="116" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="112" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
-      <jump line="12" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="120" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
-      <jump line="96" column="91" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
-      <jump line="166" column="93" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="9" column="22" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionPayload.cs" />
       <jump line="0" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseDetails/PlayCourseTrailerTest.cs" />
       <jump line="94" column="63" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseDetails/PlayCourseTrailerTest.cs" />
@@ -335,6 +329,12 @@
       <jump line="45" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseDetails/PlayCourseTrailerTest.cs" />
       <jump line="29" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseDetails/PlayCourseTrailerTest.cs" />
       <jump line="0" column="14" filename="/Dummy.txt" />
+      <jump line="113" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
+      <jump line="166" column="89" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
+      <jump line="12" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
+      <jump line="66" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
+      <jump line="114" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
+      <jump line="96" column="80" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,13 +378,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkxlc3NvbkV4cGFuZFw+</text>
+        <text encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>CourseDetailsActionsIndex</text>
+        <text>chapter</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL25ldyBLaW5lc2lzRXZlbnQuS2luZXNpc0V2ZW50UmVjb3JkCiAgICAgICAgICAgICAgICAgICAgLy97CiAgICAgICAgICAgICAgICAgICAgLy8gICAgQXdzUmVnaW9uID0gInVzLXdlc3QtMiIsCiAgICAgICAgICAgICAgICAgICAgLy8gICAgS2luZXNpcyA9IG5ldyBLaW5lc2lzRXZlbnQuUmVjb3JkCiAgICAgICAgICAgICAgICAgICAgLy8gICAgewogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICBBcHByb3hpbWF0ZUFycml2YWxUaW1lc3RhbXAgPSBEYXRlVGltZS5Ob3csCiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgIERhdGEgPSBuZXcgTWVtb3J5U3RyZWFtKEVuY29kaW5nLlVURjguR2V0Qnl0ZXMocmVjb3JkSnNvbjIpKQogICAgICAgICAgICAgICAgICAgIC8vICAgIH0KICAgICAgICAgICAgICAgICAgICAvL30sCiAgICAgICAgICAgICAgICAgICAgLy9uZXcgS2luZXNpc0V2ZW50LktpbmVzaXNFdmVudFJlY29yZAogICAgICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgICAgIC8vICAgIEF3c1JlZ2lvbiA9ICJ1cy13ZXN0LTIiLAogICAgICAgICAgICAgICAgICAgIC8vICAgIEtpbmVzaXMgPSBuZXcgS2luZXNpc0V2ZW50LlJlY29yZAogICAgICAgICAgICAgICAgICAgIC8vICAgIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgQXBwcm94aW1hdGVBcnJpdmFsVGltZXN0YW1wID0gRGF0ZVRpbWUuTm93LAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICBEYXRhID0gbmV3IE1lbW9yeVN0cmVhbShFbmNvZGluZy5VVEY4LkdldEJ5dGVzKHJlY29yZEpzb24zKSkKICAgICAgICAgICAgICAgICAgICAvLyAgICB9CiAgICAgICAgICAgICAgICAgICAgLy99Cg==</text>
@@ -421,15 +421,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkxlc3NvbkV4cGFuZFw+</last-search>
+      <last-search encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkxlc3NvbkV4cGFuZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIdHRwRXJyb3JcPg==</entry>
         <entry>una</entry>
         <entry encoding="base64">XDxVbmF1dGhvcml6ZWRFcnJvclw+</entry>
         <entry>user</entry>
@@ -449,6 +450,7 @@
         <entry>course</entry>
         <entry encoding="base64">XDxleHBhbmRlZERlc2NcPg==</entry>
         <entry encoding="base64">XDxvbkxlc3NvbkV4cGFuZFw+</entry>
+        <entry encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>close</entry>
