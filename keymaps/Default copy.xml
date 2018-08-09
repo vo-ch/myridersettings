@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateTypeScriptToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
