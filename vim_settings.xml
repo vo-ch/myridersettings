@@ -122,7 +122,7 @@
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1533573642307">
         <mark key="'" line="27" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533746151692">
+      <file name="/Dummy.txt" timestamp="1533808545473">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="49" />
@@ -196,12 +196,12 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="43" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" timestamp="1533745824502">
-        <mark key="'" line="17" column="26" />
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="14" column="22" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" timestamp="1533808936677">
+        <mark key="'" line="18" column="26" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionPayload.cs" timestamp="1533746089718">
         <mark key="[" line="15" column="19" />
@@ -385,13 +385,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5DaGFwdGVyTmFtZSA9IGRhdGFbImNoYXB0ZXJOYW1lIl0/LlZhbHVlPHN0cmluZz4oKTsK</text>
+      <register name="0" type="4">
+        <text>targetCourse</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL25ldyBLaW5lc2lzRXZlbnQuS2luZXNpc0V2ZW50UmVjb3JkCiAgICAgICAgICAgICAgICAgICAgLy97CiAgICAgICAgICAgICAgICAgICAgLy8gICAgQXdzUmVnaW9uID0gInVzLXdlc3QtMiIsCiAgICAgICAgICAgICAgICAgICAgLy8gICAgS2luZXNpcyA9IG5ldyBLaW5lc2lzRXZlbnQuUmVjb3JkCiAgICAgICAgICAgICAgICAgICAgLy8gICAgewogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICBBcHByb3hpbWF0ZUFycml2YWxUaW1lc3RhbXAgPSBEYXRlVGltZS5Ob3csCiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgIERhdGEgPSBuZXcgTWVtb3J5U3RyZWFtKEVuY29kaW5nLlVURjguR2V0Qnl0ZXMocmVjb3JkSnNvbjIpKQogICAgICAgICAgICAgICAgICAgIC8vICAgIH0KICAgICAgICAgICAgICAgICAgICAvL30sCiAgICAgICAgICAgICAgICAgICAgLy9uZXcgS2luZXNpc0V2ZW50LktpbmVzaXNFdmVudFJlY29yZAogICAgICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgICAgIC8vICAgIEF3c1JlZ2lvbiA9ICJ1cy13ZXN0LTIiLAogICAgICAgICAgICAgICAgICAgIC8vICAgIEtpbmVzaXMgPSBuZXcgS2luZXNpc0V2ZW50LlJlY29yZAogICAgICAgICAgICAgICAgICAgIC8vICAgIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgQXBwcm94aW1hdGVBcnJpdmFsVGltZXN0YW1wID0gRGF0ZVRpbWUuTm93LAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICBEYXRhID0gbmV3IE1lbW9yeVN0cmVhbShFbmNvZGluZy5VVEY4LkdldEJ5dGVzKHJlY29yZEpzb24zKSkKICAgICAgICAgICAgICAgICAgICAvLyAgICB9CiAgICAgICAgICAgICAgICAgICAgLy99Cg==</text>
@@ -434,7 +434,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
