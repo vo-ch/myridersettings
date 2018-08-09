@@ -162,9 +162,9 @@
         <mark key="." line="128" column="20" />
         <mark key="^" line="128" column="20" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1533745857512">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1533810841535">
         <mark key="a" line="130" column="12" />
-        <mark key="'" line="167" column="89" />
+        <mark key="'" line="401" column="40" />
         <mark key="[" line="409" column="20" />
         <mark key="]" line="409" column="20" />
         <mark key="^" line="409" column="20" />
@@ -242,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="328" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="305" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="301" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
@@ -342,6 +341,7 @@
       <jump line="96" column="80" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="12" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="26" column="29" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionPayload.cs" />
+      <jump line="401" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -388,7 +388,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</text>
+        <text>Similar Courses</text>
       </register>
       <register name="0" type="4">
         <text>targetCourse</text>
@@ -428,17 +428,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</last-search>
+      <last-search>Similar Courses</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</last-pattern>
+      <last-pattern>Similar Courses</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVbmF1dGhvcml6ZWRFcnJvclw+</entry>
         <entry>user</entry>
         <entry>ui</entry>
         <entry>cou</entry>
@@ -458,6 +457,7 @@
         <entry encoding="base64">XDxib29sZWFuXD4=</entry>
         <entry encoding="base64">XDxleHBhbmRlZERlc2NcPg==</entry>
         <entry encoding="base64">XDxvbkxlc3NvblRvZ2dsZVw+</entry>
+        <entry>Similar Courses</entry>
       </history-search>
       <history-cmd>
         <entry>close</entry>
