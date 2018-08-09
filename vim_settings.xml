@@ -162,13 +162,13 @@
         <mark key="." line="128" column="20" />
         <mark key="^" line="128" column="20" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1533816253427">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1533817152073">
         <mark key="a" line="130" column="12" />
-        <mark key="'" line="419" column="3" />
-        <mark key="[" line="431" column="25" />
-        <mark key="]" line="431" column="55" />
-        <mark key="^" line="431" column="55" />
-        <mark key="." line="431" column="55" />
+        <mark key="'" line="421" column="51" />
+        <mark key="[" line="424" column="0" />
+        <mark key="]" line="423" column="78" />
+        <mark key="^" line="423" column="78" />
+        <mark key="." line="423" column="78" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionPayload.cs" timestamp="1533735928378">
         <mark key="[" line="72" column="0" />
@@ -203,11 +203,11 @@
         <mark key="^" line="23" column="35" />
         <mark key="." line="23" column="35" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionPayload.cs" timestamp="1533746089718">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionPayload.cs" timestamp="1533817945161">
+        <mark key="[" line="31" column="61" />
+        <mark key="]" line="31" column="61" />
+        <mark key="." line="31" column="61" />
+        <mark key="^" line="31" column="60" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/IUiAction.ts" timestamp="1533732812982">
         <mark key="'" line="16" column="28" />
@@ -253,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="202" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="206" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="213" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
@@ -353,16 +352,17 @@
       <jump line="184" column="64" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="419" column="3" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="2" column="17" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" />
+      <jump line="421" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>more-course-by-instructor-click</text>
+        <text>TargetCourse</text>
       </register>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="*" type="4">
-        <text>more-course-by-instructor-click</text>
+        <text>TargetCourse</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -396,43 +396,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lesson-description-toggle</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvblNpbWlsYXJDb3Vyc2VDbGlja1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdsZXNzb24tZGVzY3JpcHRpb24tdG9nZ2xlJyB8Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGF0YVsidGFyZ2V0Q291cnNlIl0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNFeHBhbmQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0Q291cnNlOiBjb3Vyc2UsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNFeHBhbmQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>similar-course-click</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcHRlcklkOiBjaGFwdGVyLmlkLAogICAgICAgICAgICBjaGFwdGVyTmFtZTogY2hhcHRlci50aXRsZSwKICAgICAgICAgICAgbGVzc29uSWQ6IGxlc3Nvbi5pZCwKICAgICAgICAgICAgbGVzc29uTmFtZTogbGVzc29uLnRpdGxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNFeHBhbmQsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcHRlcklkOiBjaGFwdGVyLmlkLAogICAgICAgICAgICBjaGFwdGVyTmFtZTogY2hhcHRlci50aXRsZSwKICAgICAgICAgICAgbGVzc29uSWQ6IGxlc3Nvbi5pZCwKICAgICAgICAgICAgbGVzc29uTmFtZTogbGVzc29uLnRpdGxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNFeHBhbmQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9uQ291cnNlQ2xpY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcHRlcklkOiBjaGFwdGVyLmlkLAogICAgICAgICAgICBjaGFwdGVyTmFtZTogY2hhcHRlci50aXRsZSwKICAgICAgICAgICAgbGVzc29uSWQ6IGxlc3Nvbi5pZCwKICAgICAgICAgICAgbGVzc29uTmFtZTogbGVzc29uLnRpdGxlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL25ldyBLaW5lc2lzRXZlbnQuS2luZXNpc0V2ZW50UmVjb3JkCiAgICAgICAgICAgICAgICAgICAgLy97CiAgICAgICAgICAgICAgICAgICAgLy8gICAgQXdzUmVnaW9uID0gInVzLXdlc3QtMiIsCiAgICAgICAgICAgICAgICAgICAgLy8gICAgS2luZXNpcyA9IG5ldyBLaW5lc2lzRXZlbnQuUmVjb3JkCiAgICAgICAgICAgICAgICAgICAgLy8gICAgewogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICBBcHByb3hpbWF0ZUFycml2YWxUaW1lc3RhbXAgPSBEYXRlVGltZS5Ob3csCiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgIERhdGEgPSBuZXcgTWVtb3J5U3RyZWFtKEVuY29kaW5nLlVURjguR2V0Qnl0ZXMocmVjb3JkSnNvbjIpKQogICAgICAgICAgICAgICAgICAgIC8vICAgIH0KICAgICAgICAgICAgICAgICAgICAvL30sCiAgICAgICAgICAgICAgICAgICAgLy9uZXcgS2luZXNpc0V2ZW50LktpbmVzaXNFdmVudFJlY29yZAogICAgICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgICAgIC8vICAgIEF3c1JlZ2lvbiA9ICJ1cy13ZXN0LTIiLAogICAgICAgICAgICAgICAgICAgIC8vICAgIEtpbmVzaXMgPSBuZXcgS2luZXNpc0V2ZW50LlJlY29yZAogICAgICAgICAgICAgICAgICAgIC8vICAgIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgQXBwcm94aW1hdGVBcnJpdmFsVGltZXN0YW1wID0gRGF0ZVRpbWUuTm93LAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICBEYXRhID0gbmV3IE1lbW9yeVN0cmVhbShFbmNvZGluZy5VVEY4LkdldEJ5dGVzKHJlY29yZEpzb24zKSkKICAgICAgICAgICAgICAgICAgICAvLyAgICB9CiAgICAgICAgICAgICAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcHRlcklkOiBjaGFwdGVyLmlkLAogICAgICAgICAgICBjaGFwdGVyTmFtZTogY2hhcHRlci50aXRsZSwKICAgICAgICAgICAgbGVzc29uSWQ6IGxlc3Nvbi5pZCwKICAgICAgICAgICAgbGVzc29uTmFtZTogbGVzc29uLnRpdGxlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uQ291cnNlQ2xpY2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9zdHJpbmcgcmVjb3JkSnNvbjIgPSBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QobmV3IERhdGFSZWNvcmRDb250YWluZXIKICAgICAgICAgICAgLy97CiAgICAgICAgICAgIC8vICAgIE1ldGEgPSBuZXcgRGF0YVJlY29yZE1ldGEoKSB7IFJlc291cmNlSWQgPSAiNDU2IiB9LAogICAgICAgICAgICAvLyAgICBCb2R5ID0gcmVjb3JkMgogICAgICAgICAgICAvL30pOwoKICAgICAgICAgICAgLy9zdHJpbmcgcmVjb3JkSnNvbjMgPSBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QobmV3IERhdGFSZWNvcmRDb250YWluZXIKICAgICAgICAgICAgLy97CiAgICAgICAgICAgIC8vICAgIE1ldGEgPSBuZXcgRGF0YVJlY29yZE1ldGEoKSB7IFJlc291cmNlSWQgPSAiNzg5IiB9LAogICAgICAgICAgICAvLyAgICBCb2R5ID0gcmVjb3JkMwogICAgICAgICAgICAvL30pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL25ldyBLaW5lc2lzRXZlbnQuS2luZXNpc0V2ZW50UmVjb3JkCiAgICAgICAgICAgICAgICAgICAgLy97CiAgICAgICAgICAgICAgICAgICAgLy8gICAgQXdzUmVnaW9uID0gInVzLXdlc3QtMiIsCiAgICAgICAgICAgICAgICAgICAgLy8gICAgS2luZXNpcyA9IG5ldyBLaW5lc2lzRXZlbnQuUmVjb3JkCiAgICAgICAgICAgICAgICAgICAgLy8gICAgewogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICBBcHByb3hpbWF0ZUFycml2YWxUaW1lc3RhbXAgPSBEYXRlVGltZS5Ob3csCiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgIERhdGEgPSBuZXcgTWVtb3J5U3RyZWFtKEVuY29kaW5nLlVURjguR2V0Qnl0ZXMocmVjb3JkSnNvbjIpKQogICAgICAgICAgICAgICAgICAgIC8vICAgIH0KICAgICAgICAgICAgICAgICAgICAvL30sCiAgICAgICAgICAgICAgICAgICAgLy9uZXcgS2luZXNpc0V2ZW50LktpbmVzaXNFdmVudFJlY29yZAogICAgICAgICAgICAgICAgICAgIC8vewogICAgICAgICAgICAgICAgICAgIC8vICAgIEF3c1JlZ2lvbiA9ICJ1cy13ZXN0LTIiLAogICAgICAgICAgICAgICAgICAgIC8vICAgIEtpbmVzaXMgPSBuZXcgS2luZXNpc0V2ZW50LlJlY29yZAogICAgICAgICAgICAgICAgICAgIC8vICAgIHsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgQXBwcm94aW1hdGVBcnJpdmFsVGltZXN0YW1wID0gRGF0ZVRpbWUuTm93LAogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICBEYXRhID0gbmV3IE1lbW9yeVN0cmVhbShFbmNvZGluZy5VVEY4LkdldEJ5dGVzKHJlY29yZEpzb24zKSkKICAgICAgICAgICAgICAgICAgICAvLyAgICB9CiAgICAgICAgICAgICAgICAgICAgLy99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
