@@ -107,12 +107,12 @@
         <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/ProfileSectionActions/ProfileSectionActionPayload.cs" timestamp="1534161547657">
-        <mark key="'" line="17" column="12" />
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="44" />
-        <mark key="^" line="10" column="31" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/ProfileSectionActions/ProfileSectionActionPayload.cs" timestamp="1534166898120">
+        <mark key="'" line="4" column="41" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionPayload.cs" timestamp="1533735928378">
         <mark key="[" line="72" column="0" />
@@ -125,9 +125,9 @@
         <mark key="." line="9" column="81" />
         <mark key="^" line="9" column="105" />
       </file>
-      <file name="C:/projects/cu-data-reporting/Core/Models/User.cs" timestamp="1533831483128">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
+      <file name="C:/projects/cu-data-reporting/Core/Models/User.cs" timestamp="1534166823266">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="44" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="C:/projects/UI-Web/Services/SitemapGenerator.cs" timestamp="1533630721614">
@@ -241,7 +241,7 @@
         <mark key="^" line="85" column="22" />
         <mark key="." line="85" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534162176404">
+      <file name="/Dummy.txt" timestamp="1534166913925">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="49" />
@@ -327,7 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="384" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="385" column="65" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="390" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="392" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
@@ -427,6 +426,7 @@
       <jump line="123" column="17" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="17" column="12" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/ProfileSectionActions/ProfileSectionActionPayload.cs" />
       <jump line="45" column="49" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/ProfileSection.tsx" />
+      <jump line="5" column="41" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/ProfileSectionActions/ProfileSectionActionPayload.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -452,64 +452,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCkgPT4g</text>
+        <text>Core.Models.User</text>
       </register>
       <register name="/" type="4">
-        <text>instructor</text>
+        <text encoding="base64">XDxiYXNlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Ui.ProfileSectionActions</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEZpcnN0TmFtZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBMYXN0TmFtZSB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5SYXdMb2dzLlVpLlByb2ZpbGVTZWN0aW9uQWN0aW9uczsK</text>
+        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5BZ2dyZWdhdGVkRW50aXRpZXMuQ291cnNlUmVsZWFzZS5Db21tb25Qcm9jZXNzb3JzLlN0YXR1c0NoYW5nZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5MZXNzb25OYW1lID0gZGF0YVsibGVzc29uTmFtZSJdPy5WYWx1ZTxzdHJpbmc+KCk7CiAgICAgICAgICAgIHRoaXMuTGVzc29uSWQgPSBkYXRhWyJsZXNzb25JZCJdPy5WYWx1ZTxzdHJpbmc+KCk7CiAgICAgICAgICAgIHRoaXMuQ2hhcHRlcklkID0gZGF0YVsiY2hhcHRlcklkIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5DaGFwdGVyTmFtZSA9IGRhdGFbImNoYXB0ZXJOYW1lIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5Jc0V4cGFuZCA9IGRhdGFbImlzRXhwYW5kIl0/LlZhbHVlPGJvb2w/PigpOwoKICAgICAgICAgICAgdGhpcy5Db3Vyc2UgPSBkYXRhWyJjb3Vyc2UiXSAhPSBudWxsID8gbmV3IENvdXJzZVJlY29yZChkYXRhWyJjb3Vyc2UiXSBhcyBKT2JqZWN0KSA6IG51bGw7CiAgICAgICAgICAgIHRoaXMuVGFyZ2V0Q291cnNlID0gZGF0YVsidGFyZ2V0Q291cnNlIl0gIT0gbnVsbCA/IG5ldyBDb3Vyc2VSZWNvcmQoZGF0YVsidGFyZ2V0Q291cnNlIl0gYXMgSk9iamVjdCkgOiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIExlc3Nvbk5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTGVzc29uSWQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgQ2hhcHRlcklkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIENoYXB0ZXJOYW1lIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgYm9vbD8gSXNFeHBhbmQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBDb3Vyc2VSZWNvcmQgQ291cnNlIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgQ291cnNlUmVjb3JkIFRhcmdldENvdXJzZSB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>ProfileSectionActionsProcessor</text>
       </register>
-      <register name="4" type="4">
-        <text>profile-section-action</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5SYXdMb2dzLlVpLlByb2ZpbGVTZWN0aW9uQWN0aW9uczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5MZXNzb25OYW1lID0gZGF0YVsibGVzc29uTmFtZSJdPy5WYWx1ZTxzdHJpbmc+KCk7CiAgICAgICAgICAgIHRoaXMuTGVzc29uSWQgPSBkYXRhWyJsZXNzb25JZCJdPy5WYWx1ZTxzdHJpbmc+KCk7CiAgICAgICAgICAgIHRoaXMuQ2hhcHRlcklkID0gZGF0YVsiY2hhcHRlcklkIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5DaGFwdGVyTmFtZSA9IGRhdGFbImNoYXB0ZXJOYW1lIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5Jc0V4cGFuZCA9IGRhdGFbImlzRXhwYW5kIl0/LlZhbHVlPGJvb2w/PigpOwoKICAgICAgICAgICAgdGhpcy5Db3Vyc2UgPSBkYXRhWyJjb3Vyc2UiXSAhPSBudWxsID8gbmV3IENvdXJzZVJlY29yZChkYXRhWyJjb3Vyc2UiXSBhcyBKT2JqZWN0KSA6IG51bGw7CiAgICAgICAgICAgIHRoaXMuVGFyZ2V0Q291cnNlID0gZGF0YVsidGFyZ2V0Q291cnNlIl0gIT0gbnVsbCA/IG5ldyBDb3Vyc2VSZWNvcmQoZGF0YVsidGFyZ2V0Q291cnNlIl0gYXMgSk9iamVjdCkgOiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIExlc3Nvbk5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTGVzc29uSWQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgQ2hhcHRlcklkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIENoYXB0ZXJOYW1lIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgYm9vbD8gSXNFeHBhbmQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBDb3Vyc2VSZWNvcmQgQ291cnNlIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgQ291cnNlUmVjb3JkIFRhcmdldENvdXJzZSB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>profile-section-action</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>instructor</last-search>
+      <last-search encoding="base64">XDxiYXNlXD4=</last-search>
       <last-offset />
-      <last-pattern>instructor</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlXD4=</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>instructor</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dBY3Rpb25cPg==</entry>
-        <entry encoding="base64">XDxsb2dBY3Rpb25EYXRhXD4=</entry>
         <entry>course</entry>
         <entry encoding="base64">XDxvbkxlc3NvbkV4cGFuZFw+</entry>
         <entry encoding="base64">XDxib29sZWFuXD4=</entry>
@@ -528,6 +526,8 @@
         <entry encoding="base64">XDxzYXZlXD4=</entry>
         <entry encoding="base64">XDx1c2VyUHJvZmlsZVw+</entry>
         <entry>instructor</entry>
+        <entry>User</entry>
+        <entry encoding="base64">XDxiYXNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action AceLineAction</entry>
