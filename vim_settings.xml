@@ -76,6 +76,12 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/CourseSearch/CourseSearchActionProcessor.cs" timestamp="1534177436226">
+        <mark key="[" line="37" column="81" />
+        <mark key="]" line="37" column="81" />
+        <mark key="." line="37" column="81" />
+        <mark key="^" line="37" column="81" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/instructor-card/InstructorCard.tsx" timestamp="1533824557696">
         <mark key="'" line="55" column="30" />
         <mark key="[" line="8" column="18" />
@@ -114,6 +120,13 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionPayload.cs" timestamp="1534177263832">
+        <mark key="'" line="60" column="45" />
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="47" />
+        <mark key="." line="60" column="72" />
+        <mark key="^" line="60" column="72" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionsIndex.cs" timestamp="1534174753757">
         <mark key="[" line="8" column="81" />
@@ -215,6 +228,12 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1534173522085">
         <mark key="'" line="41" column="4" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/CourseSearch/CourseSearchActionPayload.cs" timestamp="1534176684335">
+        <mark key="[" line="4" column="42" />
+        <mark key="]" line="4" column="58" />
+        <mark key="^" line="4" column="58" />
+        <mark key="." line="4" column="58" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" timestamp="1533827964170">
         <mark key="'" line="21" column="48" />
@@ -344,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="163" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="164" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="207" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
@@ -444,71 +462,70 @@
       <jump line="124" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="125" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="41" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="61" column="45" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionPayload.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>ProfileSectionActionsIndex</text>
+        <text>ToUiActionPayload</text>
       </register>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="*" type="4">
-        <text>ProfileSectionActionsIndex</text>
+        <text>ToUiActionPayload</text>
       </register>
       <register name="k" type="4">
         <keys>
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Core.Models.User Instructor { get; set; }</text>
+        <text>UiActionPayload</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>CourseDetailsActionsDocPayload</text>
+        <text>ToUiActionPayload</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5BZ2dyZWdhdGVkRW50aXRpZXMuQ291cnNlUmVsZWFzZS5Db21tb25Qcm9jZXNzb3JzLlN0YXR1c0NoYW5nZTsK</text>
+      <register name="1" type="4">
+        <text>)
+                .ToList();</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHRoaXMuQmFzZVByb2Nlc3MoY29udmVydGVkUmVjb3JkcywgaXNSZXByb2Nlc3NpbmcpCiAgICAgICAgICAgICAgICAuQ29uY2F0KA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewoKICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>ProfileSectionActionsProcessor</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5SYXdMb2dzLlVpLlByb2ZpbGVTZWN0aW9uQWN0aW9uczsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFVpQWN0aW9uUGF5bG9hZChkYXRhKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5MZXNzb25OYW1lID0gZGF0YVsibGVzc29uTmFtZSJdPy5WYWx1ZTxzdHJpbmc+KCk7CiAgICAgICAgICAgIHRoaXMuTGVzc29uSWQgPSBkYXRhWyJsZXNzb25JZCJdPy5WYWx1ZTxzdHJpbmc+KCk7CiAgICAgICAgICAgIHRoaXMuQ2hhcHRlcklkID0gZGF0YVsiY2hhcHRlcklkIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5DaGFwdGVyTmFtZSA9IGRhdGFbImNoYXB0ZXJOYW1lIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5Jc0V4cGFuZCA9IGRhdGFbImlzRXhwYW5kIl0/LlZhbHVlPGJvb2w/PigpOwoKICAgICAgICAgICAgdGhpcy5Db3Vyc2UgPSBkYXRhWyJjb3Vyc2UiXSAhPSBudWxsID8gbmV3IENvdXJzZVJlY29yZChkYXRhWyJjb3Vyc2UiXSBhcyBKT2JqZWN0KSA6IG51bGw7CiAgICAgICAgICAgIHRoaXMuVGFyZ2V0Q291cnNlID0gZGF0YVsidGFyZ2V0Q291cnNlIl0gIT0gbnVsbCA/IG5ldyBDb3Vyc2VSZWNvcmQoZGF0YVsidGFyZ2V0Q291cnNlIl0gYXMgSk9iamVjdCkgOiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIExlc3Nvbk5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTGVzc29uSWQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgQ2hhcHRlcklkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIENoYXB0ZXJOYW1lIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgYm9vbD8gSXNFeHBhbmQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBDb3Vyc2VSZWNvcmQgQ291cnNlIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgQ291cnNlUmVjb3JkIFRhcmdldENvdXJzZSB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="4">
-        <text>profile-section-action</text>
+      <register name="7" type="2">
+        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5BZ2dyZWdhdGVkRW50aXRpZXMuQ291cnNlUmVsZWFzZS5Db21tb25Qcm9jZXNzb3JzLlN0YXR1c0NoYW5nZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
