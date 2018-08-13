@@ -125,6 +125,9 @@
         <mark key="." line="9" column="81" />
         <mark key="^" line="9" column="105" />
       </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsPayload.cs" timestamp="1534170621131">
+        <mark key="'" line="6" column="15" />
+      </file>
       <file name="C:/projects/cu-data-reporting/Core/Models/User.cs" timestamp="1534166823266">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="44" />
@@ -327,10 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="65" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
-      <jump line="390" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
-      <jump line="392" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
-      <jump line="393" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="19" column="26" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" />
       <jump line="16" column="28" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/IUiAction.ts" />
       <jump line="432" column="54" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
@@ -427,6 +426,10 @@
       <jump line="17" column="12" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/ProfileSectionActions/ProfileSectionActionPayload.cs" />
       <jump line="45" column="49" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/ProfileSection.tsx" />
       <jump line="5" column="41" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/ProfileSectionActions/ProfileSectionActionPayload.cs" />
+      <jump line="11" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsPayload.cs" />
+      <jump line="10" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsPayload.cs" />
+      <jump line="9" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsPayload.cs" />
+      <jump line="6" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsPayload.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -455,7 +458,7 @@
         <text>Core.Models.User</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlXD4=</text>
+        <text encoding="base64">XDxzdHJpbmdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEZpcnN0TmFtZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBMYXN0TmFtZSB7IGdldDsgc2V0OyB9Cg==</text>
@@ -494,21 +497,20 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlXD4=</last-search>
+      <last-search encoding="base64">XDxzdHJpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJpbmdcPg==</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>instructor</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>course</entry>
         <entry encoding="base64">XDxvbkxlc3NvbkV4cGFuZFw+</entry>
         <entry encoding="base64">XDxib29sZWFuXD4=</entry>
         <entry encoding="base64">XDxleHBhbmRlZERlc2NcPg==</entry>
@@ -528,6 +530,7 @@
         <entry>instructor</entry>
         <entry>User</entry>
         <entry encoding="base64">XDxiYXNlXD4=</entry>
+        <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action AceLineAction</entry>
@@ -541,7 +544,6 @@
         <entry>let @a=@+</entry>
         <entry>s/insructor/instructor/g</entry>
         <entry>nog</entry>
-        <entry>noh</entry>
         <entry>actionList</entry>
         <entry>actionlist</entry>
         <entry>action Re</entry>
@@ -550,6 +552,7 @@
         <entry>s/instructor/profile</entry>
         <entry>s/instructor/profile/g</entry>
         <entry>reg</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
