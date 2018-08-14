@@ -47,6 +47,7 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
+      <file name="/CourseSearchActionPayload.cs" timestamp="1534258132640" />
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseDetails/PlayCourseTrailerTest.cs" timestamp="1533741662402">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="34" column="24" />
@@ -94,12 +95,17 @@
         <mark key="." line="37" column="81" />
         <mark key="^" line="37" column="81" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" timestamp="1534254465725">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" timestamp="1534258736277">
         <mark key="'" line="20" column="111" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="19" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="20" column="77" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CourseSearchIndex.cs" timestamp="1534259208301">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/instructor-card/InstructorCard.tsx" timestamp="1533824557696">
         <mark key="'" line="55" column="30" />
@@ -126,12 +132,12 @@
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
       </file>
-      <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseSearch/CourseSearchActionTest.cs" timestamp="1534253730748">
-        <mark key="'" line="49" column="34" />
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="43" />
-        <mark key="." line="49" column="50" />
-        <mark key="^" line="49" column="45" />
+      <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseSearch/CourseSearchActionTest.cs" timestamp="1534259710845">
+        <mark key="'" line="51" column="37" />
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="51" column="35" />
+        <mark key="." line="51" column="35" />
+        <mark key="^" line="51" column="35" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" timestamp="1534161124737">
         <mark key="'" line="127" column="17" />
@@ -167,12 +173,12 @@
         <mark key="." line="8" column="80" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsPayload.cs" timestamp="1534254473597">
-        <mark key="'" line="7" column="15" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsPayload.cs" timestamp="1534259115591">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="C:/projects/cu-data-reporting/Core/Models/User.cs" timestamp="1534173883958">
         <mark key="[" line="10" column="44" />
@@ -400,6 +406,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CourseSearchDoc.cs" timestamp="1534259145192">
+        <mark key="[" line="9" column="48" />
+        <mark key="]" line="10" column="58" />
+        <mark key="^" line="10" column="58" />
+        <mark key="." line="10" column="58" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/PlayerActionsIndex.cs" timestamp="1533720935647">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="29" />
@@ -478,8 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
-      <jump line="190" column="3" filename="C:/projects/UI-Web/ClientApp/views/profiles/instructor/InstructorProfile.tsx" />
       <jump line="43" column="41" filename="C:/projects/UI-Web/ClientApp/views/profiles/instructor/InstructorProfile.tsx" />
       <jump line="40" column="47" filename="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" />
       <jump line="21" column="48" filename="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" />
@@ -578,16 +588,18 @@
       <jump line="214" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="215" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="226" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="53" column="3" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseSearch/CourseSearchActionTest.cs" />
+      <jump line="51" column="37" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseSearch/CourseSearchActionTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>refreshCategoriesMap</text>
+        <text>SearchCategory</text>
       </register>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="*" type="4">
-        <text>refreshCategoriesMap</text>
+        <text>SearchCategory</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -605,11 +617,11 @@
       <register name="/" type="4">
         <text encoding="base64">cHJpbWFyeUNhdGVnb3JpZXMgPSA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2hDYXRlZ29yaWVzTWFwKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>'id': '123'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -618,28 +630,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3JpZXNNYXA6IERpY3Rpb25hcnk8SUNhdGVnb3J5PjsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2VhcmNoQ2F0ZWdvcnkoSk9iamVjdCBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5JZCA9IGRhdGFbImlkIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5UaXRsZSA9IGRhdGFbInRpdGxlIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>CourseSearchActionInitializer</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUZpbHRlciB9IGZyb20gJ0NsaWVudEFwcC92aWV3cy9jb3Vyc2Uvc2VhcmNoL21vZGVscy9JRmlsdGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdTbWFsbCcsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5Gcm9tID0gZGF0YVsiZnJvbSJdPy5WYWx1ZTxpbnQ+KCk7CiAgICAgICAgICAgIHRoaXMuRnJvbSA9IGRhdGFbImZyb20iXT8uVmFsdWU8aW50PigpOwogICAgICAgICAgICB0aGlzLkZyb20gPSBkYXRhWyJmcm9tIl0/LlZhbHVlPGludD4oKTsKICAgICAgICAgICAgdGhpcy5Gcm9tID0gZGF0YVsiZnJvbSJdPy5WYWx1ZTxpbnQ+KCk7CiAgICAgICAgICAgIHRoaXMuRnJvbSA9IGRhdGFbImZyb20iXT8uVmFsdWU8aW50PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdNZWRpdW0nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdMYXJnZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnJvbSA9IEBmcm9tOwogICAgICAgICAgICBUbyA9IHRvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5DYXRlZ29yaWVzID0gZGF0YVsiY2F0ZWdvcmllcyJdICE9IG51bGwgPyBuZXcgU2VhcmNoQ2F0ZWdvcnkoZGF0YVsiY2F0ZWdvcmllcyJdIGFzIEpPYmplY3QpIDogbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjdGlvblN1YnR5cGU/OiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5DYXRlZ29yaWVzID0gZGF0YVsiY2F0ZWdvcmllcyJdPy5Ub09iamVjdDxzdHJpbmdbXT4oKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ImNhdGVnb3JpZXMiLCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50PyBUbyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
