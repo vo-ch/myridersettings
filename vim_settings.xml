@@ -143,6 +143,9 @@
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" timestamp="1534231444667">
+        <mark key="'" line="39" column="4" />
+      </file>
       <file name="C:/projects/UI-Web/Services/SitemapGenerator.cs" timestamp="1533630721614">
         <mark key="[" line="16" column="37" />
         <mark key="]" line="16" column="43" />
@@ -226,8 +229,10 @@
         <mark key="." line="23" column="75" />
         <mark key="^" line="23" column="75" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1534173522085">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1534231539953">
         <mark key="'" line="41" column="4" />
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="24" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/CourseSearch/CourseSearchActionPayload.cs" timestamp="1534176684335">
         <mark key="[" line="4" column="42" />
@@ -363,9 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
-      <jump line="164" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
-      <jump line="207" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="165" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="116" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
@@ -461,8 +463,11 @@
       <jump line="115" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="124" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="125" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
-      <jump line="41" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="61" column="45" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionPayload.cs" />
+      <jump line="8" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" />
+      <jump line="26" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" />
+      <jump line="39" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" />
+      <jump line="41" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -491,7 +496,7 @@
         <text encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ToUiActionPayload</text>
+        <text>setCategories</text>
       </register>
       <register name="1" type="4">
         <text>)
@@ -542,7 +547,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Similar Courses</entry>
         <entry encoding="base64">XDxvblNpbWlsYXJDb3Vyc2VDbGlja1w+</entry>
         <entry encoding="base64">XDxjb3Vyc2VzQnlJbnN0cnVjdG9yXD4=</entry>
         <entry encoding="base64">XDxvbkxvYWRBZGRpdGlvbmFsQ291cnNlc1N1Y2Nlc3NcPg==</entry>
@@ -561,6 +565,7 @@
         <entry encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxwcmltYXJ5Q2F0ZWdvcmllc1w+</entry>
         <entry>setCat</entry>
+        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</entry>
       </history-search>
       <history-cmd>
