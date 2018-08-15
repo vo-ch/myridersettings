@@ -98,8 +98,8 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534336011190">
-        <mark key="'" line="20" column="66" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534345564900">
+        <mark key="'" line="272" column="25" />
         <mark key="[" line="272" column="25" />
         <mark key="]" line="272" column="42" />
         <mark key="." line="274" column="0" />
@@ -118,12 +118,12 @@
         <mark key="." line="37" column="81" />
         <mark key="^" line="37" column="81" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" timestamp="1534329015530">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" timestamp="1534345968826">
         <mark key="'" line="20" column="111" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="47" />
-        <mark key="^" line="25" column="20" />
-        <mark key="." line="25" column="20" />
+        <mark key="[" line="25" column="71" />
+        <mark key="]" line="25" column="71" />
+        <mark key="^" line="25" column="33" />
+        <mark key="." line="25" column="74" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/instructor-card/InstructorCard.tsx" timestamp="1533824557696">
         <mark key="'" line="55" column="30" />
@@ -398,7 +398,7 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="127" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534344715713">
+      <file name="/Dummy.txt" timestamp="1534345972741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="23" />
         <mark key="^" line="1" column="23" />
@@ -525,7 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="73" column="16" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="92" column="40" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="93" column="38" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
@@ -625,6 +624,7 @@
       <jump line="19" column="68" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="20" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="16" column="8" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/User/IndexDefinitions/UserEmails/CommonProcessors/UserRegistered/UserRegisteredScript.painless" />
+      <jump line="272" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -651,7 +651,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sort-change</text>
+        <text>searchSorting</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZlw+</text>
