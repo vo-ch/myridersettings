@@ -92,12 +92,12 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534330317576">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534332549250">
         <mark key="'" line="149" column="60" />
-        <mark key="[" line="318" column="5" />
-        <mark key="]" line="331" column="0" />
-        <mark key="." line="331" column="0" />
-        <mark key="^" line="331" column="0" />
+        <mark key="[" line="322" column="35" />
+        <mark key="]" line="322" column="35" />
+        <mark key="." line="322" column="35" />
+        <mark key="^" line="325" column="64" />
       </file>
       <file name="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" timestamp="1533563421679">
         <mark key="'" line="8" column="27" />
@@ -400,7 +400,7 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="127" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534319960254">
+      <file name="/Dummy.txt" timestamp="1534332131760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/components/course-list/CourseList.tsx" timestamp="1534330220011">
@@ -637,7 +637,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Description</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTb3J0XD4=</text>
@@ -645,38 +645,41 @@
       <register name="0" type="4">
         <text>onCourseCardClick</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25seU9uZVRvcGljOiBpc09ubHlDbGlja2VkCg==</text>
+      <register name="1" type="4">
+        <text>{
+                primaryCategory: store.category,
+                primarySubcategory: store.subcategory
+            }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Im9ubHlPbmVUb3BpYyIsIGZhbHNlfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25seU9uZVRvcGljOiBpc09ubHlDbGlja2VkCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>store.setCategories</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Im9ubHlPbmVUb3BpYyIsIGZhbHNlfSwK</text>
       </register>
       <register name="s" type="4">
         <text>store.setCategories</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text>store.setCategories</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2VhcmNoQ2F0ZWdvcnkoSk9iamVjdCBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5JZCA9IGRhdGFbImlkIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5UaXRsZSA9IGRhdGFbInRpdGxlIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdTbWFsbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2VhcmNoQ2F0ZWdvcnkoSk9iamVjdCBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5JZCA9IGRhdGFbImlkIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5UaXRsZSA9IGRhdGFbInRpdGxlIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdNZWRpdW0nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdTbWFsbCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdMYXJnZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdNZWRpdW0nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
