@@ -59,6 +59,12 @@
         <mark key="^" line="14" column="64" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/User/IndexDefinitions/UserEmails/CommonProcessors/EmailSubscribed/EmailSubscribedScript.painless" timestamp="1534342036754">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="57" />
+        <mark key="^" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+      </file>
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseDetails/PlayCourseTrailerTest.cs" timestamp="1533741662402">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="34" column="24" />
@@ -392,7 +398,7 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="127" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534338262343">
+      <file name="/Dummy.txt" timestamp="1534342112954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/components/course-list/CourseList.tsx" timestamp="1534330220011">
@@ -483,6 +489,13 @@
         <mark key="^" line="33" column="78" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/IUiAction.ts" timestamp="1534172455590" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/User/IndexDefinitions/UserEmails/CommonProcessors/UserRegistered/UserRegisteredScript.painless" timestamp="1534341947111">
+        <mark key="'" line="16" column="8" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+      </file>
       <file name="/FindCourseHeader.tsx" timestamp="1534239655819">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="134" column="45" />
@@ -509,7 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="30" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="19" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="73" column="16" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="92" column="40" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
@@ -609,6 +621,7 @@
       <jump line="307" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="19" column="68" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="20" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="16" column="8" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/User/IndexDefinitions/UserEmails/CommonProcessors/UserRegistered/UserRegisteredScript.painless" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -622,11 +635,15 @@
       </register>
       <register name="k" type="4">
         <keys>
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
@@ -634,10 +651,10 @@
         <text>sort-change</text>
       </register>
       <register name="/" type="4">
-        <text>price</text>
+        <text encoding="base64">XDxpZlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdzb3J0LWNoYW5nZScgfAo=</text>
+      <register name="0" type="4">
+        <text>src.emailSubscribed</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb25seU9uZVRvcGljOiBpc09ubHlDbGlja2VkCg==</text>
@@ -680,9 +697,9 @@
       </register>
     </registers>
     <search>
-      <last-search>price</last-search>
+      <last-search encoding="base64">XDxpZlw+</last-search>
       <last-offset />
-      <last-pattern>price</last-pattern>
+      <last-pattern encoding="base64">XDxpZlw+</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>instructor</last-substitute>
       <last-dir>1</last-dir>
@@ -690,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmltYXJ5Q2F0ZWdvcmllc1w+</entry>
         <entry>class</entry>
         <entry>.search</entry>
         <entry>\.search</entry>
@@ -710,6 +726,7 @@
         <entry encoding="base64">XDx1cGxvYWRBdmF0YXJJbWFnZXNcPg==</entry>
         <entry encoding="base64">XDxyZXNldEVkaXRBdmF0YXJcPg==</entry>
         <entry>price</entry>
+        <entry encoding="base64">XDxpZlw+</entry>
       </history-search>
       <history-cmd>
         <entry>action AceLineAction</entry>
