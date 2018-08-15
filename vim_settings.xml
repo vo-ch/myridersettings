@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1534263363240">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="9" column="16" />
-        <mark key="^" line="9" column="16" />
+      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1534327990776">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="15" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" timestamp="1534242245062">
         <mark key="'" line="105" column="0" />
@@ -28,6 +28,11 @@
         <mark key="]" line="209" column="29" />
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1534328028892">
+        <mark key="'" line="53" column="4" />
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="42" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/PlayerActionsInitializer.cs" timestamp="1533721088967">
         <mark key="[" line="2" column="17" />
@@ -73,6 +78,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="/CourseDetailsNavigation.tsx" timestamp="1533733867310">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="84" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/show-more-section/ShowMoreSection.tsx" timestamp="1533655539807">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="87" column="36" />
@@ -87,11 +97,11 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534322258775">
-        <mark key="[" line="310" column="12" />
-        <mark key="]" line="310" column="23" />
-        <mark key="." line="310" column="25" />
-        <mark key="^" line="310" column="25" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534328019445">
+        <mark key="[" line="275" column="26" />
+        <mark key="]" line="275" column="46" />
+        <mark key="." line="275" column="46" />
+        <mark key="^" line="275" column="46" />
       </file>
       <file name="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" timestamp="1533563421679">
         <mark key="'" line="8" column="27" />
@@ -490,7 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="48" filename="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" />
       <jump line="355" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/IPageLoadAction.ts" />
       <jump line="11" column="62" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/InstructorProfileLoad/InstructorProfileLoadPayload.cs" />
@@ -590,6 +599,7 @@
       <jump line="51" column="37" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseSearch/CourseSearchActionTest.cs" />
       <jump line="94" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="52" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="53" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -612,55 +622,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Change selected related topics in course search page</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</text>
+        <text encoding="base64">XDxzZXRTb3J0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>onlyOneTopic</text>
+        <text>sort-change</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Im9ubHlPbmVUb3BpYyIsIGZhbHNlfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25seU9uZVRvcGljOiBpc09ubHlDbGlja2VkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>store.setCategories</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Im9ubHlPbmVUb3BpYyIsIGZhbHNlfSwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>store.setCategories</text>
       </register>
       <register name="s" type="4">
         <text>store.setCategories</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2VhcmNoQ2F0ZWdvcnkoSk9iamVjdCBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5JZCA9IGRhdGFbImlkIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5UaXRsZSA9IGRhdGFbInRpdGxlIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdTbWFsbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2VhcmNoQ2F0ZWdvcnkoSk9iamVjdCBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5JZCA9IGRhdGFbImlkIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5UaXRsZSA9IGRhdGFbInRpdGxlIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdNZWRpdW0nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdTbWFsbCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdMYXJnZScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdNZWRpdW0nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5DYXRlZ29yaWVzID0gZGF0YVsiY2F0ZWdvcmllcyJdICE9IG51bGwgPyBuZXcgU2VhcmNoQ2F0ZWdvcnkoZGF0YVsiY2F0ZWdvcmllcyJdIGFzIEpPYmplY3QpIDogbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdMYXJnZScK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</last-search>
+      <last-search encoding="base64">XDxzZXRTb3J0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRTb3J0XD4=</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>instructor</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +678,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXZlXD4=</entry>
         <entry encoding="base64">XDx1c2VyUHJvZmlsZVw+</entry>
         <entry>instructor</entry>
         <entry>User</entry>
@@ -688,6 +697,7 @@
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry encoding="base64">cHJpbWFyeUNhdGVnb3JpZXMgPSA=</entry>
         <entry encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</entry>
+        <entry encoding="base64">XDxzZXRTb3J0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action AceLineAction</entry>
