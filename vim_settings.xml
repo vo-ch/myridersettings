@@ -154,7 +154,7 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" timestamp="1534333699861">
+      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" timestamp="1534334792606">
         <mark key="'" line="69" column="4" />
         <mark key="[" line="25" column="29" />
         <mark key="]" line="26" column="3" />
@@ -436,12 +436,12 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" timestamp="1534334048422">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="288" column="4" />
-        <mark key="]" line="288" column="19" />
-        <mark key="." line="291" column="46" />
-        <mark key="^" line="291" column="46" />
+      <file name="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" timestamp="1534334962403">
+        <mark key="'" line="247" column="45" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="52" />
+        <mark key="^" line="248" column="51" />
+        <mark key="." line="255" column="0" />
       </file>
       <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1533573000607">
         <mark key="'" line="120" column="45" />
@@ -508,9 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="17" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/IProfileSectionAction.ts" />
-      <jump line="30" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
-      <jump line="54" column="31" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="96" column="7" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="131" column="42" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="144" column="38" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
@@ -604,10 +601,13 @@
       <jump line="63" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="89" column="20" filename="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" />
       <jump line="52" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
-      <jump line="69" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
-      <jump line="247" column="29" filename="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" />
       <jump line="32" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/ProfileSection.tsx" />
       <jump line="35" column="4" filename="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" />
+      <jump line="248" column="48" filename="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" />
+      <jump line="288" column="4" filename="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" />
+      <jump line="69" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
+      <jump line="247" column="45" filename="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" />
+      <jump line="293" column="4" filename="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -630,49 +630,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNldEVkaXRBdmF0YXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ1Byb2ZpbGVVcGRhdGUgPSAoKTogdm9pZCA9PiB7CiAgICAgICAgY29uc3QgeyBkYXRhQ29sbGVjdGlvblN0b3JlLCBwcm9maWxlIH0gPSB0aGlzLnByb3BzOwogICAgICAgIGRhdGFDb2xsZWN0aW9uU3RvcmUubG9nUmVjb3JkKCdwcm9maWxlLXNlY3Rpb24tYWN0aW9uJywgewogICAgICAgICAgICBhY3Rpb25UeXBlOiAndXBkYXRlLXByb2ZpbGUnLAogICAgICAgICAgICBkZXNjcmlwdGlvbjogJ1VwZGF0ZSB1c2VyIHByb2ZpbGUnLAogICAgICAgICAgICBwcm9maWxlOiBwcm9maWxlLmZvcm1EYXRhLAogICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubG9nUHJvZmlsZVVwZGF0ZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-                primaryCategory: store.category,
-                primarySubcategory: store.subcategory
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubG9nUHJvZmlsZVVwZGF0ZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25seU9uZVRvcGljOiBpc09ubHlDbGlja2VkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Im9ubHlPbmVUb3BpYyIsIGZhbHNlfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5sb2dQcm9maWxlVXBkYXRlKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>store.setCategories</text>
       </register>
       <register name="4" type="4">
-        <text>store.setCategories</text>
+        <text>{
+                primaryCategory: store.category,
+                primarySubcategory: store.subcategory
+            }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25seU9uZVRvcGljOiBpc09ubHlDbGlja2VkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Im9ubHlPbmVUb3BpYyIsIGZhbHNlfSwK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2VhcmNoQ2F0ZWdvcnkoSk9iamVjdCBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5JZCA9IGRhdGFbImlkIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5UaXRsZSA9IGRhdGFbInRpdGxlIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>store.setCategories</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdTbWFsbCcsCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICdNZWRpdW0nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
