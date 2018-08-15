@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1534328534636">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1534336035341">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" timestamp="1534242245062">
         <mark key="'" line="105" column="0" />
@@ -91,12 +91,12 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534333390870">
-        <mark key="'" line="149" column="60" />
-        <mark key="[" line="307" column="27" />
-        <mark key="]" line="307" column="28" />
-        <mark key="." line="307" column="27" />
-        <mark key="^" line="325" column="64" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534336011190">
+        <mark key="'" line="20" column="66" />
+        <mark key="[" line="272" column="25" />
+        <mark key="]" line="272" column="42" />
+        <mark key="." line="274" column="0" />
+        <mark key="^" line="273" column="52" />
       </file>
       <file name="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" timestamp="1533563421679">
         <mark key="'" line="8" column="27" />
@@ -154,11 +154,8 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" timestamp="1534334792606">
+      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" timestamp="1534335721354">
         <mark key="'" line="69" column="4" />
-        <mark key="[" line="25" column="29" />
-        <mark key="]" line="26" column="3" />
-        <mark key="." line="26" column="3" />
         <mark key="^" line="26" column="3" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/ProfileSectionActions/ProfileSectionActionPayload.cs" timestamp="1534166898120">
@@ -508,9 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="7" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
-      <jump line="131" column="42" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
-      <jump line="144" column="38" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="347" column="30" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="19" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="73" column="16" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
@@ -608,16 +602,19 @@
       <jump line="69" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="247" column="45" filename="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" />
       <jump line="293" column="4" filename="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" />
+      <jump line="307" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="19" column="68" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="20" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>logProfileUpdate</text>
+        <text>price-range-change</text>
       </register>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="*" type="4">
-        <text>logProfileUpdate</text>
+        <text>price-range-change</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -630,58 +627,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sort-change</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNldEVkaXRBdmF0YXJcPg==</text>
+        <text>price</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubG9nUHJvZmlsZVVwZGF0ZSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICdzb3J0LWNoYW5nZScgfAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubG9nUHJvZmlsZVVwZGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25seU9uZVRvcGljOiBpc09ubHlDbGlja2VkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMubG9nUHJvZmlsZVVwZGF0ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5sb2dQcm9maWxlVXBkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>store.setCategories</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5sb2dQcm9maWxlVXBkYXRlKCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
                 primaryCategory: store.category,
                 primarySubcategory: store.subcategory
             }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb25seU9uZVRvcGljOiBpc09ubHlDbGlja2VkCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Im9ubHlPbmVUb3BpYyIsIGZhbHNlfSwK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>store.setCategories</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNldEVkaXRBdmF0YXJcPg==</last-search>
+      <last-search>price</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNldEVkaXRBdmF0YXJcPg==</last-pattern>
+      <last-pattern>price</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>instructor</last-substitute>
       <last-dir>1</last-dir>
@@ -689,7 +686,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxwcmltYXJ5Q2F0ZWdvcmllc1w+</entry>
         <entry>class</entry>
         <entry>.search</entry>
@@ -709,6 +705,7 @@
         <entry>apply</entry>
         <entry encoding="base64">XDx1cGxvYWRBdmF0YXJJbWFnZXNcPg==</entry>
         <entry encoding="base64">XDxyZXNldEVkaXRBdmF0YXJcPg==</entry>
+        <entry>price</entry>
       </history-search>
       <history-cmd>
         <entry>action AceLineAction</entry>
