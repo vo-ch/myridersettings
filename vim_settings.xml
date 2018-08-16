@@ -416,12 +416,12 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" timestamp="1534421713590">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" timestamp="1534424330424">
         <mark key="'" line="175" column="28" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="^" line="241" column="72" />
-        <mark key="." line="262" column="0" />
+        <mark key="[" line="260" column="27" />
+        <mark key="]" line="260" column="28" />
+        <mark key="^" line="262" column="33" />
+        <mark key="." line="260" column="28" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/InstructorProfileLoad/InstructorProfileLoadPayload.cs" timestamp="1533904547931">
         <mark key="'" line="7" column="56" />
@@ -509,12 +509,12 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="35" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1534422105316">
-        <mark key="'" line="463" column="36" />
-        <mark key="[" line="464" column="41" />
-        <mark key="]" line="464" column="53" />
-        <mark key="." line="465" column="0" />
-        <mark key="^" line="464" column="74" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1534424384462">
+        <mark key="'" line="60" column="4" />
+        <mark key="[" line="61" column="24" />
+        <mark key="]" line="61" column="23" />
+        <mark key="." line="61" column="23" />
+        <mark key="^" line="61" column="23" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1534240805292">
         <mark key="[" line="12" column="28" />
@@ -578,7 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="130" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="155" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="69" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
@@ -676,8 +675,9 @@
       <jump line="461" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="455" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="175" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
-      <jump line="60" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="463" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="452" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="60" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -704,48 +704,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DropOffPlayerActionProcessor</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dBY3Rpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">SVByb2Nlc3NvcjxJRGF0YVJlY29yZDxJUGxheWVyQWN0aW9uc1BheWxvYWQ+Pg==</text>
+        <text encoding="base64">bG9nUGFnZUxvYWQoKTogdm9pZCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGNvdXJzZSB9ID0gcGxheWVyU3RvcmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>WatchedTimeUpdateAction</text>
       </register>
-      <register name="2" type="4">
-        <text>this._dropOffsProcessor.Process(convertedRecords);</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhQ29sbGVjdGlvblN0b3JlLmxvZ1BhZ2VMb2FkKCdjb3Vyc2UtcGxheWVyJywgewogICAgICAgICAgICBjb3Vyc2U6IGRhdGFDb2xsZWN0aW9uU3RvcmUuZXh0cmFjdEJhc2VMb2dDb3Vyc2VEYXRhKGNvdXJzZSkKICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSUxpc3Q8SURhdGFSZWNvcmQ8SVBsYXllckFjdGlvbnNQYXlsb2FkPj4gY29udmVydGVkUmVjb3JkcyA9IHJlY29yZHMKICAgICAgICAgICAgICAgIC5TZWxlY3QociA9PiByLkNvbnZlcnRQYXlsb2FkKHggPT4gbmV3IFBsYXllckFjdGlvbnNQYXlsb2FkKHgpIGFzIElQbGF5ZXJBY3Rpb25zUGF5bG9hZCkpLlRvTGlzdCgpOwoKICAgICAgICAgICAgcmV0dXJuIHRoaXMuX2Ryb3BPZmZzUHJvY2Vzc29yLlByb2Nlc3MoY29udmVydGVkUmVjb3Jkcyk7Cg==</text>
       </register>
       <register name="4" type="4">
+        <text>this._dropOffsProcessor.Process(convertedRecords);</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>{
             course: dataCollectionStore.extractBaseLogCourseData(this.course)
         }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{}</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>dataCollectionStore</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhQ29sbGVjdGlvblN0b3JlLmxvZ1BhZ2VMb2FkKCdjb3Vyc2UtcGxheWVyJywgewogICAgICAgICAgICBjb3Vyc2U6IGRhdGFDb2xsZWN0aW9uU3RvcmUuZXh0cmFjdEJhc2VMb2dDb3Vyc2VEYXRhKGNvdXJzZSkKICAgICAgICB9KTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhQ29sbGVjdGlvblN0b3JlLmxvZ1BhZ2VMb2FkKCdjb3Vyc2UtcGxheWVyJywgewogICAgICAgICAgICBjb3Vyc2U6IGRhdGFDb2xsZWN0aW9uU3RvcmUuZXh0cmFjdEJhc2VMb2dDb3Vyc2VEYXRhKGNvdXJzZSkKICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
