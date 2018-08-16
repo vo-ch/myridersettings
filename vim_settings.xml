@@ -55,11 +55,6 @@
         <mark key="^" line="115" column="25" />
         <mark key="." line="115" column="25" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiSimpleActionsPayloads.cs" timestamp="1534249720100">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" timestamp="1533724265952">
         <mark key="'" line="32" column="36" />
         <mark key="[" line="76" column="5" />
@@ -133,16 +128,17 @@
         <mark key="." line="8" column="80" />
         <mark key="^" line="10" column="53" />
       </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/WatchedTimeUpdateAction/WatchedTimeUpdateActionProcessor.cs" timestamp="1534422804774">
+        <mark key="[" line="14" column="72" />
+        <mark key="]" line="14" column="70" />
+        <mark key="." line="14" column="70" />
+        <mark key="^" line="14" column="70" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/User/AuthActionPayload.cs" timestamp="1534416511304">
         <mark key="[" line="15" column="66" />
         <mark key="]" line="15" column="80" />
         <mark key="^" line="15" column="80" />
         <mark key="." line="15" column="80" />
-      </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/LogsList.cs" timestamp="1534236118905">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" timestamp="1534407185111">
         <mark key="'" line="38" column="0" />
@@ -157,9 +153,9 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/CourseRelease/IndexDefinitions/DropOffs/CommonProcessors/PlayerAction/DropOffPlayerActionProcessor.cs" timestamp="1534421040279">
-        <mark key="[" line="13" column="58" />
-        <mark key="]" line="13" column="66" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/CourseRelease/IndexDefinitions/DropOffs/CommonProcessors/PlayerAction/DropOffPlayerActionProcessor.cs" timestamp="1534422419157">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="70" />
         <mark key="." line="13" column="66" />
         <mark key="^" line="13" column="66" />
       </file>
@@ -280,11 +276,6 @@
         <mark key="^" line="248" column="51" />
         <mark key="." line="255" column="0" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.UserProgressApi/Auth.UserProgressApi.csproj" timestamp="1534350443583">
-        <mark key="[" line="20" column="62" />
-        <mark key="]" line="20" column="63" />
-        <mark key="." line="20" column="63" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1534240744575">
         <mark key="[" line="140" column="27" />
         <mark key="]" line="141" column="3" />
@@ -310,6 +301,12 @@
         <mark key="]" line="4" column="60" />
         <mark key="." line="4" column="60" />
         <mark key="^" line="4" column="60" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/CoursePlayerLoad/CoursePlayerLoadProcessor.cs" timestamp="1534422771597">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="70" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1534336035341">
         <mark key="[" line="21" column="5" />
@@ -406,6 +403,12 @@
         <mark key="]" line="2" column="96" />
         <mark key="." line="2" column="96" />
         <mark key="^" line="2" column="96" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/CloseCourseAction/CloseCourseActionProcessor.cs" timestamp="1534422779832">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="70" />
+        <mark key="." line="14" column="70" />
+        <mark key="^" line="14" column="70" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/PlayerActionsIndex.cs" timestamp="1534234892339">
         <mark key="[" line="4" column="17" />
@@ -677,14 +680,14 @@
       <jump line="463" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhQ29sbGVjdGlvblN0b3JlLmxvZ1BhZ2VMb2FkKCdjb3Vyc2UtcGxheWVyJywgewogICAgICAgICAgICBjb3Vyc2U6IGRhdGFDb2xsZWN0aW9uU3RvcmUuZXh0cmFjdEJhc2VMb2dDb3Vyc2VEYXRhKGNvdXJzZSkKICAgICAgICB9KTsK</text>
+      <register name="a" type="4">
+        <text>this._dropOffsProcessor.Process(convertedRecords);</text>
       </register>
       <register name="&quot;" type="4">
         <text />
       </register>
       <register name="*" type="4">
-        <text>{}</text>
+        <text>this._dropOffsProcessor.Process(convertedRecords);</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -701,48 +704,48 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dataCollectionStore</text>
+        <text>DropOffPlayerActionProcessor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dBY3Rpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>course-player</text>
+        <text encoding="base64">SVByb2Nlc3NvcjxJRGF0YVJlY29yZDxJUGxheWVyQWN0aW9uc1BheWxvYWQ+Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <text>WatchedTimeUpdateAction</text>
       </register>
       <register name="2" type="4">
+        <text>this._dropOffsProcessor.Process(convertedRecords);</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSUxpc3Q8SURhdGFSZWNvcmQ8SVBsYXllckFjdGlvbnNQYXlsb2FkPj4gY29udmVydGVkUmVjb3JkcyA9IHJlY29yZHMKICAgICAgICAgICAgICAgIC5TZWxlY3QociA9PiByLkNvbnZlcnRQYXlsb2FkKHggPT4gbmV3IFBsYXllckFjdGlvbnNQYXlsb2FkKHgpIGFzIElQbGF5ZXJBY3Rpb25zUGF5bG9hZCkpLlRvTGlzdCgpOwoKICAgICAgICAgICAgcmV0dXJuIHRoaXMuX2Ryb3BPZmZzUHJvY2Vzc29yLlByb2Nlc3MoY29udmVydGVkUmVjb3Jkcyk7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>{
             course: dataCollectionStore.extractBaseLogCourseData(this.course)
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>{}</text>
       </register>
-      <register name="s" type="4">
-        <text>store.setCategories</text>
-      </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>dataCollectionStore</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhQ29sbGVjdGlvblN0b3JlLmxvZ1BhZ2VMb2FkKCdjb3Vyc2UtcGxheWVyJywgewogICAgICAgICAgICBjb3Vyc2U6IGRhdGFDb2xsZWN0aW9uU3RvcmUuZXh0cmFjdEJhc2VMb2dDb3Vyc2VEYXRhKGNvdXJzZSkKICAgICAgICB9KTsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhQ29sbGVjdGlvblN0b3JlLmxvZ1BhZ2VMb2FkKCdjb3Vyc2UtcGxheWVyJywgewogICAgICAgICAgICBjb3Vyc2U6IGRhdGFDb2xsZWN0aW9uU3RvcmUuZXh0cmFjdEJhc2VMb2dDb3Vyc2VEYXRhKGNvdXJzZSkKICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkYXRhQ29sbGVjdGlvblN0b3JlLmxvZ1BhZ2VMb2FkKCdjb3Vyc2UtcGxheWVyJywgewogICAgICAgICAgICBjb3Vyc2U6IGRhdGFDb2xsZWN0aW9uU3RvcmUuZXh0cmFjdEJhc2VMb2dDb3Vyc2VEYXRhKGNvdXJzZSkKICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhQ29sbGVjdGlvblN0b3JlLmxvZ1BhZ2VMb2FkKCdjb3Vyc2UtcGxheWVyJywgewogICAgICAgICAgICBjb3Vyc2U6IGRhdGFDb2xsZWN0aW9uU3RvcmUuZXh0cmFjdEJhc2VMb2dDb3Vyc2VEYXRhKGNvdXJzZSkK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhQ29sbGVjdGlvblN0b3JlLmxvZ1BhZ2VMb2FkKCdjb3Vyc2UtcGxheWVyJywgewogICAgICAgICAgICBjb3Vyc2U6IGRhdGFDb2xsZWN0aW9uU3RvcmUuZXh0cmFjdEJhc2VMb2dDb3Vyc2VEYXRhKGNvdXJzZSkKICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
