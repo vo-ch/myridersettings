@@ -323,10 +323,10 @@
         <mark key="^" line="33" column="78" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/IUiAction.ts" timestamp="1534498199320">
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="39" column="28" />
-        <mark key="." line="39" column="28" />
-        <mark key="^" line="39" column="48" />
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="48" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/User/IndexDefinitions/UserEmails/CommonProcessors/UserRegistered/UserRegisteredScript.painless" timestamp="1534341947111">
         <mark key="'" line="16" column="8" />
@@ -576,11 +576,11 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="135" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534508587006">
+      <file name="/Dummy.txt" timestamp="1534511065475">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="78" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
+        <mark key="^" line="0" column="41" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/components/course-list/CourseList.tsx" timestamp="1534330220011">
         <mark key="[" line="10" column="4" />
@@ -666,6 +666,13 @@
         <mark key="." line="19" column="120" />
         <mark key="^" line="19" column="120" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/become-an-instructor/BecomeInstructorPage.tsx" timestamp="1534510846903">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="186" column="33" />
+        <mark key="]" line="186" column="45" />
+        <mark key="." line="186" column="45" />
+        <mark key="^" line="186" column="45" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/course-list-column/CourseListColumn.tsx" timestamp="1533815685290">
         <mark key="'" line="35" column="31" />
         <mark key="[" line="8" column="17" />
@@ -675,7 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
       <jump line="57" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
       <jump line="52" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
       <jump line="42" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
@@ -775,6 +781,7 @@
       <jump line="63" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
       <jump line="277" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
       <jump line="301" column="56" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/become-an-instructor/BecomeInstructorPage.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -790,10 +797,10 @@
         <text>jbbh.</text>
       </register>
       <register name="-" type="4">
-        <text>add answer toggle action</text>
+        <text>onClick</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkJlZm9yZVBhZ2VVbmxvYWRcPg==</text>
+        <text>build a c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qCiAgICAgKiBMb2cgcGFnZSBsb2FkaW5nCiAgICAgKi8K</text>
@@ -805,40 +812,40 @@
         <text>WatchedTimeUpdateAction</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zml4IGZvciBDVS00Mzk2IFRyYWNrICJTdWJjYXRlZ29yeSBQYWdlIC0gQWxsIENvdXJzZXMgdGFiIC0gU2VsZWN0IENvdXJzZSBjYXJkIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZ2V0UGxheWVyUmVmID0gcGxheWVyID0+IHRoaXMucGxheWVyID0gcGxheWVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSUxpc3Q8SURhdGFSZWNvcmQ8SVBsYXllckFjdGlvbnNQYXlsb2FkPj4gY29udmVydGVkUmVjb3JkcyA9IHJlY29yZHMKICAgICAgICAgICAgICAgIC5TZWxlY3QociA9PiByLkNvbnZlcnRQYXlsb2FkKHggPT4gbmV3IFBsYXllckFjdGlvbnNQYXlsb2FkKHgpIGFzIElQbGF5ZXJBY3Rpb25zUGF5bG9hZCkpLlRvTGlzdCgpOwoKICAgICAgICAgICAgcmV0dXJuIHRoaXMuX2Ryb3BPZmZzUHJvY2Vzc29yLlByb2Nlc3MoY29udmVydGVkUmVjb3Jkcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZ2V0UGxheWVyUmVmID0gcGxheWVyID0+IHRoaXMucGxheWVyID0gcGxheWVyOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKgogICAgICogRXhpdCBjb3Vyc2UgaGFuZGxlciBiZWZvcmUgdW5sb2FkaW5nIHBhZ2UKICAgICAqLwogICAgcHJpdmF0ZSBvbkJlZm9yZVBhZ2VVbmxvYWQgPSAoZXZlbnQ6IEV2ZW50KSA9PiB7CiAgICAgICAgdGhpcy5leGl0Q291cnNlKCk7CiAgICB9OwoKCiAgICAvKgogICAgICogTG9nIHBhZ2UgbG9hZGluZwogICAgICovCiAgICBwcml2YXRlIGxvZ1BhZ2VMb2FkID0gKCk6IHZvaWQgPT4gewogICAgICAgIGNvbnN0IHsgcGxheWVyU3RvcmUgfSA9IHRoaXMucHJvcHM7CiAgICAgICAgY29uc3QgeyBjb3Vyc2UgfSA9IHBsYXllclN0b3JlOwogICAgICAgIHRoaXMucHJvcHMuZGF0YUNvbGxlY3Rpb25TdG9yZS5sb2dQYWdlTG9hZCgnY291cnNlLXBsYXllcicsIHsgY291cnNlIH0pOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiBVbm1vdW50IGNvdXJzZSBwbGF5ZXIKICAgICAqLwo=</text>
+        <text encoding="base64">CiAgICAvKgogICAgICogRXhpdCBjb3Vyc2UgaGFuZGxlciBiZWZvcmUgdW5sb2FkaW5nIHBhZ2UKICAgICAqLwogICAgcHJpdmF0ZSBvbkJlZm9yZVBhZ2VVbmxvYWQgPSAoZXZlbnQ6IEV2ZW50KSA9PiB7CiAgICAgICAgdGhpcy5leGl0Q291cnNlKCk7CiAgICB9OwoKCiAgICAvKgogICAgICogTG9nIHBhZ2UgbG9hZGluZwogICAgICovCiAgICBwcml2YXRlIGxvZ1BhZ2VMb2FkID0gKCk6IHZvaWQgPT4gewogICAgICAgIGNvbnN0IHsgcGxheWVyU3RvcmUgfSA9IHRoaXMucHJvcHM7CiAgICAgICAgY29uc3QgeyBjb3Vyc2UgfSA9IHBsYXllclN0b3JlOwogICAgICAgIHRoaXMucHJvcHMuZGF0YUNvbGxlY3Rpb25TdG9yZS5sb2dQYWdlTG9hZCgnY291cnNlLXBsYXllcicsIHsgY291cnNlIH0pOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBVbm1vdW50IGNvdXJzZSBwbGF5ZXIKICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zml4IENVLTQxMTUgVHJhY2sgImxlc3NvbiBkcm9wLW9mZiIKQWRkIHRvIHRyYWNraW5nOgoxKSB0cmFjayBieSByZWxlYXNlSUQKMikgcXVpeiBhY3Rpb25zCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceLineAction</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkJlZm9yZVBhZ2VVbmxvYWRcPg==</last-search>
+      <last-search>build a c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkJlZm9yZVBhZ2VVbmxvYWRcPg==</last-pattern>
+      <last-pattern>build a c</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>instructor</last-substitute>
       <last-dir>1</last-dir>
@@ -846,8 +853,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
-        <entry encoding="base64">cHJpbWFyeUNhdGVnb3JpZXMgPSA=</entry>
         <entry encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</entry>
         <entry>setSor</entry>
         <entry encoding="base64">XDxzZXRTb3J0XD4=</entry>
@@ -866,6 +871,8 @@
         <entry>quiz-next-slide</entry>
         <entry>class</entry>
         <entry encoding="base64">XDxvbkJlZm9yZVBhZ2VVbmxvYWRcPg==</entry>
+        <entry>build cou</entry>
+        <entry>build a c</entry>
       </history-search>
       <history-cmd>
         <entry>marks</entry>
