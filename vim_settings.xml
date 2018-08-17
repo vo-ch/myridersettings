@@ -480,11 +480,9 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" timestamp="1534501201126">
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="299" column="7" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" timestamp="1534505669309">
+        <mark key="'" line="288" column="56" />
         <mark key="^" line="34" column="0" />
-        <mark key="." line="297" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/InstructorProfileLoad/InstructorProfileLoadPayload.cs" timestamp="1533904547931">
         <mark key="'" line="7" column="56" />
@@ -676,9 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
-      <jump line="58" column="14" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
-      <jump line="88" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
       <jump line="61" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
       <jump line="57" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
       <jump line="52" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
@@ -776,6 +771,9 @@
       <jump line="225" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/AllTab.tsx" />
       <jump line="1" column="2" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ui-actions/IUiCategoryCourseActionData.ts" />
       <jump line="9" column="0" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/Payloads/UiCategoryCourseActionData.cs" />
+      <jump line="63" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
+      <jump line="277" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
+      <jump line="301" column="56" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -794,60 +792,59 @@
         <text>add answer toggle action</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text encoding="base64">XDxvbkJlZm9yZVBhZ2VVbmxvYWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zml4IGZvciBDVS00Mzk2IFRyYWNrICJTdWJjYXRlZ29yeSBQYWdlIC0gQWxsIENvdXJzZXMgdGFiIC0gU2VsZWN0IENvdXJzZSBjYXJkIgo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBMb2cgcGFnZSBsb2FkaW5nCiAgICAgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiBVbm1vdW50IGNvdXJzZSBwbGF5ZXIKICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>WatchedTimeUpdateAction</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZ2V0UGxheWVyUmVmID0gcGxheWVyID0+IHRoaXMucGxheWVyID0gcGxheWVyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zml4IENVLTQxMTUgVHJhY2sgImxlc3NvbiBkcm9wLW9mZiIKQWRkIHRvIHRyYWNraW5nOgoxKSB0cmFjayBieSByZWxlYXNlSUQKMikgcXVpeiBhY3Rpb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSUxpc3Q8SURhdGFSZWNvcmQ8SVBsYXllckFjdGlvbnNQYXlsb2FkPj4gY29udmVydGVkUmVjb3JkcyA9IHJlY29yZHMKICAgICAgICAgICAgICAgIC5TZWxlY3QociA9PiByLkNvbnZlcnRQYXlsb2FkKHggPT4gbmV3IFBsYXllckFjdGlvbnNQYXlsb2FkKHgpIGFzIElQbGF5ZXJBY3Rpb25zUGF5bG9hZCkpLlRvTGlzdCgpOwoKICAgICAgICAgICAgcmV0dXJuIHRoaXMuX2Ryb3BPZmZzUHJvY2Vzc29yLlByb2Nlc3MoY29udmVydGVkUmVjb3Jkcyk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW1hcnlDYXRlZ29yeTogc3RvcmUuY2F0ZWdvcnksCiAgICAgICAgICAgICAgICBwcmltYXJ5U3ViY2F0ZWdvcnk6IHN0b3JlLnN1YmNhdGVnb3J5Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ291cnNlUmVjb3JkIENvdXJzZSB7IGdldDsgc2V0OyB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5QcmltYXJ5Q2F0ZWdvcnkgPSBuZXcgQ291cnNlQ2F0ZWdvcnlSZWNvcmQoZGF0YVsicHJpbWFyeUNhdGVnb3J5Il0gYXMgSk9iamVjdCk7CiAgICAgICAgICAgIHRoaXMuU2Vjb25kYXJ5Q2F0ZWdvcnkgPSBuZXcgQ291cnNlQ2F0ZWdvcnlSZWNvcmQoZGF0YVsic2Vjb25kYXJ5Q2F0ZWdvcnkiXSBhcyBKT2JqZWN0KTsKICAgICAgICAgICAgdGhpcy5QcmltYXJ5U3ViQ2F0ZWdvcnkgPSBuZXcgQ291cnNlQ2F0ZWdvcnlSZWNvcmQoZGF0YVsicHJpbWFyeVN1YmNhdGVnb3J5Il0gYXMgSk9iamVjdCk7CiAgICAgICAgICAgIHRoaXMuU2Vjb25kYXJ5U3ViQ2F0ZWdvcnkgPSBuZXcgQ291cnNlQ2F0ZWdvcnlSZWNvcmQoZGF0YVsic2Vjb25kYXJ5U3ViY2F0ZWdvcnkiXSBhcyBKT2JqZWN0KTsK</text>
-      </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAvKgogICAgICogRXhpdCBjb3Vyc2UgaGFuZGxlciBiZWZvcmUgdW5sb2FkaW5nIHBhZ2UKICAgICAqLwogICAgcHJpdmF0ZSBvbkJlZm9yZVBhZ2VVbmxvYWQgPSAoZXZlbnQ6IEV2ZW50KSA9PiB7CiAgICAgICAgdGhpcy5leGl0Q291cnNlKCk7CiAgICB9OwoKCiAgICAvKgogICAgICogTG9nIHBhZ2UgbG9hZGluZwogICAgICovCiAgICBwcml2YXRlIGxvZ1BhZ2VMb2FkID0gKCk6IHZvaWQgPT4gewogICAgICAgIGNvbnN0IHsgcGxheWVyU3RvcmUgfSA9IHRoaXMucHJvcHM7CiAgICAgICAgY29uc3QgeyBjb3Vyc2UgfSA9IHBsYXllclN0b3JlOwogICAgICAgIHRoaXMucHJvcHMuZGF0YUNvbGxlY3Rpb25TdG9yZS5sb2dQYWdlTG9hZCgnY291cnNlLXBsYXllcicsIHsgY291cnNlIH0pOwogICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBVbm1vdW50IGNvdXJzZSBwbGF5ZXIKICAgICAqLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqLwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Zml4IENVLTQxMTUgVHJhY2sgImxlc3NvbiBkcm9wLW9mZiIKQWRkIHRvIHRyYWNraW5nOgoxKSB0cmFjayBieSByZWxlYXNlSUQKMikgcXVpeiBhY3Rpb25zCg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action AceLineAction</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search encoding="base64">XDxvbkJlZm9yZVBhZ2VVbmxvYWRcPg==</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
+      <last-pattern encoding="base64">XDxvbkJlZm9yZVBhZ2VVbmxvYWRcPg==</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>instructor</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setCat</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry encoding="base64">cHJpbWFyeUNhdGVnb3JpZXMgPSA=</entry>
         <entry encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</entry>
@@ -867,9 +864,9 @@
         <entry>nextSl</entry>
         <entry>quiz-next-slide</entry>
         <entry>class</entry>
+        <entry encoding="base64">XDxvbkJlZm9yZVBhZ2VVbmxvYWRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceLineAction</entry>
         <entry>marks</entry>
         <entry>h ls</entry>
         <entry>jumps</entry>
@@ -884,11 +881,12 @@
         <entry>actionlist</entry>
         <entry>action Re</entry>
         <entry>action AceTargetAction</entry>
-        <entry>action AceAction</entry>
         <entry>s/instructor/profile</entry>
         <entry>s/instructor/profile/g</entry>
         <entry>noh</entry>
         <entry>reg</entry>
+        <entry>action AceAction</entry>
+        <entry>action AceLineAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
