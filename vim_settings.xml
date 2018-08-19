@@ -380,11 +380,11 @@
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1534689260498">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1534699565352">
         <mark key="'" line="212" column="36" />
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="25" />
-        <mark key="." line="65" column="25" />
+        <mark key="[" line="63" column="44" />
+        <mark key="]" line="63" column="45" />
+        <mark key="." line="63" column="45" />
         <mark key="^" line="65" column="25" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/EntitiesList.cs" timestamp="1534261306593">
@@ -594,7 +594,7 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="135" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534620009058">
+      <file name="/Dummy.txt" timestamp="1534699159382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
@@ -857,7 +857,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZ2V0UGxheWVyUmVmID0gcGxheWVyID0+IHRoaXMucGxheWVyID0gcGxheWVyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>actionlist comment</text>
       </register>
     </registers>
     <search>
@@ -893,11 +893,6 @@
         <entry>IPaging</entry>
       </history-search>
       <history-cmd>
-        <entry>let @a=@0</entry>
-        <entry>let @2=@0</entry>
-        <entry>let @a=@*</entry>
-        <entry>let @a=@+</entry>
-        <entry>s/insructor/instructor/g</entry>
         <entry>nog</entry>
         <entry>actionList</entry>
         <entry>action Re</entry>
@@ -913,6 +908,11 @@
         <entry>actionlist</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
+        <entry>actionlist renamw</entry>
+        <entry>actionlist rename</entry>
+        <entry>action RenameElement</entry>
+        <entry>comment</entry>
+        <entry>actionlist comment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
