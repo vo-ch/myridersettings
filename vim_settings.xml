@@ -380,8 +380,8 @@
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1534620082943">
-        <mark key="'" line="54" column="4" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1534689260498">
+        <mark key="'" line="212" column="36" />
         <mark key="[" line="65" column="16" />
         <mark key="]" line="65" column="25" />
         <mark key="." line="65" column="25" />
@@ -700,7 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="256" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="261" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="262" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -800,6 +799,7 @@
       <jump line="27" column="0" filename="C:/projects/UI-Web/ClientApp/utils/http/json-api/JsonApiSerializer.ts" />
       <jump line="9" column="31" filename="C:/projects/UI-Web/ClientApp/utils/http/json-api/JsonApiSerializer.ts" />
       <jump line="26" column="4" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsPayload.cs" />
+      <jump line="212" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -857,7 +857,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZ2V0UGxheWVyUmVmID0gcGxheWVyID0+IHRoaXMucGxheWVyID0gcGxheWVyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -893,8 +893,6 @@
         <entry>IPaging</entry>
       </history-search>
       <history-cmd>
-        <entry>jumps</entry>
-        <entry>let @a=@&quot;</entry>
         <entry>let @a=@0</entry>
         <entry>let @2=@0</entry>
         <entry>let @a=@*</entry>
@@ -913,6 +911,8 @@
         <entry>action AceAction</entry>
         <entry>action AceLineAction</entry>
         <entry>actionlist</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
