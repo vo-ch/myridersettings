@@ -380,8 +380,8 @@
         <mark key="." line="209" column="29" />
         <mark key="^" line="209" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1534704329619">
-        <mark key="'" line="86" column="8" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1534704983623">
+        <mark key="'" line="146" column="19" />
         <mark key="[" line="83" column="8" />
         <mark key="]" line="83" column="5" />
         <mark key="." line="83" column="5" />
@@ -594,7 +594,7 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="135" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534699159382">
+      <file name="/Dummy.txt" timestamp="1534704994203">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
@@ -700,8 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="274" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="279" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="280" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="283" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -800,6 +798,8 @@
       <jump line="85" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="87" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="86" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
+      <jump line="73" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
+      <jump line="146" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -818,7 +818,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>IPaging</text>
+        <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="4">
         <text>SearchPaging</text>
@@ -857,21 +857,20 @@
         <text encoding="base64">Zml4IGZvciBDVS00Mzk2IFRyYWNrICJTdWJjYXRlZ29yeSBQYWdlIC0gQWxsIENvdXJzZXMgdGFiIC0gU2VsZWN0IENvdXJzZSBjYXJkIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search>IPaging</last-search>
+      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern>IPaging</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>gi</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dBY3Rpb25cPg==</entry>
         <entry>render</entry>
         <entry>nextSl</entry>
         <entry>quiz-next-slide</entry>
@@ -891,9 +890,9 @@
         <entry encoding="base64">XDxJSnNvbkFwaVNlcnZpY2VcPg==</entry>
         <entry>IJsonApiService</entry>
         <entry>IPaging</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>s/instructor/profile</entry>
         <entry>s/instructor/profile/g</entry>
         <entry>noh</entry>
         <entry>reg</entry>
@@ -907,12 +906,13 @@
         <entry>actionlist renamw</entry>
         <entry>actionlist rename</entry>
         <entry>comment</entry>
-        <entry>action RenameElement</entry>
-        <entry>action CommentByBlockComment</entry>
         <entry>actionlist comment</entry>
         <entry>.,.+11action CommentByLineComment</entry>
-        <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByBlockComment</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
