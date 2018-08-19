@@ -857,7 +857,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZ2V0UGxheWVyUmVmID0gcGxheWVyID0+IHRoaXMucGxheWVyID0gcGxheWVyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceLineAction</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
@@ -910,9 +910,9 @@
         <entry>reg</entry>
         <entry>actions</entry>
         <entry>action</entry>
-        <entry>actionlist</entry>
         <entry>action AceAction</entry>
         <entry>action AceLineAction</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
