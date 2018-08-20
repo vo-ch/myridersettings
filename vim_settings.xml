@@ -598,7 +598,7 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="135" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534754325247">
+      <file name="/Dummy.txt" timestamp="1534758552941">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
@@ -861,7 +861,7 @@
         <text encoding="base64">Zml4IGZvciBDVS00Mzk2IFRyYWNrICJTdWJjYXRlZ29yeSBQYWdlIC0gQWxsIENvdXJzZXMgdGFiIC0gU2VsZWN0IENvdXJzZSBjYXJkIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>actionlist Error</text>
       </register>
     </registers>
     <search>
@@ -897,14 +897,9 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>s/instructor/profile/g</entry>
-        <entry>noh</entry>
-        <entry>reg</entry>
-        <entry>actions</entry>
         <entry>action</entry>
         <entry>action AceAction</entry>
         <entry>action AceLineAction</entry>
-        <entry>actionlist</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
         <entry>actionlist renamw</entry>
@@ -917,6 +912,11 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action RenameElement</entry>
+        <entry>actionslist tooltip</entry>
+        <entry>actionslist</entry>
+        <entry>actionlist error</entry>
+        <entry>actionlist</entry>
+        <entry>actionlist Error</entry>
       </history-cmd>
       <history-expr />
       <history-input />

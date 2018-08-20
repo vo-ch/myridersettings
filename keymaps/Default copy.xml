@@ -4,13 +4,18 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="RiderUnitTestQuickListPopupAction" />
-  <action id="ShowErrorDescription">
-    <keyboard-shortcut first-keystroke="ctrl f1" />
-    <keyboard-shortcut first-keystroke="alt k" />
-  </action>
+  <action id="SelectNextOccurrence" />
   <action id="ShowUmlDiagramPopup" />
 </keymap>
