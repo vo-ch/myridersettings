@@ -273,8 +273,8 @@
       <file name="C:/projects/UI-Web/node_modules/ts-jsonapi/lib/src/serializer.d.ts" timestamp="1534517711123">
         <mark key="'" line="11" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1534420542436">
-        <mark key="'" line="38" column="24" />
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1534748337041">
+        <mark key="'" line="114" column="16" />
         <mark key="[" line="38" column="30" />
         <mark key="]" line="38" column="31" />
         <mark key="." line="38" column="31" />
@@ -471,6 +471,10 @@
         <mark key="]" line="16" column="43" />
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="43" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/appsettings.json" timestamp="1534748579941">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="61" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/course-cards/CourseCardResp.tsx" timestamp="1533815475449">
         <mark key="[" line="47" column="15" />
@@ -700,7 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="280" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="283" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="285" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -800,6 +803,7 @@
       <jump line="86" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="73" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="146" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
+      <jump line="114" column="16" filename="C:/projects/UI-Web/appsettings.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -821,7 +825,7 @@
         <text encoding="base64">XDxkYXRhXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>SearchPaging</text>
+        <text>https://test-cloudlog.cyberu.io:9200&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBvYnNlcnZhYmxlIGZlYXR1cmVkQ291cnNlczogSUNvdXJzZVtdOwo=</text>
@@ -867,7 +871,7 @@
       <last-replace>profile</last-replace>
       <last-substitute>gi</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
