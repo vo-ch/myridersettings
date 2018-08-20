@@ -367,8 +367,8 @@
         <mark key="^" line="35" column="48" />
         <mark key="." line="35" column="48" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1534515897372">
-        <mark key="'" line="4" column="4" />
+      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1534761257667">
+        <mark key="'" line="19" column="7" />
         <mark key="[" line="23" column="5" />
         <mark key="]" line="23" column="19" />
         <mark key="." line="23" column="19" />
@@ -400,8 +400,8 @@
         <mark key="^" line="87" column="36" />
         <mark key="." line="87" column="36" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534760069417">
-        <mark key="'" line="338" column="25" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534760449667">
+        <mark key="'" line="339" column="28" />
         <mark key="[" line="339" column="25" />
         <mark key="]" line="339" column="39" />
         <mark key="." line="340" column="50" />
@@ -704,9 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" />
-      <jump line="608" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="612" column="59" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="22" column="39" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessors.cs" />
       <jump line="436" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="55" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -801,9 +798,12 @@
       <jump line="287" column="72" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="290" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="278" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
-      <jump line="338" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="54" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
-      <jump line="208" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="338" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="208" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="339" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="23" column="4" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
+      <jump line="19" column="7" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -861,7 +861,7 @@
         <text encoding="base64">Zml4IGZvciBDVS00Mzk2IFRyYWNrICJTdWJjYXRlZ29yeSBQYWdlIC0gQWxsIENvdXJzZXMgdGFiIC0gU2VsZWN0IENvdXJzZSBjYXJkIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -915,8 +915,8 @@
         <entry>actionlist</entry>
         <entry>actionlist Error</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
