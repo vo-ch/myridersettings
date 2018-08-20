@@ -367,12 +367,12 @@
         <mark key="^" line="35" column="48" />
         <mark key="." line="35" column="48" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1534761257667">
+      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1534764466077">
         <mark key="'" line="19" column="7" />
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="23" column="19" />
-        <mark key="^" line="23" column="19" />
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="29" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1533287086437">
         <mark key="[" line="209" column="30" />
@@ -400,14 +400,14 @@
         <mark key="^" line="87" column="36" />
         <mark key="." line="87" column="36" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534760449667">
-        <mark key="'" line="339" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534764636776">
+        <mark key="'" line="340" column="28" />
         <mark key="[" line="339" column="25" />
         <mark key="]" line="339" column="39" />
         <mark key="." line="340" column="50" />
         <mark key="^" line="340" column="50" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" timestamp="1534519935294">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" timestamp="1534764894796">
         <mark key="'" line="26" column="51" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="48" />
@@ -704,7 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="39" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessors.cs" />
       <jump line="436" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="55" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="614" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -804,6 +803,7 @@
       <jump line="339" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="23" column="4" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
       <jump line="19" column="7" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
+      <jump line="340" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -819,7 +819,7 @@
         <text>jbbh.</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>val</text>
@@ -861,7 +861,7 @@
         <text encoding="base64">Zml4IGZvciBDVS00Mzk2IFRyYWNrICJTdWJjYXRlZ29yeSBQYWdlIC0gQWxsIENvdXJzZXMgdGFiIC0gU2VsZWN0IENvdXJzZSBjYXJkIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>actionlist goto</text>
       </register>
     </registers>
     <search>
@@ -897,12 +897,6 @@
         <entry>val</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceAction</entry>
-        <entry>action AceLineAction</entry>
-        <entry>actionlist renamw</entry>
-        <entry>actionlist rename</entry>
-        <entry>comment</entry>
-        <entry>actionlist comment</entry>
         <entry>.,.+11action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
@@ -917,6 +911,12 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
+        <entry>actionlist bas</entry>
+        <entry>actionlist basesym</entry>
+        <entry>actionlist base</entry>
+        <entry encoding="base64">YWN0aW9ubGlzdCA8Qy1IPg==</entry>
+        <entry>actionlist symbol</entry>
+        <entry>actionlist goto</entry>
       </history-cmd>
       <history-expr />
       <history-input />
