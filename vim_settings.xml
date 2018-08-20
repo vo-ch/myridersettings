@@ -240,8 +240,8 @@
         <mark key="." line="23" column="75" />
         <mark key="^" line="23" column="75" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1534515772214">
-        <mark key="'" line="25" column="25" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1534760233832">
+        <mark key="'" line="208" column="5" />
         <mark key="[" line="225" column="12" />
         <mark key="]" line="225" column="17" />
         <mark key="." line="225" column="17" />
@@ -400,8 +400,8 @@
         <mark key="^" line="87" column="36" />
         <mark key="." line="87" column="36" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534515873274">
-        <mark key="'" line="55" column="9" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534760069417">
+        <mark key="'" line="338" column="25" />
         <mark key="[" line="339" column="25" />
         <mark key="]" line="339" column="39" />
         <mark key="." line="340" column="50" />
@@ -598,7 +598,7 @@
         <mark key="." line="136" column="0" />
         <mark key="^" line="135" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534758552941">
+      <file name="/Dummy.txt" timestamp="1534759861339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
@@ -704,12 +704,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="283" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="285" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="290" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="292" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="609" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="19" column="0" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" />
       <jump line="608" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="612" column="59" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -730,7 +724,6 @@
       <jump line="27" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="132" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="293" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
-      <jump line="290" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="286" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="279" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="271" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
@@ -804,6 +797,13 @@
       <jump line="73" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="146" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="114" column="16" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="274" column="10" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="287" column="72" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="290" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="278" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="338" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="54" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="208" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -822,7 +822,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text>val</text>
       </register>
       <register name="0" type="4">
         <text>https://test-cloudlog.cyberu.io:9200&quot;</text>
@@ -861,21 +861,20 @@
         <text encoding="base64">Zml4IGZvciBDVS00Mzk2IFRyYWNrICJTdWJjYXRlZ29yeSBQYWdlIC0gQWxsIENvdXJzZXMgdGFiIC0gU2VsZWN0IENvdXJzZSBjYXJkIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist Error</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search>val</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern>val</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>gi</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
         <entry>nextSl</entry>
         <entry>quiz-next-slide</entry>
         <entry>class</entry>
@@ -895,13 +894,11 @@
         <entry>IJsonApiService</entry>
         <entry>IPaging</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry>val</entry>
       </history-search>
       <history-cmd>
-        <entry>action</entry>
         <entry>action AceAction</entry>
         <entry>action AceLineAction</entry>
-        <entry>action FindUsages</entry>
-        <entry>action GotoImplementation</entry>
         <entry>actionlist renamw</entry>
         <entry>actionlist rename</entry>
         <entry>comment</entry>
@@ -917,6 +914,9 @@
         <entry>actionlist error</entry>
         <entry>actionlist</entry>
         <entry>actionlist Error</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
