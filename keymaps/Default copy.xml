@@ -24,6 +24,11 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="RiderUnitTestQuickListPopupAction" />
   <action id="SelectNextOccurrence" />
   <action id="ShowUmlDiagramPopup" />
