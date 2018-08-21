@@ -225,7 +225,6 @@
         <mark key="." line="436" column="0" />
         <mark key="^" line="435" column="10" />
       </file>
-      <file name="/appsettings.json" timestamp="1534847009844" />
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CreateActionPayload.cs" timestamp="1533722532912">
         <mark key="'" line="6" column="1" />
         <mark key="[" line="6" column="17" />
@@ -253,6 +252,11 @@
         <mark key="]" line="5" column="42" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="47" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" timestamp="1534872674944">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="56" column="45" />
+        <mark key="]" line="56" column="55" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ui-actions/IBaseUiActionData.ts" timestamp="1533731722620">
         <mark key="[" line="1" column="4" />
@@ -304,12 +308,12 @@
         <mark key="." line="135" column="0" />
         <mark key="^" line="134" column="45" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1534767074904">
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1534872551553">
         <mark key="'" line="114" column="16" />
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="31" />
-        <mark key="." line="38" column="31" />
-        <mark key="^" line="38" column="31" />
+        <mark key="[" line="80" column="16" />
+        <mark key="]" line="80" column="16" />
+        <mark key="." line="80" column="16" />
+        <mark key="^" line="80" column="16" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/utils/http/json-api/JsonApiSerializer.ts" timestamp="1534518138499">
         <mark key="'" line="9" column="31" />
@@ -409,6 +413,9 @@
         <mark key="[" line="186" column="33" />
         <mark key="]" line="186" column="43" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" timestamp="1534873163514">
+        <mark key="'" line="175" column="16" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ui-actions/IUiCategoryCourseActionData.ts" timestamp="1534498194219">
         <mark key="'" line="4" column="2" />
         <mark key="[" line="3" column="17" />
@@ -444,14 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="19" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
-      <jump line="22" column="5" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
-      <jump line="6" column="4" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
-      <jump line="3" column="48" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
-      <jump line="12" column="20" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
-      <jump line="4" column="4" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" />
-      <jump line="15" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" />
-      <jump line="17" column="21" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" />
       <jump line="24" column="64" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" />
       <jump line="26" column="51" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionPayload.cs" />
       <jump line="26" column="17" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
@@ -544,6 +543,14 @@
       <jump line="53" column="79" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
       <jump line="7" column="17" filename="C:/projects/cu-data-reporting/Core/Models/CourseCategoryRecord.cs" />
       <jump line="54" column="79" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
+      <jump line="37" column="24" filename="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" />
+      <jump line="68" column="29" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
+      <jump line="268" column="12" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
+      <jump line="259" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
+      <jump line="252" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
+      <jump line="222" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
+      <jump line="85" column="81" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
+      <jump line="175" column="16" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -601,13 +608,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>ds&quot;: {</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3Vyc2VQcm9ncmVzc1w+</text>
+        <text encoding="base64">XDxleHRlcm5hbFVzZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>onLinkClick</text>
+        <text>signup/aicc</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnN0b3JlOwo=</text>
@@ -680,21 +687,20 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmBgOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3Vyc2VQcm9ncmVzc1w+</last-search>
+      <last-search encoding="base64">XDxleHRlcm5hbFVzZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3Vyc2VQcm9ncmVzc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxleHRlcm5hbFVzZXJcPg==</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>gi</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pag</entry>
         <entry encoding="base64">XDxsb2FkTW9yZVw+</entry>
         <entry>id</entry>
         <entry>pr</entry>
@@ -714,6 +720,7 @@
         <entry>pro</entry>
         <entry encoding="base64">XDxDb3Vyc2VQcm9ncmVzc1w+</entry>
         <entry encoding="base64">XDxjb3Vyc2VQcm9ncmVzc1w+</entry>
+        <entry encoding="base64">XDxleHRlcm5hbFVzZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>actionslist tooltip</entry>
@@ -729,13 +736,13 @@
         <entry>actionlist goto</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
         <entry>let @k = ''</entry>
         <entry>:reg</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
