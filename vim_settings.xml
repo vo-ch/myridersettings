@@ -17,13 +17,6 @@
         <mark key="^" line="16" column="64" />
         <mark key="." line="15" column="58" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" timestamp="1534776013947">
-        <mark key="'" line="103" column="24" />
-        <mark key="[" line="103" column="24" />
-        <mark key="]" line="103" column="24" />
-        <mark key="^" line="103" column="24" />
-        <mark key="." line="103" column="24" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/views/navigation/CourseDetailsNavigation.tsx" timestamp="1534159927247">
         <mark key="'" line="127" column="0" />
         <mark key="[" line="129" column="0" />
@@ -76,13 +69,6 @@
         <mark key="]" line="87" column="36" />
         <mark key="^" line="87" column="36" />
         <mark key="." line="87" column="36" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1534775627965">
-        <mark key="'" line="332" column="26" />
-        <mark key="[" line="338" column="0" />
-        <mark key="]" line="338" column="0" />
-        <mark key="^" line="335" column="72" />
-        <mark key="." line="338" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" timestamp="1533563421679">
         <mark key="'" line="8" column="27" />
@@ -238,10 +224,6 @@
         <mark key="." line="436" column="0" />
         <mark key="^" line="435" column="10" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search-category/CourseSearchCategory.tsx" timestamp="1534775658060">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="160" column="11" />
-      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CreateActionPayload.cs" timestamp="1533722532912">
         <mark key="'" line="6" column="1" />
         <mark key="[" line="6" column="17" />
@@ -249,24 +231,8 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1534760233832">
-        <mark key="'" line="208" column="5" />
-        <mark key="[" line="225" column="12" />
-        <mark key="]" line="225" column="17" />
-        <mark key="." line="225" column="17" />
-        <mark key="^" line="225" column="17" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/IPageLoadAction.ts" timestamp="1534775348547">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/models/course/ICourse.ts" timestamp="1534776185994">
-        <mark key="'" line="25" column="21" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="17" />
       </file>
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CoursePlayerActions/CoursePlayerActionsTest.cs" timestamp="1534778611458">
         <mark key="[" line="43" column="26" />
@@ -346,7 +312,7 @@
       <file name="C:/projects/UI-Web/ClientApp/utils/http/json-api/JsonApiSerializer.ts" timestamp="1534518138499">
         <mark key="'" line="9" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534836734091">
+      <file name="/Dummy.txt" timestamp="1534837836558">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="^" line="0" column="58" />
@@ -405,13 +371,6 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" timestamp="1534779605387">
-        <mark key="'" line="213" column="27" />
-        <mark key="[" line="212" column="47" />
-        <mark key="]" line="212" column="47" />
-        <mark key="." line="212" column="47" />
-        <mark key="^" line="212" column="47" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" timestamp="1534239343739">
         <mark key="'" line="3" column="17" />
         <mark key="[" line="4" column="0" />
@@ -425,12 +384,6 @@
         <mark key="]" line="31" column="101" />
         <mark key="." line="33" column="78" />
         <mark key="^" line="33" column="78" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/IUiAction.ts" timestamp="1534775591894">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="1" column="48" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/question-slide/QuestionSlide.tsx" timestamp="1534434117124">
         <mark key="'" line="168" column="47" />
@@ -723,7 +676,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmBgOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -771,7 +724,6 @@
         <entry>actionlist symbol</entry>
         <entry>actionlist goto</entry>
         <entry>action CommentByBlockComment</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
@@ -779,6 +731,7 @@
         <entry>:reg</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
