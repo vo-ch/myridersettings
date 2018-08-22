@@ -44,13 +44,6 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/course-card-on-profile/CourseCardOnProfile.tsx" timestamp="1534947145092">
-        <mark key="'" line="49" column="21" />
-        <mark key="[" line="289" column="26" />
-        <mark key="]" line="289" column="28" />
-        <mark key="^" line="289" column="28" />
-        <mark key="." line="289" column="28" />
-      </file>
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseDetails/PlayCourseTrailerTest.cs" timestamp="1533741662402">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="34" column="24" />
@@ -64,6 +57,12 @@
         <mark key="]" line="201" column="55" />
         <mark key="^" line="115" column="25" />
         <mark key="." line="115" column="25" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" timestamp="1534954195330">
+        <mark key="'" line="78" column="4" />
+        <mark key="[" line="78" column="6" />
+        <mark key="]" line="78" column="13" />
+        <mark key="." line="78" column="6" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiSimpleActionsPayloads.cs" timestamp="1534948498257">
         <mark key="'" line="35" column="62" />
@@ -316,6 +315,9 @@
         <mark key="." line="135" column="0" />
         <mark key="^" line="134" column="45" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1534954441001">
+        <mark key="'" line="251" column="38" />
+      </file>
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1534872551553">
         <mark key="'" line="114" column="16" />
         <mark key="[" line="80" column="16" />
@@ -331,18 +333,10 @@
       <file name="C:/projects/UI-Web/ClientApp/utils/http/json-api/JsonApiSerializer.ts" timestamp="1534518138499">
         <mark key="'" line="9" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534948616916">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="92" />
-        <mark key="^" line="0" column="92" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/TeachingSection.tsx" timestamp="1534947311754">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="276" column="11" />
-        <mark key="." line="239" column="65" />
-        <mark key="^" line="239" column="64" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="269" column="11" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionProcessor.cs" timestamp="1534780124946">
         <mark key="'" line="40" column="23" />
@@ -385,6 +379,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="70" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1534954984876">
+        <mark key="[" line="42" column="80" />
+        <mark key="]" line="42" column="83" />
+        <mark key="." line="42" column="83" />
+        <mark key="^" line="42" column="83" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" timestamp="1534434042797">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="31" column="5" />
@@ -414,11 +414,10 @@
         <mark key="." line="168" column="49" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/IUiAction.ts" timestamp="1534948154082">
-        <mark key="'" line="40" column="44" />
-        <mark key="[" line="41" column="5" />
-        <mark key="]" line="41" column="17" />
-        <mark key="." line="41" column="39" />
-        <mark key="^" line="41" column="39" />
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/User/IndexDefinitions/UserEmails/CommonProcessors/UserRegistered/UserRegisteredScript.painless" timestamp="1534341947111">
         <mark key="'" line="16" column="8" />
@@ -451,13 +450,6 @@
         <mark key="." line="19" column="120" />
         <mark key="^" line="19" column="120" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/teaching-course-list/TeachingCourseList.tsx" timestamp="1534947709522">
-        <mark key="'" line="133" column="40" />
-        <mark key="[" line="130" column="38" />
-        <mark key="]" line="130" column="50" />
-        <mark key="." line="130" column="50" />
-        <mark key="^" line="130" column="50" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/become-an-instructor/BecomeInstructorPage.tsx" timestamp="1534840964834">
         <mark key="[" line="245" column="29" />
         <mark key="]" line="245" column="40" />
@@ -472,16 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="98" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionsProcessor.cs" />
-      <jump line="7" column="17" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsPayload.cs" />
-      <jump line="50" column="41" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionsProcessor.cs" />
-      <jump line="8" column="30" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/IProcessor.cs" />
-      <jump line="68" column="34" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsProcessor.cs" />
-      <jump line="74" column="22" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsProcessor.cs" />
-      <jump line="76" column="22" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsProcessor.cs" />
-      <jump line="77" column="22" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsProcessor.cs" />
-      <jump line="78" column="41" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsProcessor.cs" />
-      <jump line="19" column="46" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionsProcessor.cs" />
       <jump line="0" column="0" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionsProcessor.cs" />
       <jump line="49" column="137" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionsProcessor.cs" />
       <jump line="271" column="0" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/TeachingSection.tsx" />
@@ -572,6 +554,16 @@
       <jump line="33" column="36" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiSimpleActionsPayloads.cs" />
       <jump line="35" column="62" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiSimpleActionsPayloads.cs" />
       <jump line="9" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/Payloads/UiCourseActionData.cs" />
+      <jump line="236" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="155" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="98" column="42" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="139" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="101" column="42" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="35" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="102" column="71" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="78" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="156" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="251" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -634,8 +626,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzdGF0dXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyBVaUFjdGlvblBheWxvYWQuTmFtZXMuQ2F0ZWdvcnlDb3Vyc2VDYXJkLCBvID0+IG5ldyBVaUNhdGVnb3J5Q291cnNlQWN0aW9uRGF0YShvKX0sCg==</text>
+      <register name="0" type="4">
+        <text>courseProgress</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -727,8 +719,8 @@
         <entry>action RenameElement</entry>
         <entry>action CommentByLineComment</entry>
         <entry>reg</entry>
-        <entry>action FindUsages</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
