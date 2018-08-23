@@ -348,6 +348,9 @@
         <mark key="." line="58" column="46" />
         <mark key="^" line="58" column="46" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" timestamp="1535010870525">
+        <mark key="'" line="69" column="39" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" timestamp="1534334962403">
         <mark key="'" line="247" column="45" />
         <mark key="[" line="255" column="0" />
@@ -464,12 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionsProcessor.cs" />
-      <jump line="49" column="137" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionsProcessor.cs" />
-      <jump line="271" column="0" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/TeachingSection.tsx" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/TeachingSection.tsx" />
-      <jump line="254" column="17" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/TeachingSection.tsx" />
-      <jump line="203" column="3" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
       <jump line="30" column="60" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
       <jump line="207" column="38" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
       <jump line="23" column="41" filename="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" />
@@ -564,6 +561,12 @@
       <jump line="78" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
       <jump line="156" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="251" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="65" column="67" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
+      <jump line="53" column="12" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
+      <jump line="37" column="29" filename="C:/projects/UI-Web/ClientApp/views/enterprise/components/PasswordModal.tsx" />
+      <jump line="54" column="15" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
+      <jump line="45" column="16" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
+      <jump line="69" column="39" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -666,7 +669,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5BY3Rpb25TdWJ0eXBlID0gZGF0YVsiYWN0aW9uU3VidHlwZSJdPy5WYWx1ZTxzdHJpbmc+KCk7CiAgICAgICAgICAgIHRoaXMuRGVzY3JpcHRpb24gPSBkYXRhWyJkZXNjcmlwdGlvbiJdPy5WYWx1ZTxzdHJpbmc+KCk7CiAgICAgICAgICAgIHRoaXMuUHJvZmlsZSA9IGRhdGFbInByb2ZpbGUiXSAhPSBudWxsID8gbmV3IFVzZXJQcm9maWxlKGRhdGFbInByb2ZpbGUiXSBhcyBKT2JqZWN0KSA6IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -676,7 +679,7 @@
       <last-replace>profile</last-replace>
       <last-substitute>gi</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -720,8 +723,8 @@
         <entry>action CommentByLineComment</entry>
         <entry>reg</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
