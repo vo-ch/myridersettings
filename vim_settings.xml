@@ -38,10 +38,10 @@
         <mark key="." line="83" column="5" />
         <mark key="^" line="83" column="5" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GoogleAnalyticsDataReader.cs" timestamp="1535375521242">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GoogleAnalyticsDataReader.cs" timestamp="1535381684487">
         <mark key="'" line="44" column="41" />
-        <mark key="[" line="57" column="66" />
-        <mark key="]" line="57" column="78" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="205" column="9" />
         <mark key="." line="57" column="78" />
         <mark key="^" line="57" column="78" />
       </file>
@@ -51,12 +51,12 @@
         <mark key="." line="19" column="42" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/GeoLocationDataUpdater.cs" timestamp="1535379254235">
-        <mark key="'" line="47" column="78" />
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="46" column="41" />
-        <mark key="^" line="59" column="57" />
-        <mark key="." line="46" column="41" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/GeoLocationDataUpdater.cs" timestamp="1535381727425">
+        <mark key="'" line="49" column="78" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="60" column="57" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CourseDetails/PlayCourseTrailerTest.cs" timestamp="1533741662402">
         <mark key="'" line="29" column="0" />
@@ -178,11 +178,11 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/Quiz.tsx" timestamp="1534426186753">
         <mark key="'" line="189" column="12" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/Models/GeoLiteCityLocations.cs" timestamp="1535380450014">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/Models/GeoLiteCityLocations.cs" timestamp="1535382000590">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="51" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionsIndex.cs" timestamp="1534770399326">
         <mark key="'" line="8" column="80" />
@@ -410,10 +410,11 @@
       <file name="/Dummy.txt" timestamp="1535033113905">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/Models/GeoLiteCityIp4.cs" timestamp="1535380124854">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="45" />
-        <mark key="." line="4" column="0" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/Models/GeoLiteCityIp4.cs" timestamp="1535381972961">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="45" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionProcessor.cs" timestamp="1534780124946">
         <mark key="'" line="40" column="23" />
@@ -483,6 +484,11 @@
         <mark key="]" line="31" column="101" />
         <mark key="." line="33" column="78" />
         <mark key="^" line="33" column="78" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/Models/GeoLiteRecord.cs" timestamp="1535381939231">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/question-slide/QuestionSlide.tsx" timestamp="1534434117124">
         <mark key="'" line="168" column="47" />
@@ -652,7 +658,7 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>pathToDbFileName</text>
+        <text>GeoLiteRecord</text>
       </register>
       <register name="&quot;" type="4">
         <text />
@@ -672,7 +678,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>pathToDbFileName</text>
+        <text>GeoLiteRecord</text>
       </register>
       <register name="k" type="4">
         <text>dt&quot;Fbp</text>
@@ -683,11 +689,11 @@
       <register name="/" type="4">
         <text>me</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEdlb25hbWVJZCB7IGdldDsgc2V0OyB9Cg==</text>
+      <register name="0" type="4">
+        <text>GeoLiteRecord</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIFN1YmRpdmlzaW9uMUlzb0NvZGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgU3ViZGl2aXNpb24xSXNvQ29kZSB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEdlb25hbWVJZCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>FilterDropdownChange</text>
@@ -696,34 +702,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>UrlToDb</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEdlb25hbWVJZCB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIE5ldHdvcmsgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgR2VvbmFtZUlkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIFJlZ2lzdGVyZWRDb3VudHJ5R2VvbmFtZUlkIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIFJlcHJlc2VudGVkQ291bnRyeUdlb25hbWVJZCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGludCBJc0Fub255bW91c1Byb3h5IHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgaW50IElzU2F0ZWxsaXRlUHJvdmlkZXIgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgUG9zdGFsQ29kZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGRvdWJsZSBMYXRpdHVkZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGRvdWJsZSBMb25naXR1ZGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBpbnQgQWNjdXJhY3lSYWRpdXMgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuX2lzSW5kZWJ1Z01vZGUpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cmluZyBOZXR3b3JrIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIEdlb25hbWVJZCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBSZWdpc3RlcmVkQ291bnRyeUdlb25hbWVJZCB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBSZXByZXNlbnRlZENvdW50cnlHZW9uYW1lSWQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBpbnQgSXNBbm9ueW1vdXNQcm94eSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIGludCBJc1NhdGVsbGl0ZVByb3ZpZGVyIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgc3RyaW5nIFBvc3RhbENvZGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBkb3VibGUgTGF0aXR1ZGUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBkb3VibGUgTG9uZ2l0dWRlIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgaW50IEFjY3VyYWN5UmFkaXVzIHsgZ2V0OyBzZXQ7IH0KICAgIH0K</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -776,9 +782,9 @@
         <entry>reg</entry>
         <entry>action GotoImplementation</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action FindUsages</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
