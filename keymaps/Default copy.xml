@@ -4,13 +4,32 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="ExpressionTypeInfo" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
-  <action id="RiderUnitTestQuickListPopupAction" />
-  <action id="ShowErrorDescription">
-    <keyboard-shortcut first-keystroke="ctrl f1" />
-    <keyboard-shortcut first-keystroke="alt k" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="RiderUnitTestQuickListPopupAction" />
+  <action id="SelectNextOccurrence" />
   <action id="ShowUmlDiagramPopup" />
 </keymap>
