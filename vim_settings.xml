@@ -58,12 +58,12 @@
         <mark key="." line="35" column="61" />
         <mark key="^" line="34" column="82" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" timestamp="1535707549322">
-        <mark key="'" line="55" column="67" />
-        <mark key="[" line="55" column="95" />
-        <mark key="]" line="63" column="79" />
-        <mark key="." line="55" column="94" />
-        <mark key="^" line="55" column="94" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" timestamp="1535709555423">
+        <mark key="'" line="62" column="79" />
+        <mark key="[" line="62" column="64" />
+        <mark key="]" line="62" column="64" />
+        <mark key="^" line="62" column="63" />
+        <mark key="." line="62" column="64" />
       </file>
       <file name="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" timestamp="1533563421679">
         <mark key="'" line="8" column="27" />
@@ -644,8 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="12" filename="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" />
-      <jump line="123" column="12" filename="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" />
       <jump line="33" column="36" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiSimpleActionsPayloads.cs" />
       <jump line="35" column="62" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiSimpleActionsPayloads.cs" />
       <jump line="9" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/Payloads/UiCourseActionData.cs" />
@@ -744,6 +742,8 @@
       <jump line="53" column="11" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
       <jump line="71" column="28" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
       <jump line="55" column="67" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
+      <jump line="60" column="79" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
+      <jump line="97" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/269B6DB2-9E7F-4561-9A26-94D748B5B493/c0/2b4ab87b/Field.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -773,49 +773,49 @@
         <text>dt&quot;Fbp</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ciA9PiBy</text>
+        <text>Field = new Field()</text>
       </register>
       <register name="/" type="4">
         <text>cou</text>
       </register>
       <register name="0" type="4">
-        <text>Indices.Index((IndexName) MaxmindGeoIpIndex.Name)</text>
+        <text encoding="base64">RGF0YVJlY29yZDxNYXhtaW5kR2VvSXBEb2NQYXlsb2FkPg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmV3IE11bHRpU2VhcmNoRGVzY3JpcHRvcigpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAge30KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>FilterDropdownChange</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLkluZGV4KEluZGljZXMuSW5kZXgoKEluZGV4TmFtZSkgTWF4bWluZEdlb0lwSW5kZXguTmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcmVzcG9uc2UgPSBhd2FpdCB0aGlzLkVzQ2xpZW50Lk11bHRpU2VhcmNoQXN5bmMoKTsK</text>
       </register>
       <register name="s" type="4">
         <text>UrlToDb</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLlMK</text>
+      <register name="4" type="4">
+        <text encoding="base64">bmV3IE11bHRpU2VhcmNoRGVzY3JpcHRvcigpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9IA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLlF1ZXJ5KHEgPT4gcS5UZXJtKHQgPT4gdC5GaWVsZChmID0+IGYuU291cmNlSXAgPT0gcmVjb3JkLlNvdXJjZUlwKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLkluZGV4KEluZGljZXMuSW5kZXgoKEluZGV4TmFtZSkgTWF4bWluZEdlb0lwSW5kZXguTmFtZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPcldoaXRlU3BhY2UocmVjb3JkLlNvdXJjZUlwKSAmJiByZWNvcmQuR2VvTG9jYXRpb24gIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJlc3BvbnNlID0gYXdhaXQgdGhpcy5Fc0NsaWVudC5TZWFyY2hBc3luYzxEYXRhUmVjb3JkPE1heG1pbmRHZW9JcERvY1BheWxvYWQ+PihyID0+IHIKICAgICAgICAgICAgICAgICAgICAuSW5kZXgoSW5kaWNlcy5JbmRleCgoSW5kZXhOYW1lKSBNYXhtaW5kR2VvSXBJbmRleC5OYW1lKSkKICAgICAgICAgICAgICAgICAgICAuUXVlcnkocSA9PiBxLlRlcm0odCA9PiB0LkZpZWxkKGYgPT4gZi5Tb3VyY2VJcCA9PSByZWNvcmQuU291cmNlSXApKSkKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICB2YXIgZG9jID0gcmVzcG9uc2UuSGl0cy5GaXJzdE9yRGVmYXVsdCgpPy5Tb3VyY2U/LlBheWxvYWQ7CiAgICAgICAgICAgICAgICBpZiAoZG9jICE9IG51bGwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmVjb3JkLkdlb0xvY2F0aW9uID0gbmV3IERhdGFSZWNvcmRMb2NhdGlvbigpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBDb3VudHJ5ID0gZG9jLkxvY2F0aW9uPy5Db3VudHJ5TmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgQ2l0eSA9IGRvYy5Mb2NhdGlvbj8uQ2l0eU5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgIExvY2F0aW9uID0gbmV3IEdlb0xvY2F0aW9uKGRvYy5MYXRpdHVkZSwgZG9jLkxvbmdpdHVkZSkKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gcmVjb3JkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLlMK</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGhpcy5JbmRleGllcy5Qcm9jZXNzb3IuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLlF1ZXJ5KHEgPT4gcS5UZXJtKHQgPT4gdC5GaWVsZChmID0+IGYuU291cmNlSXAgPT0gcmVjb3JkLlNvdXJjZUlwKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlY29yZEpzb24gPSBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QobmV3IERhdGFSZWNvcmRDb250YWluZXIKICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
