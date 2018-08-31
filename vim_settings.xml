@@ -467,12 +467,12 @@
         <mark key="." line="165" column="80" />
         <mark key="^" line="165" column="80" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/ExternalData/MaxmindGeoIp/MaxmindGeoIpDoc.cs" timestamp="1535725500900">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/ExternalData/MaxmindGeoIp/MaxmindGeoIpDoc.cs" timestamp="1535728051869">
         <mark key="'" line="12" column="44" />
-        <mark key="[" line="16" column="39" />
-        <mark key="]" line="16" column="54" />
-        <mark key="." line="16" column="54" />
-        <mark key="^" line="16" column="54" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="55" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/User/ExternalLogin/ExternalLoginActionProcessor.cs" timestamp="1535720857711">
         <mark key="'" line="74" column="9" />
@@ -929,7 +929,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string geonameId, string network, string registeredCountryGeonameId, string representedCountryGeonameId, int isAnonymousProxy, int isSatelliteProvider, string postalCode, double latitude, double longitude, int accuracyRadius, GeoLiteCityLocation location</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dBY3Rpb25cPg==</text>
@@ -944,24 +944,39 @@
         <keys>
           <key char="66" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="69" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="91" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="66" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="93" code="0" mods="0" />
+          <key char="63" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
           <key char="115" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
           <key char="110" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="84" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
