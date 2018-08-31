@@ -316,6 +316,9 @@
         <mark key="." line="80" column="16" />
         <mark key="^" line="80" column="16" />
       </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/Payloads/UiCategoryActionData.cs" timestamp="1535729297259">
+        <mark key="'" line="5" column="44" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/utils/http/json-api/JsonApiSerializer.ts" timestamp="1534518138499">
         <mark key="'" line="9" column="31" />
       </file>
@@ -467,12 +470,12 @@
         <mark key="." line="165" column="80" />
         <mark key="^" line="165" column="80" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/ExternalData/MaxmindGeoIp/MaxmindGeoIpDoc.cs" timestamp="1535728051869">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/ExternalData/MaxmindGeoIp/MaxmindGeoIpDoc.cs" timestamp="1535729465654">
         <mark key="'" line="12" column="44" />
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="55" />
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="27" column="72" />
+        <mark key="." line="27" column="72" />
+        <mark key="^" line="27" column="72" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/User/ExternalLogin/ExternalLoginActionProcessor.cs" timestamp="1535720857711">
         <mark key="'" line="74" column="9" />
@@ -591,6 +594,10 @@
         <mark key="]" line="11" column="10" />
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/Payloads/UiInstructorActionData.cs" timestamp="1535729373779">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="118" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/CategoryPageLoad/CategoryPageLoadProcessor.cs" timestamp="1535720561352">
         <mark key="[" line="18" column="24" />
@@ -725,6 +732,10 @@
         <mark key="." line="31" column="22" />
         <mark key="^" line="31" column="22" />
       </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/ExternalData/MaxmindGeoIp/Models/IGeoLiteCityLocation.cs" timestamp="1535646775449">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="3" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.MailchimpSync.Lamda/Function.cs" timestamp="1535721709236">
         <mark key="'" line="31" column="31" />
         <mark key="[" line="83" column="53" />
@@ -776,6 +787,10 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/269B6DB2-9E7F-4561-9A26-94D748B5B493/44/578a314b/GeoLocation.cs" timestamp="1535379959278">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="16" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/course-list-column/CourseListColumn.tsx" timestamp="1533815685290">
         <mark key="'" line="35" column="31" />
         <mark key="[" line="8" column="17" />
@@ -791,8 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="515" column="38" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/464F15D5-8976-45E0-A883-0A1115E74A46/81/155de0c3/Path.cs" />
-      <jump line="230" column="32" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/464F15D5-8976-45E0-A883-0A1115E74A46/a6/0bad119b/Interop.cs" />
       <jump line="30" column="12" filename="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/GeoLocationDataUpdater.cs" />
       <jump line="16" column="28" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/464F15D5-8976-45E0-A883-0A1115E74A46/61/c196a649/FileStream.cs" />
       <jump line="15" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/464F15D5-8976-45E0-A883-0A1115E74A46/71/f6e3e528/Stream.cs" />
@@ -891,6 +904,8 @@
       <jump line="465" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="0" column="80" filename="/Dummy.cs" />
       <jump line="79" column="91" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
+      <jump line="30" column="8" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
+      <jump line="5" column="44" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/Payloads/UiCategoryActionData.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -929,20 +944,20 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>Core.Models.User</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dBY3Rpb25cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>quiz-next-slide</text>
+        <text>GeoLiteCityLocation</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bXVsdGlTZWFyY2hSZXNwb25zZS5HZXRSZXNwb25zZTxvYmplY3Q+KHJlY29yZHNHcm91cC5LZXkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="66" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
@@ -950,14 +965,12 @@
           <key char="97" code="0" mods="0" />
           <key char="91" code="0" mods="0" />
           <key char="34" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="102" code="0" mods="0" />
           <key char="59" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="72" mods="130" />
           <key char="34" code="0" mods="0" />
           <key char="93" code="0" mods="0" />
           <key char="63" code="0" mods="0" />
@@ -1011,7 +1024,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3RNYW55KAogICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -1065,8 +1078,8 @@
         <entry>reg</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action AceAction</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
