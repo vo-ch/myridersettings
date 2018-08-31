@@ -86,12 +86,12 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/Actions/UiActionsTest.cs" timestamp="1534846795238">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="76" column="21" />
-        <mark key="]" line="76" column="22" />
-        <mark key="." line="76" column="22" />
-        <mark key="^" line="76" column="22" />
+      <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/Actions/UiActionsTest.cs" timestamp="1535705140090">
+        <mark key="'" line="43" column="185" />
+        <mark key="[" line="35" column="28" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="35" column="39" />
+        <mark key="^" line="35" column="39" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/ExternalData/MaxmindGeoIp/MailListMembersProcessor.cs" timestamp="1535384750697">
         <mark key="[" line="17" column="17" />
@@ -580,8 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/course-card-on-profile/CourseCardOnProfile.tsx" />
-      <jump line="289" column="22" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/course-card-on-profile/CourseCardOnProfile.tsx" />
       <jump line="36" column="29" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/course-card-on-profile/CourseCardOnProfile.tsx" />
       <jump line="291" column="22" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/course-card-on-profile/CourseCardOnProfile.tsx" />
       <jump line="58" column="46" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/teaching-course-list/TeachingCourseList.tsx" />
@@ -680,6 +678,8 @@
       <jump line="27" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/ExternalData/MaxmindGeoIp/MaxmindGeoIpDoc.cs" />
       <jump line="25" column="36" filename="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/GeoLocationDataUpdater.cs" />
       <jump line="23" column="19" filename="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/Models/GeoIpData.cs" />
+      <jump line="45" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/Actions/UiActionsTest.cs" />
+      <jump line="42" column="185" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/Actions/UiActionsTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -712,13 +712,13 @@
         <text>geonameId</text>
       </register>
       <register name="/" type="4">
-        <text>new</text>
+        <text>ip</text>
       </register>
       <register name="0" type="4">
         <text>doc.GeoLocation?.Location?.Latitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlY29yZEpzb24gPSBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QobmV3IERhdGFSZWNvcmRDb250YWluZXIKICAgICAgICAgICAgewo=</text>
       </register>
       <register name="q" type="4">
         <text>FilterDropdownChange</text>
@@ -727,40 +727,40 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2NhbFVzZXJTZXJ2aWNlIHVzZXJTZXJ2aWNlOwogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>UrlToDb</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElIdHRwQ29udGV4dEFjY2Vzc29yIGh0dHBDb250ZXh0QWNjZXNzb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2NhbFVzZXJTZXJ2aWNlIHVzZXJTZXJ2aWNlOwogICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElIdHRwQ29udGV4dEFjY2Vzc29yIGh0dHBDb250ZXh0QWNjZXNzb3I7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElIdHRwQ29udGV4dEFjY2Vzc29yIF9odHRwQ29udGV4dEFjY2Vzc29yOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZC5HZW9Mb2NhdGlvbiA9IG5ldyBEYXRhUmVjb3JkTG9jYXRpb24oKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvdW50cnkgPSAKICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElIdHRwQ29udGV4dEFjY2Vzc29yIF9odHRwQ29udGV4dEFjY2Vzc29yOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXF1ZXN0ID0gbmV3IFNlYXJjaFJlcXVlc3QoSW5kaWNlcy5JbmRleCgoSW5kZXhOYW1lKSBNYXhtaW5kR2VvSXBJbmRleC5OYW1lKSwKICAgICAgICAgICAgICAgICAgICBUeXBlcy5UeXBlKChUeXBlTmFtZSkgImRvYyIpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFNpemUgPSAxLAogICAgICAgICAgICAgICAgICAgIFF1ZXJ5ID0gbmV3IFF1ZXJ5Q29udGFpbmVyKCkKICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlY29yZC5HZW9Mb2NhdGlvbiA9IG5ldyBEYXRhUmVjb3JkTG9jYXRpb24oKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvdW50cnkgPSAKICAgICAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTb3J0ID0gbmV3IExpc3Q8SVNvcnQ+CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBuZXcgU29ydEZpZWxkCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZpZWxkID0gZmllbGQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBPcmRlciA9IFNvcnRPcmRlci5EZXNjZW5kaW5nCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZXF1ZXN0ID0gbmV3IFNlYXJjaFJlcXVlc3QoSW5kaWNlcy5JbmRleCgoSW5kZXhOYW1lKSBNYXhtaW5kR2VvSXBJbmRleC5OYW1lKSwKICAgICAgICAgICAgICAgICAgICBUeXBlcy5UeXBlKChUeXBlTmFtZSkgImRvYyIpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFNpemUgPSAxLAogICAgICAgICAgICAgICAgICAgIFF1ZXJ5ID0gbmV3IFF1ZXJ5Q29udGFpbmVyKCkKICAgICAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search>new</last-search>
+      <last-search>ip</last-search>
       <last-offset />
-      <last-pattern>new</last-pattern>
+      <last-pattern>ip</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>new</last-substitute>
       <last-dir>1</last-dir>
@@ -768,7 +768,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>val</entry>
         <entry>newRe</entry>
         <entry>ise</entry>
@@ -788,6 +787,7 @@
         <entry>me</entry>
         <entry encoding="base64">XDxjbGVhbnVwQWN0aW9uXD4=</entry>
         <entry>new</entry>
+        <entry>ip</entry>
       </history-search>
       <history-cmd>
         <entry>actionslist</entry>
