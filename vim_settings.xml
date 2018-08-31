@@ -86,10 +86,10 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/Actions/UiActionsTest.cs" timestamp="1535705140090">
-        <mark key="'" line="43" column="185" />
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="35" column="39" />
+      <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/Actions/UiActionsTest.cs" timestamp="1535706159581">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="43" column="73" />
+        <mark key="]" line="43" column="83" />
         <mark key="." line="35" column="39" />
         <mark key="^" line="35" column="39" />
       </file>
@@ -580,7 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="29" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/course-card-on-profile/CourseCardOnProfile.tsx" />
       <jump line="291" column="22" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/course-card-on-profile/CourseCardOnProfile.tsx" />
       <jump line="58" column="46" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/teaching-course-list/TeachingCourseList.tsx" />
       <jump line="49" column="21" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/course-card-on-profile/CourseCardOnProfile.tsx" />
@@ -680,6 +679,7 @@
       <jump line="23" column="19" filename="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/Models/GeoIpData.cs" />
       <jump line="45" column="0" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/Actions/UiActionsTest.cs" />
       <jump line="42" column="185" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/Actions/UiActionsTest.cs" />
+      <jump line="43" column="12" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/Actions/UiActionsTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -712,10 +712,10 @@
         <text>geonameId</text>
       </register>
       <register name="/" type="4">
-        <text>ip</text>
+        <text>cou</text>
       </register>
       <register name="0" type="4">
-        <text>doc.GeoLocation?.Location?.Latitude</text>
+        <text>course-card</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlY29yZEpzb24gPSBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QobmV3IERhdGFSZWNvcmRDb250YWluZXIKICAgICAgICAgICAgewo=</text>
@@ -758,9 +758,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ip</last-search>
+      <last-search>cou</last-search>
       <last-offset />
-      <last-pattern>ip</last-pattern>
+      <last-pattern>cou</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute>new</last-substitute>
       <last-dir>1</last-dir>
@@ -768,7 +768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>val</entry>
         <entry>newRe</entry>
         <entry>ise</entry>
         <entry>data</entry>
@@ -788,6 +787,7 @@
         <entry encoding="base64">XDxjbGVhbnVwQWN0aW9uXD4=</entry>
         <entry>new</entry>
         <entry>ip</entry>
+        <entry>cou</entry>
       </history-search>
       <history-cmd>
         <entry>actionslist</entry>
