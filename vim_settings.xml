@@ -762,9 +762,6 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1534954441001">
         <mark key="'" line="251" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535967864840">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1535724073078">
         <mark key="'" line="465" column="20" />
         <mark key="[" line="58" column="47" />
@@ -814,6 +811,9 @@
         <mark key="[" line="12" column="56" />
         <mark key="]" line="12" column="56" />
         <mark key="." line="12" column="65" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Subcomands/ReprocessLogs.cs" timestamp="1535980365013">
+        <mark key="'" line="52" column="32" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" timestamp="1534239343739">
         <mark key="'" line="3" column="17" />
@@ -882,7 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="67" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/MainProcessor.cs" />
       <jump line="51" column="42" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
       <jump line="53" column="11" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
       <jump line="71" column="28" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
@@ -982,6 +981,7 @@
       <jump line="20" column="52" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/BaseLogsProcessor.cs" />
       <jump line="42" column="40" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
       <jump line="43" column="40" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
+      <jump line="52" column="32" filename="C:/projects/cu-data-reporting/CuDataReporting.Utils/Subcomands/ReprocessLogs.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1076,7 +1076,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -1126,12 +1126,12 @@
         <entry>:reg</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action AceAction</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
         <entry>REG</entry>
         <entry>reg</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
