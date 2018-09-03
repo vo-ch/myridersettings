@@ -29,7 +29,11 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="Replace" />
   <action id="RiderUnitTestQuickListPopupAction" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowUmlDiagramPopup" />
 </keymap>
