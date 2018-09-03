@@ -461,8 +461,8 @@
         <mark key="^" line="56" column="29" />
         <mark key="." line="57" column="29" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/IndexDataReader.cs" timestamp="1535978387556">
-        <mark key="'" line="29" column="26" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/IndexDataReader.cs" timestamp="1535981409742">
+        <mark key="'" line="59" column="30" />
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="11" />
         <mark key="." line="14" column="11" />
@@ -503,10 +503,10 @@
         <mark key="^" line="15" column="17" />
         <mark key="." line="15" column="8" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/GeoLocationDataUpdater.cs" timestamp="1535968374041">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/GeoLocationDataUpdater.cs" timestamp="1535981287644">
         <mark key="'" line="156" column="41" />
-        <mark key="[" line="107" column="53" />
-        <mark key="]" line="107" column="73" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="43" />
         <mark key="^" line="107" column="73" />
         <mark key="." line="107" column="73" />
       </file>
@@ -812,7 +812,7 @@
         <mark key="]" line="12" column="56" />
         <mark key="." line="12" column="65" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Subcomands/ReprocessLogs.cs" timestamp="1535980365013">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Subcomands/ReprocessLogs.cs" timestamp="1535981194324">
         <mark key="'" line="52" column="32" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" timestamp="1534239343739">
@@ -882,7 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="42" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
       <jump line="53" column="11" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
       <jump line="71" column="28" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
       <jump line="55" column="67" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
@@ -981,6 +980,7 @@
       <jump line="20" column="52" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/BaseLogsProcessor.cs" />
       <jump line="42" column="40" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
       <jump line="43" column="40" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
+      <jump line="54" column="30" filename="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/IndexDataReader.cs" />
       <jump line="52" column="32" filename="C:/projects/cu-data-reporting/CuDataReporting.Utils/Subcomands/ReprocessLogs.cs" />
     </jumps>
     <registers>
@@ -1020,16 +1020,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IT0gbnVsbCA=</text>
+        <text>Task</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURG9jdW1lbnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>updatedDate</text>
+        <text>queryString</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkNvcmUuTW9kZWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1046,37 +1046,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMgPSBhd2FpdCB0aGlzLl9jbGllbnQuU2Nyb2xsPERhdGFSZWNvcmQ8Sk9iamVjdD4+KHNjcm9sbCwgcmVzdWx0cy5TY3JvbGxJZCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">SURhdGFSZWNvcmQ8SUdlb0lwRGF0YTxHZW9MaXRlQ2l0eUxvY2F0aW9uPj4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkNvcmUuTW9kZWxzOwo=</text>
       </register>
       <register name="s" type="4">
         <text>UrlToDb</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PwogICAgICAgICAgICAgICAgICAgIC5Db252ZXJ0UGF5bG9hZChwID0+IG5ldyBNYXhtaW5kR2VvSXBEb2NQYXlsb2FkKHApKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">SURhdGFSZWNvcmQ8SUdlb0lwRGF0YTxHZW9MaXRlQ2l0eUxvY2F0aW9uPj4=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">PwogICAgICAgICAgICAgICAgICAgIC5Db252ZXJ0UGF5bG9hZChwID0+IG5ldyBNYXhtaW5kR2VvSXBEb2NQYXlsb2FkKHApKQ==</text>
+      </register>
+      <register name="7" type="4">
         <text>MaxmindGeoIpDocPayload</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYXRpb24gPSBkYXRhWyJsb2NhdGlvbiJdOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">bXVsdGlTZWFyY2hSZXNwb25zZS5HZXRSZXNwb25zZTxvYmplY3Q+KHJlY29yZHNHcm91cC5LZXkpCg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuQmFzZVByb2Nlc3MocmVjb3JkcywgdGhpcy5TdWJQcm9jZXNzb3JzLCB0aGlzLl9rZXlOYW1lLCB0aGlzLkNyZWF0ZVBheWxvYWQsIGlzUmVwcm9jZXNzaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYXRpb24gPSBkYXRhWyJsb2NhdGlvbiJdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXVsdGlTZWFyY2hSZXNwb25zZS5HZXRSZXNwb25zZTxvYmplY3Q+KHJlY29yZHNHcm91cC5LZXkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1126,12 +1126,12 @@
         <entry>:reg</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action AceAction</entry>
-        <entry>action FindUsages</entry>
         <entry>REG</entry>
         <entry>reg</entry>
         <entry>action RenameElement</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
