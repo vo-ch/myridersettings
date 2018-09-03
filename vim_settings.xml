@@ -88,7 +88,7 @@
         <mark key="." line="100" column="28" />
         <mark key="^" line="100" column="27" />
       </file>
-      <file name="/Dummy.cs" timestamp="1535969268587">
+      <file name="/Dummy.cs" timestamp="1535979132117">
         <mark key="'" line="0" column="80" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -137,11 +137,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/464F15D5-8976-45E0-A883-0A1115E74A46/81/155de0c3/Path.cs" timestamp="1535038060167">
         <mark key="'" line="515" column="38" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/BaseLogsProcessor.cs" timestamp="1535719769999">
-        <mark key="[" line="32" column="24" />
-        <mark key="]" line="32" column="24" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="32" column="24" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/BaseLogsProcessor.cs" timestamp="1535978608558">
+        <mark key="'" line="20" column="52" />
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BB69672E-DB11-4FEF-A8EB-73F0FCE43924/1B/HttpClientFactory.cs" timestamp="1535036060079">
         <mark key="'" line="29" column="55" />
@@ -460,7 +461,7 @@
         <mark key="^" line="56" column="29" />
         <mark key="." line="57" column="29" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/IndexDataReader.cs" timestamp="1535719118285">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/IndexDataReader.cs" timestamp="1535978387556">
         <mark key="'" line="29" column="26" />
         <mark key="[" line="14" column="8" />
         <mark key="]" line="14" column="11" />
@@ -639,7 +640,7 @@
         <mark key="." line="49" column="57" />
         <mark key="^" line="49" column="57" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionIndex.cs" timestamp="1535974176153">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionIndex.cs" timestamp="1535978760259">
         <mark key="'" line="12" column="44" />
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="47" />
@@ -717,12 +718,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" timestamp="1534780228497">
-        <mark key="'" line="54" column="79" />
-        <mark key="[" line="54" column="87" />
-        <mark key="]" line="54" column="101" />
-        <mark key="." line="54" column="87" />
-        <mark key="^" line="54" column="39" />
+      <file name="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" timestamp="1535979534223">
+        <mark key="'" line="43" column="40" />
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="43" column="27" />
+        <mark key="." line="42" column="27" />
+        <mark key="^" line="43" column="27" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseSearchActions/CourseSearchActionsProcessor.cs" timestamp="1535720550529">
         <mark key="'" line="48" column="137" />
@@ -881,9 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="17" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
-      <jump line="9" column="32" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/MainProcessor.cs" />
-      <jump line="9" column="51" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/BaseRawLogsProcessor.cs" />
       <jump line="20" column="67" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/MainProcessor.cs" />
       <jump line="51" column="42" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
       <jump line="53" column="11" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
@@ -981,10 +979,13 @@
       <jump line="8" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/ProfileSectionActions/ProfileSectionActionsIndex.cs" />
       <jump line="21" column="38" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/LogsList.cs" />
       <jump line="12" column="44" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionIndex.cs" />
+      <jump line="20" column="52" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/BaseLogsProcessor.cs" />
+      <jump line="42" column="40" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
+      <jump line="43" column="40" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>DefaultDoc</text>
+        <text>updated</text>
       </register>
       <register name="&quot;" type="4">
         <text />
@@ -1004,7 +1005,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>DefaultDoc</text>
+        <text>updated</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1019,13 +1020,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RGF0YVJlY29yZDxvYmplY3Q+</text>
+        <text encoding="base64">IT0gbnVsbCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURG9jdW1lbnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>cu_ui-action</text>
+        <text>updatedDate</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkNvcmUuTW9kZWxzOwo=</text>
