@@ -800,11 +800,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2543D745-3F4A-4163-9E53-63FA19BC1F68/4b/57498022/CsvReader.cs" timestamp="1535378817141">
         <mark key="'" line="59" column="22" />
       </file>
-      <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1536052102358">
+      <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1536053102779">
         <mark key="'" line="120" column="45" />
-        <mark key="[" line="64" column="43" />
-        <mark key="]" line="64" column="44" />
-        <mark key="." line="64" column="44" />
+        <mark key="[" line="64" column="41" />
+        <mark key="]" line="64" column="41" />
+        <mark key="." line="64" column="41" />
         <mark key="^" line="64" column="44" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessor.cs" timestamp="1535720499511">
@@ -1103,7 +1103,7 @@
         <text>noPayload</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action CommentByBlockComment</text>
       </register>
     </registers>
     <search>
@@ -1146,7 +1146,6 @@
         <entry encoding="base64">YWN0aW9ubGlzdCA8Qy1IPg==</entry>
         <entry>actionlist symbol</entry>
         <entry>actionlist goto</entry>
-        <entry>action CommentByBlockComment</entry>
         <entry>let @k = ''</entry>
         <entry>:reg</entry>
         <entry>action AceAction</entry>
@@ -1157,8 +1156,9 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByBlockComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
