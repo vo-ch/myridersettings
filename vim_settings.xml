@@ -79,10 +79,10 @@
         <mark key="^" line="11" column="32" />
         <mark key="." line="11" column="32" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/appsettings.json" timestamp="1534409473928">
-        <mark key="'" line="103" column="1" />
-        <mark key="[" line="100" column="28" />
-        <mark key="]" line="100" column="68" />
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/appsettings.json" timestamp="1536051900766">
+        <mark key="'" line="3" column="68" />
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="61" />
         <mark key="." line="100" column="28" />
         <mark key="^" line="100" column="27" />
       </file>
@@ -800,12 +800,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2543D745-3F4A-4163-9E53-63FA19BC1F68/4b/57498022/CsvReader.cs" timestamp="1535378817141">
         <mark key="'" line="59" column="22" />
       </file>
-      <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1533573000607">
+      <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1536052102358">
         <mark key="'" line="120" column="45" />
-        <mark key="[" line="128" column="20" />
-        <mark key="]" line="128" column="20" />
-        <mark key="." line="128" column="20" />
-        <mark key="^" line="128" column="20" />
+        <mark key="[" line="64" column="43" />
+        <mark key="]" line="64" column="44" />
+        <mark key="." line="64" column="44" />
+        <mark key="^" line="64" column="44" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessor.cs" timestamp="1535720499511">
         <mark key="'" line="43" column="66" />
@@ -909,7 +909,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="80" filename="/Dummy.cs" />
       <jump line="30" column="8" filename="C:/projects/cu-data-reporting/Core/Models/CourseRecord.cs" />
       <jump line="5" column="44" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/Payloads/UiCategoryActionData.cs" />
       <jump line="79" column="55" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
@@ -1009,6 +1008,7 @@
       <jump line="53" column="11" filename="C:/projects/cu-data-reporting/Client/DataCollectionService.cs" />
       <jump line="23" column="41" filename="C:/projects/cu-data-reporting/Client/DataCollectionService.cs" />
       <jump line="118" column="40" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" />
+      <jump line="3" column="68" filename="C:/projects/Auth-Api/Auth/src/Auth.API/appsettings.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1047,16 +1047,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>ccToken</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>Da</text>
       </register>
       <register name="0" type="4">
-        <text>IPAddress</text>
+        <text>Vfjz6HEMYUwQmvnw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJewoJCQkJQ2xpZW50Q3JlZGVudGlhbHNUb2tlbiA9IGNjVG9rZW4sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1076,40 +1076,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElIdHRwQ29udGV4dEFjY2Vzc29yIGh0dHBDb250ZXh0QWNjZXNzb3I7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>UrlToDb</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIElIdHRwQ29udGV4dEFjY2Vzc29yIGh0dHBDb250ZXh0QWNjZXNzb3I7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGlwID0gdGhpcy5odHRwQ29udGV4dEFjY2Vzc29yLkh0dHBDb250ZXh0LkNvbm5lY3Rpb24uUmVtb3RlSXBBZGRyZXNzOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Z3JvdXBlZEJ5UGF5bG9hZC5GaXJzdE9yRGVmYXVsdCh4ID0+IHguS2V5ID09IGhhc1BheWxvYWQpPy5Ub0xpc3QoKQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ5UGF5bG9hZCA9IGdyb3VwZWRCeVBheWxvYWQuVG9MaXN0KCk7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>[]</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="4">
+        <text>[]</text>
+      </register>
+      <register name="9" type="4">
         <text>noPayload</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChyZWNvcmRzR3JvdXAuS2V5ID09ICIzNC4yMTIuNjAuMTIwIikKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShyZWNvcmRzR3JvdXAuS2V5KTsKICAgICAgICAgICAgICAgIH0K</text>
-      </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">LCA=</last-search>
+      <last-search>Da</last-search>
       <last-offset />
-      <last-pattern encoding="base64">LCA=</last-pattern>
+      <last-pattern>Da</last-pattern>
       <last-replace>profile</last-replace>
       <last-substitute encoding="base64">XDxURG9jdW1lbnRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1117,7 +1117,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create a co</entry>
         <entry>manage</entry>
         <entry>render</entry>
         <entry encoding="base64">XDxzdGF0dXNcPg==</entry>
@@ -1137,9 +1136,9 @@
         <entry encoding="base64">XDxWZXJpZnlVc2VyXD4=</entry>
         <entry>Lo</entry>
         <entry encoding="base64">LCA=</entry>
+        <entry>Da</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
         <entry>actionlist Error</entry>
         <entry>actionlist bas</entry>
         <entry>actionlist basesym</entry>
@@ -1150,15 +1149,16 @@
         <entry>action CommentByBlockComment</entry>
         <entry>let @k = ''</entry>
         <entry>:reg</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action AceAction</entry>
         <entry>REG</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>reg</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
