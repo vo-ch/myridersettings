@@ -557,10 +557,10 @@
         <mark key="]" line="9" column="17" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/CommonProcessors/PlayCourse/PlayCourseActionProcessor.cs" timestamp="1536249693706">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/CommonProcessors/PlayCourse/PlayCourseActionProcessor.cs" timestamp="1536251597540">
         <mark key="'" line="11" column="45" />
-        <mark key="[" line="29" column="61" />
-        <mark key="]" line="30" column="19" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="73" />
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="19" />
       </file>
@@ -1044,6 +1044,12 @@
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="33" />
       </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/CommonProcessors/CourseRegistered/CourseRegisteredProcessor.cs" timestamp="1536251602190">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="27" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionsProcessor.cs" timestamp="1536070628054">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="67" />
@@ -1210,16 +1216,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>UserIndex</text>
       </register>
       <register name="/" type="4">
         <text>cu</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">SURhdGFSZWNvcmQ8SVBsYXlDb3Vyc2VBY3Rpb25QYXlsb2FkPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgciA9PiAkImlkX3tyPy5Vc2VyRGF0YT8uSWR9X3tyPy5QYXlsb2FkPy5Db3Vyc2U/LlJlbGVhc2VJZH0iLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgciA9PiByPy5Vc2VyRGF0YT8uSWQsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1280,34 +1286,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlY29yZHMKICAgICAgICAgICAgICAgIC5XaGVyZShyID0+IHIgIT0gbnVsbCkKICAgICAgICAgICAgICAgIC5Hcm91cEJ5KHRoaXMuR2V0SWQpCiAgICAgICAgICAgICAgICAuU2VsZWN0KHRoaXMuR2VuZXJhdGVVcGRhdGVPcGVyYXRpb24pCiAgICAgICAgICAgICAgICAuVG9MaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PD4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlY29yZHMKICAgICAgICAgICAgICAgIC5XaGVyZShyID0+IHIgIT0gbnVsbCkKICAgICAgICAgICAgICAgIC5Hcm91cEJ5KHRoaXMuR2V0SWQpCiAgICAgICAgICAgICAgICAuU2VsZWN0KHRoaXMuR2VuZXJhdGVVcGRhdGVPcGVyYXRpb24pCiAgICAgICAgICAgICAgICAuVG9MaXN0KCk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNvdXJzZUNsaWNrPXt0aGlzLm9uTW9yZUNvdXJzZUNsaWNrfQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">SURhdGFSZWNvcmQ8SVBsYXlDb3Vyc2VBY3Rpb25QYXlsb2FkPg==</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">PD4=</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text encoding="base64">SURhdGFSZWNvcmQ8SVBsYXlDb3Vyc2VBY3Rpb25QYXlsb2FkPg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PD4=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">SURhdGFSZWNvcmQ8SVBsYXlDb3Vyc2VBY3Rpb25QYXlsb2FkPg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgSVByb2MgPSBDdURhdGFSZXBvcnRpbmcuRGF0YU1hbmFnbWVudC5Qcm9jZXNzb3JzLklQcm9jZXNzb3I8VD47Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5BZ2dyZWdhdGVkRW50aXRpZXMuQ291cnNlUmVsZWFzZTsK</text>
+        <text encoding="base64">dXNpbmcgSVByb2MgPSBDdURhdGFSZXBvcnRpbmcuRGF0YU1hbmFnbWVudC5Qcm9jZXNzb3JzLklQcm9jZXNzb3I8VD47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
