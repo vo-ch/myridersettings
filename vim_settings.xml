@@ -485,6 +485,9 @@
         <mark key="^" line="8" column="76" />
         <mark key="." line="8" column="76" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" timestamp="1536222230588">
+        <mark key="'" line="248" column="31" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/InstructorProfileLoad/InstructorProfileLoadPayload.cs" timestamp="1533904547931">
         <mark key="'" line="7" column="56" />
         <mark key="[" line="11" column="57" />
@@ -579,8 +582,8 @@
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="39" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1536158618827">
-        <mark key="'" line="531" column="13" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1536222426918">
+        <mark key="'" line="34" column="16" />
         <mark key="[" line="522" column="0" />
         <mark key="]" line="522" column="0" />
         <mark key="." line="522" column="0" />
@@ -675,12 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/components/payment/stores/PaymentStore.ts" />
-      <jump line="262" column="27" filename="C:/projects/UI-Web/ClientApp/views/components/payment/stores/PaymentStore.ts" />
-      <jump line="255" column="17" filename="C:/projects/UI-Web/ClientApp/views/components/payment/stores/PaymentStore.ts" />
-      <jump line="18" column="8" filename="C:/projects/UI-Web/ClientApp/stores/extensions/courseDetails.ts" />
-      <jump line="11" column="39" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/User/Course/Register/CourseRegisterActionIndex.cs" />
-      <jump line="0" column="0" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/User/CommonProcessors/CourseRegistered/CourseRegisteredScript.painless" />
       <jump line="30" column="59" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/User/Course/Register/CourseRegisterActionProcessor.cs" />
       <jump line="16" column="46" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/User/Course/Register/CourseRegisterActionProcessor.cs" />
       <jump line="16" column="36" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/PageLoadProcessor.cs" />
@@ -765,7 +762,6 @@
       <jump line="505" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="20" column="48" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Common/DefaultCoursePlayerActionProcessor.cs" />
       <jump line="496" column="82" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="531" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="8" column="4" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" />
       <jump line="1" column="22" filename="/Dummy.txt" />
       <jump line="0" column="0" filename="/Dummy.txt" />
@@ -775,6 +771,13 @@
       <jump line="218" column="47" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
       <jump line="88" column="4" filename="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" />
       <jump line="16" column="46" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/SubProcessors/CourseRegistered/CourseRegisteredSubProcessor.cs" />
+      <jump line="531" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="247" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="33" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/services/CoursePlayerService.ts" />
+      <jump line="248" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
+      <jump line="180" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="421" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="34" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -917,7 +920,7 @@ Track &quot;Learning Tab - Playing a course for the first time &quot;</text>
         <text encoding="base64">CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgYWN0aXZpdHlJZDogY3VycmVudEFjdGl2aXR5ID8gY3VycmVudEFjdGl2aXR5LmlkIDogJycsCiAgICAgICAgICAgIGFjdGl2aXR5VHlwZTogY3VycmVudEFjdGl2aXR5ID8gY3VycmVudEFjdGl2aXR5LmFjdGl2aXR5VHlwZSA6ICdvdGhlcicsCiAgICAgICAgICAgIGxlc3NvbklkOiBwcm9ncmVzc1N0b3JlLmN1cnJlbnRMZXNzb25CbG9jayA/IHByb2dyZXNzU3RvcmUuY3VycmVudExlc3NvbkJsb2NrLmlkIDogJycsCiAgICAgICAgICAgIGxlc3Nvbk5hbWU6IHByb2dyZXNzU3RvcmUuY3VycmVudExlc3NvbkJsb2NrID8gcHJvZ3Jlc3NTdG9yZS5jdXJyZW50TGVzc29uQmxvY2sudGl0bGUgOiAnJywKICAgICAgICAgICAgY2hhcHRlcklkOiBwcm9ncmVzc1N0b3JlLmN1cnJlbnRMZXNzb25CbG9jayA/IHByb2dyZXNzU3RvcmUuY3VycmVudENoYXB0ZXJCbG9jay5pZCA6ICcnLAogICAgICAgICAgICBjaGFwdGVyTmFtZTogcHJvZ3Jlc3NTdG9yZS5jdXJyZW50TGVzc29uQmxvY2sgPyBwcm9ncmVzc1N0b3JlLmN1cnJlbnRDaGFwdGVyQmxvY2sudGl0bGUgOiAnJywKICAgICAgICAgICAgY291cnNlOiBhcHBTdG9yZXMuZGF0YUNvbGxlY3Rpb25TdG9yZS5leHRyYWN0QmFzZUxvZ0NvdXJzZURhdGEoY291cnNlLCBudWxsLCB7</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
@@ -969,10 +972,10 @@ Track &quot;Learning Tab - Playing a course for the first time &quot;</text>
         <entry>action CommentByBlockComment</entry>
         <entry>reg</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoSuperMethod</entry>
-        <entry>action FindUsages</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoSuperMethod</entry>
       </history-cmd>
       <history-expr />
       <history-input />
