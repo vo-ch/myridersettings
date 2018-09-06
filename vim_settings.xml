@@ -131,11 +131,11 @@
         <mark key="^" line="31" column="29" />
         <mark key="." line="32" column="29" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/SubProcessors/CourseCardClickSubprocessor.cs" timestamp="1536239411137">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="26" column="1" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="26" column="1" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/SubProcessors/CourseCardClickSubprocessor.cs" timestamp="1536241724468">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="43" />
+        <mark key="^" line="22" column="89" />
+        <mark key="." line="22" column="91" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/BaseLogsProcessor.cs" timestamp="1535978608558">
         <mark key="'" line="20" column="52" />
@@ -343,11 +343,11 @@
         <mark key="^" line="39" column="24" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/LearningTabActionsProcessor.cs" timestamp="1536240195125">
-        <mark key="'" line="27" column="103" />
-        <mark key="[" line="17" column="76" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
+        <mark key="'" line="26" column="103" />
+        <mark key="[" line="16" column="76" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/Models/GeoLiteCityIp4.cs" timestamp="1535381972961">
         <mark key="[" line="3" column="0" />
@@ -708,11 +708,11 @@
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="33" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/LearningTabActionsProcessors.cs" timestamp="1536239870291">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="17" column="35" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/LearningTabActionsProcessors.cs" timestamp="1536241744389">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="17" column="70" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.Utils/Services/GeoLocation/Models/GeoIpData.cs" timestamp="1535967759990">
         <mark key="'" line="8" column="44" />
@@ -1097,16 +1097,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>CategoryPageLoadProcessor</text>
       </register>
       <register name="/" type="4">
         <text>cu</text>
       </register>
       <register name="0" type="4">
-        <text>LearningTabActionPayload</text>
+        <text>CourseCardClickSubprocessor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnZlcnRlZFJlY29yZHMgPSByZWNvcmRzLlNlbGVjdChyID0+IHIuQ29udmVydFBheWxvYWQocCA9PiBuZXcgTGVhcm5pbmdUYWJBY3Rpb25QYXlsb2FkKHApKSkuVG9MaXN0KCk7CiAgICAgICAgICAgIHJldHVybiB0aGlzLkJhc2VQcm9jZXNzKGNvbnZlcnRlZFJlY29yZHMsIGlzUmVwcm9jZXNzaW5nKS5Ub0xpc3QoKTsK</text>
+        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5SYXdMb2dzLlVpLlBhZ2VMb2FkLkNhdGVnb3J5UGFnZUxvYWQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1167,34 +1167,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5SYXdMb2dzLlVpLlByb2ZpbGVTZWN0aW9uQWN0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnZlcnRlZFJlY29yZHMgPSByZWNvcmRzLlNlbGVjdChyID0+IHIuQ29udmVydFBheWxvYWQocCA9PiBuZXcgTGVhcm5pbmdUYWJBY3Rpb25QYXlsb2FkKHApKSkuVG9MaXN0KCk7CiAgICAgICAgICAgIHJldHVybiB0aGlzLkJhc2VQcm9jZXNzKGNvbnZlcnRlZFJlY29yZHMsIGlzUmVwcm9jZXNzaW5nKS5Ub0xpc3QoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQ3VEYXRhUmVwb3J0aW5nLkRhdGFNYW5hZ21lbnQuSW5kZXhEZWZlbml0aW9ucy5SYXdMb2dzLlVpLlByb2ZpbGVTZWN0aW9uQWN0aW9uczsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNvdXJzZUNsaWNrPXt0aGlzLm9uTW9yZUNvdXJzZUNsaWNrfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBVc2VyUHJvZmlsZSAKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIEJpbyB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBIZWFkbGluZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBQcm9maWxlUGljdHVyZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBGaXJzdE5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTGFzdE5hbWUgeyBnZXQ7IHNldDsgfQoKICAgICAgICBwdWJsaWMgVXNlclByb2ZpbGUoSk9iamVjdCBkYXRhKSAKICAgICAgICB7CiAgICAgICAgICAgIHRoaXMuQmlvID0gZGF0YVsiYmlvIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5IZWFkbGluZSA9IGRhdGFbImhlYWRsaW5lIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5Qcm9maWxlUGljdHVyZSA9IGRhdGFbInByb2ZpbGVQaWN0dXJlIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5GaXJzdE5hbWUgPSBkYXRhWyJmaXJzdE5hbWUiXT8uVmFsdWU8c3RyaW5nPigpOwogICAgICAgICAgICB0aGlzLkxhc3ROYW1lID0gZGF0YVsibGFzdE5hbWUiXT8uVmFsdWU8c3RyaW5nPigpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBVc2VyUHJvZmlsZSAKICAgIHsKICAgICAgICBwdWJsaWMgc3RyaW5nIEJpbyB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBIZWFkbGluZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBQcm9maWxlUGljdHVyZSB7IGdldDsgc2V0OyB9CiAgICAgICAgcHVibGljIHN0cmluZyBGaXJzdE5hbWUgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgTGFzdE5hbWUgeyBnZXQ7IHNldDsgfQoKICAgICAgICBwdWJsaWMgVXNlclByb2ZpbGUoSk9iamVjdCBkYXRhKSAKICAgICAgICB7CiAgICAgICAgICAgIHRoaXMuQmlvID0gZGF0YVsiYmlvIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5IZWFkbGluZSA9IGRhdGFbImhlYWRsaW5lIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5Qcm9maWxlUGljdHVyZSA9IGRhdGFbInByb2ZpbGVQaWN0dXJlIl0/LlZhbHVlPHN0cmluZz4oKTsKICAgICAgICAgICAgdGhpcy5GaXJzdE5hbWUgPSBkYXRhWyJmaXJzdE5hbWUiXT8uVmFsdWU8c3RyaW5nPigpOwogICAgICAgICAgICB0aGlzLkxhc3ROYW1lID0gZGF0YVsibGFzdE5hbWUiXT8uVmFsdWU8c3RyaW5nPigpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgInN1YmNhdGVnb3J5IiwgbmV3IFN1YmNhdGVnb3J5UGFnZUxvYWRQcm9jZXNzb3IoaW5kZXgsIGVzQ2xpZW50KSB9LAogICAgICAgICAgICAgICAgeyAiY291cnNlLXBsYXllciIsIG5ldyBDb3Vyc2VQbGF5ZXJMb2FkUHJvY2Vzc29yKGluZGV4LCBlc0NsaWVudCkgfSwKICAgICAgICAgICAgICAgIHsgImNvdXJzZS1zZWFyY2giLCBuZXcgQ291cnNlU2VhcmNoTG9hZFByb2Nlc3NvcihpbmRleCwgZXNDbGllbnQpIH0sCiAgICAgICAgICAgICAgICB7ICJjb3Vyc2UtZGV0YWlscyIsIG5ldyBDb3Vyc2VEZXRhaWxzTG9hZFByb2Nlc3NvcihpbmRleCwgZXNDbGllbnQpIH0sCiAgICAgICAgICAgICAgICB7ICJpbnN0cnVjdG9yLXByb2ZpbGUiLCBuZXcgSW5zdHJ1Y3RvclByb2ZpbGVMb2FkUHJvY2Vzc29yKGluZGV4LCBlc0NsaWVudCkgfSwK</text>
+        <text encoding="base64">ewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgInN1YmNhdGVnb3J5IiwgbmV3IFN1YmNhdGVnb3J5UGFnZUxvYWRQcm9jZXNzb3IoaW5kZXgsIGVzQ2xpZW50KSB9LAogICAgICAgICAgICAgICAgeyAiY291cnNlLXBsYXllciIsIG5ldyBDb3Vyc2VQbGF5ZXJMb2FkUHJvY2Vzc29yKGluZGV4LCBlc0NsaWVudCkgfSwKICAgICAgICAgICAgICAgIHsgImNvdXJzZS1zZWFyY2giLCBuZXcgQ291cnNlU2VhcmNoTG9hZFByb2Nlc3NvcihpbmRleCwgZXNDbGllbnQpIH0sCiAgICAgICAgICAgICAgICB7ICJjb3Vyc2UtZGV0YWlscyIsIG5ldyBDb3Vyc2VEZXRhaWxzTG9hZFByb2Nlc3NvcihpbmRleCwgZXNDbGllbnQpIH0sCiAgICAgICAgICAgICAgICB7ICJpbnN0cnVjdG9yLXByb2ZpbGUiLCBuZXcgSW5zdHJ1Y3RvclByb2ZpbGVMb2FkUHJvY2Vzc29yKGluZGV4LCBlc0NsaWVudCkgfSwKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgInN1YmNhdGVnb3J5IiwgbmV3IFN1YmNhdGVnb3J5UGFnZUxvYWRQcm9jZXNzb3IoaW5kZXgsIGVzQ2xpZW50KSB9LAogICAgICAgICAgICAgICAgeyAiY291cnNlLXBsYXllciIsIG5ldyBDb3Vyc2VQbGF5ZXJMb2FkUHJvY2Vzc29yKGluZGV4LCBlc0NsaWVudCkgfSwKICAgICAgICAgICAgICAgIHsgImNvdXJzZS1zZWFyY2giLCBuZXcgQ291cnNlU2VhcmNoTG9hZFByb2Nlc3NvcihpbmRleCwgZXNDbGllbnQpIH0sCiAgICAgICAgICAgICAgICB7ICJjb3Vyc2UtZGV0YWlscyIsIG5ldyBDb3Vyc2VEZXRhaWxzTG9hZFByb2Nlc3NvcihpbmRleCwgZXNDbGllbnQpIH0sCiAgICAgICAgICAgICAgICB7ICJpbnN0cnVjdG9yLXByb2ZpbGUiLCBuZXcgSW5zdHJ1Y3RvclByb2ZpbGVMb2FkUHJvY2Vzc29yKGluZGV4LCBlc0NsaWVudCkgfSwK</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSVVzZXIgfSBmcm9tICdDbGllbnRBcHAvbW9kZWxzL3VzZXIvSVVzZXInOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgInN1YmNhdGVnb3J5IiwgbmV3IFN1YmNhdGVnb3J5UGFnZUxvYWRQcm9jZXNzb3IoaW5kZXgsIGVzQ2xpZW50KSB9LAogICAgICAgICAgICAgICAgeyAiY291cnNlLXBsYXllciIsIG5ldyBDb3Vyc2VQbGF5ZXJMb2FkUHJvY2Vzc29yKGluZGV4LCBlc0NsaWVudCkgfSwKICAgICAgICAgICAgICAgIHsgImNvdXJzZS1zZWFyY2giLCBuZXcgQ291cnNlU2VhcmNoTG9hZFByb2Nlc3NvcihpbmRleCwgZXNDbGllbnQpIH0sCiAgICAgICAgICAgICAgICB7ICJjb3Vyc2UtZGV0YWlscyIsIG5ldyBDb3Vyc2VEZXRhaWxzTG9hZFByb2Nlc3NvcihpbmRleCwgZXNDbGllbnQpIH0sCiAgICAgICAgICAgICAgICB7ICJpbnN0cnVjdG9yLXByb2ZpbGUiLCBuZXcgSW5zdHJ1Y3RvclByb2ZpbGVMb2FkUHJvY2Vzc29yKGluZGV4LCBlc0NsaWVudCkgfSwKICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhcmdldENvdXJzZT86IElDb3Vyc2U7CiAgICBsZXNzb25OYW1lPzogc3RyaW5nOwogICAgbGVzc29uSWQ/OiBzdHJpbmc7CiAgICBjaGFwdGVySWQ/OiBzdHJpbmc7CiAgICBjaGFwdGVyTmFtZT86IHN0cmluZzsKICAgIGlzRXhwYW5kPzogYm9vbGVhbjsKICAgIGluc3RydWN0b3I/OiBJVXNlcjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSVVzZXIgfSBmcm9tICdDbGllbnRBcHAvbW9kZWxzL3VzZXIvSVVzZXInOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
