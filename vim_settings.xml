@@ -84,10 +84,10 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/appsettings.json" timestamp="1536327605488">
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/appsettings.json" timestamp="1536581174120">
         <mark key="'" line="89" column="24" />
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="3" column="61" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="102" column="2" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/instructor-card/InstructorCard.tsx" timestamp="1533824557696">
         <mark key="'" line="55" column="30" />
@@ -283,6 +283,12 @@
         <mark key="]" line="7" column="67" />
         <mark key="^" line="7" column="67" />
         <mark key="." line="7" column="67" />
+      </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Extensions/ClaimPrincipalConvertExtensions.cs" timestamp="1536581432608">
+        <mark key="[" line="9" column="88" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/User/IndexDefinitions/UserEmails/CommonProcessors/UserRegistered/UserRegisteredScript.painless" timestamp="1534341947111">
         <mark key="'" line="16" column="8" />
@@ -528,12 +534,12 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" timestamp="1536579836579">
-        <mark key="'" line="77" column="27" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="^" line="115" column="42" />
-        <mark key="." line="227" column="0" />
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" timestamp="1536581407959">
+        <mark key="'" line="103" column="67" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="11" />
+        <mark key="^" line="102" column="11" />
+        <mark key="." line="102" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/69E7033D-93F1-4CB7-8A46-F0C8BCE97F29/48/dd180267/DataRecordBase.cs" timestamp="1536328607044">
         <mark key="'" line="30" column="19" />
@@ -790,10 +796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="26" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="37" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="90" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="537" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="3" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -890,6 +892,10 @@
       <jump line="73" column="40" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" />
       <jump line="104" column="63" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" />
       <jump line="77" column="27" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" />
+      <jump line="89" column="90" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" />
+      <jump line="13" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/1e/fafa6248/IdentityServerConstants.cs" />
+      <jump line="103" column="67" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" />
+      <jump line="9" column="88" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Extensions/ClaimPrincipalConvertExtensions.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -933,8 +939,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlRm9ybWF0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>ExternalLoginCallback</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAiRGF0YUFuYWx5dGljcyI6IHsKICAgICJEYXRhQW5hbHl0aWNzUHV0UmVjb3Jkc1VybCI6ICJodHRwczovL2U1aTRqNmI0MjIuZXhlY3V0ZS1hcGkudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20vcWEvcHV0cmVjb3JkcyIsCiAgICAiRGF0YUFuYWx5dGljc0FwaUtleSI6ICJQb3dsejhudkxlOTVXSnJ3YlBwN0Q5MHliMWlrcU94bzI0T3BXR2oyIiwKICAgICJTb3VyY2VOYW1lIjogImF1dGgtbG9jYWwiCiAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Rml4IGxpYiB2ZXJzaW9uCg==</text>
