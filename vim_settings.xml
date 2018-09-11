@@ -668,12 +668,12 @@
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="39" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1536670279522">
-        <mark key="'" line="490" column="33" />
-        <mark key="[" line="495" column="0" />
-        <mark key="]" line="495" column="53" />
-        <mark key="^" line="500" column="20" />
-        <mark key="." line="495" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1536671611755">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="32" column="31" />
+        <mark key="." line="32" column="31" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1536667375837">
         <mark key="'" line="10" column="28" />
@@ -799,11 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="48" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Common/DefaultCoursePlayerActionProcessor.cs" />
-      <jump line="496" column="82" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="8" column="4" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" />
-      <jump line="1" column="22" filename="/Dummy.txt" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="183" column="71" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
       <jump line="218" column="47" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
       <jump line="88" column="4" filename="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" />
@@ -889,16 +884,21 @@
       <jump line="248" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
       <jump line="104" column="101" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="503" column="70" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="10" column="28" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" />
       <jump line="326" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="61" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="317" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="499" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="488" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="80" column="4" filename="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" />
       <jump line="490" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="531" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="488" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="503" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="165" column="49" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="317" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="497" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="498" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="32" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="3765" column="20" filename="C:/projects/UI-Web/node_modules/@types/node/index.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -937,13 +937,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcyAmJiA=</text>
+        <text>util</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dBY3Rpb25cPg==</text>
+        <text>lodash</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3YXRjaGVkRHVyYXRpb24gPSB0aGlzLndhdGNoZWREdXJhdGlvbjsK</text>
+      <register name="0" type="4">
+        <text>logPlayStateChange</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBwcmV2V2F0Y2hlZER1cmF0aW9uID0gdGhpcy5wcmV2V2F0Y2hlZER1cmF0aW9uOwogICAgICAgIGNvbnN0IHdhdGNoZWRTaW5jZUxhc3RMb2cgPSB3YXRjaGVkRHVyYXRpb24gLSBwcmV2V2F0Y2hlZER1cmF0aW9uOwogICAgICAgIHRoaXMucHJldldhdGNoZWREdXJhdGlvbiA9IHdhdGNoZWREdXJhdGlvbjsK</text>
@@ -1035,9 +1035,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dBY3Rpb25cPg==</last-search>
+      <last-search>lodash</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dBY3Rpb25cPg==</last-pattern>
+      <last-pattern>lodash</last-pattern>
       <last-replace />
       <last-substitute>cu_</last-substitute>
       <last-dir>1</last-dir>
@@ -1045,9 +1045,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJJbnN0cnVjdG9yQ291cnNlc1w+</entry>
-        <entry encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</entry>
-        <entry>)</entry>
         <entry>subty</entry>
         <entry>ex</entry>
         <entry>hasFi</entry>
@@ -1065,6 +1062,9 @@
         <entry encoding="base64">XDxkYXRlRm9ybWF0XD4=</entry>
         <entry>watch</entry>
         <entry encoding="base64">XDxsb2dBY3Rpb25cPg==</entry>
+        <entry>'play</entry>
+        <entry encoding="base64">XDxpc051bWJlclw+</entry>
+        <entry>lodash</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist base</entry>
