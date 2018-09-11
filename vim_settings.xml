@@ -652,8 +652,8 @@
         <mark key="." line="135" column="0" />
         <mark key="^" line="134" column="45" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1536155046124">
-        <mark key="'" line="36" column="33" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1536668797765">
+        <mark key="'" line="326" column="47" />
       </file>
       <file name="/Dummy.txt" timestamp="1536667837867">
         <mark key="'" line="0" column="0" />
@@ -666,8 +666,8 @@
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="39" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1536667373284">
-        <mark key="'" line="503" column="70" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1536668816189">
+        <mark key="'" line="490" column="20" />
         <mark key="[" line="178" column="69" />
         <mark key="]" line="178" column="85" />
         <mark key="." line="178" column="85" />
@@ -797,11 +797,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="91" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="64" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="38" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="490" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="505" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="20" column="48" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Common/DefaultCoursePlayerActionProcessor.cs" />
       <jump line="496" column="82" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -897,6 +893,10 @@
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="503" column="70" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="10" column="28" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" />
+      <jump line="326" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="61" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="317" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="490" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -938,7 +938,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>watch</text>
+        <text encoding="base64">XDxsb2dBY3Rpb25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>watched-time-update</text>
@@ -1029,13 +1029,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>watch</last-search>
+      <last-search encoding="base64">XDxsb2dBY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>watch</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dBY3Rpb25cPg==</last-pattern>
       <last-replace />
       <last-substitute>cu_</last-substitute>
       <last-dir>1</last-dir>
@@ -1043,7 +1043,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJTaW1pbGFyQ291cnNlc1w+</entry>
         <entry encoding="base64">XDxyZW5kZXJJbnN0cnVjdG9yQ291cnNlc1w+</entry>
         <entry encoding="base64">XDxjb21wb25lbnRXaWxsTW91bnRcPg==</entry>
         <entry>)</entry>
@@ -1063,6 +1062,7 @@
         <entry encoding="base64">XDxjb3Vyc2VSZWdpc3RlcmVkXD4=</entry>
         <entry encoding="base64">XDxkYXRlRm9ybWF0XD4=</entry>
         <entry>watch</entry>
+        <entry encoding="base64">XDxsb2dBY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist base</entry>
@@ -1082,9 +1082,9 @@
         <entry>set multiple-cursors</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>reg</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
-        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
