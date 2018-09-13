@@ -259,12 +259,11 @@
         <mark key="^" line="53" column="139" />
         <mark key="." line="53" column="139" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1536767687501">
-        <mark key="'" line="124" column="4" />
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="28" column="49" />
-        <mark key="^" line="28" column="49" />
-        <mark key="." line="28" column="49" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1536834008783">
+        <mark key="[" line="128" column="124" />
+        <mark key="]" line="128" column="130" />
+        <mark key="^" line="128" column="130" />
+        <mark key="." line="128" column="130" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IExternalUserService.cs" timestamp="1536327354134">
         <mark key="'" line="7" column="28" />
@@ -790,14 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="248" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
-      <jump line="104" column="101" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="10" column="28" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" />
-      <jump line="61" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="499" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="80" column="4" filename="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" />
       <jump line="490" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="531" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="488" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -890,6 +881,14 @@
       <jump line="551" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="539" column="80" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="128" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="28" column="49" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="120" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="78" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="49" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="46" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="47" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="52" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="128" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -928,16 +927,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>: this.quality</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>speed</text>
       </register>
       <register name="0" type="4">
-        <text>speed</text>
+        <text>this.lastPlayedActivityProgress</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ0FjdGlvbihpc1BsYXlpbmcgPyAncGxheScgOiAncGF1c2UnKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5sYXN0UGxheWVkQWN0aXZpdHlQcm9ncmVzcykgewo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -992,10 +991,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVwZGF0ZVByZXZXYXRjaGVkRHVyYXRpb24oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ0FjdGlvbihpc1BsYXlpbmcgPyAncGxheScgOiAncGF1c2UnKTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQ29uY2F0KGF3YWl0IHRoaXMuX2NvdXJzZVJlZ2lzdGVyZWRQcm9jZXNzb3IuUHJvY2Vzcyhjb252ZXJ0ZWRSZWNvcmRzIGFzIElMaXN0PElEYXRhUmVjb3JkPElDb3Vyc2VDb250YWluZXI+PikpCg==</text>
@@ -1004,25 +1003,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgdGhpcy5sb2dBY3Rpb24oJ3dhdGNoZWQtdGltZS11cGRhdGUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNOdW1iZXIod2F0Y2hlZFNpbmNlTGFzdExvZykpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgd2F0Y2hlZFNpbmNlTGFzdExvZyA9IHdhdGNoZWREdXJhdGlvbiAtIHByZXZXYXRjaGVkRHVyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgdGhpcy5sb2dBY3Rpb24oJ3dhdGNoZWQtdGltZS11cGRhdGUnKTsK</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3YXRjaGVkRHVyYXRpb24gPSB0aGlzLndhdGNoZWREdXJhdGlvbjsKICAgICAgICBjb25zdCBwcmV2V2F0Y2hlZER1cmF0aW9uID0gdGhpcy5wcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcy5wcmV2V2F0Y2hlZER1cmF0aW9uOwogICAgICAgIHRoaXMucHJvZ3Jlc3NTdG9yZS5jb250ZW50UHJvZ3Jlc3MudXBkYXRlUHJldldhdGNoZWREdXJhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXNOdW1iZXIod2F0Y2hlZFNpbmNlTGFzdExvZykpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb2dyZXNzU3RvcmUuY29udGVudFByb2dyZXNzLnVwZGF0ZVByZXZXYXRjaGVkRHVyYXRpb24oKTsKY29uc3Qgd2F0Y2hlZFNpbmNlTGFzdExvZyA9IHRoaXMucHJvZ3Jlc3NTdG9yZS5jb250ZW50UHJvZ3Jlc3MudGFrZUxhc3RXYXRjaGVkRHVyYXRpb25DaHVuaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgd2F0Y2hlZFNpbmNlTGFzdExvZyA9IHdhdGNoZWREdXJhdGlvbiAtIHByZXZXYXRjaGVkRHVyYXRpb247Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoSuperMethod</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -1075,9 +1074,9 @@
         <entry>action RenameElement</entry>
         <entry>reg</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
