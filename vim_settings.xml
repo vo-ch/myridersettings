@@ -296,12 +296,12 @@
         <mark key="^" line="53" column="139" />
         <mark key="." line="53" column="139" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1536856950049">
-        <mark key="'" line="138" column="15" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1536857633364">
+        <mark key="'" line="309" column="4" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
         <mark key="^" line="66" column="3" />
-        <mark key="." line="66" column="0" />
+        <mark key="." line="361" column="0" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IExternalUserService.cs" timestamp="1536327354134">
         <mark key="'" line="7" column="28" />
@@ -740,8 +740,8 @@
         <mark key="." line="135" column="0" />
         <mark key="^" line="134" column="45" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1536850794591">
-        <mark key="'" line="183" column="41" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1536857629026">
+        <mark key="'" line="309" column="25" />
         <mark key="[" line="256" column="12" />
         <mark key="]" line="256" column="35" />
         <mark key="." line="128" column="86" />
@@ -894,10 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="121" column="84" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="375" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="353" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="305" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="265" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="15" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
@@ -934,7 +930,6 @@
       <jump line="237" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="209" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="45" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" />
-      <jump line="183" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="252" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="755" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="472" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -994,6 +989,11 @@
       <jump line="138" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="53" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="139" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="66" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="358" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="183" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="309" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="309" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1035,13 +1035,13 @@
         <text>onLoadStart</text>
       </register>
       <register name="/" type="4">
-        <text>Pla.*Video</text>
+        <text>setWa</text>
       </register>
       <register name="0" type="4">
         <text>@observable</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBvYnNlcnZhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvdXJzZVByb2dyZXNzQ29udGV4dC5yZXNldFByZXZXYXRjaGVkRHVyYXRpb24oKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1096,43 +1096,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBjb21wdXRlZAo=</text>
+        <text encoding="base64">ICAgIEBvYnNlcnZhYmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjb21wdXRlZAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQ29uY2F0KGF3YWl0IHRoaXMuX2NvdXJzZVJlZ2lzdGVyZWRQcm9jZXNzb3IuUHJvY2Vzcyhjb252ZXJ0ZWRSZWNvcmRzIGFzIElMaXN0PElEYXRhUmVjb3JkPElDb3Vyc2VDb250YWluZXI+PikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm9uQmVmb3JlU2VlaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm9uQmVmb3JlU2VlaygpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgd2F0Y2hlZFNpbmNlTGFzdExvZyA9IHRoaXMucHJvZ3Jlc3NTdG9yZS5jb250ZW50UHJvZ3Jlc3MudGFrZUxhc3RXYXRjaGVkRHVyYXRpb25DaHVuaygpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">dGhpcy5wcm9ncmVzc1N0b3JlICYmCiAgICAgICAgICAgIHRoaXMucHJvZ3Jlc3NTdG9yZS5jb250ZW50UHJvZ3Jlc3MgJiYKICAgICAgICAgICAgdGhpcy5wcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcw==</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">Y29uc3Qgd2F0Y2hlZFNpbmNlTGFzdExvZyA9IHRoaXMucHJvZ3Jlc3NTdG9yZSAmJgogICAgICAgICAgICB0aGlzLnByb2dyZXNzU3RvcmUuY29udGVudFByb2dyZXNzICYmCiAgICAgICAgICAgIHRoaXMucHJvZ3Jlc3NTdG9yZS5jb250ZW50UHJvZ3Jlc3M=</text>
+        <text encoding="base64">dGhpcy5wcm9ncmVzc1N0b3JlICYmCiAgICAgICAgICAgIHRoaXMucHJvZ3Jlc3NTdG9yZS5jb250ZW50UHJvZ3Jlc3MgJiYKICAgICAgICAgICAgdGhpcy5wcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcw==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3Qgd2F0Y2hlZFNpbmNlTGFzdExvZyA9IHRoaXMucHJvZ3Jlc3NTdG9yZSAmJgogICAgICAgICAgICB0aGlzLnByb2dyZXNzU3RvcmUuY29udGVudFByb2dyZXNzICYmCiAgICAgICAgICAgIHRoaXMucHJvZ3Jlc3NTdG9yZS5jb250ZW50UHJvZ3Jlc3M=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZ0FjdGlvbigncGF1c2UnLCApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>Pla.*Video</last-search>
+      <last-search>setWa</last-search>
       <last-offset />
-      <last-pattern>Pla.*Video</last-pattern>
+      <last-pattern>setWa</last-pattern>
       <last-replace />
       <last-substitute>cu_</last-substitute>
       <last-dir>1</last-dir>
@@ -1140,8 +1140,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qual</entry>
-        <entry>getQua</entry>
         <entry>getQ</entry>
         <entry>quali</entry>
         <entry>speed</entry>
@@ -1160,6 +1158,8 @@
         <entry>throt</entry>
         <entry encoding="base64">XDxvbkJlZm9yZVNlZWtcPg==</entry>
         <entry>Pla.*Video</entry>
+        <entry>setWath</entry>
+        <entry>setWa</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist base</entry>
@@ -1180,8 +1180,8 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>reg</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
