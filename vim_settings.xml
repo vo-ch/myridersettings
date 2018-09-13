@@ -659,12 +659,12 @@
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="79" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1536769457528">
-        <mark key="'" line="551" column="12" />
-        <mark key="[" line="83" column="13" />
-        <mark key="]" line="83" column="33" />
-        <mark key="." line="504" column="74" />
-        <mark key="^" line="504" column="74" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1536830054063">
+        <mark key="'" line="539" column="80" />
+        <mark key="[" line="539" column="81" />
+        <mark key="]" line="539" column="81" />
+        <mark key="." line="539" column="81" />
+        <mark key="^" line="539" column="81" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1536667375837">
         <mark key="'" line="10" column="28" />
@@ -698,12 +698,12 @@
         <mark key="^" line="440" column="3" />
         <mark key="." line="228" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" timestamp="1536769479370">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="25" />
+      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" timestamp="1536829979090">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/69E7033D-93F1-4CB7-8A46-F0C8BCE97F29/37/8b87f377/DataRecord`1.cs" timestamp="1536328602939">
         <mark key="'" line="10" column="39" />
@@ -790,12 +790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="67" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" />
-      <jump line="9" column="88" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Extensions/ClaimPrincipalConvertExtensions.cs" />
-      <jump line="26" column="102" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionsProcessor.cs" />
-      <jump line="27" column="55" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/User/Registration/RegistrationActionProcessor.cs" />
-      <jump line="17" column="63" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionsProcessors.cs" />
-      <jump line="22" column="95" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/SubProcessors/CourseRegistered/CourseRegisteredSubProcessor.cs" />
       <jump line="177" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="248" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
       <jump line="104" column="101" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
@@ -889,7 +883,13 @@
       <jump line="58" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="121" column="84" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="83" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="163" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="51" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="81" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="94" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="551" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="539" column="80" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="128" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -928,13 +928,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>play</text>
+        <text>: this.quality</text>
       </register>
       <register name="/" type="4">
-        <text>quali</text>
+        <text>speed</text>
       </register>
       <register name="0" type="4">
-        <text>this.progressStore.contentProgress.</text>
+        <text>speed</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmxvZ0FjdGlvbihpc1BsYXlpbmcgPyAncGxheScgOiAncGF1c2UnKTsK</text>
@@ -1026,9 +1026,9 @@
       </register>
     </registers>
     <search>
-      <last-search>quali</last-search>
+      <last-search>speed</last-search>
       <last-offset />
-      <last-pattern>quali</last-pattern>
+      <last-pattern>speed</last-pattern>
       <last-replace />
       <last-substitute>cu_</last-substitute>
       <last-dir>1</last-dir>
@@ -1036,7 +1036,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3Vyc2VSZWdpc3RlcmVkXD4=</entry>
         <entry encoding="base64">XDxkYXRlRm9ybWF0XD4=</entry>
         <entry>watch</entry>
         <entry encoding="base64">XDxsb2dBY3Rpb25cPg==</entry>
@@ -1056,6 +1055,7 @@
         <entry>getQua</entry>
         <entry>getQ</entry>
         <entry>quali</entry>
+        <entry>speed</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist base</entry>
