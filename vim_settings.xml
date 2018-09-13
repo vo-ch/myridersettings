@@ -643,10 +643,10 @@
         <mark key="." line="135" column="0" />
         <mark key="^" line="134" column="45" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1536769429441">
-        <mark key="'" line="121" column="84" />
-        <mark key="[" line="128" column="35" />
-        <mark key="]" line="128" column="86" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1536836144277">
+        <mark key="'" line="375" column="50" />
+        <mark key="[" line="256" column="12" />
+        <mark key="]" line="256" column="35" />
         <mark key="." line="128" column="86" />
         <mark key="^" line="128" column="86" />
         <mark key="n" line="48" column="12" />
@@ -789,7 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="490" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="531" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="488" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="503" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -872,7 +871,6 @@
       <jump line="360" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="361" column="54" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="58" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="121" column="84" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="83" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="163" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="51" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -889,6 +887,8 @@
       <jump line="47" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="52" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="128" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="121" column="84" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="375" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -933,7 +933,7 @@
         <text>speed</text>
       </register>
       <register name="0" type="4">
-        <text>this.lastPlayedActivityProgress</text>
+        <text>updateLastPlayedActivity</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodGhpcy5sYXN0UGxheWVkQWN0aXZpdHlQcm9ncmVzcykgewo=</text>
