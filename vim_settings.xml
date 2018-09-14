@@ -404,10 +404,10 @@
         <mark key="." line="83" column="5" />
         <mark key="^" line="83" column="5" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1536930439484">
-        <mark key="'" line="548" column="40" />
-        <mark key="[" line="836" column="0" />
-        <mark key="]" line="836" column="81" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1536932800987">
+        <mark key="'" line="836" column="8" />
+        <mark key="[" line="836" column="19" />
+        <mark key="]" line="836" column="34" />
         <mark key="." line="836" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/EntitiesList.cs" timestamp="1536847895654">
@@ -514,7 +514,7 @@
         <mark key="." line="188" column="30" />
         <mark key="^" line="188" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1536930587088">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1536932881353">
         <mark key="'" line="191" column="78" />
         <mark key="[" line="191" column="57" />
         <mark key="]" line="191" column="78" />
@@ -893,9 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="15" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CourseConsumptionIndex.cs" />
-      <jump line="16" column="84" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/EntitiesList.cs" />
-      <jump line="31" column="78" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/WatchedTimeUpdateAction/WatchedTimeUpdateActionProcessor.cs" />
       <jump line="535" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="508" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="503" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -983,14 +980,17 @@
       <jump line="851" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="210" column="77" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="185" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="76" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="417" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="531" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="539" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="645" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="540" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="630" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="548" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="629" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="540" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="76" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="630" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="646" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="836" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="191" column="78" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="573" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
     </jumps>
@@ -1031,13 +1031,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onBeforeSeek</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>onF</text>
+        <text>onPlayFlowChange</text>
       </register>
       <register name="0" type="4">
-        <text>onBeforeDurationChange</text>
+        <text>onBeforePlayFlowChange</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm9uQmVmb3JlRHVyYXRpb25DaGFuZ2UgJiYgdGhpcy5wcm9wcy5vbkJlZm9yZUR1cmF0aW9uQ2hhbmdlKCk7Cg==</text>
@@ -1129,24 +1129,16 @@
       </register>
     </registers>
     <search>
-      <last-search>onF</last-search>
+      <last-search>onPlayFlowChange</last-search>
       <last-offset />
-      <last-pattern>onF</last-pattern>
-      <last-replace />
-      <last-substitute>cu_</last-substitute>
+      <last-pattern>onPlayFlowChange</last-pattern>
+      <last-replace>onBeforePlayFlowChange</last-replace>
+      <last-substitute>onPlayFlowChange</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pause</entry>
-        <entry encoding="base64">XDxsb2dQbGF5U3RhdGVDaGFuZ2VcPg==</entry>
-        <entry>render(</entry>
-        <entry encoding="base64">XDxzZWVrVG9cPg==</entry>
-        <entry>qualitych</entry>
-        <entry>onControlsSeekChange</entry>
-        <entry>logWatchedTimeUpdate</entry>
-        <entry>take</entry>
         <entry>th</entry>
         <entry>con</entry>
         <entry>this</entry>
@@ -1159,15 +1151,16 @@
         <entry encoding="base64">XDxvbkJlZm9yZUR1cmF0aW9uQ2hhbmdlXD4=</entry>
         <entry>renderCo</entry>
         <entry>onF</entry>
+        <entry>onBefo</entry>
+        <entry>/onBeforeDurationChange/onPlayFlowChange/c</entry>
+        <entry>/onBeforeDurationChange/onPlayFlowChange</entry>
+        <entry>/onBeforeDurationChange/onPlayFlowChange/gc</entry>
+        <entry>/onBeforeDurationChange/onPlayFlowChange/g</entry>
+        <entry>onBeforeDurationChange</entry>
+        <entry>onPl.*cha</entry>
+        <entry>onPlayFlowChange</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist base</entry>
-        <entry encoding="base64">YWN0aW9ubGlzdCA8Qy1IPg==</entry>
-        <entry>actionlist symbol</entry>
-        <entry>actionlist goto</entry>
-        <entry>let @k = ''</entry>
-        <entry>:reg</entry>
-        <entry>action AceAction</entry>
         <entry>REG</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action VimVisualSwapSelections</entry>
@@ -1180,6 +1173,13 @@
         <entry>action FindUsages</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
+        <entry>s%/onBeforeDurationChange/onPlayFlowChange/c</entry>
+        <entry>s%/onBeforeDurationChange/onPlayFlowChange</entry>
+        <entry>s%/onBeforeDurationChange/onPlayFlowChange/gc</entry>
+        <entry>s%/onBeforeDurationChange/onPlayFlowChange/g</entry>
+        <entry>%s/onBeforeDurationChange/onPlayFlowChange/gc</entry>
+        <entry>%s/onPlayFlowChange/onBeforePlayFlowChange/c</entry>
+        <entry>%s/onPlayFlowChange/onBeforePlayFlowChange/gc</entry>
         <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
