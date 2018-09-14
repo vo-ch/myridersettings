@@ -518,12 +518,12 @@
         <mark key="." line="188" column="30" />
         <mark key="^" line="188" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1536939285629">
-        <mark key="'" line="582" column="71" />
-        <mark key="[" line="577" column="50" />
-        <mark key="]" line="577" column="82" />
-        <mark key="." line="577" column="82" />
-        <mark key="^" line="577" column="82" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1536941431422">
+        <mark key="'" line="280" column="14" />
+        <mark key="[" line="582" column="40" />
+        <mark key="]" line="582" column="40" />
+        <mark key="." line="582" column="40" />
+        <mark key="^" line="582" column="40" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CoursePlayerPageInitializer.cs" timestamp="1536847678740">
         <mark key="'" line="2" column="77" />
@@ -897,10 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="103" column="74" filename="C:/projects/UI-Web/Controllers/AuthController.cs" />
-      <jump line="49" column="45" filename="C:/projects/UI-Web/Services/Auth/ClientCredentialsTokenService.cs" />
-      <jump line="34" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="138" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="53" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="66" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
@@ -990,13 +986,17 @@
       <jump line="581" column="61" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="577" column="77" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="33" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="582" column="71" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="139" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="492" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="529" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="520" column="62" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="544" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="515" column="77" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="582" column="71" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="4" column="9" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="511" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="140" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="280" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1038,10 +1038,10 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>logWat</text>
+        <text>sync</text>
       </register>
       <register name="0" type="4">
-        <text>watchedSinceLastLog</text>
+        <text>syncWatchedDuration</text>
       </register>
       <register name="1" type="4">
         <text>{
@@ -1100,9 +1100,9 @@
       </register>
     </registers>
     <search>
-      <last-search>logWat</last-search>
+      <last-search>sync</last-search>
       <last-offset />
-      <last-pattern>logWat</last-pattern>
+      <last-pattern>sync</last-pattern>
       <last-replace />
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -1110,8 +1110,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onBeforeDurationChange</entry>
-        <entry>onPl.*cha</entry>
         <entry>onPlayFlowChange</entry>
         <entry>on</entry>
         <entry>set</entry>
@@ -1130,6 +1128,8 @@
         <entry>rese</entry>
         <entry encoding="base64">XDxyZXNldFByZXZXYXRjaGVkRHVyYXRpb25Db3VudGVyXD4=</entry>
         <entry>logWat</entry>
+        <entry>throttle</entry>
+        <entry>sync</entry>
       </history-search>
       <history-cmd>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange/c</entry>
