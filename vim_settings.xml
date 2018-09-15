@@ -1038,7 +1038,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>setWat</text>
+        <text>apps</text>
       </register>
       <register name="0" type="4">
         <text>syncWatchedDuration</text>
@@ -1100,9 +1100,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setWat</last-search>
+      <last-search>apps</last-search>
       <last-offset />
-      <last-pattern>setWat</last-pattern>
+      <last-pattern>apps</last-pattern>
       <last-replace />
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -1110,7 +1110,6 @@
     </search>
     <history>
       <history-search>
-        <entry>on</entry>
         <entry>set</entry>
         <entry>ren.*Con</entry>
         <entry encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm9uQmVmb3JlUGxheUZsb3dDaGFuZ2UgJiYgdGhpcy5wcm9wcy5vbkJlZm9yZVBsYXlGbG93Q2hhbmdlKCk7</entry>
@@ -1130,6 +1129,7 @@
         <entry>throttle</entry>
         <entry>sync</entry>
         <entry>setWat</entry>
+        <entry>apps</entry>
       </history-search>
       <history-cmd>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange/c</entry>
