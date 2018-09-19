@@ -180,6 +180,11 @@
         <mark key="." line="22" column="65" />
         <mark key="^" line="22" column="65" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" timestamp="1537390961577">
+        <mark key="'" line="162" column="36" />
+        <mark key="[" line="292" column="30" />
+        <mark key="]" line="292" column="48" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/ProfileSection.tsx" timestamp="1534333882702">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="195" column="0" />
@@ -899,17 +904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="549" column="55" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="211" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="102" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="765" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="233" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="418" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="851" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="210" column="77" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="185" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="548" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="629" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="540" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="646" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -999,6 +993,17 @@
       <jump line="307" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="88" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="528" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="30" column="17" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="86" column="53" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="91" column="64" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="299" column="42" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="322" column="36" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="301" column="28" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="290" column="12" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="311" column="32" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="321" column="12" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="162" column="36" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1040,10 +1045,10 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>apps</text>
+        <text encoding="base64">XDxyZWZyZXNoQWNjZXNzVG9rZW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>syncWatchedDuration</text>
+        <text>NoRefreshTokenError</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwbGF5ZXJTdG9yZS5wcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcy5yZXNldFByZXZXYXRjaGVkRHVyYXRpb25Db3VudGVyKCk7Cg==</text>
@@ -1102,19 +1107,16 @@
       </register>
     </registers>
     <search>
-      <last-search>apps</last-search>
+      <last-search encoding="base64">XDxyZWZyZXNoQWNjZXNzVG9rZW5cPg==</last-search>
       <last-offset />
-      <last-pattern>apps</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZyZXNoQWNjZXNzVG9rZW5cPg==</last-pattern>
       <last-replace />
       <last-substitute>return</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>ren.*Con</entry>
-        <entry encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm9uQmVmb3JlUGxheUZsb3dDaGFuZ2UgJiYgdGhpcy5wcm9wcy5vbkJlZm9yZVBsYXlGbG93Q2hhbmdlKCk7</entry>
         <entry>decora</entry>
         <entry>decor</entry>
         <entry>%s</entry>
@@ -1132,6 +1134,9 @@
         <entry>sync</entry>
         <entry>setWat</entry>
         <entry>apps</entry>
+        <entry>waiter</entry>
+        <entry encoding="base64">XDxhY2Nlc3NUb2tlblJlZnJlc2hXYWl0ZXJzXD4=</entry>
+        <entry encoding="base64">XDxyZWZyZXNoQWNjZXNzVG9rZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange/c</entry>
