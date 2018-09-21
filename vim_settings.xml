@@ -340,12 +340,12 @@
         <mark key="^" line="3" column="94" />
         <mark key="." line="3" column="94" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessors.cs" timestamp="1534434131677">
-        <mark key="'" line="22" column="39" />
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="35" column="36" />
-        <mark key="^" line="35" column="36" />
-        <mark key="." line="35" column="36" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessors.cs" timestamp="1537541644869">
+        <mark key="'" line="30" column="31" />
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="30" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="30" column="30" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/User/Course/Register/CourseRegisterActionProcessor.cs" timestamp="1536065658167">
         <mark key="'" line="16" column="46" />
@@ -485,6 +485,16 @@
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="32" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Pause/WatchedTimeUpdateActionProcessor.cs" timestamp="1537541499610">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Pause/CoursePauseActionProcessor.cs" timestamp="1537541596821">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="42" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/show-more-section/ShowMoreSection.tsx" timestamp="1533655539807">
         <mark key="'" line="24" column="0" />
@@ -767,7 +777,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="n" line="48" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537520638453">
+      <file name="/Dummy.txt" timestamp="1537541309925">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="79" />
@@ -913,7 +923,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="537" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="247" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="516" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="139" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
@@ -1013,10 +1022,11 @@
       <jump line="587" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="4" column="9" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="531" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="30" column="31" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessors.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">dGhpcy5wbGF5ZXJWaWRlb0NvbXBvbmVudCAmJiB0aGlzLnBsYXllclZpZGVvQ29tcG9uZW50LmdldEN1cnJlbnRUaW1lKCk=</text>
+        <text>CoursePauseActionProcessor</text>
       </register>
       <register name="&quot;" type="4">
         <text />
@@ -1036,7 +1046,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">dGhpcy5wbGF5ZXJWaWRlb0NvbXBvbmVudCAmJiB0aGlzLnBsYXllclZpZGVvQ29tcG9uZW50LmdldEN1cnJlbnRUaW1lKCk=</text>
+        <text>CoursePauseActionProcessor</text>
       </register>
       <register name="k" type="4">
         <keys>
@@ -1051,13 +1061,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>defaultProcessor</text>
       </register>
       <register name="/" type="4">
         <text>min</text>
       </register>
       <register name="0" type="4">
-        <text>{ watchedSinceLastLog: Math.min(watchedSinceLastLog, 0) }</text>
+        <text>CoursePauseActionProcessor</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAod2F0Y2hlZFNpbmNlTGFzdExvZyA8IDApIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ2RldmFkc2ZzZicpOwogICAgICAgIH0K</text>
@@ -1112,7 +1122,7 @@
         <text encoding="base64">ICAgICAgICBwbGF5ZXJTdG9yZS5wcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcy51cGRhdGVQcmV2V2F0Y2hlZER1cmF0aW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1163,11 +1173,11 @@
         <entry>global/ret</entry>
         <entry>%s/return//gn</entry>
         <entry>action RenameElement</entry>
-        <entry>action FindUsages</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>reg</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action FindUsages</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
