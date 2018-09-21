@@ -525,8 +525,8 @@
         <mark key="." line="188" column="30" />
         <mark key="^" line="188" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1537520854198">
-        <mark key="'" line="515" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1537521930972">
+        <mark key="'" line="516" column="35" />
         <mark key="[" line="516" column="23" />
         <mark key="]" line="516" column="23" />
         <mark key="." line="516" column="23" />
@@ -771,8 +771,8 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1537520726345">
-        <mark key="'" line="537" column="45" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1537522055323">
+        <mark key="'" line="538" column="17" />
         <mark key="[" line="527" column="4" />
         <mark key="]" line="527" column="23" />
         <mark key="." line="523" column="35" />
@@ -904,8 +904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="645" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="543" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="417" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="473" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -969,7 +967,6 @@
       <jump line="498" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="577" column="77" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="33" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="139" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="492" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="529" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="520" column="62" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -998,12 +995,15 @@
       <jump line="162" column="43" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
       <jump line="299" column="43" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
       <jump line="86" column="19" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
-      <jump line="528" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="545" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="542" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="537" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="247" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="306" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="516" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="528" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="545" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="139" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="538" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1045,7 +1045,7 @@
         <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YWtlTGFzdFdhdGNoZWREdXJhdGlvbkNodW5rXD4=</text>
+        <text>log</text>
       </register>
       <register name="0" type="4">
         <text>logWatchedTimeUpdate</text>
@@ -1107,9 +1107,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YWtlTGFzdFdhdGNoZWREdXJhdGlvbkNodW5rXD4=</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YWtlTGFzdFdhdGNoZWREdXJhdGlvbkNodW5rXD4=</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace />
       <last-substitute>return</last-substitute>
       <last-dir>-1</last-dir>
@@ -1117,7 +1117,6 @@
     </search>
     <history>
       <history-search>
-        <entry>decor</entry>
         <entry>%s</entry>
         <entry encoding="base64">XDxmbG93Q2hhbmdlckVtaXR0ZXJEZWNvcmF0b3JcPg==</entry>
         <entry>flowChangerEmmiterDecorator</entry>
@@ -1137,6 +1136,7 @@
         <entry encoding="base64">XDxhY2Nlc3NUb2tlblJlZnJlc2hXYWl0ZXJzXD4=</entry>
         <entry encoding="base64">XDxyZWZyZXNoQWNjZXNzVG9rZW5cPg==</entry>
         <entry encoding="base64">XDx0YWtlTGFzdFdhdGNoZWREdXJhdGlvbkNodW5rXD4=</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange/c</entry>
