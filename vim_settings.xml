@@ -89,9 +89,9 @@
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CourseConsumptionIndex.cs" timestamp="1536847834662">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="38" />
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CourseConsumptionIndex.cs" timestamp="1537542874111">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="72" />
         <mark key="." line="10" column="63" />
         <mark key="^" line="10" column="63" />
       </file>
@@ -492,7 +492,8 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Pause/CoursePauseActionProcessor.cs" timestamp="1537541596821">
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Pause/CoursePauseActionProcessor.cs" timestamp="1537542863005">
+        <mark key="'" line="23" column="51" />
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="42" />
       </file>
@@ -680,6 +681,13 @@
         <mark key="]" line="5" column="37" />
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CoursePlayerActions/CoursePlayerActionsTest.cs" timestamp="1537543430542">
+        <mark key="'" line="104" column="32" />
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="26" column="20" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/play-bar/PlayBar.tsx" timestamp="1536850648160">
         <mark key="'" line="67" column="48" />
@@ -923,11 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="516" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="139" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="538" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="310" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="140" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="308" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="359" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
@@ -1023,6 +1026,11 @@
       <jump line="4" column="9" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="531" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="30" column="31" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessors.cs" />
+      <jump line="43" column="90" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CoursePlayerActions/CoursePlayerActionsTest.cs" />
+      <jump line="32" column="46" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Pause/CoursePauseActionProcessor.cs" />
+      <jump line="23" column="51" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Pause/CoursePauseActionProcessor.cs" />
+      <jump line="104" column="32" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda.Tests/Indexies/Logs/Ui/CoursePlayerActions/CoursePlayerActionsTest.cs" />
+      <jump line="49" column="26" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1061,13 +1069,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>defaultProcessor</text>
+        <text>@&quot;{&quot;&quot;actionType&quot;&quot;:&quot;&quot;watched-time-update&quot;&quot;,&quot;&quot;activityId&quot;&quot;:&quot;&quot;5b06b70788607e5a9b486406&quot;&quot;,&quot;&quot;activityType&quot;&quot;:&quot;&quot;video&quot;&quot;,&quot;&quot;lessonId&quot;&quot;:&quot;&quot;5b06b70788607e5a9b48640a&quot;&quot;,&quot;&quot;lessonName&quot;&quot;:&quot;&quot;mult&quot;&quot;,&quot;&quot;chapterId&quot;&quot;:&quot;&quot;5b06b70288607e5a9b486405&quot;&quot;,&quot;&quot;chapterName&quot;&quot;:&quot;&quot;Untitled Chapter&quot;&quot;,&quot;&quot;course&quot;&quot;:{&quot;&quot;id&quot;&quot;:&quot;&quot;5b06b68688607e5a9b4863dd&quot;&quot;,&quot;&quot;releaseId&quot;&quot;:&quot;&quot;5b06b68688607e5a9b4863dd&quot;&quot;,&quot;&quot;releaseNum&quot;&quot;:5,&quot;&quot;title&quot;&quot;:&quot;&quot;Test LRS Refactoring&quot;&quot;,&quot;&quot;primaryCategoryId&quot;&quot;:&quot;&quot;56b9072da9d59c311495966d&quot;&quot;,&quot;&quot;primarySubcategoryId&quot;&quot;:&quot;&quot;56b9072da9d59c3114959676&quot;&quot;,&quot;&quot;secondaryCategoryId&quot;&quot;:null,&quot;&quot;secondarySubcategoryId&quot;&quot;:null},&quot;&quot;watchedDuration&quot;&quot;:2.984131,&quot;&quot;isQuizActive&quot;&quot;:false}&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>min</text>
+        <text>since</text>
       </register>
       <register name="0" type="4">
-        <text>CoursePauseActionProcessor</text>
+        <text>cu--user_courses--course_consumption$</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAod2F0Y2hlZFNpbmNlTGFzdExvZyA8IDApIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ2RldmFkc2ZzZicpOwogICAgICAgIH0K</text>
@@ -1126,9 +1134,9 @@
       </register>
     </registers>
     <search>
-      <last-search>min</last-search>
+      <last-search>since</last-search>
       <last-offset />
-      <last-pattern>min</last-pattern>
+      <last-pattern>since</last-pattern>
       <last-replace />
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -1136,7 +1144,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apps</entry>
         <entry>waiter</entry>
         <entry encoding="base64">XDxhY2Nlc3NUb2tlblJlZnJlc2hXYWl0ZXJzXD4=</entry>
         <entry encoding="base64">XDxyZWZyZXNoQWNjZXNzVG9rZW5cPg==</entry>
@@ -1156,6 +1163,7 @@
         <entry>get</entry>
         <entry>throt</entry>
         <entry>min</entry>
+        <entry>since</entry>
       </history-search>
       <history-cmd>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange</entry>
