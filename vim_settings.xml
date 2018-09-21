@@ -531,12 +531,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/components/search-field-option/SearchFieldOption.tsx" timestamp="1537533333812">
         <mark key="'" line="28" column="38" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1537536934117">
-        <mark key="'" line="587" column="27" />
-        <mark key="[" line="592" column="33" />
-        <mark key="]" line="592" column="38" />
-        <mark key="." line="592" column="38" />
-        <mark key="^" line="592" column="38" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1537538379191">
+        <mark key="'" line="4" column="9" />
+        <mark key="[" line="519" column="80" />
+        <mark key="]" line="520" column="7" />
+        <mark key="." line="520" column="7" />
+        <mark key="^" line="520" column="7" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CoursePlayerPageInitializer.cs" timestamp="1536847678740">
         <mark key="'" line="2" column="77" />
@@ -940,7 +940,6 @@
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="49" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="306" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="4" column="9" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="511" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="280" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="264" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -1013,6 +1012,7 @@
       <jump line="521" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="524" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="587" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="4" column="9" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1051,16 +1051,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>flush</text>
-      </register>
-      <register name="/" type="4">
-        <text>get</text>
-      </register>
-      <register name="0" type="4">
         <text>this.getCurrentTime()</text>
       </register>
+      <register name="/" type="4">
+        <text>throt</text>
+      </register>
+      <register name="0" type="4">
+        <text>playerCurrentTime</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB3YXRjaGVkRHVyYXRpb24gPSBjdXJyZW50RHVyYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwbGF5ZXJDdXJyZW50VGltZSA9IHRoaXMuZ2V0Q3VycmVudFRpbWUoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1078,35 +1078,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllclN0b3JlICYmIHRoaXMucGxheWVyU3RvcmUubG9nV2F0Y2hlZFRpbWVVcGRhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB3YXRjaGVkRHVyYXRpb24gPSBjdXJyZW50RHVyYXRpb247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJTdG9yZS5wcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcy5yZXNldFByZXZXYXRjaGVkRHVyYXRpb25Db3VudGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllclN0b3JlICYmIHRoaXMucGxheWVyU3RvcmUubG9nV2F0Y2hlZFRpbWVVcGRhdGUoKTsK</text>
       </register>
       <register name="s" type="4">
         <text>watchedDuration</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJTdG9yZS5wcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcy5yZXNldFByZXZXYXRjaGVkRHVyYXRpb25Db3VudGVyKCk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
             actionType,
             ...this.getLogActionData(),
             ...data
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF5ZXJTdG9yZS5wcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcy51cGRhdGVQcmV2V2F0Y2hlZER1cmF0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbGF5ZXJTdG9yZS5wcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcy51cGRhdGVQcmV2V2F0Y2hlZER1cmF0aW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1116,9 +1116,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>throt</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>throt</last-pattern>
       <last-replace />
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -1132,7 +1132,6 @@
         <entry encoding="base64">XDxhY2Nlc3NUb2tlblJlZnJlc2hXYWl0ZXJzXD4=</entry>
         <entry encoding="base64">XDxyZWZyZXNoQWNjZXNzVG9rZW5cPg==</entry>
         <entry>log</entry>
-        <entry>throt</entry>
         <entry>ref</entry>
         <entry>PlayerVideo</entry>
         <entry>upda</entry>
@@ -1146,6 +1145,7 @@
         <entry encoding="base64">XDx3cmFwcGVkSW5zdGFuY2VcPg==</entry>
         <entry encoding="base64">XDxwbGF5ZXJWaWRlb0NvbXBvbmVudFw+</entry>
         <entry>get</entry>
+        <entry>throt</entry>
       </history-search>
       <history-cmd>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange</entry>
