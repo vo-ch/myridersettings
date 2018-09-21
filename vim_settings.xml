@@ -531,8 +531,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/components/search-field-option/SearchFieldOption.tsx" timestamp="1537533333812">
         <mark key="'" line="28" column="38" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1537535848230">
-        <mark key="'" line="524" column="25" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1537536934117">
+        <mark key="'" line="587" column="27" />
         <mark key="[" line="592" column="33" />
         <mark key="]" line="592" column="38" />
         <mark key="." line="592" column="38" />
@@ -780,12 +780,12 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1537532808245">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1537536975648">
         <mark key="'" line="529" column="4" />
-        <mark key="[" line="536" column="73" />
-        <mark key="]" line="536" column="88" />
-        <mark key="." line="536" column="73" />
-        <mark key="^" line="538" column="27" />
+        <mark key="[" line="532" column="36" />
+        <mark key="]" line="532" column="36" />
+        <mark key="." line="532" column="36" />
+        <mark key="^" line="532" column="36" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1536667375837">
         <mark key="'" line="10" column="28" />
@@ -913,7 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="19" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
       <jump line="542" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="537" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="247" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -1013,6 +1012,7 @@
       <jump line="77" column="52" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="521" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="524" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="587" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1112,7 +1112,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -1165,9 +1165,9 @@
         <entry>action RenameElement</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action GotoImplementation</entry>
         <entry>reg</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
