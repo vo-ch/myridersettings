@@ -525,12 +525,12 @@
         <mark key="." line="188" column="30" />
         <mark key="^" line="188" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1537525600091">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1537530795877">
         <mark key="'" line="586" column="64" />
-        <mark key="[" line="580" column="41" />
-        <mark key="]" line="580" column="65" />
-        <mark key="." line="580" column="41" />
-        <mark key="^" line="519" column="64" />
+        <mark key="[" line="586" column="76" />
+        <mark key="]" line="586" column="99" />
+        <mark key="." line="586" column="99" />
+        <mark key="^" line="586" column="99" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CoursePlayerPageInitializer.cs" timestamp="1536847678740">
         <mark key="'" line="2" column="77" />
@@ -771,11 +771,11 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1537528977896">
-        <mark key="'" line="350" column="58" />
-        <mark key="[" line="538" column="28" />
-        <mark key="]" line="538" column="43" />
-        <mark key="." line="538" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1537531732764">
+        <mark key="'" line="547" column="58" />
+        <mark key="[" line="536" column="73" />
+        <mark key="]" line="536" column="88" />
+        <mark key="." line="536" column="73" />
         <mark key="^" line="538" column="27" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1536667375837">
@@ -904,8 +904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="277" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="855" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="843" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="551" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -994,7 +992,6 @@
       <jump line="528" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="136" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="545" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="586" column="64" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="129" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="67" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="348" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -1004,6 +1001,9 @@
       <jump line="128" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="97" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="92" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
+      <jump line="586" column="81" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="530" column="49" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="547" column="58" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1048,7 +1048,7 @@
         <text>th</text>
       </register>
       <register name="0" type="4">
-        <text>currentDuration: number</text>
+        <text>currentDuration</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB3YXRjaGVkRHVyYXRpb24gPSBjdXJyZW50RHVyYXRpb247Cg==</text>
