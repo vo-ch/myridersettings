@@ -246,6 +246,9 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1537786018790">
+        <mark key="'" line="50" column="4" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" timestamp="1533827964170">
         <mark key="'" line="21" column="48" />
         <mark key="[" line="48" column="42" />
@@ -511,6 +514,9 @@
         <mark key="]" line="87" column="36" />
         <mark key="^" line="87" column="36" />
         <mark key="." line="87" column="36" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1537786011837">
+        <mark key="'" line="269" column="30" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/ExternalData/GoogleAnalytics/PageViews/GaPageViewsProcessor.cs" timestamp="1535719751512">
         <mark key="'" line="13" column="41" />
@@ -942,9 +948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="501" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="506" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="540" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="530" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="522" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="517" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -1042,6 +1045,9 @@
       <jump line="22" column="41" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CoursePortionConsumedProcessor.cs" />
       <jump line="33" column="48" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsPayload.cs" />
       <jump line="174" column="7" filename="C:/projects/UI-Web/package.json" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="269" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="50" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1083,7 +1089,7 @@
         <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>icon</text>
+        <text encoding="base64">XDxzZXRQcmljZVJhbmdlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>IActivityContext</text>
@@ -1137,13 +1143,13 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllclN0b3JlICYmIHRoaXMucGxheWVyU3RvcmUubG9nV2F0Y2hlZFRpbWVVcGRhdGUoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>icon</last-search>
+      <last-search encoding="base64">XDxzZXRQcmljZVJhbmdlXD4=</last-search>
       <last-offset />
-      <last-pattern>icon</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRQcmljZVJhbmdlXD4=</last-pattern>
       <last-replace />
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -1151,7 +1157,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZyZXNoQWNjZXNzVG9rZW5cPg==</entry>
         <entry>log</entry>
         <entry>ref</entry>
         <entry>PlayerVideo</entry>
@@ -1171,6 +1176,7 @@
         <entry>since</entry>
         <entry>in</entry>
         <entry>icon</entry>
+        <entry encoding="base64">XDxzZXRQcmljZVJhbmdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange</entry>
@@ -1188,11 +1194,11 @@
         <entry>global/ret</entry>
         <entry>%s/return//gn</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>reg</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action FindUsages</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
