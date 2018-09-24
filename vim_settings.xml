@@ -533,8 +533,11 @@
         <mark key="." line="282" column="71" />
         <mark key="^" line="281" column="49" />
       </file>
-      <file name="C:/projects/UI-Web/package.json" timestamp="1536745481902">
-        <mark key="'" line="96" column="5" />
+      <file name="C:/projects/UI-Web/ClientApp/src/propTypes.js" timestamp="1537782469861">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/projects/UI-Web/package.json" timestamp="1537783009971">
+        <mark key="'" line="174" column="7" />
         <mark key="[" line="94" column="19" />
         <mark key="]" line="94" column="18" />
         <mark key="." line="94" column="18" />
@@ -733,6 +736,9 @@
         <mark key="]" line="4" column="38" />
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1537783033546">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsPayload.cs" timestamp="1537546423342">
         <mark key="'" line="33" column="48" />
@@ -936,7 +942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
       <jump line="501" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="506" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="540" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -1036,6 +1041,7 @@
       <jump line="49" column="26" filename="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" />
       <jump line="22" column="41" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CoursePortionConsumedProcessor.cs" />
       <jump line="33" column="48" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsPayload.cs" />
+      <jump line="174" column="7" filename="C:/projects/UI-Web/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1077,7 +1083,7 @@
         <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>in</text>
+        <text>icon</text>
       </register>
       <register name="0" type="4">
         <text>IActivityContext</text>
@@ -1135,17 +1141,16 @@
       </register>
     </registers>
     <search>
-      <last-search>in</last-search>
+      <last-search>icon</last-search>
       <last-offset />
-      <last-pattern>in</last-pattern>
+      <last-pattern>icon</last-pattern>
       <last-replace />
       <last-substitute>return</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY2Nlc3NUb2tlblJlZnJlc2hXYWl0ZXJzXD4=</entry>
         <entry encoding="base64">XDxyZWZyZXNoQWNjZXNzVG9rZW5cPg==</entry>
         <entry>log</entry>
         <entry>ref</entry>
@@ -1165,6 +1170,7 @@
         <entry>min</entry>
         <entry>since</entry>
         <entry>in</entry>
+        <entry>icon</entry>
       </history-search>
       <history-cmd>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange</entry>
