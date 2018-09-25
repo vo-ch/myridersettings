@@ -1185,7 +1185,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>marks</text>
       </register>
     </registers>
     <search>
@@ -1221,7 +1221,6 @@
         <entry encoding="base64">XDxsb2FkSW5pdGlhbERhdGFcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>s%/onBeforeDurationChange/onPlayFlowChange</entry>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange/gc</entry>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange/g</entry>
         <entry>%s/onBeforeDurationChange/onPlayFlowChange/gc</entry>
@@ -1241,6 +1240,7 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action FindUsages</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>marks</entry>
       </history-cmd>
       <history-expr />
       <history-input />
