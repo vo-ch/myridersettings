@@ -24,12 +24,12 @@
         <mark key="." line="134" column="52" />
         <mark key="^" line="134" column="52" />
       </file>
-      <file name="C:/projects/cu-data-reporting/Core/Models/DataRecord.cs" timestamp="1537972994338">
+      <file name="C:/projects/cu-data-reporting/Core/Models/DataRecord.cs" timestamp="1537973792706">
         <mark key="'" line="88" column="58" />
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="16" />
-        <mark key="^" line="28" column="16" />
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="59" column="55" />
+        <mark key="^" line="59" column="55" />
+        <mark key="." line="59" column="55" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CoursePortionConsumedProcessor.cs" timestamp="1537546384141">
         <mark key="'" line="22" column="41" />
@@ -321,6 +321,11 @@
         <mark key="]" line="53" column="139" />
         <mark key="^" line="53" column="139" />
         <mark key="." line="53" column="139" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1537780769975">
+        <mark key="[" line="425" column="0" />
+        <mark key="]" line="425" column="0" />
+        <mark key="." line="425" column="0" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IExternalUserService.cs" timestamp="1536327354134">
         <mark key="'" line="7" column="28" />
@@ -693,6 +698,11 @@
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" timestamp="1537972219965">
         <mark key="'" line="78" column="77" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/App.tsx" timestamp="1537779027192">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="74" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1536336163169">
         <mark key="'" line="70" column="49" />
         <mark key="[" line="61" column="68" />
@@ -809,6 +819,11 @@
         <mark key="]" line="24" column="24" />
         <mark key="." line="24" column="24" />
         <mark key="^" line="24" column="24" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/Core/Models/UserAgentDetails.cs" timestamp="1537973186870">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1537969312770">
         <mark key="'" line="0" column="0" />
@@ -1103,16 +1118,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Browser</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>gate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmcgQnJvd3NlciB7IGdldDsgc2V0OyB9CiAgICAgICAgc3RyaW5nIEJyb3dzZXJNYWpvclZlcnNpb24geyBnZXQ7IHNldDsgfQogICAgICAgIHN0cmluZyBCcm93c2VyTWlub3JWZXJzaW9uIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5Vc2VyQWdlbnRJbmZvID0gbmV3IFVzZXJBZ2VudERldGFpbHMoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PD4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5Vc2VyQWdlbnRJbmZvID0gbmV3IFVzZXJBZ2VudERldGFpbHMoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1146,35 +1161,35 @@
           <key char="126" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">SUxpc3Q8SURhdGFSZWNvcmQ8VD4+</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q1UtNDUzMiBUcmFjayBUb3AgU2VhcmNoIFJlcXVlc3RzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>watchedDuration</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmcgQnJvd3NlciB7IGdldDsgc2V0OyB9CiAgICAgICAgc3RyaW5nIEJyb3dzZXJNYWpvclZlcnNpb24geyBnZXQ7IHNldDsgfQogICAgICAgIHN0cmluZyBCcm93c2VyTWlub3JWZXJzaW9uIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBzdHJpbmcgT3MgeyBnZXQ7IHNldDsgfQogICAgICAgIHN0cmluZyBPc01ham9yVmVyc2lvbiB7IGdldDsgc2V0OyB9CiAgICAgICAgc3RyaW5nIE9zTWlub3JWZXJzaW9uIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBzdHJpbmcgRGV2aWNlRmFtaWx5IHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PD4=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">SUxpc3Q8SURhdGFSZWNvcmQ8VD4+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndhdGNoU2Vzc2lvbklkID0gCg==</text>
+        <text encoding="base64">Q1UtNDUzMiBUcmFjayBUb3AgU2VhcmNoIFJlcXVlc3RzCg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5vdEZvdW5kRXJyb3IgPSAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q1UtNDU5MyBUcmFjayBDb3Vyc2UgUGxheWJhY2sgcXVhbGl0eWRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindUsages</text>
