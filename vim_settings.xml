@@ -271,12 +271,12 @@
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1536934080281">
         <mark key="'" line="28" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1536667803318">
-        <mark key="'" line="114" column="16" />
-        <mark key="[" line="37" column="29" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="39" column="24" />
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1537966953605">
+        <mark key="'" line="51" column="9" />
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="37" />
+        <mark key="." line="48" column="37" />
+        <mark key="^" line="48" column="37" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/LearningTabActionsProcessor.cs" timestamp="1536240195125">
         <mark key="'" line="26" column="103" />
@@ -977,8 +977,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="194" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="155" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="166" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="61" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
@@ -1077,6 +1075,8 @@
       <jump line="307" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="791" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="162" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="68" column="8" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="51" column="9" filename="C:/projects/UI-Web/appsettings.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1115,10 +1115,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.qa</text>
       </register>
       <register name="/" type="4">
-        <text>prev</text>
+        <text>gate</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cHVibGljIA==</text>
@@ -1193,9 +1193,9 @@
       </register>
     </registers>
     <search>
-      <last-search>prev</last-search>
+      <last-search>gate</last-search>
       <last-offset />
-      <last-pattern>prev</last-pattern>
+      <last-pattern>gate</last-pattern>
       <last-replace />
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -1203,7 +1203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry encoding="base64">XDxsb2FkSW5pdGlhbERhdGFcPg==</entry>
         <entry>str</entry>
         <entry>rese</entry>
@@ -1223,6 +1222,7 @@
         <entry>onVid\.\+</entry>
         <entry>onvid.*qu</entry>
         <entry>prev</entry>
+        <entry>gate</entry>
       </history-search>
       <history-cmd>
         <entry>s%/onBeforeDurationChange/onPlayFlowChange/gc</entry>
