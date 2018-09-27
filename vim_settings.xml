@@ -276,6 +276,13 @@
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1536934080281">
         <mark key="'" line="28" column="33" />
       </file>
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1538052745049">
+        <mark key="'" line="52" column="18" />
+        <mark key="[" line="102" column="7" />
+        <mark key="]" line="102" column="6" />
+        <mark key="." line="102" column="6" />
+        <mark key="^" line="102" column="6" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/LearningTabActionsProcessor.cs" timestamp="1536240195125">
         <mark key="'" line="26" column="103" />
         <mark key="[" line="16" column="76" />
@@ -993,8 +1000,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="310" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="11" column="12" filename="C:/projects/UI-Web/ClientApp/models/data-analytics/IPageLoadAction.ts" />
       <jump line="24" column="40" filename="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" />
@@ -1093,6 +1098,8 @@
       <jump line="116" column="72" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
       <jump line="13" column="34" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
       <jump line="25" column="14" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
+      <jump line="38" column="11" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="52" column="18" filename="C:/projects/UI-Web/appsettings.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1131,13 +1138,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/api/v1/lms/courses/search/v2</text>
+        <text>-api</text>
       </register>
       <register name="/" type="4">
-        <text>passw</text>
+        <text>-vchmuzh</text>
       </register>
       <register name="0" type="4">
-        <text>course-catalog-password</text>
+        <text>vchmuzh</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0sIDIwMDApOwo=</text>
@@ -1190,22 +1197,20 @@
         <text encoding="base64">ICAgICAgICBzdHJpbmcgQnJvd3NlciB7IGdldDsgc2V0OyB9CiAgICAgICAgc3RyaW5nIEJyb3dzZXJNYWpvclZlcnNpb24geyBnZXQ7IHNldDsgfQogICAgICAgIHN0cmluZyBCcm93c2VyTWlub3JWZXJzaW9uIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBzdHJpbmcgT3MgeyBnZXQ7IHNldDsgfQogICAgICAgIHN0cmluZyBPc01ham9yVmVyc2lvbiB7IGdldDsgc2V0OyB9CiAgICAgICAgc3RyaW5nIE9zTWlub3JWZXJzaW9uIHsgZ2V0OyBzZXQ7IH0KICAgICAgICBzdHJpbmcgRGV2aWNlRmFtaWx5IHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>%s/-vchmuzh/.qa</text>
       </register>
     </registers>
     <search>
-      <last-search>passw</last-search>
+      <last-search>-vchmuzh</last-search>
       <last-offset />
-      <last-pattern>passw</last-pattern>
-      <last-replace>data?.</last-replace>
-      <last-substitute>data.</last-substitute>
+      <last-pattern>-vchmuzh</last-pattern>
+      <last-replace>.qa</last-replace>
+      <last-substitute>-vchmuzh</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry>th</entry>
         <entry>onQual</entry>
         <entry encoding="base64">XDxJQ291cnNlUGxheWVyV2F0Y2hlZFRpbWVVcGRhdGVBY3Rpb25QYXlsb2FkXD4=</entry>
         <entry encoding="base64">XDxsb2dBY3Rpb25cPg==</entry>
@@ -1224,10 +1229,10 @@
         <entry>data.</entry>
         <entry>2000</entry>
         <entry>passw</entry>
+        <entry>s</entry>
+        <entry>-vchmuzh</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/onPlayFlowChange/onBeforePlayFlowChange/gc</entry>
-        <entry>%s/flowChangerEmmiterDecorator/flowChangerEmitterDecorator/g</entry>
         <entry encoding="base64">JWcvICAgICAgICAgICAgdGhpcy5wcm9wcy5vbkJlZm9yZVBsYXlGbG93Q2hhbmdlICYmIHRoaXMucHJvcHMub25CZWZvcmVQbGF5Rmxvd0NoYW5nZSgpOw==</entry>
         <entry>%s/return</entry>
         <entry>%s/return//n</entry>
@@ -1246,6 +1251,8 @@
         <entry encoding="base64">JzwsJz5zL2RhdGEuL2RhdGE/Lg==</entry>
         <entry>nohl</entry>
         <entry>reg</entry>
+        <entry>s/-vchmuzh/.qa</entry>
+        <entry>%s/-vchmuzh/.qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
