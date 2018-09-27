@@ -322,11 +322,6 @@
         <mark key="^" line="53" column="139" />
         <mark key="." line="53" column="139" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1537780769975">
-        <mark key="[" line="425" column="0" />
-        <mark key="]" line="425" column="0" />
-        <mark key="." line="425" column="0" />
-      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IExternalUserService.cs" timestamp="1536327354134">
         <mark key="'" line="7" column="28" />
         <mark key="[" line="7" column="68" />
@@ -568,7 +563,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/components/search-field-option/SearchFieldOption.tsx" timestamp="1537533333812">
         <mark key="'" line="28" column="38" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1538035158482">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1538036363491">
+        <mark key="'" line="390" column="0" />
         <mark key="[" line="492" column="7" />
         <mark key="]" line="492" column="8" />
         <mark key="." line="492" column="8" />
@@ -695,11 +691,6 @@
       </file>
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" timestamp="1537972219965">
         <mark key="'" line="78" column="77" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/App.tsx" timestamp="1537779027192">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="74" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1536336163169">
         <mark key="'" line="70" column="49" />
@@ -978,7 +969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="311" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="5" column="35" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/CourseSearchLoad/CourseSearchLoadPayload.cs" />
       <jump line="15" column="17" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/PageLoadPayload.cs" />
@@ -1078,6 +1068,7 @@
       <jump line="16" column="28" filename="C:/projects/cu-data-reporting/Core/Models/UserAgentDetails.cs" />
       <jump line="55" column="17" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsPayload.cs" />
       <jump line="36" column="23" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsPayload.cs" />
+      <jump line="390" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1119,7 +1110,7 @@
         <text>string browser, string browserMajorVersion, string browserMinorVersion, string os, string osMajorVersion, string osMinorVersion, string deviceFamily</text>
       </register>
       <register name="/" type="4">
-        <text>data.</text>
+        <text>2000</text>
       </register>
       <register name="0" type="4">
         <text>UserAgentDetails</text>
@@ -1179,17 +1170,16 @@
       </register>
     </registers>
     <search>
-      <last-search>data.</last-search>
+      <last-search>2000</last-search>
       <last-offset />
-      <last-pattern>data.</last-pattern>
+      <last-pattern>2000</last-pattern>
       <last-replace>data?.</last-replace>
       <last-substitute>data.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rese</entry>
         <entry>render</entry>
         <entry>log</entry>
         <entry>th</entry>
@@ -1209,6 +1199,7 @@
         <entry>gate</entry>
         <entry>parsed\.</entry>
         <entry>data.</entry>
+        <entry>2000</entry>
       </history-search>
       <history-cmd>
         <entry>%s/onPlayFlowChange/onBeforePlayFlowChange/gc</entry>
