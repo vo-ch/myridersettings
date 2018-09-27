@@ -187,6 +187,11 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="17" column="7" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" timestamp="1537392517502">
+        <mark key="'" line="299" column="43" />
+        <mark key="[" line="292" column="30" />
+        <mark key="]" line="292" column="48" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/ProfileSection.tsx" timestamp="1534333882702">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="195" column="0" />
@@ -279,6 +284,11 @@
         <mark key="]" line="29" column="24" />
         <mark key="^" line="29" column="24" />
         <mark key="." line="29" column="24" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" timestamp="1538041523796">
+        <mark key="'" line="25" column="14" />
+        <mark key="[" line="65" column="36" />
+        <mark key="]" line="65" column="58" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/modals/avatar-image-cropper-modal/AvatarImageCropperModal.tsx" timestamp="1534334962403">
         <mark key="'" line="247" column="45" />
@@ -490,6 +500,11 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
+      <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Pause/CoursePauseActionProcessor.cs" timestamp="1537542863005">
+        <mark key="'" line="23" column="51" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="42" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/show-more-section/ShowMoreSection.tsx" timestamp="1533655539807">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="87" column="36" />
@@ -631,6 +646,9 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="12" column="19" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" timestamp="1538041445072">
+        <mark key="'" line="116" column="72" />
+      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" timestamp="1536581407959">
         <mark key="'" line="103" column="67" />
         <mark key="[" line="102" column="0" />
@@ -684,6 +702,11 @@
         <mark key="]" line="62" column="27" />
         <mark key="^" line="62" column="27" />
         <mark key="." line="62" column="27" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/IPageLoadAction.ts" timestamp="1537798999127">
+        <mark key="'" line="7" column="10" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="11" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/CommonProcessors/CoursePortionConsumedProcessor/PlayCourseActionPayload.cs" timestamp="1536844123172">
         <mark key="[" line="5" column="17" />
@@ -955,10 +978,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
-      <jump line="5" column="35" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/CourseSearchLoad/CourseSearchLoadPayload.cs" />
-      <jump line="15" column="17" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/PageLoadPayload.cs" />
-      <jump line="346" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="46" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="310" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
@@ -1055,6 +1074,10 @@
       <jump line="55" column="17" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsPayload.cs" />
       <jump line="36" column="23" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsPayload.cs" />
       <jump line="390" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="60" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
+      <jump line="116" column="72" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
+      <jump line="13" column="34" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
+      <jump line="25" column="14" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1096,10 +1119,10 @@
         <text>string browser, string browserMajorVersion, string browserMinorVersion, string os, string osMajorVersion, string osMinorVersion, string deviceFamily</text>
       </register>
       <register name="/" type="4">
-        <text>2000</text>
+        <text>passw</text>
       </register>
       <register name="0" type="4">
-        <text>UserAgentDetails</text>
+        <text>course-catalog-password</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0sIDIwMDApOwo=</text>
@@ -1156,9 +1179,9 @@
       </register>
     </registers>
     <search>
-      <last-search>2000</last-search>
+      <last-search>passw</last-search>
       <last-offset />
-      <last-pattern>2000</last-pattern>
+      <last-pattern>passw</last-pattern>
       <last-replace>data?.</last-replace>
       <last-substitute>data.</last-substitute>
       <last-dir>1</last-dir>
@@ -1166,7 +1189,6 @@
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
         <entry>log</entry>
         <entry>th</entry>
         <entry>onQual</entry>
@@ -1186,6 +1208,7 @@
         <entry>parsed\.</entry>
         <entry>data.</entry>
         <entry>2000</entry>
+        <entry>passw</entry>
       </history-search>
       <history-cmd>
         <entry>%s/onPlayFlowChange/onBeforePlayFlowChange/gc</entry>
