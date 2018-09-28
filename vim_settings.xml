@@ -279,8 +279,8 @@
       <file name="C:/projects/UI-Web/node_modules/@types/react-router/index.d.ts" timestamp="1538055115009">
         <mark key="'" line="59" column="13" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1537884226152">
-        <mark key="'" line="51" column="4" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1538133123887">
+        <mark key="'" line="274" column="22" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" timestamp="1536850530171">
         <mark key="'" line="46" column="22" />
@@ -778,6 +778,9 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/libs-override/react-inlinesvg/InlineSVG.tsx" timestamp="1538133289015">
+        <mark key="'" line="97" column="31" />
+      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1536336163169">
         <mark key="'" line="70" column="49" />
         <mark key="[" line="61" column="68" />
@@ -1064,6 +1067,9 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" timestamp="1538133248080">
+        <mark key="'" line="32" column="28" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/course-list-column/CourseListColumn.tsx" timestamp="1533815685290">
         <mark key="'" line="35" column="31" />
         <mark key="[" line="8" column="17" />
@@ -1073,19 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="24" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" />
-      <jump line="56" column="37" filename="C:/projects/cu-data-reporting/Core/Models/DataRecord.cs" />
-      <jump line="10" column="28" filename="C:/projects/cu-data-reporting/Core/Models/UserAgentDetails.cs" />
-      <jump line="71" column="37" filename="C:/projects/cu-data-reporting/Core/Models/DataRecord.cs" />
-      <jump line="16" column="28" filename="C:/projects/cu-data-reporting/Core/Models/UserAgentDetails.cs" />
-      <jump line="55" column="17" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsPayload.cs" />
-      <jump line="36" column="23" filename="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsPayload.cs" />
-      <jump line="390" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="60" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
-      <jump line="116" column="72" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
-      <jump line="13" column="34" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
-      <jump line="25" column="14" filename="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" />
-      <jump line="38" column="11" filename="C:/projects/UI-Web/appsettings.json" />
       <jump line="52" column="18" filename="C:/projects/UI-Web/appsettings.json" />
       <jump line="32" column="16" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogTableStore.ts" />
       <jump line="17" column="48" filename="C:/projects/UI-Web/ClientApp/components/data-table/services/DataTableHttpService.ts" />
@@ -1173,6 +1166,19 @@
       <jump line="9" column="40" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
       <jump line="8" column="39" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/course-catalog-table/CourseCatalogTable.tsx" />
       <jump line="5" column="74" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/models/CourseCatalogEnterpiseFilters.ts" />
+      <jump line="77" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="274" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="21" column="16" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="26" column="86" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="47" column="16" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="49" column="12" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="46" column="12" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="23" column="14" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="32" column="28" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="64" column="59" filename="C:/projects/UI-Web/ClientApp/libs-override/react-inlinesvg/InlineSVG.tsx" />
+      <jump line="38" column="4" filename="C:/projects/UI-Web/ClientApp/libs-override/react-inlinesvg/InlineSVG.tsx" />
+      <jump line="97" column="31" filename="C:/projects/UI-Web/ClientApp/libs-override/react-inlinesvg/InlineSVG.tsx" />
+      <jump line="174" column="4" filename="C:/projects/UI-Web/ClientApp/libs-override/react-inlinesvg/InlineSVG.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1214,7 +1220,7 @@
         <text>Enterpise</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</text>
+        <text encoding="base64">XDxzcmNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>ICourseCatalogEnterpiseFilters</text>
@@ -1274,9 +1280,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</last-search>
+      <last-search encoding="base64">XDxzcmNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzcmNcPg==</last-pattern>
       <last-replace>.qa</last-replace>
       <last-substitute>-vchmuzh</last-substitute>
       <last-dir>1</last-dir>
@@ -1284,9 +1290,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prev</entry>
-        <entry>gate</entry>
-        <entry>parsed\.</entry>
         <entry>data.</entry>
         <entry>2000</entry>
         <entry>passw</entry>
@@ -1304,6 +1307,9 @@
         <entry>mobileF</entry>
         <entry>route</entry>
         <entry encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDxzdmdVcmxcPg==</entry>
+        <entry encoding="base64">XDxzcmNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/return//g</entry>
