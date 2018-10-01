@@ -179,6 +179,12 @@
         <mark key="^" line="33" column="23" />
         <mark key="." line="33" column="23" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" timestamp="1538399235579">
+        <mark key="'" line="81" column="27" />
+        <mark key="[" line="81" column="24" />
+        <mark key="]" line="81" column="37" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/Common/EntityCentricScriptedProcessor.cs" timestamp="1536248731530">
         <mark key="'" line="11" column="58" />
       </file>
@@ -303,7 +309,8 @@
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1536934080281">
         <mark key="'" line="28" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/CourseCatalogPageProfessional.tsx" timestamp="1538062227060">
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/CourseCatalogPageProfessional.tsx" timestamp="1538398871682">
+        <mark key="'" line="31" column="80" />
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="41" />
         <mark key="." line="18" column="41" />
@@ -1121,12 +1128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
-      <jump line="136" column="28" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
-      <jump line="40" column="32" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogTableStore.ts" />
-      <jump line="185" column="42" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
-      <jump line="2" column="17" filename="C:/projects/UI-Web/ClientApp/ProviderProps.ts" />
-      <jump line="47" column="19" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
       <jump line="6" column="9" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
       <jump line="43" column="67" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
       <jump line="26" column="89" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
@@ -1221,13 +1222,19 @@
       <jump line="19" column="3" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
       <jump line="18" column="27" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogTableStore.ts" />
       <jump line="20" column="51" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="73" column="33" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
+      <jump line="75" column="57" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
+      <jump line="31" column="80" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/CourseCatalogPageProfessional.tsx" />
+      <jump line="80" column="23" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
+      <jump line="0" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/models/ICourseCatalogFiltersData.ts" />
+      <jump line="81" column="27" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>CourseCatalogEnterpriseTableStore</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>setCatalogType</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1259,13 +1266,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Enterprise</text>
+        <text>tableStateProfssional</text>
       </register>
       <register name="/" type="4">
         <text>imp</text>
       </register>
       <register name="0" type="4">
-        <text>CourseCatalogEnterpriseTableStore</text>
+        <text>setCatalogType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1288,37 +1295,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQ291cnNlQ2F0YWxvZ1RhYmxlU3RvcmUgZXh0ZW5kcyBJRGF0YVRhYmxlU3RvcmU8SUdhdGV3YXlDb3Vyc2VEYXRhLCBJQ291cnNlQ2F0YWxvZ0ZpbHRlcnM+IHsKICAgIGNhdGFsb2dJZDogc3RyaW5nOwogICAgY2F0YWxvZ1R5cGU6IHN0cmluZzsKICAgIHNlYXJjaChkYXRhOiBJQ291cnNlQ2F0YWxvZ0ZpbHRlcnNEYXRhKTogdm9pZDsKICAgIHNldENhdGFsb2dJZChjYXRhbG9nSWQ6IHN0cmluZyk6IHZvaWQ7CiAgICBzZXRDYXRhbG9nVHlwZShjYXRhbG9nVHlwZTogc3RyaW5nKTogdm9pZDsKfQo=</text>
+        <text encoding="base64">ICAgIHNlYXJjaCA9IChkYXRhOiBJQ291cnNlQ2F0YWxvZ0ZpbHRlcnNEYXRhKTogdm9pZCA9PiB7CiAgICAgICAgdGhpcy50YWJsZVN0b3JlLnNlYXJjaChkYXRhKTsKICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudHMgSUNvdXJzZUNhdGFsb2dUYWJsZVN0b3JlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>watchedDuration</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoZSBjYXRhbG9nSWQgaGFzIHRvIGJlCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gY2F0YWxvZ0lkCiAgICAgKi8KICAgIHNldENhdGFsb2dUeXBlKGNhdGFsb2dUeXBlOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dUeXBlID0gY2F0YWxvZ1R5cGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBUaGUgY2F0YWxvZ0lkIGhhcyB0byBiZQogICAgICogQHBhcmFtIHtzdHJpbmd9IGNhdGFsb2dJZAogICAgICovCiAgICBzZXRDYXRhbG9nSWQoY2F0YWxvZ0lkOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dJZCA9IGNhdGFsb2dJZDsKICAgICAgICB0aGlzLmZpbHRlcnMuY291cnNlQ2F0YWxvZ0lkcy5zZXQoW2NhdGFsb2dJZF0pOwogICAgfQo=</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQ291cnNlQ2F0YWxvZ1RhYmxlU3RvcmUgZXh0ZW5kcyBJRGF0YVRhYmxlU3RvcmU8SUdhdGV3YXlDb3Vyc2VEYXRhLCBJQ291cnNlQ2F0YWxvZ0ZpbHRlcnM+IHsKICAgIGNhdGFsb2dJZDogc3RyaW5nOwogICAgY2F0YWxvZ1R5cGU6IHN0cmluZzsKICAgIHNlYXJjaChkYXRhOiBJQ291cnNlQ2F0YWxvZ0ZpbHRlcnNEYXRhKTogdm9pZDsKICAgIHNldENhdGFsb2dJZChjYXRhbG9nSWQ6IHN0cmluZyk6IHZvaWQ7CiAgICBzZXRDYXRhbG9nVHlwZShjYXRhbG9nVHlwZTogc3RyaW5nKTogdm9pZDsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoZSBjYXRhbG9nSWQgaGFzIHRvIGJlCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gY2F0YWxvZ0lkCiAgICAgKi8KICAgIHNldENhdGFsb2dUeXBlKGNhdGFsb2dUeXBlOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dUeXBlID0gY2F0YWxvZ1R5cGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBUaGUgY2F0YWxvZ0lkIGhhcyB0byBiZQogICAgICogQHBhcmFtIHtzdHJpbmd9IGNhdGFsb2dJZAogICAgICovCiAgICBzZXRDYXRhbG9nSWQoY2F0YWxvZ0lkOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dJZCA9IGNhdGFsb2dJZDsKICAgICAgICB0aGlzLmZpbHRlcnMuY291cnNlQ2F0YWxvZ0lkcy5zZXQoW2NhdGFsb2dJZF0pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudHMgSUNvdXJzZUNhdGFsb2dUYWJsZVN0b3JlIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoZSBjYXRhbG9nSWQgaGFzIHRvIGJlCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gY2F0YWxvZ0lkCiAgICAgKi8KICAgIHNldENhdGFsb2dUeXBlKGNhdGFsb2dUeXBlOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dUeXBlID0gY2F0YWxvZ1R5cGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBUaGUgY2F0YWxvZ0lkIGhhcyB0byBiZQogICAgICogQHBhcmFtIHtzdHJpbmd9IGNhdGFsb2dJZAogICAgICovCiAgICBzZXRDYXRhbG9nSWQoY2F0YWxvZ0lkOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dJZCA9IGNhdGFsb2dJZDsKICAgICAgICB0aGlzLmZpbHRlcnMuY291cnNlQ2F0YWxvZ0lkcy5zZXQoW2NhdGFsb2dJZF0pOwogICAgfQp9Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoZSBjYXRhbG9nSWQgaGFzIHRvIGJlCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gY2F0YWxvZ0lkCiAgICAgKi8KICAgIHNldENhdGFsb2dUeXBlKGNhdGFsb2dUeXBlOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dUeXBlID0gY2F0YWxvZ1R5cGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBUaGUgY2F0YWxvZ0lkIGhhcyB0byBiZQogICAgICogQHBhcmFtIHtzdHJpbmd9IGNhdGFsb2dJZAogICAgICovCiAgICBzZXRDYXRhbG9nSWQoY2F0YWxvZ0lkOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dJZCA9IGNhdGFsb2dJZDsKICAgICAgICB0aGlzLmZpbHRlcnMuY291cnNlQ2F0YWxvZ0lkcy5zZXQoW2NhdGFsb2dJZF0pOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgU2VsZWN0IGZyb20gJ3JlYWN0LXNlbGVjdCc7CmltcG9ydCB7IHRvSlMgfSBmcm9tICdtb2J4JzsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoZSBjYXRhbG9nSWQgaGFzIHRvIGJlCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gY2F0YWxvZ0lkCiAgICAgKi8KICAgIHNldENhdGFsb2dUeXBlKGNhdGFsb2dUeXBlOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dUeXBlID0gY2F0YWxvZ1R5cGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBUaGUgY2F0YWxvZ0lkIGhhcyB0byBiZQogICAgICogQHBhcmFtIHtzdHJpbmd9IGNhdGFsb2dJZAogICAgICovCiAgICBzZXRDYXRhbG9nSWQoY2F0YWxvZ0lkOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dJZCA9IGNhdGFsb2dJZDsKICAgICAgICB0aGlzLmZpbHRlcnMuY291cnNlQ2F0YWxvZ0lkcy5zZXQoW2NhdGFsb2dJZF0pOwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dGaWx0ZXJzRGF0YSB9IGZyb20gJy4uL21vZGVscy9JQ291cnNlQ2F0YWxvZ0VuRmlsdGVyc0RhdGEnOwo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFRoZSBjYXRhbG9nSWQgaGFzIHRvIGJlCiAgICAgKiBAcGFyYW0ge3N0cmluZ30gY2F0YWxvZ0lkCiAgICAgKi8KICAgIHNldENhdGFsb2dUeXBlKGNhdGFsb2dUeXBlOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dUeXBlID0gY2F0YWxvZ1R5cGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBUaGUgY2F0YWxvZ0lkIGhhcyB0byBiZQogICAgICogQHBhcmFtIHtzdHJpbmd9IGNhdGFsb2dJZAogICAgICovCiAgICBzZXRDYXRhbG9nSWQoY2F0YWxvZ0lkOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLmNhdGFsb2dJZCA9IGNhdGFsb2dJZDsKICAgICAgICB0aGlzLmZpbHRlcnMuY291cnNlQ2F0YWxvZ0lkcy5zZXQoW2NhdGFsb2dJZF0pOwogICAgfQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dGaWx0ZXJzIH0gZnJvbSAnQ2xpZW50QXBwL3ZpZXdzL2VudGVycHJpc2UvY291cnNlLWNhdGFsb2cvbW9kZWxzL0NvdXJzZUNhdGFsb2dGaWx0ZXJzJzsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgU2VsZWN0IGZyb20gJ3JlYWN0LXNlbGVjdCc7CmltcG9ydCB7IHRvSlMgfSBmcm9tICdtb2J4JzsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -1358,22 +1365,22 @@
         <entry>g/return</entry>
         <entry>global/ret</entry>
         <entry>%s/return//gn</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>marks</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action FindUsages</entry>
         <entry encoding="base64">JzwsJz5zL3BhcnNlZFwuL3BhcnNlZFwuPw==</entry>
         <entry encoding="base64">JzwsJz5zL3BhcnNlZFwuL3BhcnNlZD9cLg==</entry>
-        <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz5zL2RhdGEuL2RhdGE/Lg==</entry>
-        <entry>reg</entry>
         <entry>s/-vchmuzh/.qa</entry>
         <entry>%s/-vchmuzh/.qa</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>nohl</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
+        <entry>action FindUsages</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
