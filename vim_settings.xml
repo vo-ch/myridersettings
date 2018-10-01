@@ -215,6 +215,12 @@
         <mark key="." line="20" column="8" />
         <mark key="^" line="17" column="7" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" timestamp="1538407219826">
+        <mark key="'" line="83" column="8" />
+        <mark key="[" line="80" column="8" />
+        <mark key="]" line="80" column="8" />
+        <mark key="." line="80" column="8" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/ProfileSection.tsx" timestamp="1534333882702">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="195" column="0" />
@@ -281,12 +287,11 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogFilterStore.ts" timestamp="1538406203634">
-        <mark key="'" line="153" column="14" />
-        <mark key="[" line="139" column="8" />
-        <mark key="]" line="139" column="17" />
-        <mark key="." line="139" column="17" />
-        <mark key="^" line="139" column="17" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogFilterStore.ts" timestamp="1538407522620">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="198" column="0" />
+        <mark key="." line="198" column="0" />
+        <mark key="^" line="120" column="13" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/@types/react-router/index.d.ts" timestamp="1538055115009">
         <mark key="'" line="59" column="13" />
@@ -1117,9 +1122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="16" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
-      <jump line="20" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/CourseCatalogPageEnterprise.tsx" />
-      <jump line="234" column="12" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
       <jump line="61" column="31" filename="C:/projects/UI-Web/ClientApp/views/enterprise/components/mobile-filters/MobileFiltersWrapper.tsx" />
       <jump line="2" column="18" filename="C:/projects/UI-Web/ClientApp/views/enterprise/components/mobile-filters/MobileFiltersWrapper.tsx" />
       <jump line="105" column="43" filename="C:/projects/UI-Web/ClientApp/views/enterprise/components/mobile-filters/MobileFiltersWrapper.tsx" />
@@ -1217,13 +1219,16 @@
       <jump line="139" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogFilterStore.ts" />
       <jump line="63" column="55" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogFilterStore.ts" />
       <jump line="153" column="14" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogFilterStore.ts" />
+      <jump line="78" column="8" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
+      <jump line="83" column="8" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
+      <jump line="122" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogFilterStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>CourseCatalogEnterpriseTableStore</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>private</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRDYXRlZ29yaWVzKCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1255,16 +1260,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text encoding="base64">QGNvbXB1dGVkIA==</text>
       </register>
       <register name="/" type="4">
         <text>imp</text>
       </register>
       <register name="0" type="4">
-        <text>httpConfig</text>
+        <text encoding="base64">cHJvdGVjdGVkIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIENvdXJzZUNhdGFsb2dFbnRlcnBpc2VGaWx0ZXJTdG9yZSBleHRlbmRzIENvdXJzZUNhdGFsb2dGaWx0ZXJTdG9yZSBpbXBsZW1lbnRzIElDb3Vyc2VDYXRhbG9nRmlsdGVyU3RvcmUgewogICAgLy8gY2F0ZWdvcmllcwogICAgQG9ic2VydmFibGUgYWxsQ2F0ZWdvcmllc0xpc3Q6IElDYXRlZ29yeVtdOwogICAgQG9ic2VydmFibGUgYWxsQ2F0ZWdvcmllc1NlbGVjdGVkOiBJQ2F0ZWdvcnlbXTsKICAgIEBvYnNlcnZhYmxlIGFsbENhdGVnb3JpZXNMb2FkaW5nOiBib29sZWFuOwoKICAgIC8vIGNhdGVnb3JpZXMKICAgIEBvYnNlcnZhYmxlIGNhdGVnb3JpZXNMaXN0OiBJQ2F0ZWdvcnlbXTsKICAgIEBvYnNlcnZhYmxlIGNhdGVnb3JpZXNTZWxlY3RlZDogSUNoZWNrYm94TGlzdEl0ZW1bXTsKICAgIEBvYnNlcnZhYmxlIGNhdGVnb3JpZXNMb2FkaW5nOiBib29sZWFuOwoKICAgIC8vIHN1YmNhdGVnb3JpZXMKICAgIEBvYnNlcnZhYmxlIHN1YmNhdGVnb3JpZXNTZWxlY3RlZDogSUNoZWNrYm94TGlzdEl0ZW1bXTsKICAgIEBvYnNlcnZhYmxlIHN1YmNhdGVnb3JpZXNMb2FkaW5nOiBib29sZWFuOwoKICAgIGNvbnN0cnVjdG9yKAogICAgICAgIGFwcFN0b3JlczogSUFwcGxpY2F0aW9uU3RvcmVzLAogICAgICAgIHByaXZhdGUgaW5pdGlhbFN0YXRlOiBJQ291cnNlQ2F0YWxvZ0ZpbHRlclN0YXRlID0ge30sCiAgICAgICAgcHJpdmF0ZSBjYXRlZ29yaWVzU2VydmljZTogSUNhdGVnb3JpZXNTZXJ2aWNlID0gbmV3IENhdGVnb3JpZXNTZXJ2aWNlKGFwcFN0b3Jlcy5jb25maWd1cmF0aW9uLCBhcHBTdG9yZXMuYXV0aCksCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRDYXRlZ29yaWVzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1284,37 +1289,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNhdGFsb2dTZXJ2aWNlOiBJQ2F0YWxvZ1NlcnZpY2UgPSBuZXcgQ2F0YWxvZ1NlcnZpY2UoYXBwU3RvcmVzLmNvbmZpZ3VyYXRpb24sIGFwcFN0b3Jlcy5hdXRoKSwK</text>
+        <text encoding="base64">ICAgIEBjb21wdXRlZCBhYnN0cmFjdCBnZXQgY2F0YWxvZ0ZpbHRlcnMoKTogSUNvdXJzZUNhdGFsb2dGaWx0ZXJzRGF0YSB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ewogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIGNvdXJzZUNhdGFsb2dJZHM6IFt0aGlzLmNhdGFsb2dJZF0sCiAgICAgICAgICAgIHF1ZXJ5OiB0aGlzLmFjdGl2ZVNlYXJjaCwKICAgICAgICAgICAgY2F0ZWdvcnlJZHM6IHRoaXMuY2F0ZWdvcmllc1NlbGVjdGVkICYmIHRoaXMuY2F0ZWdvcmllc1NlbGVjdGVkLm1hcChpdGVtID0+IGl0ZW0udmFsdWUpLAogICAgICAgICAgICBzdWJjYXRlZ29yeUlkczogdGhpcy5zdWJjYXRlZ29yaWVzU2VsZWN0ZWQgJiYgdGhpcy5zdWJjYXRlZ29yaWVzU2VsZWN0ZWQubWFwKGl0ZW0gPT4gaXRlbS52YWx1ZSksCiAgICAgICAgICAgIHF1YXJ0ZXJJZDogdGhpcy5xdWFydGVyc1NlbGVjdGVkICYmIHRoaXMucXVhcnRlcnNTZWxlY3RlZC5tYXAoaXRlbSA9PiBpdGVtLnZhbHVlKSwKICAgICAgICAgICAgaW5zdHJ1Y3RvcklkczogdGhpcy5pbnN0cnVjdG9yc1NlbGVjdGVkICYmIHRoaXMuaW5zdHJ1Y3RvcnNTZWxlY3RlZC5tYXAoaXRlbSA9PiBpdGVtLnZhbHVlKSwKICAgICAgICAgICAgY29yZUNvbXBldGVuY3lJZHM6IHRoaXMuY29tcGV0ZW5jaWVzU2VsZWN0ZWQgJiYgdGhpcy5jb21wZXRlbmNpZXNTZWxlY3RlZC5tYXAoaXRlbSA9PiBpdGVtLnZhbHVlKQogICAgICAgIH07CiAgICA=</text>
       </register>
       <register name="s" type="4">
         <text>watchedDuration</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIGNvdXJzZUNhdGFsb2dJZHM6IFt0aGlzLmNhdGFsb2dJZF0sCiAgICAgICAgICAgIHF1ZXJ5OiB0aGlzLmFjdGl2ZVNlYXJjaCwKICAgICAgICAgICAgY2F0ZWdvcnlJZHM6IHRoaXMuY2F0ZWdvcmllc1NlbGVjdGVkICYmIHRoaXMuY2F0ZWdvcmllc1NlbGVjdGVkLm1hcChpdGVtID0+IGl0ZW0udmFsdWUpLAogICAgICAgICAgICBzdWJjYXRlZ29yeUlkczogdGhpcy5zdWJjYXRlZ29yaWVzU2VsZWN0ZWQgJiYgdGhpcy5zdWJjYXRlZ29yaWVzU2VsZWN0ZWQubWFwKGl0ZW0gPT4gaXRlbS52YWx1ZSksCiAgICAgICAgICAgIHF1YXJ0ZXJJZDogdGhpcy5xdWFydGVyc1NlbGVjdGVkICYmIHRoaXMucXVhcnRlcnNTZWxlY3RlZC5tYXAoaXRlbSA9PiBpdGVtLnZhbHVlKSwKICAgICAgICAgICAgaW5zdHJ1Y3RvcklkczogdGhpcy5pbnN0cnVjdG9yc1NlbGVjdGVkICYmIHRoaXMuaW5zdHJ1Y3RvcnNTZWxlY3RlZC5tYXAoaXRlbSA9PiBpdGVtLnZhbHVlKSwKICAgICAgICAgICAgY29yZUNvbXBldGVuY3lJZHM6IHRoaXMuY29tcGV0ZW5jaWVzU2VsZWN0ZWQgJiYgdGhpcy5jb21wZXRlbmNpZXNTZWxlY3RlZC5tYXAoaXRlbSA9PiBpdGVtLnZhbHVlKQogICAgICAgIH07CiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGNvbmZpZ3VyYXRpb246IHsgZ2F0ZXdheVVybCA9ICcnIH0gPSB7fSB9ID0gc3RvcmVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IENvdXJzZUNhdGFsb2dGaWx0ZXJzKCksCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJlYWRVcmw6IGAke2dhdGV3YXlVcmx9L2FwaS92MS9sbXMvY291cnNlcy9zZWFyY2gvdjJgLAogICAgICAgICAgICAgICAgcHJpbnRVcmw6IGAke2dhdGV3YXlVcmx9L2FwaS92MS9sbXMvY291cnNlcy9wZGZgCiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBMb2FkIHN1YmNhdGVnb3JpZXMgZGF0YQogICAgICogLSBmaWx0ZXJzIHN1YmNhdGVnb3JpZXMgYmFzZWQgb24gc2VsZWN0ZWQgY2F0ZWdvcmllcwogICAgICovCiAgICBAY29tcHV0ZWQgZ2V0IHN1YmNhdGVnb3JpZXNMaXN0KCk6IElDYXRlZ29yeVtdIHsKICAgICAgICBpZiAoIXRoaXMuYWxsQ2F0ZWdvcmllc0xpc3QgfHwgdGhpcy5hbGxDYXRlZ29yaWVzTGlzdC5sZW5ndGggPCAxKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHRoaXMuYWxsQ2F0ZWdvcmllc0xpc3QKICAgICAgICAgICAgLmZpbHRlcigoY2F0ZWdvcnk6IElDYXRlZ29yeSkgPT4gewogICAgICAgICAgICAgICAgcmV0dXJuIEJvb2xlYW4oY2F0ZWdvcnkubGV2ZWwgPT09IDIgJiYgY2F0ZWdvcnkuc3RhdHVzID09PSAnYWN0aXZlJyk7CiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC5zb3J0KChjdXJyZW50OiBJQ2F0ZWdvcnksIG5leHQ6IElDYXRlZ29yeSkgPT4gewogICAgICAgICAgICAgICAgY29uc3QgbGFiZWwgPSBjdXJyZW50LmxhYmVsLnRvTG93ZXJDYXNlKCk7CiAgICAgICAgICAgICAgICBjb25zdCBsYWJlbE5leHQgPSBuZXh0LmxhYmVsLnRvTG93ZXJDYXNlKCk7CgogICAgICAgICAgICAgICAgbGV0IHNvcnQgPSAwOwogICAgICAgICAgICAgICAgaWYgKGxhYmVsIDwgbGFiZWxOZXh0KSB7CiAgICAgICAgICAgICAgICAgICAgc29ydCA9IC0xOwogICAgICAgICAgICAgICAgfSBlbHNlIGlmIChsYWJlbCA+IGxhYmVsTmV4dCkgewogICAgICAgICAgICAgICAgICAgIHNvcnQgPSAxOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybiBzb3J0OwogICAgICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZSB9IGZyb20gJ0NsaWVudEFwcC9tb2RlbHMvY291cnNlL0lDb3Vyc2UnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IG5ldyBDb3Vyc2VDYXRhbG9nRmlsdGVyU3RvcmUoCiAgICAgICAgICAgIHRoaXMuYXBwU3RvcmVzCiAgICAgICAgKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBMb2FkIGNhdGVnb3JpZXMgZGF0YQogICAgICogLSBTZXRzIHByaW1hcnkgY2F0ZWdvcnkgaW5mbyBmb3IgZmlsdGVycwogICAgICovCiAgICBAYWN0aW9uIGxvYWRDYXRlZ29yaWVzID0gKCk6IHZvaWQgPT4gewogICAgICAgIHRoaXMubG9hZEFuZFNldERhdGEoJ2NhdGVnb3JpZXMnLCAoZGF0YSkgPT4gewogICAgICAgICAgICAvLyBmaWx0ZXIgcHJpbWFyeSBjYXRlZ29yaWVzIGZyb20gc2Vjb25kYXJ5IGNhdGVnb3JpZXMKICAgICAgICAgICAgY29uc3QgcHJpbWFyeUNhdGVnb3JpZXMgPSBkYXRhCiAgICAgICAgICAgICAgICAuZmlsdGVyKChjYXRlZ29yeTogSUNhdGVnb3J5KSA9PiBjYXRlZ29yeS5sZXZlbCA9PT0gMSAmJiBjYXRlZ29yeS5zdGF0dXMgPT09ICdhY3RpdmUnKQogICAgICAgICAgICAgICAgLy8gLnNvcnQoKGN1cjogSUNhdGVnb3J5LCBuZXh0OiBJQ2F0ZWdvcnkpID0+IG5leHQucG9wU2NvcmUgLSBjdXIucG9wU2NvcmUpOwogICAgICAgICAgICAgICAgLnNvcnQoKGN1cjogSUNhdGVnb3J5LCBuZXh0OiBJQ2F0ZWdvcnkpID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBsYzogc3RyaW5nID0gY3VyLmxhYmVsLnRvTG93ZXJDYXNlKCk7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgbG46IHN0cmluZyA9IG5leHQubGFiZWwudG9Mb3dlckNhc2UoKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKGxjIDwgbG4pIHJldHVybiAtMTsKICAgICAgICAgICAgICAgICAgICBpZiAobGMgPiBsbikgcmV0dXJuIDE7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIC8vIGtlZXAgYWxsIGNhdGVnb3JpZXMgZm9yIGZpbHRlcmluZyBzdWIgY2F0ZWdvcmllcyBsYXRlcgogICAgICAgICAgICB0aGlzLmxvYWREYXRhU3VjY2VzcygnYWxsQ2F0ZWdvcmllcycsIGRhdGEpOwoKICAgICAgICAgICAgLy8gc2V0IHByaW1hcnkgY2F0ZWdvcmllcyBkYXRhCiAgICAgICAgICAgIHRoaXMubG9hZERhdGFTdWNjZXNzKCdjYXRlZ29yaWVzJywgcHJpbWFyeUNhdGVnb3JpZXMpOwogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IG5ldyBDb3Vyc2VDYXRhbG9nRW50ZXJwcmlzZVRhYmxlU3RvcmUoCiAgICAgICAgICAgIHRoaXMuYXBwU3RvcmVzLAogICAgICAgICAgICB0aGlzLmluaXRpYWxTdGF0ZS50YWJsZVN0YXRlCiAgICAgICAgKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBMb2FkIGNhdGVnb3JpZXMgZGF0YQogICAgICogLSBTZXRzIHByaW1hcnkgY2F0ZWdvcnkgaW5mbyBmb3IgZmlsdGVycwogICAgICovCiAgICBAYWN0aW9uIGxvYWRDYXRlZ29yaWVzID0gKCk6IHZvaWQgPT4gewogICAgICAgIHRoaXMubG9hZEFuZFNldERhdGEoJ2NhdGVnb3JpZXMnLCAoZGF0YSkgPT4gewogICAgICAgICAgICAvLyBmaWx0ZXIgcHJpbWFyeSBjYXRlZ29yaWVzIGZyb20gc2Vjb25kYXJ5IGNhdGVnb3JpZXMKICAgICAgICAgICAgY29uc3QgcHJpbWFyeUNhdGVnb3JpZXMgPSBkYXRhCiAgICAgICAgICAgICAgICAuZmlsdGVyKChjYXRlZ29yeTogSUNhdGVnb3J5KSA9PiBjYXRlZ29yeS5sZXZlbCA9PT0gMSAmJiBjYXRlZ29yeS5zdGF0dXMgPT09ICdhY3RpdmUnKQogICAgICAgICAgICAgICAgLy8gLnNvcnQoKGN1cjogSUNhdGVnb3J5LCBuZXh0OiBJQ2F0ZWdvcnkpID0+IG5leHQucG9wU2NvcmUgLSBjdXIucG9wU2NvcmUpOwogICAgICAgICAgICAgICAgLnNvcnQoKGN1cjogSUNhdGVnb3J5LCBuZXh0OiBJQ2F0ZWdvcnkpID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBsYzogc3RyaW5nID0gY3VyLmxhYmVsLnRvTG93ZXJDYXNlKCk7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgbG46IHN0cmluZyA9IG5leHQubGFiZWwudG9Mb3dlckNhc2UoKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKGxjIDwgbG4pIHJldHVybiAtMTsKICAgICAgICAgICAgICAgICAgICBpZiAobGMgPiBsbikgcmV0dXJuIDE7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIC8vIGtlZXAgYWxsIGNhdGVnb3JpZXMgZm9yIGZpbHRlcmluZyBzdWIgY2F0ZWdvcmllcyBsYXRlcgogICAgICAgICAgICB0aGlzLmxvYWREYXRhU3VjY2VzcygnYWxsQ2F0ZWdvcmllcycsIGRhdGEpOwoKICAgICAgICAgICAgLy8gc2V0IHByaW1hcnkgY2F0ZWdvcmllcyBkYXRhCiAgICAgICAgICAgIHRoaXMubG9hZERhdGFTdWNjZXNzKCdjYXRlZ29yaWVzJywgcHJpbWFyeUNhdGVnb3JpZXMpOwogICAgICAgIH0pOwogICAgfQoKICAgIC8qCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1368,8 +1373,8 @@
         <entry>blist</entry>
         <entry>ls</entry>
         <entry>action FindUsages</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
