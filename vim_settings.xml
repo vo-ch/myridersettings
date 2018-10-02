@@ -1136,11 +1136,11 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogPageStores.ts" timestamp="1538487138470">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="4" />
-        <mark key="^" line="21" column="10" />
-        <mark key="." line="22" column="10" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogPageStores.ts" timestamp="1538488178327">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -1250,7 +1250,7 @@
         <text>ICourseCatalogFilters</text>
       </register>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text encoding="base64">SUNvdXJzZUNhdGFsb2dGaWx0ZXJhYmxlVGFibGVTdG9yZTxUPg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1282,16 +1282,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text encoding="base64">SUNvdXJzZUNhdGFsb2dGaWx0ZXJhYmxlVGFibGVTdG9yZTxUPg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJQ291cnNlQ2F0YWxvZ1BhZ2VTdG9yZXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB0YWJsZVN0b3JlOiBJQ291cnNlQ2F0YWxvZ0ZpbHRlcmFibGVUYWJsZVN0b3JlPFQ+OwogICAgcHVibGljIGZpbHRlcnNTdG9yZTogSUNvdXJzZUNhdGFsb2dGaWx0ZXJTdG9yZTsK</text>
+      <register name="0" type="4">
+        <text>ICourseCatalogFilterStore</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dQYWdlU3RvcmVzIH0gZnJvbSAnQ2xpZW50QXBwL3ZpZXdzL2VudGVycHJpc2UvY291cnNlLWNhdGFsb2cvbW9kZWxzL0lDb3Vyc2VDYXRhbG9nUGFnZVN0b3Jlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVTdGF0ZTogSURhdGFUYWJsZVN0YXRlPElHYXRld2F5Q291cnNlRGF0YSwgSUNvdXJzZUNhdGFsb2dGaWx0ZXJzPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1311,36 +1311,36 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-        tableStore: 
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dQYWdlU3RvcmVzIH0gZnJvbSAnQ2xpZW50QXBwL3ZpZXdzL2VudGVycHJpc2UvY291cnNlLWNhdGFsb2cvbW9kZWxzL0lDb3Vyc2VDYXRhbG9nUGFnZVN0b3Jlcyc7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>watchedDuration</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+      <register name="5" type="4">
+        <text>{
+        tableStore: 
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFVJV2ViLkNsaWVudEFwcC52aWV3cy5lbnRlcnByaXNlLm1vZGVscwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQ291cnNlQ2F0YWxvZ1RhYmxlU3RvcmUgZXh0ZW5kcyBEYXRhVGFibGVTdG9yZTxJR2F0ZXdheUNvdXJzZURhdGEsIElDb3Vyc2VDYXRhbG9nRmlsdGVycz4gewo=</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldygKICAgICAgICBzdG9yZXM6IElTZWxlY3RlZFN0b3JlcywKICAgICAgICBmaWx0ZXJzOiBUQ291cnNlQ2F0YWxvZ0ZpbHRlcnMsCiAgICAgICAgaHR0cENvbmZpZzogSURhdGFUYWJsZUh0dHBDb25maWcsCiAgICAgICAgaW5pdGlhbFN0YXRlOiBJRGF0YVRhYmxlU3RhdGU8SUdhdGV3YXlDb3Vyc2VEYXRhLCBUQ291cnNlQ2F0YWxvZ0ZpbHRlcnM+LAogICAgKTogSUNvdXJzZUNhdGFsb2dUYWJsZVN0b3JlPFRDb3Vyc2VDYXRhbG9nRmlsdGVycz47Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIFVJV2ViLkNsaWVudEFwcC52aWV3cy5lbnRlcnByaXNlLm1vZGVscwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQ291cnNlQ2F0YWxvZ1RhYmxlU3RvcmUgZXh0ZW5kcyBEYXRhVGFibGVTdG9yZTxJR2F0ZXdheUNvdXJzZURhdGEsIElDb3Vyc2VDYXRhbG9nRmlsdGVycz4gewo=</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
