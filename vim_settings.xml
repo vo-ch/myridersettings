@@ -61,6 +61,11 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="76" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/store/CourseCatalogEnterpriseTableStore.ts" timestamp="1538495171163">
+        <mark key="'" line="5" column="23" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="51" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CourseConsumptionIndex.cs" timestamp="1537542874111">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="72" />
@@ -213,11 +218,6 @@
         <mark key="^" line="35" column="65" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1537780769975">
-        <mark key="[" line="425" column="0" />
-        <mark key="]" line="425" column="0" />
-        <mark key="." line="425" column="0" />
-      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IExternalUserService.cs" timestamp="1536327354134">
         <mark key="'" line="7" column="28" />
         <mark key="[" line="7" column="68" />
@@ -234,6 +234,9 @@
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" timestamp="1536159836272">
         <mark key="'" line="183" column="71" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/models/ICourseCatalogEnterpriseFiltersData.ts" timestamp="1538495398155">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessors.cs" timestamp="1537885509661">
         <mark key="'" line="23" column="39" />
@@ -426,11 +429,6 @@
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" timestamp="1537972219965">
         <mark key="'" line="78" column="77" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/App.tsx" timestamp="1537779027192">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="74" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/libs-override/react-inlinesvg/InlineSVG.tsx" timestamp="1538491739347">
         <mark key="'" line="66" column="32" />
       </file>
@@ -566,11 +564,6 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538424460846">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="7" />
-      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/PageLoadPayload.cs" timestamp="1537805729765">
         <mark key="[" line="30" column="52" />
         <mark key="]" line="30" column="55" />
@@ -583,6 +576,13 @@
         <mark key="]" line="214" column="68" />
         <mark key="." line="214" column="67" />
         <mark key="^" line="214" column="60" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538496109426">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessor.cs" timestamp="1536846684742">
         <mark key="'" line="10" column="54" />
@@ -834,6 +834,15 @@
         <mark key="^" line="53" column="139" />
         <mark key="." line="53" column="139" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.tsx" timestamp="1538494311475">
+        <mark key="'" line="16" column="24" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/store/CourseCatalogEnterpiseFilterStore.ts" timestamp="1538495365819">
+        <mark key="'" line="135" column="4" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/models/CourseCatalogEnterpiseFilters.ts" timestamp="1538495830515">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ui-actions/IUiCategoryCourseActionData.ts" timestamp="1534498194219">
         <mark key="'" line="4" column="2" />
         <mark key="[" line="3" column="17" />
@@ -964,12 +973,12 @@
         <mark key="." line="88" column="44" />
         <mark key="^" line="88" column="44" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538492720067">
-        <mark key="'" line="29" column="19" />
-        <mark key="[" line="15" column="66" />
-        <mark key="]" line="15" column="66" />
-        <mark key="." line="15" column="66" />
-        <mark key="^" line="15" column="51" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538494468333">
+        <mark key="'" line="15" column="35" />
+        <mark key="[" line="12" column="64" />
+        <mark key="]" line="12" column="63" />
+        <mark key="." line="12" column="63" />
+        <mark key="^" line="12" column="63" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/components/mobile-filters/MobileFiltersWrapper.module.scss" timestamp="1538062564716">
         <mark key="'" line="81" column="0" />
@@ -1046,11 +1055,6 @@
         <mark key="]" line="11" column="66" />
         <mark key="." line="11" column="66" />
         <mark key="^" line="11" column="66" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.module.scss" timestamp="1538062347637">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/CommonProcessors/CoursePortionConsumedProcessor/CoursePortionConsumedPayload.cs" timestamp="1536844202029">
         <mark key="[" line="4" column="47" />
@@ -1148,21 +1152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
-      <jump line="19" column="3" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
-      <jump line="73" column="33" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="75" column="57" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="31" column="80" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/CourseCatalogPageProfessional.tsx" />
-      <jump line="81" column="27" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="82" column="26" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="41" column="52" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="14" column="35" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogTableStore.ts" />
-      <jump line="74" column="13" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="208" column="25" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
-      <jump line="102" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="47" column="6" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="50" column="4" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="63" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="59" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="17" column="4" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
       <jump line="70" column="44" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
@@ -1224,7 +1213,6 @@
       <jump line="2" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/models/ICourseCatalogPageStores.ts" />
       <jump line="69" column="19" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="4" column="48" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/models/ICourseCatalogPageStores.ts" />
-      <jump line="18" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogTableStore.ts" />
       <jump line="49" column="25" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="48" column="15" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="32" column="14" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogPageStores.ts" />
@@ -1248,13 +1236,29 @@
       <jump line="36" column="23" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
       <jump line="11" column="66" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
       <jump line="28" column="19" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="38" column="4" filename="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" />
+      <jump line="37" column="19" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="12" column="18" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="16" column="24" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.tsx" />
+      <jump line="52" column="17" filename="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" />
+      <jump line="15" column="35" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="18" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogTableStore.ts" />
+      <jump line="17" column="26" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/store/CourseCatalogEnterpriseTableStore.ts" />
+      <jump line="5" column="23" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/store/CourseCatalogEnterpriseTableStore.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/store/CourseCatalogEnterpiseFilterStore.ts" />
+      <jump line="135" column="4" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/store/CourseCatalogEnterpiseFilterStore.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/models/ICourseCatalogEnterpriseFiltersData.ts" />
+      <jump line="7" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/models/CourseCatalogEnterpiseFilters.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="25" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="15" column="4" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>ICourseCatalogFilterStore</text>
+        <text>Enterprise</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Enterpise</text>
+        <text>/enterprise/views/enterprise/</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1289,10 +1293,10 @@
         <text>Enterpise</text>
       </register>
       <register name="/" type="4">
-        <text>tableStoreCached</text>
+        <text>\/enterprise\/views\/enterprise\/</text>
       </register>
       <register name="0" type="4">
-        <text>ICourseCatalogFilterableTableStore</text>
+        <text>/enterprise/views/enterprise/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dGaWx0ZXJTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC92aWV3cy9lbnRlcnByaXNlL2NvdXJzZS1jYXRhbG9nL3N0b3JlL0NvdXJzZUNhdGFsb2dGaWx0ZXJTdG9yZSc7Cg==</text>
@@ -1321,7 +1325,7 @@
         <text encoding="base64">aW1wb3J0ICogYXMgU2VsZWN0IGZyb20gJ3JlYWN0LXNlbGVjdCc7CmltcG9ydCB7IHRvSlMgfSBmcm9tICdtb2J4JzsK</text>
       </register>
       <register name="s" type="4">
-        <text>watchedDuration</text>
+        <text>/enterprise/views/enterprise/</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dTdG9yZSB9IGZyb20gJy4uL3N0b3JlL0NvdXJzZUNhdGFsb2dTdG9yZSc7Cg==</text>
@@ -1345,23 +1349,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>%s/\/enterprise\/views\/enterprise\//\/enterprise\/views\/professional\//g</text>
       </register>
     </registers>
     <search>
-      <last-search>tableStoreCached</last-search>
+      <last-search>\/enterprise\/views\/enterprise\/</last-search>
       <last-offset />
-      <last-pattern>tableStoreCached</last-pattern>
-      <last-replace>filtersStoreCached</last-replace>
-      <last-substitute>tableStoreCached</last-substitute>
+      <last-pattern>\/enterprise\/views\/enterprise\/</last-pattern>
+      <last-replace>\/enterprise\/views\/professional\/</last-replace>
+      <last-substitute>\/enterprise\/views\/enterprise\/</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJTdG9yZVw+</entry>
-        <entry>mobileF</entry>
-        <entry>route</entry>
         <entry encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxzdmdVcmxcPg==</entry>
@@ -1379,11 +1380,11 @@
         <entry>ext</entry>
         <entry encoding="base64">XDxJQ291cnNlQ2F0YWxvZ1BhZ2VTdG9yZXNcPg==</entry>
         <entry>tableStoreCached</entry>
+        <entry>Enterprise</entry>
+        <entry>Enterpise</entry>
+        <entry>\/enterprise\/views\/enterprise\/</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/-vchmuzh/.qa</entry>
-        <entry>action CommentByBlockComment</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>blist</entry>
         <entry>ls</entry>
@@ -1401,6 +1402,9 @@
         <entry>nohl</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>%s/Enterprise/Professional/g</entry>
+        <entry>%s/Enterpise/Professional/g</entry>
+        <entry>%s/\/enterprise\/views\/enterprise\//\/enterprise\/views\/professional\//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
