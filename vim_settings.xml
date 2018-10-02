@@ -782,8 +782,8 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" timestamp="1538424566155">
-        <mark key="'" line="25" column="14" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" timestamp="1538473949151">
+        <mark key="'" line="27" column="16" />
         <mark key="[" line="35" column="10" />
         <mark key="]" line="35" column="35" />
         <mark key="^" line="35" column="35" />
@@ -1058,7 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/components/mobile-filters/MobileFiltersWrapper.module.scss" />
       <jump line="43" column="6" filename="C:/projects/UI-Web/ClientApp/views/enterprise/components/mobile-filters/MobileFiltersWrapper.module.scss" />
       <jump line="47" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/components/mobile-filters/MobileFiltersWrapper.module.scss" />
       <jump line="51" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/components/mobile-filters/MobileFiltersWrapper.module.scss" />
@@ -1158,6 +1157,7 @@
       <jump line="35" column="21" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
       <jump line="25" column="14" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
       <jump line="20" column="6" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
+      <jump line="27" column="16" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1199,7 +1199,7 @@
         <text>TFiltersModel</text>
       </register>
       <register name="/" type="4">
-        <text>ICourseCatalogFilters</text>
+        <text>read</text>
       </register>
       <register name="0" type="4">
         <text>TCourseCatalogFiltersData</text>
@@ -1259,9 +1259,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ICourseCatalogFilters</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>ICourseCatalogFilters</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace>TCourseCatalogFilters</last-replace>
       <last-substitute>ICourseCatalogFilters</last-substitute>
       <last-dir>1</last-dir>
@@ -1269,7 +1269,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-vchmuzh</entry>
         <entry>catalog</entry>
         <entry>renderTa</entry>
         <entry encoding="base64">XDxJUHJvdmlkZXJQcm9wc1w+</entry>
@@ -1289,6 +1288,7 @@
         <entry>loadCat</entry>
         <entry>TCourseCatalogFilters</entry>
         <entry>ICourseCatalogFilters</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3BhcnNlZFwuL3BhcnNlZFwuPw==</entry>
