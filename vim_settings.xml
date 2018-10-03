@@ -61,11 +61,6 @@
         <mark key="^" line="14" column="34" />
         <mark key="." line="14" column="76" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/store/CourseCatalogEnterpriseTableStore.ts" timestamp="1538495171163">
-        <mark key="'" line="5" column="23" />
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="51" />
-      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CourseConsumptionIndex.cs" timestamp="1537542874111">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="72" />
@@ -420,6 +415,11 @@
         <mark key="]" line="49" column="57" />
         <mark key="." line="49" column="57" />
         <mark key="^" line="49" column="57" />
+      </file>
+      <file name="C:/projects/UI-Web/UIWeb.csproj" timestamp="1538578643746">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/models/CourseCatalogEnterpiseFilters.ts" timestamp="1538477328015">
         <mark key="'" line="7" column="56" />
@@ -1185,12 +1185,12 @@
         <mark key="^" line="440" column="3" />
         <mark key="." line="228" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-filtering/CourseCatalogEnterpriseFiltering.tsx" timestamp="1538577677492">
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-filtering/CourseCatalogEnterpriseFiltering.tsx" timestamp="1538578422193">
         <mark key="'" line="15" column="75" />
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="16" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.ts" timestamp="1537797723686">
         <mark key="'" line="6" column="13" />
@@ -1337,7 +1337,7 @@
         <text>Enterprise</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICcvQ2xpZW50QXBwL3ZpZXdzL2VudGVycHJpc2UvY291cnNlLWNhdGFsb2cvY291cnNlLWNhdGFsb2ctZmlsdGVyaW5nL0NvdXJzZUNhdGFsb2dGaWx0ZXJpbmcubW9kdWxlLnNjc3MnOwo=</text>
+        <text encoding="base64">ICAgIDxDb250ZW50IEluY2x1ZGU9IkNsaWVudEFwcFx2aWV3c1xlbnRlcnByaXNlXGNvdXJzZS1jYXRhbG9nXHN0b3JlXENvdXJzZUNhdGFsb2dQYWdlU3RvcmVzLnRzIiAvPgo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1369,7 +1369,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text>ClientApp/views/enterprise/course-catalog/course-catalog-filtering/</text>
       </register>
       <register name="/" type="4">
         <text>Cl</text>
@@ -1378,40 +1378,40 @@
         <text>.scss'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICcvQ2xpZW50QXBwL3ZpZXdzL2VudGVycHJpc2UvY291cnNlLWNhdGFsb2cvY291cnNlLWNhdGFsb2ctZmlsdGVyaW5nL0NvdXJzZUNhdGFsb2dGaWx0ZXJpbmcubW9kdWxlLnNjc3MnOwo=</text>
+        <text encoding="base64">ICAgIDxDb250ZW50IEluY2x1ZGU9IkNsaWVudEFwcFx2aWV3c1xlbnRlcnByaXNlXGNvdXJzZS1jYXRhbG9nXHN0b3JlXENvdXJzZUNhdGFsb2dQYWdlU3RvcmVzLnRzIiAvPgo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICdDbGllbnRBcHAvdmlld3MvZW50ZXJwcmlzZS9jb3Vyc2UtY2F0YWxvZy9jb3Vyc2UtY2F0YWxvZy10YWJsZS9Db3Vyc2VDYXRhbG9nVGFibGUubW9kdWxlLnNjc3MnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICcvQ2xpZW50QXBwL3ZpZXdzL2VudGVycHJpc2UvY291cnNlLWNhdGFsb2cvY291cnNlLWNhdGFsb2ctZmlsdGVyaW5nL0NvdXJzZUNhdGFsb2dGaWx0ZXJpbmcubW9kdWxlLnNjc3MnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSURhdGFUYWJsZVN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL2NvbXBvbmVudHMvZGF0YS10YWJsZS9zdG9yZXMvRGF0YVRhYmxlU3RvcmUnOwo=</text>
+        <text encoding="base64">aW1wb3J0ICdDbGllbnRBcHAvdmlld3MvZW50ZXJwcmlzZS9jb3Vyc2UtY2F0YWxvZy9jb3Vyc2UtY2F0YWxvZy10YWJsZS9Db3Vyc2VDYXRhbG9nVGFibGUubW9kdWxlLnNjc3MnOwo=</text>
       </register>
       <register name="s" type="4">
         <text>/enterprise/views/enterprise/</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gY29udGFpbmVyIGZvciB0YWJsZSBzZWN0aW9uIG9mIGNhdGFsb2cKLmNvbnRlbnQtdGFibGUgewogICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgcGFkZGluZy1sZWZ0OiAwOwogICAgei1pbmRleDogMTsKCiAgICBAbWVkaWEobWluLXdpZHRoOiAkYnAtbWVkaXVtKSB7CiAgICAgICAgcGFkZGluZy1sZWZ0OiA0OHB4OwogICAgfQp9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSURhdGFUYWJsZVN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL2NvbXBvbmVudHMvZGF0YS10YWJsZS9zdG9yZXMvRGF0YVRhYmxlU3RvcmUnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29udGFpbmVyIGZvciB0YWJsZSBzZWN0aW9uIG9mIGNhdGFsb2cKLmNvbnRlbnQtdGFibGUgewogICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgcGFkZGluZy1sZWZ0OiAwOwogICAgei1pbmRleDogMTsKCiAgICBAbWVkaWEobWluLXdpZHRoOiAkYnAtbWVkaXVtKSB7CiAgICAgICAgcGFkZGluZy1sZWZ0OiA0OHB4OwogICAgfQp9Cgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gZnVsbCBjYXRhbG9nIGNvbnRlbnQgY29udGFpbmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gZGVza3RvcCBmaWx0ZXJpbmcgY29sdW1uCi5kZXNrdG9wLWZpbHRlcmluZyB7CiAgICBkaXNwbGF5OiBub25lOwogICAgcGFkZGluZzogMTZweDsKICAgIGJveC1zaGFkb3c6IDAgMXB4IDE2cHggMnB4ICRjb2xvci1ncmF5LWxpZ2h0OwogICAgdHJhbnNpdGlvbjogYWxsIC4xNXMgbGluZWFyOwoKICAgICY6aG92ZXIsCiAgICAmOmFjdGl2ZSwKICAgICY6Zm9jdXMsCiAgICAmLmFjdGl2ZSB7CiAgICAgICAgYm94LXNoYWRvdzogMCA0cHggMjhweCA2cHggJGNvbG9yLWdyYXktbGlnaHQ7CiAgICB9CgogICAgQG1lZGlhKG1pbi13aWR0aDogJGJwLW1lZGl1bSkgewogICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgfQp9Cgo=</text>
+        <text encoding="base64">Ly8gZnVsbCBjYXRhbG9nIGNvbnRlbnQgY29udGFpbmVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmNvdXJzZS1jYXRhbG9nLWNvbnRlbnQgewogICAgcGFkZGluZzogMzZweCAxNnB4IDcycHggMTZweDsKfQo=</text>
+        <text encoding="base64">Ly8gZGVza3RvcCBmaWx0ZXJpbmcgY29sdW1uCi5kZXNrdG9wLWZpbHRlcmluZyB7CiAgICBkaXNwbGF5OiBub25lOwogICAgcGFkZGluZzogMTZweDsKICAgIGJveC1zaGFkb3c6IDAgMXB4IDE2cHggMnB4ICRjb2xvci1ncmF5LWxpZ2h0OwogICAgdHJhbnNpdGlvbjogYWxsIC4xNXMgbGluZWFyOwoKICAgICY6aG92ZXIsCiAgICAmOmFjdGl2ZSwKICAgICY6Zm9jdXMsCiAgICAmLmFjdGl2ZSB7CiAgICAgICAgYm94LXNoYWRvdzogMCA0cHggMjhweCA2cHggJGNvbG9yLWdyYXktbGlnaHQ7CiAgICB9CgogICAgQG1lZGlhKG1pbi13aWR0aDogJGJwLW1lZGl1bSkgewogICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgfQp9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
