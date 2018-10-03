@@ -952,12 +952,12 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" timestamp="1538400002569">
-        <mark key="'" line="208" column="25" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="161" column="115" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" timestamp="1538574574017">
+        <mark key="'" line="151" column="12" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="157" column="46" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Controllers/AccountController.cs" timestamp="1536581407959">
         <mark key="'" line="103" column="67" />
@@ -1051,9 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="27" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="28" column="17" filename="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" />
-      <jump line="93" column="13" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="38" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="4" column="15" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogTableStore.ts" />
       <jump line="50" column="64" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
@@ -1151,13 +1148,16 @@
       <jump line="20" column="30" filename="C:/projects/UI-Web/ClientApp/services/http/payments/RegistrationsService.ts" />
       <jump line="39" column="60" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
       <jump line="73" column="12" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="23" column="93" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
+      <jump line="126" column="31" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
+      <jump line="151" column="12" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/CourseCatalog.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Enterprise</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>authService.getCurrentUser()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQ291cnNlQ2F0YWxvZ1BhZ2VQcm9mZXNzaW9uYWwgfSBmcm9tICdDbGllbnRBcHAvdmlld3MvZW50ZXJwcmlzZS92aWV3cy9wcm9mZXNzaW9uYWwvQ291cnNlQ2F0YWxvZ1BhZ2VQcm9mZXNzaW9uYWwnOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1192,13 +1192,13 @@
         <text>Enterpise</text>
       </register>
       <register name="/" type="4">
-        <text>loadCurrent</text>
+        <text encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</text>
       </register>
       <register name="0" type="4">
-        <text>authService.getCurrentUser()</text>
+        <text>CourseCatalogPageEnterprise</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dGaWx0ZXJTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC92aWV3cy9lbnRlcnByaXNlL2NvdXJzZS1jYXRhbG9nL3N0b3JlL0NvdXJzZUNhdGFsb2dGaWx0ZXJTdG9yZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ291cnNlQ2F0YWxvZ1BhZ2VQcm9mZXNzaW9uYWwgfSBmcm9tICdDbGllbnRBcHAvdmlld3MvZW50ZXJwcmlzZS92aWV3cy9wcm9mZXNzaW9uYWwvQ291cnNlQ2F0YWxvZ1BhZ2VQcm9mZXNzaW9uYWwnOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1218,43 +1218,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dFbnRlcnByaWNlRmlsdGVyU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvdmlld3MvZW50ZXJwcmlzZS92aWV3cy9lbnRlcnByaXNlL3N0b3JlL0NvdXJzZUNhdGFsb2dFbnRlcnBpc2VGaWx0ZXJTdG9yZSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgU2VsZWN0IGZyb20gJ3JlYWN0LXNlbGVjdCc7CmltcG9ydCB7IHRvSlMgfSBmcm9tICdtb2J4JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3V0ZSBleGFjdCBwYXRoPSIvY3liZXJ1LWVudGVycHJpc2UvY2F0YWxvZy9lbnRlcnByaXNlIiBjb21wb25lbnQ9e0NvdXJzZUNhdGFsb2dQYWdlRW50ZXJwcmlzZX0gLz4KICAgICAgICAgICAgICAgIDxSb3V0ZSBleGFjdCBwYXRoPSIvY3liZXJ1LWVudGVycHJpc2UvY2F0YWxvZy9wcm9mZXNzaW9uYWwiIGNvbXBvbmVudD17Q291cnNlQ2F0YWxvZ1BhZ2VQcm9mZXNzaW9uYWx9IC8+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>/enterprise/views/enterprise/</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dTdG9yZSB9IGZyb20gJy4uL3N0b3JlL0NvdXJzZUNhdGFsb2dTdG9yZSc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dGaWx0ZXJTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC92aWV3cy9lbnRlcnByaXNlL2NvdXJzZS1jYXRhbG9nL3N0b3JlL0NvdXJzZUNhdGFsb2dGaWx0ZXJTdG9yZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dGaWx0ZXJzRGF0YSB9IGZyb20gJy4uL21vZGVscy9JQ291cnNlQ2F0YWxvZ0ZpbHRlcnNEYXRhJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dFbnRlcnByaWNlRmlsdGVyU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvdmlld3MvZW50ZXJwcmlzZS92aWV3cy9lbnRlcnByaXNlL3N0b3JlL0NvdXJzZUNhdGFsb2dFbnRlcnBpc2VGaWx0ZXJTdG9yZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY2F0ZWdvcmllcyBkYXRhCiAgICAgICAgICAgIGNhdGVnb3JpZXNMaXN0LCBjYXRlZ29yaWVzU2VsZWN0ZWQsIGNhdGVnb3JpZXNMb2FkaW5nLAoKICAgICAgICAgICAgLy8gc3ViY2F0ZWdvcmllcyBkYXRhCiAgICAgICAgICAgIHN1YmNhdGVnb3JpZXNMaXN0LCBzdWJjYXRlZ29yaWVzU2VsZWN0ZWQsIHN1YmNhdGVnb3JpZXNMb2FkaW5nLAoK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgU2VsZWN0IGZyb20gJ3JlYWN0LXNlbGVjdCc7CmltcG9ydCB7IHRvSlMgfSBmcm9tICdtb2J4JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dTdG9yZSB9IGZyb20gJy4uL3N0b3JlL0NvdXJzZUNhdGFsb2dTdG9yZSc7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">eyBba2V5OiBDYXRhbG9nVHlwZV06SUNvdXJzZUNhdGFsb2dQYWdlU3RvcmVzPElDb3Vyc2VDYXRhbG9nRmlsdGVycz4gfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dGaWx0ZXJzRGF0YSB9IGZyb20gJy4uL21vZGVscy9JQ291cnNlQ2F0YWxvZ0ZpbHRlcnNEYXRhJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY2F0ZWdvcmllcyBkYXRhCiAgICAgICAgICAgIGNhdGVnb3JpZXNMaXN0LCBjYXRlZ29yaWVzU2VsZWN0ZWQsIGNhdGVnb3JpZXNMb2FkaW5nLAoKICAgICAgICAgICAgLy8gc3ViY2F0ZWdvcmllcyBkYXRhCiAgICAgICAgICAgIHN1YmNhdGVnb3JpZXNMaXN0LCBzdWJjYXRlZ29yaWVzU2VsZWN0ZWQsIHN1YmNhdGVnb3JpZXNMb2FkaW5nLAoK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>loadCurrent</last-search>
+      <last-search encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</last-search>
       <last-offset />
-      <last-pattern>loadCurrent</last-pattern>
+      <last-pattern encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</last-pattern>
       <last-replace>\/enterprise\/views\/professional\/</last-replace>
       <last-substitute>\/enterprise\/views\/enterprise\/</last-substitute>
       <last-dir>1</last-dir>
@@ -1262,7 +1262,6 @@
     </search>
     <history>
       <history-search>
-        <entry>imp</entry>
         <entry>loadCat</entry>
         <entry>TCourseCatalogFilters</entry>
         <entry>ICourseCatalogFilters</entry>
@@ -1282,6 +1281,7 @@
         <entry encoding="base64">XDx1c2VyUHJvbWlzZVw+</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50QXBwVXNlclw+</entry>
         <entry>loadCurrent</entry>
+        <entry encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByLineComment</entry>
