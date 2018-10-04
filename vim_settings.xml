@@ -752,10 +752,10 @@
         <mark key="^" line="75" column="28" />
         <mark key="." line="75" column="38" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" timestamp="1538585197595">
-        <mark key="'" line="205" column="25" />
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" timestamp="1538642652665">
+        <mark key="'" line="40" column="28" />
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="35" />
         <mark key="." line="37" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
@@ -842,6 +842,13 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/models/CourseCatalogEnterpiseFilters.ts" timestamp="1538495830515">
         <mark key="'" line="7" column="0" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/routing/BundlesContainer.ts" timestamp="1538642850352">
+        <mark key="'" line="13" column="40" />
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="58" />
+        <mark key="." line="13" column="58" />
+        <mark key="^" line="13" column="58" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ui-actions/IUiCategoryCourseActionData.ts" timestamp="1534498194219">
         <mark key="'" line="4" column="2" />
@@ -947,12 +954,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/components/search-field-option/SearchFieldOption.tsx" timestamp="1537533333812">
         <mark key="'" line="28" column="38" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/routing/routes.tsx" timestamp="1538584956609">
-        <mark key="'" line="60" column="85" />
-        <mark key="[" line="60" column="94" />
-        <mark key="]" line="60" column="85" />
-        <mark key="." line="60" column="85" />
-        <mark key="^" line="60" column="85" />
+      <file name="C:/projects/UI-Web/ClientApp/routing/routes.tsx" timestamp="1538642847136">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="60" column="58" />
+        <mark key="]" line="60" column="67" />
+        <mark key="." line="60" column="67" />
+        <mark key="^" line="60" column="67" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1538036363491">
         <mark key="'" line="390" column="0" />
@@ -1120,8 +1127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1316" column="5" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es5.d.ts" />
-      <jump line="20" column="58" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
       <jump line="8" column="16" filename="C:/projects/UI-Web/ClientApp/views/enterprise/course-catalog/store/CourseCatalogPageStores.ts" />
       <jump line="14" column="54" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
       <jump line="7" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/models/CourseCatalogEnterpiseFilters.ts" />
@@ -1188,7 +1193,6 @@
       <jump line="48" column="12" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
       <jump line="223" column="26" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
       <jump line="21" column="0" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
-      <jump line="33" column="8" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
       <jump line="18" column="107" filename="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" />
       <jump line="30" column="24" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="20" column="36" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
@@ -1218,15 +1222,18 @@
       <jump line="75" column="28" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
       <jump line="198" column="34" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-filtering/CourseCatalogEnterpriseFiltering.tsx" />
       <jump line="77" column="20" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
-      <jump line="60" column="85" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
       <jump line="205" column="25" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
+      <jump line="40" column="28" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
+      <jump line="60" column="85" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
+      <jump line="33" column="8" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
+      <jump line="13" column="40" filename="C:/projects/UI-Web/ClientApp/routing/BundlesContainer.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Enterprise</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CatalogType</text>
+        <text>:catalog</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1258,13 +1265,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>match: any;</text>
+        <text>:catalog</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9ncmVzc1NlcnZpY2VcPg==</text>
+        <text>com</text>
       </register>
       <register name="0" type="4">
-        <text>CatalogType</text>
+        <text>enterprise</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgSVByb3ZpZGVyUHJvcHMgfSBmcm9tICdDbGllbnRBcHAvUHJvdmlkZXJQcm9wcyc7Cg==</text>
@@ -1307,9 +1314,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9ncmVzc1NlcnZpY2VcPg==</last-search>
+      <last-search>com</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9ncmVzc1NlcnZpY2VcPg==</last-pattern>
+      <last-pattern>com</last-pattern>
       <last-replace>enterprise\/views\/course-catalog</last-replace>
       <last-substitute>enterprise\/course-catalog</last-substitute>
       <last-dir>1</last-dir>
@@ -1317,7 +1324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ex</entry>
         <entry>ext</entry>
         <entry encoding="base64">XDxJQ291cnNlQ2F0YWxvZ1BhZ2VTdG9yZXNcPg==</entry>
         <entry>tableStoreCached</entry>
@@ -1337,6 +1343,7 @@
         <entry>enterprise\/course-catalog</entry>
         <entry encoding="base64">XDxzZXRDYXRhbG9nVHlwZVw+</entry>
         <entry encoding="base64">XDxwcm9ncmVzc1NlcnZpY2VcPg==</entry>
+        <entry>com</entry>
       </history-search>
       <history-cmd>
         <entry>action FindUsages</entry>
