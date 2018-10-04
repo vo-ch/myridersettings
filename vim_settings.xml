@@ -818,12 +818,12 @@
         <mark key="." line="22" column="65" />
         <mark key="^" line="22" column="65" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" timestamp="1538661152844">
-        <mark key="'" line="82" column="17" />
-        <mark key="[" line="82" column="21" />
-        <mark key="]" line="82" column="22" />
-        <mark key="^" line="82" column="20" />
-        <mark key="." line="82" column="22" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" timestamp="1538663382884">
+        <mark key="'" line="83" column="17" />
+        <mark key="[" line="53" column="89" />
+        <mark key="]" line="53" column="89" />
+        <mark key="^" line="53" column="89" />
+        <mark key="." line="53" column="89" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" timestamp="1538658663440">
         <mark key="'" line="48" column="21" />
@@ -1057,12 +1057,12 @@
         <mark key="." line="88" column="44" />
         <mark key="^" line="88" column="44" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538662560860">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538664188978">
+        <mark key="a" line="63" column="27" />
+        <mark key="'" line="65" column="46" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/components/mobile-filters/MobileFiltersWrapper.module.scss" timestamp="1538576705380">
         <mark key="'" line="102" column="1" />
@@ -1189,6 +1189,12 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.ts" timestamp="1537797723686">
         <mark key="'" line="6" column="13" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/models/IGatewayCourseData.ts" timestamp="1538663727242">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseDetailsAcrion.ts" timestamp="1536071954087">
         <mark key="'" line="3" column="17" />
         <mark key="[" line="28" column="5" />
@@ -1229,9 +1235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="51" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogPageStores.ts" />
-      <jump line="8" column="42" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogTableStore.ts" />
-      <jump line="5" column="31" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
       <jump line="5" column="7" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/models/CourseCatalogEnterpiseFilters.ts" />
       <jump line="0" column="42" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/models/ICourseCatalogEnterpriseFiltersData.ts" />
       <jump line="1" column="31" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
@@ -1329,13 +1332,16 @@
       <jump line="82" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
       <jump line="42" column="18" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="11" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="67" column="49" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="63" column="34" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
+      <jump line="65" column="46" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-table/CourseCatalogEnterpriseTable.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>['categories', 'subcategories', 'instructors', 'competencies', 'quarters']</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXMgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1367,13 +1373,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXMgIA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>ICourseCatalogEnterpiseFilters</text>
       </register>
-      <register name="0" type="4">
-        <text>ICourseCatalogEnterpiseFilters</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNzb2RDYXRlZ29yeUxhYmVsczogc3RyaW5nW107Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1381,38 +1387,38 @@
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgc2VjdGlvbktleXMgPSA7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICBpZDogJ3ByaW1hcnlTdWJjYXRlZ29yeScsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcjogJ1N1YmNhdGVnb3J5JywKICAgICAgICAgICAgICAgICAgICAgICAgc29ydEtleTogJ3ByaW1hcnlfc3ViY2F0ZWdvcnkubGFiZWwnLAogICAgICAgICAgICAgICAgICAgICAgICBtaW5XaWR0aDogMTUwLAogICAgICAgICAgICAgICAgICAgICAgICBhY2Nlc3NvcjogKG0pID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBsYWJlbCA9ICcnOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnByaW1hcnlTdWJjYXRlZ29yeSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsID0gbS5wcmltYXJ5U3ViY2F0ZWdvcnkubGFiZWw7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnNlY29uZGFyeVN1YmNhdGVnb3J5ICYmIG0uc2Vjb25kYXJ5U3ViY2F0ZWdvcnkubGFiZWwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwgKz0gYCwgJHttLnNlY29uZGFyeVN1YmNhdGVnb3J5LmxhYmVsfWA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBsYWJlbDsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="3" type="4">
-        <text>['categories', 'subcategories', 'instructors', 'competencies', 'quarters']</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>ICsodCategory</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBsYWJlbCA9ICcnOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnByaW1hcnlDYXRlZ29yeSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsID0gbS5wcmltYXJ5Q2F0ZWdvcnkubGFiZWw7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnNlY29uZGFyeUNhdGVnb3J5ICYmIG0uc2Vjb25kYXJ5Q2F0ZWdvcnkubGFiZWwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwgKz0gYCwgJHttLnNlY29uZGFyeUNhdGVnb3J5LmxhYmVsfWA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBsYWJlbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaChkYXRhOiBURmlsdGVyc0RhdGEpOiB2b2lkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENvdXJzZUNhdGFsb2dUYWJsZVN0b3JlLAogICAgSUNvdXJzZUNhdGFsb2dGaWx0ZXJhYmxlVGFibGVTdG9yZSwK</text>
+        <text encoding="base64">Y29uc3Qgc2VjdGlvbktleXMgPSA7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZSB9IGZyb20gJ0NsaWVudEFwcC9tb2RlbHMvY291cnNlL0lDb3Vyc2UnOwo=</text>
+      <register name="7" type="4">
+        <text>['categories', 'subcategories', 'instructors', 'competencies', 'quarters']</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhdGFsb2dGaWx0ZXJzRGF0YSB9IGZyb20gJy4uL21vZGVscy9JQ291cnNlQ2F0YWxvZ0ZpbHRlcnNEYXRhJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaDogKGRhdGE6IElDb3Vyc2VDYXRhbG9nRmlsdGVyc0RhdGEpID0+IHZvaWQ7Cg==</text>
+        <text encoding="base64">ICAgIHNlYXJjaChkYXRhOiBURmlsdGVyc0RhdGEpOiB2b2lkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1460,7 +1466,6 @@
         <entry>nohl</entry>
         <entry>s/enterprise\/course-catalog/enterprise\/views\/course-catalog</entry>
         <entry>%s/enterprise\/course-catalog/enterprise\/views\/course-catalog/g</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
@@ -1468,6 +1473,7 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
         <entry>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
