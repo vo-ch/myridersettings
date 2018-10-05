@@ -203,10 +203,11 @@
         <mark key="^" line="35" column="65" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1537780769975">
-        <mark key="[" line="425" column="0" />
-        <mark key="]" line="425" column="0" />
-        <mark key="." line="425" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1538735083903">
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+        <mark key="^" line="34" column="15" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IExternalUserService.cs" timestamp="1536327354134">
         <mark key="'" line="7" column="28" />
@@ -560,7 +561,7 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1538583685289">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1538733674704">
         <mark key="'" line="212" column="36" />
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="24" />
@@ -714,8 +715,13 @@
         <mark key="." line="64" column="24" />
         <mark key="^" line="71" column="17" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" timestamp="1538583672754">
-        <mark key="'" line="25" column="34" />
+      <file name="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" timestamp="1538734998191">
+        <mark key="a" line="89" column="29" />
+        <mark key="'" line="107" column="28" />
+        <mark key="[" line="235" column="46" />
+        <mark key="]" line="236" column="11" />
+        <mark key="." line="236" column="11" />
+        <mark key="^" line="236" column="11" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/PageLoadProcessor.cs" timestamp="1536240146362">
         <mark key="'" line="28" column="38" />
@@ -855,6 +861,12 @@
       </file>
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1536934080281">
         <mark key="'" line="28" column="33" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/models/course/ICourseState.ts" timestamp="1538734731110">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1538052745049">
         <mark key="'" line="52" column="18" />
@@ -1178,24 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="34" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
-      <jump line="76" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="212" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="79" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
-      <jump line="75" column="28" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
-      <jump line="198" column="34" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-filtering/CourseCatalogEnterpriseFiltering.tsx" />
-      <jump line="77" column="20" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
-      <jump line="205" column="25" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
-      <jump line="40" column="28" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
-      <jump line="33" column="8" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
-      <jump line="13" column="40" filename="C:/projects/UI-Web/ClientApp/routing/BundlesContainer.ts" />
-      <jump line="204" column="26" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
-      <jump line="100" column="4" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="53" column="4" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="109" column="13" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="18" column="11" filename="C:/projects/UI-Web/ClientApp/routing/BundlesContainer.ts" />
-      <jump line="25" column="27" filename="C:/projects/UI-Web/ClientApp/boot-server.tsx" />
-      <jump line="222" column="26" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
       <jump line="220" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
       <jump line="107" column="44" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-filtering/CourseCatalogEnterpriseFiltering.tsx" />
       <jump line="42" column="12" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-filtering/CourseCatalogEnterpriseFiltering.tsx" />
@@ -1278,13 +1272,31 @@
       <jump line="61" column="11" filename="C:/projects/UI-Web/node_modules/@types/react-router/index.d.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/node_modules/@types/history/index.d.ts" />
       <jump line="39" column="22" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
+      <jump line="16" column="24" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="212" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="81" column="29" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="39" column="53" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="84" column="28" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="33" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/CrudService.ts" />
+      <jump line="80" column="83" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="97" column="38" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="103" column="40" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="144" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="215" column="12" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="183" column="12" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="101" column="39" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="233" column="0" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="0" column="9" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="234" column="70" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="184" column="12" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="107" column="28" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>{ staticContext: IStaticRouterContext }</text>
+      <register name="a" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5JzsK</text>
+      <register name="&quot;" type="4">
+        <text>@observable</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1316,52 +1328,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>ICourseCatalogEnterpiseFilters</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgSCBmcm9tICdoaXN0b3J5JzsK</text>
+      <register name="0" type="4">
+        <text>@observable</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDeWJlclU6IGAke2NhdGFsb2dVcmx9L2VudGVycHJpc2VgLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBhdHRlbXB0TnVtYmVyOiBudW1iZXI7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICBpZDogJ3ByaW1hcnlTdWJjYXRlZ29yeScsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcjogJ1N1YmNhdGVnb3J5JywKICAgICAgICAgICAgICAgICAgICAgICAgc29ydEtleTogJ3ByaW1hcnlfc3ViY2F0ZWdvcnkubGFiZWwnLAogICAgICAgICAgICAgICAgICAgICAgICBtaW5XaWR0aDogMTUwLAogICAgICAgICAgICAgICAgICAgICAgICBhY2Nlc3NvcjogKG0pID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBsYWJlbCA9ICcnOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnByaW1hcnlTdWJjYXRlZ29yeSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsID0gbS5wcmltYXJ5U3ViY2F0ZWdvcnkubGFiZWw7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnNlY29uZGFyeVN1YmNhdGVnb3J5ICYmIG0uc2Vjb25kYXJ5U3ViY2F0ZWdvcnkubGFiZWwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwgKz0gYCwgJHttLnNlY29uZGFyeVN1YmNhdGVnb3J5LmxhYmVsfWA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBsYWJlbDsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>ICsodCategory</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBsYWJlbCA9ICcnOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnByaW1hcnlDYXRlZ29yeSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsID0gbS5wcmltYXJ5Q2F0ZWdvcnkubGFiZWw7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnNlY29uZGFyeUNhdGVnb3J5ICYmIG0uc2Vjb25kYXJ5Q2F0ZWdvcnkubGFiZWwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwgKz0gYCwgJHttLnNlY29uZGFyeUNhdGVnb3J5LmxhYmVsfWA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBsYWJlbDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGF0dGVtcHROdW1iZXI6IG51bWJlcjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBDeWJlclU6IGAke2NhdGFsb2dVcmx9L2VudGVycHJpc2VgLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc2VjdGlvbktleXMgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="4">
-        <text>['categories', 'subcategories', 'instructors', 'competencies', 'quarters']</text>
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICAgICBpZDogJ3ByaW1hcnlTdWJjYXRlZ29yeScsCiAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcjogJ1N1YmNhdGVnb3J5JywKICAgICAgICAgICAgICAgICAgICAgICAgc29ydEtleTogJ3ByaW1hcnlfc3ViY2F0ZWdvcnkubGFiZWwnLAogICAgICAgICAgICAgICAgICAgICAgICBtaW5XaWR0aDogMTUwLAogICAgICAgICAgICAgICAgICAgICAgICBhY2Nlc3NvcjogKG0pID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxldCBsYWJlbCA9ICcnOwoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnByaW1hcnlTdWJjYXRlZ29yeSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsID0gbS5wcmltYXJ5U3ViY2F0ZWdvcnkubGFiZWw7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChtLnNlY29uZGFyeVN1YmNhdGVnb3J5ICYmIG0uc2Vjb25kYXJ5U3ViY2F0ZWdvcnkubGFiZWwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwgKz0gYCwgJHttLnNlY29uZGFyeVN1YmNhdGVnb3J5LmxhYmVsfWA7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBsYWJlbDsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -1371,7 +1383,7 @@
       <last-replace>ICourseCatalogEnterpriseFilters</last-replace>
       <last-substitute>ICourseCatalogEnterpiseFilters</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1412,11 +1424,11 @@
         <entry>action CommentByLineComment</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
         <entry>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
