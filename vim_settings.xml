@@ -192,12 +192,12 @@
         <mark key="." line="22" column="43" />
         <mark key="^" line="22" column="43" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" timestamp="1535724054518">
-        <mark key="'" line="619" column="29" />
-        <mark key="[" line="83" column="59" />
-        <mark key="]" line="83" column="59" />
-        <mark key="^" line="83" column="59" />
-        <mark key="." line="83" column="59" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" timestamp="1538747937769">
+        <mark key="'" line="447" column="75" />
+        <mark key="[" line="447" column="118" />
+        <mark key="]" line="447" column="131" />
+        <mark key="^" line="447" column="117" />
+        <mark key="." line="447" column="118" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/PageLoad/CourseSearchLoad/CourseSearchLoadProcessor.cs" timestamp="1537805689930">
         <mark key="'" line="35" column="61" />
@@ -780,12 +780,12 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.es6.d.ts" timestamp="1536744391139">
         <mark key="'" line="4780" column="38" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/services/CoursePlayerFinalQuizService.ts" timestamp="1538747484764">
-        <mark key="'" line="66" column="22" />
-        <mark key="[" line="74" column="61" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="13" column="32" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/services/CoursePlayerFinalQuizService.ts" timestamp="1538748079756">
+        <mark key="'" line="67" column="22" />
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/extensions/courseCatalog.ts" timestamp="1538579504163">
         <mark key="'" line="10" column="7" />
@@ -1212,15 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="17" filename="C:/projects/UI-Web/ClientApp/models/category/ICsodCategory.ts" />
-      <jump line="4" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/models/ICourseCatalogEnterpriseFiltersData.ts" />
-      <jump line="3" column="18" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/models/ICourseCatalogEnterpriseFiltersData.ts" />
-      <jump line="70" column="47" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
-      <jump line="2" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/models/ICourseCatalogFiltersData.ts" />
-      <jump line="74" column="85" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
-      <jump line="67" column="13" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpiseFilterStore.ts" />
-      <jump line="262" column="25" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogFilterStore.ts" />
-      <jump line="254" column="21" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogFilterStore.ts" />
       <jump line="168" column="28" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/course-catalog-filtering/CourseCatalogEnterpriseFiltering.tsx" />
       <jump line="22" column="4" filename="C:/projects/UI-Web/ClientApp/components/filters-dropdown/FiltersDropdown.tsx" />
       <jump line="41" column="12" filename="C:/projects/UI-Web/ClientApp/components/filters-dropdown/FiltersDropdown.tsx" />
@@ -1312,13 +1303,27 @@
       <jump line="284" column="59" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="225" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="65" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/services/CoursePlayerFinalQuizService.ts" />
+      <jump line="95" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="97" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="117" column="52" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="447" column="75" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="26" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/services/CoursePlayerFinalQuizService.ts" />
+      <jump line="77" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/services/CoursePlayerFinalQuizService.ts" />
+      <jump line="82" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/services/CoursePlayerFinalQuizService.ts" />
+      <jump line="67" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/services/CoursePlayerFinalQuizService.ts" />
+      <jump line="14" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/services/CoursePlayerFinalQuizService.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ILrsAiccParamsHash</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogdGhpcy5jb250ZW50UHJvZ3Jlc3MuYXR0ZW1wdE51bWJlciwK</text>
+      <register name="&quot;" type="4">
+        <text>{
+            quizId,
+            questionId: questionIdToStart,
+            answerIds: [],
+            position: 0
+        }</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1350,37 +1355,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>activityProgress.at</text>
+        <text>util</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpdml0eURhdGFcPg==</text>
+        <text encoding="base64">XDxwcm9ncmVzc1N0b3JlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNOdW1iZXIodGhpcy5jb250ZW50UHJvZ3Jlc3MuYXR0ZW1wdE51bWJlcikpIGFjdGl2aXR5RGF0YS5hdHRlbXB0TnVtYmVyID0gdGhpcy5jb250ZW50UHJvZ3Jlc3MuYXR0ZW1wdE51bWJlcjsK</text>
+      <register name="0" type="4">
+        <text>attemptNumber</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogdGhpcy5jb250ZW50UHJvZ3Jlc3MuYXR0ZW1wdE51bWJlciwK</text>
+      <register name="1" type="4">
+        <text>{
+            quizId,
+            questionId: questionIdToStart,
+            answerIds: [],
+            position: 0
+        }</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogdGhpcy5jb250ZW50UHJvZ3Jlc3MuYXR0ZW1wdE51bWJlciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291cnNlQXR0ZW1wdE51bWJlciwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogdGhpcy5jb250ZW50UHJvZ3Jlc3MuYXR0ZW1wdE51bWJlciwK</text>
       </register>
       <register name="s" type="4">
         <text>ICsodCategory</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogdGhpcy5jb250ZW50UHJvZ3Jlc3MuYXR0ZW1wdE51bWJlciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBhdHRlbXB0TnVtYmVyOiBudW1iZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1389,19 +1399,19 @@
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBhdHRlbXB0TnVtYmVyOiBudW1iZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0dGVtcHROdW1iZXI6IG51bWJlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3Rpdml0eURhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9ncmVzc1N0b3JlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpdml0eURhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9ncmVzc1N0b3JlXD4=</last-pattern>
       <last-replace>ICourseCatalogEnterpriseFilters</last-replace>
       <last-substitute>ICourseCatalogEnterpiseFilters</last-substitute>
       <last-dir>1</last-dir>
@@ -1409,7 +1419,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDdXJyZW50QXBwVXNlclw+</entry>
         <entry>loadCurrent</entry>
         <entry encoding="base64">XDxDb3Vyc2VDYXRhbG9nUGFnZVByb2Zlc3Npb25hbFw+</entry>
         <entry encoding="base64">XDxzdHlsZU5hbWVcPg==</entry>
@@ -1429,6 +1438,7 @@
         <entry>ICourseCatalogEnterpiseFilters</entry>
         <entry encoding="base64">XDxpc051bWJlclw+</entry>
         <entry encoding="base64">XDxhY3Rpdml0eURhdGFcPg==</entry>
+        <entry encoding="base64">XDxwcm9ncmVzc1N0b3JlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy90YWJsZVN0b3JlQ2FjaGVkL2ZpbHRlcnNTdG9yZUNhY2hlZC9n</entry>
@@ -1444,13 +1454,13 @@
         <entry>action CommentByLineComment</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
         <entry>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>version</entry>
         <entry>reg</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action GotoSuperMethod</entry>
       </history-cmd>
       <history-expr />
       <history-input />
