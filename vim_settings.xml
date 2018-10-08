@@ -428,7 +428,7 @@
         <mark key="." line="7" column="67" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.tsx" timestamp="1539004984195">
-        <mark key="'" line="94" column="21" />
+        <mark key="'" line="98" column="21" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -442,6 +442,9 @@
         <mark key="]" line="16" column="50" />
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="50" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B4DA17A-2884-45D0-B7BE-8208F6E40E28/35/72af388f/Controller.cs" timestamp="1539008434877">
+        <mark key="'" line="45" column="18" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" timestamp="1536159836272">
         <mark key="'" line="183" column="71" />
@@ -1033,12 +1036,11 @@
         <mark key="^" line="43" column="95" />
         <mark key="." line="43" column="95" />
       </file>
-      <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1537972116191">
-        <mark key="'" line="120" column="45" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="37" />
-        <mark key="." line="54" column="37" />
-        <mark key="^" line="54" column="37" />
+      <file name="C:/projects/UI-Web/Controllers/HomeController.cs" timestamp="1539008515682">
+        <mark key="'" line="109" column="26" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1536072017598">
         <mark key="'" line="0" column="0" />
@@ -1175,16 +1177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="13" filename="C:/projects/UI-Web/node_modules/@types/react-router/index.d.ts" />
-      <jump line="62" column="24" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
-      <jump line="60" column="13" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
-      <jump line="61" column="11" filename="C:/projects/UI-Web/node_modules/@types/react-router/index.d.ts" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/node_modules/@types/history/index.d.ts" />
-      <jump line="39" column="22" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
-      <jump line="16" column="24" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
-      <jump line="212" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="81" column="29" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
-      <jump line="39" column="53" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
       <jump line="84" column="28" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
       <jump line="33" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/CrudService.ts" />
       <jump line="80" column="83" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
@@ -1275,13 +1267,23 @@
       <jump line="94" column="21" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.tsx" />
       <jump line="146" column="20" filename="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" />
       <jump line="172" column="23" filename="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" />
+      <jump line="143" column="20" filename="C:/projects/UI-Web/Controllers/HomeController.cs" />
+      <jump line="21" column="38" filename="C:/projects/UI-Web/Controllers/HomeController.cs" />
+      <jump line="19" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B4DA17A-2884-45D0-B7BE-8208F6E40E28/35/72af388f/Controller.cs" />
+      <jump line="22" column="29" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B4DA17A-2884-45D0-B7BE-8208F6E40E28/35/72af388f/Controller.cs" />
+      <jump line="23" column="32" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B4DA17A-2884-45D0-B7BE-8208F6E40E28/35/72af388f/Controller.cs" />
+      <jump line="26" column="209" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B4DA17A-2884-45D0-B7BE-8208F6E40E28/35/72af388f/Controller.cs" />
+      <jump line="40" column="5" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B4DA17A-2884-45D0-B7BE-8208F6E40E28/35/72af388f/Controller.cs" />
+      <jump line="41" column="30" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B4DA17A-2884-45D0-B7BE-8208F6E40E28/35/72af388f/Controller.cs" />
+      <jump line="45" column="18" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B4DA17A-2884-45D0-B7BE-8208F6E40E28/35/72af388f/Controller.cs" />
+      <jump line="109" column="26" filename="C:/projects/UI-Web/Controllers/HomeController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>catalogLabelsMap</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YWN0aW9uIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkgICAgdGhpcy5WaWV3KCkK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1316,55 +1318,55 @@
         <text encoding="base64">YWN0aW9uIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWFjdFRhYmxlXD4=</text>
+        <text>view(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBhY3Rpb24gbG9hZCgpOiB2b2lkIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkgICAgdGhpcy5WaWV3KCkK</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmxlU3RvcmUubG9hZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRDYXRhbG9nVHlwZShjYXRhbG9nVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmxlU3RvcmUubG9hZCgpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>ICsodCategory</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldEFuZFNldENhdGFsb2dJZChjYXRhbG9nVHlwZTogQ2F0YWxvZ1R5cGUpOiBQcm9taXNlPHZvaWQ+Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRDYXRhbG9nVHlwZShjYXRhbG9nVHlwZSk7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGdldEFuZFNldENhdGFsb2dJZChjYXRhbG9nVHlwZTogQ2F0YWxvZ1R5cGUpOiBQcm9taXNlPHZvaWQ+Owo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5sb2FkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRDYXRhbG9nVHlwZShjYXRhbG9nVHlwZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5sb2FkKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS50YWJsZVN0b3JlLmxvYWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0b3JlIH0gPSB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS50YWJsZVN0b3JlLmxvYWQoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZWFjdFRhYmxlXD4=</last-search>
+      <last-search>view(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWFjdFRhYmxlXD4=</last-pattern>
+      <last-pattern>view(</last-pattern>
       <last-replace>ICourseCatalogEnterpriseFilters</last-replace>
       <last-substitute>ICourseCatalogEnterpiseFilters</last-substitute>
       <last-dir>1</last-dir>
@@ -1372,8 +1374,6 @@
     </search>
     <history>
       <history-search>
-        <entry>enterprise\/course-catalog</entry>
-        <entry encoding="base64">XDxwcm9ncmVzc1NlcnZpY2VcPg==</entry>
         <entry>com</entry>
         <entry encoding="base64">XDxnZXRBbmRTZXRDYXRhbG9nSWRcPg==</entry>
         <entry encoding="base64">XDxvblNlbGVjdFw+</entry>
@@ -1392,6 +1392,8 @@
         <entry>onFetch</entry>
         <entry encoding="base64">XDxvbkZldGNoRGF0YVw+</entry>
         <entry encoding="base64">XDxSZWFjdFRhYmxlXD4=</entry>
+        <entry>view</entry>
+        <entry>view(</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy90YWJsZVN0b3JlQ2FjaGVkL2ZpbHRlcnNTdG9yZUNhY2hlZA==</entry>
@@ -1409,11 +1411,11 @@
         <entry>action RenameElement</entry>
         <entry>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</entry>
         <entry>version</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>CourseDetails</entry>
         <entry>reg</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
