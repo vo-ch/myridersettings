@@ -951,12 +951,11 @@
         <mark key="^" line="19" column="20" />
         <mark key="." line="19" column="20" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" timestamp="1538662512698">
-        <mark key="'" line="42" column="18" />
-        <mark key="[" line="42" column="50" />
-        <mark key="]" line="42" column="79" />
-        <mark key="." line="22" column="41" />
-        <mark key="^" line="22" column="3" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" timestamp="1538993449334">
+        <mark key="'" line="117" column="79" />
+        <mark key="[" line="117" column="64" />
+        <mark key="]" line="117" column="80" />
+        <mark key="." line="117" column="64" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/Pause/CoursePauseActionProcessor.cs" timestamp="1537542863005">
         <mark key="'" line="23" column="51" />
@@ -1166,11 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="18" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/store/CourseCatalogEnterpriseTableStore.ts" />
-      <jump line="8" column="4" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/models/CourseCatalogEnterpiseFilters.ts" />
-      <jump line="96" column="37" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
-      <jump line="0" column="17" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/models/ICourseCatalogFiltersData.ts" />
-      <jump line="48" column="21" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" />
       <jump line="246" column="6" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogFilterStore.ts" />
       <jump line="62" column="7" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogFilterStore.ts" />
       <jump line="63" column="7" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogFilterStore.ts" />
@@ -1266,13 +1260,18 @@
       <jump line="77" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="218" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizProgressStore.ts" />
       <jump line="145" column="47" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="141" column="13" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
+      <jump line="140" column="31" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
+      <jump line="30" column="55" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
+      <jump line="143" column="0" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
+      <jump line="117" column="79" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>ILrsAiccParamsHash</text>
+        <text>catalogLabelsMap</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>catalogLabelsMap</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1304,33 +1303,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>catalogLabelsMap</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9ncmVzc1N0b3JlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>progressStore.contentProgres</text>
+        <text>catalogLabelsMap</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogMCwK</text>
+      <register name="1" type="4">
+        <text>catalogLabelsMap</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogMCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IH0gPSBwcm9ncmVzc1N0b3JlIHBsYXllclN0b3JlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogMCwK</text>
       </register>
       <register name="s" type="4">
         <text>ICsodCategory</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogMCwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IH0gPSBwcm9ncmVzc1N0b3JlIHBsYXllclN0b3JlOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBjb3Vyc2VBdHRlbXB0TnVtYmVyID0gdGhpcwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
             quizId: this.quizId,
             questionId: this.questionId,
@@ -1338,7 +1343,10 @@
             position: this.quizStore.questionNumber + 1
         }</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <text>ManageCourse</text>
+      </register>
+      <register name="8" type="4">
         <text>{
             quizId,
             questionId: questionIdToStart,
@@ -1346,17 +1354,8 @@
             position: 0
         }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291cnNlQXR0ZW1wdE51bWJlciwK</text>
-      </register>
-      <register name="w" type="4">
-        <text>ManageCourse</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogdGhpcy5jb250ZW50UHJvZ3Jlc3MuYXR0ZW1wdE51bWJlciwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXR0ZW1wdE51bWJlcjogdGhpcy5jb250ZW50UHJvZ3Jlc3MuYXR0ZW1wdE51bWJlciwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291cnNlQXR0ZW1wdE51bWJlciwK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
@@ -1410,10 +1409,10 @@
         <entry>action CommentByBlockComment</entry>
         <entry>action RenameElement</entry>
         <entry>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>version</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
       </history-cmd>
       <history-expr />
