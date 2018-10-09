@@ -577,12 +577,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1539093332192">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1539095939981">
         <mark key="'" line="677" column="12" />
-        <mark key="[" line="468" column="38" />
-        <mark key="]" line="469" column="7" />
-        <mark key="." line="469" column="7" />
-        <mark key="^" line="469" column="7" />
+        <mark key="[" line="468" column="12" />
+        <mark key="]" line="468" column="20" />
+        <mark key="." line="468" column="20" />
+        <mark key="^" line="468" column="20" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538496109426">
         <mark key="'" line="8" column="4" />
@@ -1276,7 +1276,7 @@
         <text>catalogLabelsMap</text>
       </register>
       <register name="&quot;" type="4">
-        <text>BigPlayButton</text>
+        <text>isPlaying</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1313,8 +1313,8 @@
       <register name="/" type="4">
         <text>PlayerContr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCaWdQbGF5QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgaXNTaG93bj17IXNob3VsZEF1dG9wbGF5ICYmICFpc1BsYXlpbmd9CiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17b25QbGF5Q2xpY2t9CiAgICAgICAgICAgICAgICAvPgo=</text>
+      <register name="0" type="4">
+        <text>isPlaying</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
