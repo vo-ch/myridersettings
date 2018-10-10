@@ -154,11 +154,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/ICoursePlayerContainerProps.ts" timestamp="1539097203360">
         <mark key="'" line="7" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1539100484276">
-        <mark key="'" line="117" column="22" />
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="." line="279" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1539162140889">
+        <mark key="'" line="104" column="64" />
+        <mark key="[" line="104" column="25" />
+        <mark key="]" line="104" column="57" />
+        <mark key="." line="104" column="57" />
+        <mark key="^" line="104" column="57" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.tsx" timestamp="1539094099301">
         <mark key="'" line="0" column="0" />
@@ -1176,11 +1177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="26" filename="C:/projects/UI-Web/Controllers/HomeController.cs" />
-      <jump line="4" column="6" filename="C:/projects/UI-Web/Controllers/HomeController.cs" />
-      <jump line="9" column="27" filename="C:/projects/UI-Web/Controllers/HomeController.cs" />
-      <jump line="157" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="17" column="19" filename="C:/projects/UI-Web/Controllers/HomeController.cs" />
       <jump line="1" column="22" filename="C:/projects/UI-Web/Utils/DataAnalytics/BeginPageLoadAction.cs" />
       <jump line="11" column="32" filename="C:/projects/UI-Web/Controllers/HomeController.cs" />
       <jump line="60" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -1219,7 +1215,6 @@
       <jump line="260" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="9" column="46" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="275" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="269" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="75" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="12" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.tsx" />
       <jump line="274" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
@@ -1274,15 +1269,21 @@
       <jump line="99" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="278" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="29" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/up-next/UpNext.tsx" />
-      <jump line="272" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="117" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="103" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="179" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="272" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="116" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="269" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="104" column="64" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>catalogLabelsMap</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMy41cmVtOwogICAgICAgIGhlaWdodDogMy41cmVtOwo=</text>
+      <register name="&quot;" type="4">
+        <text>isUpNextScreenShown</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1314,13 +1315,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>__button-text</text>
+        <text>isUpNextScreenShown</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB3aWR0aDogMy41cmVtOwogICAgICAgIGhlaWdodDogMy41cmVtOwo=</text>
