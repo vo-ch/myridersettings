@@ -154,12 +154,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/ICoursePlayerContainerProps.ts" timestamp="1539097203360">
         <mark key="'" line="7" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1539166307853">
-        <mark key="'" line="377" column="17" />
-        <mark key="[" line="209" column="22" />
-        <mark key="]" line="209" column="22" />
-        <mark key="^" line="207" column="24" />
-        <mark key="." line="209" column="26" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1539176215571">
+        <mark key="'" line="106" column="36" />
+        <mark key="[" line="220" column="67" />
+        <mark key="]" line="220" column="81" />
+        <mark key="^" line="220" column="81" />
+        <mark key="." line="220" column="81" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.tsx" timestamp="1539094099301">
         <mark key="'" line="0" column="0" />
@@ -677,8 +677,8 @@
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionsProcessor.cs" timestamp="1536583566880">
         <mark key="'" line="26" column="102" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" timestamp="1539166481333">
-        <mark key="'" line="11" column="6" />
+      <file name="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" timestamp="1539175542958">
+        <mark key="'" line="32" column="24" />
         <mark key="[" line="50" column="31" />
         <mark key="]" line="50" column="46" />
       </file>
@@ -843,7 +843,13 @@
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/styles/icons.scss" timestamp="1539166727265" />
+      <file name="C:/projects/UI-Web/ClientApp/styles/icons.scss" timestamp="1539176038848">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+        <mark key="^" line="178" column="0" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" timestamp="1538558332815">
         <mark key="'" line="12" column="4" />
       </file>
@@ -1183,11 +1189,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="892" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="920" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="70" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="260" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="9" column="46" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="275" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="75" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="12" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.tsx" />
@@ -1276,20 +1278,24 @@
       <jump line="510" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="73" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="47" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="106" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="208" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="377" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="37" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" />
       <jump line="34" column="32" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
       <jump line="23" column="39" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
       <jump line="11" column="6" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="361" column="80" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="9" column="49" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="106" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="32" column="24" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="176" column="0" filename="C:/projects/UI-Web/ClientApp/styles/icons.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>catalogLabelsMap</text>
       </register>
       <register name="&quot;" type="4">
-        <text>images/icons/svg</text>
+        <text>iconType</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1321,13 +1327,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isPlaying ? 'Pause' : 'Play'</text>
+        <text encoding="base64">PEljb24gdHlwZT17aWNvblR5cGV9IHNpemU9e3NpemV9IGFsdFRleHQ9e2FsdFRleHR9IC8+</text>
       </register>
       <register name="/" type="4">
-        <text>volume</text>
+        <text>play3</text>
       </register>
       <register name="0" type="4">
-        <text>images/icons/svg/</text>
+        <text>iconType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1339,40 +1345,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGlja0NhbGxiYWNrID0gaXNQbGF5aW5nID8gb25QYXVzZUNsaWNrIDogb25QbGF5Q2xpY2s7CiAgICAgICAgbGFiZWwgPSBpc1BsYXlpbmcgPyAnUGF1c2UnIDogJ1BsYXknOwogICAgICAgIGljb25UeXBlID0gaXNQbGF5aW5nID8gJ21lZGlhLXBhdXNlJyA6ICdwbGF5Myc7CiAgICAgICAgYWx0VGV4dCA9IGlzUGxheWluZyA/ICdQYXVzZScgOiAnUGxheSc7CiAgICAgICAgc2l6ZSA9IGlzUGxheWluZyA/IDEuNzUgOiAxLjI1Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25Hb05leHQsCg==</text>
       </register>
       <register name="s" type="4">
         <text>ICsodCategory</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgaWNvbjogSlNYLkVsZW1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGlja0NhbGxiYWNrID0gaXNQbGF5aW5nID8gb25QYXVzZUNsaWNrIDogb25QbGF5Q2xpY2s7CiAgICAgICAgbGFiZWwgPSBpc1BsYXlpbmcgPyAnUGF1c2UnIDogJ1BsYXknOwogICAgICAgIGljb25UeXBlID0gaXNQbGF5aW5nID8gJ21lZGlhLXBhdXNlJyA6ICdwbGF5Myc7CiAgICAgICAgYWx0VGV4dCA9IGlzUGxheWluZyA/ICdQYXVzZScgOiAnUGxheSc7CiAgICAgICAgc2l6ZSA9IGlzUGxheWluZyA/IDEuNzUgOiAxLjI1Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMy41cmVtOwogICAgICAgIGhlaWdodDogMy41cmVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAkYnV0dG9uU2l6ZVJlbTsKICAgIGhlaWdodDogJGJ1dHRvblNpemVSZW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDMuNXJlbTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaWNvbjogSlNYLkVsZW1lbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search>volume</last-search>
+      <last-search>play3</last-search>
       <last-offset />
-      <last-pattern>volume</last-pattern>
+      <last-pattern>play3</last-pattern>
       <last-replace>up-next</last-replace>
       <last-substitute>big-play-button</last-substitute>
       <last-dir>1</last-dir>
@@ -1380,8 +1386,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZXJ2ZXJSZW5kZXJpbmdcPg==</entry>
-        <entry>onFetch</entry>
         <entry encoding="base64">XDxvbkZldGNoRGF0YVw+</entry>
         <entry encoding="base64">XDxSZWFjdFRhYmxlXD4=</entry>
         <entry>view</entry>
@@ -1400,6 +1404,8 @@
         <entry>back</entry>
         <entry encoding="base64">XDxvblBsYXlDbGlja1w+</entry>
         <entry>volume</entry>
+        <entry>playBut</entry>
+        <entry>play3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RhYmxlU3RvcmVDYWNoZWQvZmlsdGVyc1N0b3JlQ2FjaGVkL2c=</entry>
@@ -1410,7 +1416,6 @@
         <entry>nohl</entry>
         <entry>s/enterprise\/course-catalog/enterprise\/views\/course-catalog</entry>
         <entry>%s/enterprise\/course-catalog/enterprise\/views\/course-catalog/g</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</entry>
@@ -1420,8 +1425,9 @@
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry>%s/big-play-button/up-next/g</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
