@@ -154,8 +154,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/ICoursePlayerContainerProps.ts" timestamp="1539097203360">
         <mark key="'" line="7" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1539165686954">
-        <mark key="'" line="106" column="30" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1539166307853">
+        <mark key="'" line="377" column="17" />
         <mark key="[" line="209" column="22" />
         <mark key="]" line="209" column="22" />
         <mark key="^" line="207" column="24" />
@@ -165,6 +165,9 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="40" column="1" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" timestamp="1539166312734">
+        <mark key="'" line="37" column="15" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/CourseCatalogPageProfessional.tsx" timestamp="1538398871682">
         <mark key="'" line="31" column="80" />
@@ -674,8 +677,10 @@
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionsProcessor.cs" timestamp="1536583566880">
         <mark key="'" line="26" column="102" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" timestamp="1538133248080">
-        <mark key="'" line="32" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" timestamp="1539166481333">
+        <mark key="'" line="11" column="6" />
+        <mark key="[" line="50" column="31" />
+        <mark key="]" line="50" column="46" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/CourseCatalogPageEnterprise.module.scss" timestamp="1538576492447">
         <mark key="'" line="30" column="25" />
@@ -838,6 +843,7 @@
         <mark key="^" line="45" column="7" />
         <mark key="." line="45" column="7" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/styles/icons.scss" timestamp="1539166727265" />
       <file name="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" timestamp="1538558332815">
         <mark key="'" line="12" column="4" />
       </file>
@@ -1177,12 +1183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="823" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="286" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="54" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="520" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="521" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="892" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="920" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="70" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1277,13 +1277,19 @@
       <jump line="73" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="47" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="106" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="208" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="377" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="37" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" />
+      <jump line="34" column="32" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="23" column="39" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="11" column="6" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>catalogLabelsMap</text>
       </register>
       <register name="&quot;" type="4">
-        <text>isPlaying ? 'Pause' : 'Play'</text>
+        <text>images/icons/svg</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1318,10 +1324,10 @@
         <text>isPlaying ? 'Pause' : 'Play'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblBsYXlDbGlja1w+</text>
+        <text>volume</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25Hb05leHQsCiAgICAgICAgICAgIG9uR29QcmV2LAo=</text>
+      <register name="0" type="4">
+        <text>images/icons/svg/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1364,9 +1370,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvblBsYXlDbGlja1w+</last-search>
+      <last-search>volume</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblBsYXlDbGlja1w+</last-pattern>
+      <last-pattern>volume</last-pattern>
       <last-replace>up-next</last-replace>
       <last-substitute>big-play-button</last-substitute>
       <last-dir>1</last-dir>
@@ -1374,7 +1380,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRDYXRhbG9nVHlwZVw+</entry>
         <entry encoding="base64">XDxTZXJ2ZXJSZW5kZXJpbmdcPg==</entry>
         <entry>onFetch</entry>
         <entry encoding="base64">XDxvbkZldGNoRGF0YVw+</entry>
@@ -1394,6 +1399,7 @@
         <entry encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</entry>
         <entry>back</entry>
         <entry encoding="base64">XDxvblBsYXlDbGlja1w+</entry>
+        <entry>volume</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RhYmxlU3RvcmVDYWNoZWQvZmlsdGVyc1N0b3JlQ2FjaGVkL2c=</entry>
