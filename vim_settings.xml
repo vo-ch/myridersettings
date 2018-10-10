@@ -154,12 +154,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/ICoursePlayerContainerProps.ts" timestamp="1539097203360">
         <mark key="'" line="7" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1539162140889">
-        <mark key="'" line="104" column="64" />
-        <mark key="[" line="104" column="25" />
-        <mark key="]" line="104" column="57" />
-        <mark key="." line="104" column="57" />
-        <mark key="^" line="104" column="57" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1539163994121">
+        <mark key="'" line="71" column="27" />
+        <mark key="[" line="194" column="39" />
+        <mark key="]" line="195" column="11" />
+        <mark key="^" line="195" column="11" />
+        <mark key="." line="195" column="11" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.tsx" timestamp="1539094099301">
         <mark key="'" line="0" column="0" />
@@ -290,8 +290,8 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="112" column="18" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1539097370370">
-        <mark key="'" line="99" column="21" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1539164018737">
+        <mark key="'" line="268" column="60" />
         <mark key="[" line="40" column="42" />
         <mark key="]" line="41" column="18" />
         <mark key="^" line="41" column="18" />
@@ -1177,26 +1177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="22" filename="C:/projects/UI-Web/Utils/DataAnalytics/BeginPageLoadAction.cs" />
-      <jump line="11" column="32" filename="C:/projects/UI-Web/Controllers/HomeController.cs" />
-      <jump line="60" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="72" column="46" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="101" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="112" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="155" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="156" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="157" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="171" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="182" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="189" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="218" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="237" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="250" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="284" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="346" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="69" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="361" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="261" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="371" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="492" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="506" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
@@ -1249,7 +1229,6 @@
       <jump line="68" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="311" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="56" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="523" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="98" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="36" column="21" filename="C:/projects/UI-Web/ClientApp/components/modals/VideoModal.tsx" />
       <jump line="76" column="16" filename="C:/projects/UI-Web/ClientApp/components/modals/VideoModal.tsx" />
@@ -1276,14 +1255,35 @@
       <jump line="116" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="269" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="104" column="64" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="180" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="104" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="181" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="71" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="523" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="627" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="628" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="629" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="632" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="672" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="675" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="676" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="685" column="54" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="859" column="55" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="925" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="22" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="37" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="95" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="259" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="261" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="262" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="268" column="60" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>catalogLabelsMap</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>isUpNextScreenShown</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1315,66 +1315,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">OiBKU1guRWxlbWVudCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</text>
+        <text>back</text>
       </register>
-      <register name="0" type="4">
-        <text>isUpNextScreenShown</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgYWx0VGV4dDogc3RyaW5nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMy41cmVtOwogICAgICAgIGhlaWdodDogMy41cmVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAkYnV0dG9uU2l6ZVJlbTsKICAgIGhlaWdodDogJGJ1dHRvblNpemVSZW07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDMuNXJlbTsK</text>
+        <text encoding="base64">ICAgICAgICBjbGlja0NhbGxiYWNrID0gaXNQbGF5aW5nID8gb25QYXVzZUNsaWNrIDogb25QbGF5Q2xpY2s7CiAgICAgICAgbGFiZWwgPSBpc1BsYXlpbmcgPyAnUGF1c2UnIDogJ1BsYXknOwogICAgICAgIGljb25UeXBlID0gaXNQbGF5aW5nID8gJ21lZGlhLXBhdXNlJyA6ICdwbGF5Myc7CiAgICAgICAgYWx0VGV4dCA9IGlzUGxheWluZyA/ICdQYXVzZScgOiAnUGxheSc7CiAgICAgICAgc2l6ZSA9IGlzUGxheWluZyA/IDEuNzUgOiAxLjI1Owo=</text>
       </register>
       <register name="s" type="4">
         <text>ICsodCategory</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMy41cmVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2PkNPTlRJTlVFPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgaWNvbjogSlNYLkVsZW1lbnQ7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gbGlicwppbXBvcnQgKiBhcyBSZWFjdCBmcm9tICdyZWFjdCc7CmltcG9ydCB7IHRvSlMgfSBmcm9tICdtb2J4JzsKaW1wb3J0IHsgaW5qZWN0LCBvYnNlcnZlciB9IGZyb20gJ21vYngtcmVhY3QnOwppbXBvcnQgeyBSb3V0ZUNvbXBvbmVudFByb3BzIH0gZnJvbSAncmVhY3Qtcm91dGVyJzsKaW1wb3J0IHsgdGhyb3R0bGUgfSBmcm9tICdsb2Rhc2gnOwppbXBvcnQgY2xhc3NuYW1lcyBmcm9tICdjbGFzc25hbWVzJzsKaW1wb3J0ICogYXMgYm93c2VyIGZyb20gJ2Jvd3Nlcic7CgovLyBjb21wb25lbnRzCmltcG9ydCBDb3Vyc2VQbGF5ZXJTaWRlTmF2IGZyb20gJ0NsaWVudEFwcC92aWV3cy9jb3Vyc2UvcGxheWVyL2NvbXBvbmVudHMvcGxheWVyLXNpZGUtbmF2L0NvdXJzZVBsYXllclNpZGVOYXYnOwppbXBvcnQgUGxheWVyVmlkZW8gZnJvbSAnQ2xpZW50QXBwL3ZpZXdzL2NvdXJzZS9wbGF5ZXIvY29tcG9uZW50cy9wbGF5ZXItdmlkZW8vUGxheWVyVmlkZW8nOwppbXBvcnQgUXVpeiBmcm9tICdDbGllbnRBcHAvdmlld3MvY291cnNlL3F1aXovUXVpeic7CmltcG9ydCBEb2N1bWVudFNjcmVlbiBmcm9tICcuLi9kb2N1bWVudC1zY3JlZW4vRG9jdW1lbnRTY3JlZW4nOwoKLy8gc3RvcmVzCmltcG9ydCB7IElBdXRoU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL0F1dGhTdG9yZSc7CmltcG9ydCB7IElBcHBSb3V0ZXJTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQXBwUm91dGVyU3RvcmUnOwppbXBvcnQgeyBJQ291cnNlUGxheWVyU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvdmlld3MvY291cnNlL3BsYXllci9zdG9yZXMvQ291cnNlUGxheWVyU3RvcmUnOwppbXBvcnQgeyBJQWN0aXZpdHlQcm9ncmVzcyB9IGZyb20gJ0NsaWVudEFwcC92aWV3cy9jb3Vyc2UvcGxheWVyL3N0b3Jlcy9Db3Vyc2VQcm9ncmVzcyc7CmltcG9ydCB7IElGdWxsc2NyZWVuU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL0Z1bGxzY3JlZW5TdG9yZSc7CmltcG9ydCB7IElEYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9kYXRhLWFuYWx5dGljcy9EYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlJzsKaW1wb3J0IHsgSUZlZWRiYWNrU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL0ZlZWRiYWNrU3RvcmUnOwoKLy8gcHJvcHMKaW1wb3J0IHsgSVByb3ZpZGVyUHJvcHMgfSBmcm9tICdDbGllbnRBcHAvUHJvdmlkZXJQcm9wcyc7CmltcG9ydCB7IElDb3Vyc2VQbGF5ZXJDb250YWluZXJQcm9wcyB9IGZyb20gJy4vSUNvdXJzZVBsYXllckNvbnRhaW5lclByb3BzJzsKCi8vIG1vZGVscwppbXBvcnQgeyBJQWN0aXZpdHkgfSBmcm9tICdDbGllbnRBcHAvbW9kZWxzL2FjdGl2aXR5L0lBY3Rpdml0eSc7CmltcG9ydCBNZWRpYVR5cGVzIGZyb20gJ0NsaWVudEFwcC92aWV3cy9jb3Vyc2UvcGxheWVyL21lZGlhLXR5cGVzJzsKaW1wb3J0IHsgSUNvdXJzZUJsb2NrIH0gZnJvbSAnQ2xpZW50QXBwL21vZGVscy9jb3Vyc2UvSUNvdXJzZUJsb2NrJzsKaW1wb3J0IHsgSVJlc3BvbnNpdmVTY3JlZW5TaXplU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL1Jlc3BvbnNpdmVTY3JlZW5TaXplU3RvcmUnOwoKLy8gdXRpbHMKaW1wb3J0IExvZ2dlciBmcm9tICdDbGllbnRBcHAvdXRpbHMvbG9nL0xvZ2dlcic7CgovLyBzdHlsZXMKaW1wb3J0ICcuL0NvdXJzZVBsYXllckNvbnRhaW5lci5zY3NzJzsKCgpleHBvcnQgdHlwZSBQbGF5ZXJNb2RlID0gJ3ByZXZpZXcnOwoKaW50ZXJmYWNlIElTZWxlY3RlZFN0b3JlcyB7CiAgICByZXNwb25zaXZlU2NyZWVuU2l6ZT86IElSZXNwb25zaXZlU2NyZWVuU2l6ZVN0b3JlOwogICAgcGxheWVyU3RvcmU/OiBJQ291cnNlUGxheWVyU3RvcmU7CiAgICBhdXRoU3RvcmU/OiBJQXV0aFN0b3JlOwogICAgcm91dGVyU3RvcmU/OiBJQXBwUm91dGVyU3RvcmU7CiAgICBmdWxsc2NyZWVuU3RvcmU/OiBJRnVsbHNjcmVlblN0b3JlOwogICAgZGF0YUNvbGxlY3Rpb25TdG9yZT86IElEYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlOwogICAgZmVlZGJhY2tTdG9yZT86IElGZWVkYmFja1N0b3JlOwp9CgppbnRlcmZhY2UgSVByb3BzIGV4dGVuZHMgSUNvdXJzZVBsYXllckNvbnRhaW5lclByb3BzLCBJU2VsZWN0ZWRTdG9yZXMsIFJvdXRlQ29tcG9uZW50UHJvcHM8YW55PiB7fQoKaW50ZXJmYWNlIElTdGF0ZSB7CiAgICB2aWRlb0R1cmF0aW9uOiBudW1iZXI7IC8vIGhvbGRzIHZpZGVvIGR1cmF0aW9uIHZhbHVlCiAgICAvLyB0aGlzIGlzIG5lZWRlZCBiZWNhdXNlIHdlIGRvbid0IGtub3cgb24gbW91bnQgaWYgdGhlIHF1aXogaXMgYWN0aXZlLCBidXQgd2UgbmVlZCB0byBjbG9zZSB0aGUgbWVudSBvbiBtb2JpbGUgb25seQogICAgLy8gd2hlbiB0aGUgdXNlciBmaXJzdCBlbnRlcnMgdGhlIHF1aXouIEJ1dCB0aGV5IG5lZWQgdG8gYmUgYWJsZSB0byBvcGVuIGFuZCBjbG9zZSB0aGUgbWVudS4KICAgIGlzUXVpelZpc2libGU6IGJvb2xlYW47Cn0KCkBpbmplY3QoKHByb3ZpZGVyOiBJUHJvdmlkZXJQcm9wcyk6IElTZWxlY3RlZFN0b3JlcyA9PiAoewogICAgcmVzcG9uc2l2ZVNjcmVlblNpemU6IHByb3ZpZGVyLnN0b3Jlcy5yZXNwb25zaXZlU2NyZWVuU2l6ZSwKICAgIHBsYXllclN0b3JlOiBwcm92aWRlci5zdG9yZXMucGxheWVyU3RvcmUsCiAgICBhdXRoU3RvcmU6IHByb3ZpZGVyLnN0b3Jlcy5hdXRoLAogICAgcm91dGVyU3RvcmU6IHByb3ZpZGVyLnN0b3Jlcy5yb3V0ZXIsCiAgICBmdWxsc2NyZWVuU3RvcmU6IHByb3ZpZGVyLnN0b3Jlcy5mdWxsc2NyZWVuU3RvcmUsCiAgICBkYXRhQ29sbGVjdGlvblN0b3JlOiBwcm92aWRlci5zdG9yZXMuZGF0YUNvbGxlY3Rpb25TdG9yZSwKICAgIGZlZWRiYWNrU3RvcmU6IHByb3ZpZGVyLnN0b3Jlcy5mZWVkYmFja1N0b3JlCn0pKQpAb2JzZXJ2ZXIKZXhwb3J0IGRlZmF1bHQgY2xhc3MgQ291cnNlUGxheWVyQ29udGFpbmVyIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50PElQcm9wcywgSVN0YXRlPiB7CgogICAgY29uc3RydWN0b3IocHJvcHM6IElQcm9wcykgewogICAgICAgIHN1cGVyKHByb3BzKTsKCiAgICAgICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgICAgICAgdmlkZW9EdXJhdGlvbjogMCwKICAgICAgICAgICAgaXNRdWl6VmlzaWJsZTogZmFsc2UKICAgICAgICB9OwogICAgfQoKICAgIHN0YXRpYyBnZXREZXJpdmVkU3RhdGVGcm9tUHJvcHMocHJvcHM6IElQcm9wcywgc3RhdGU6IElTdGF0ZSk6IElTdGF0ZSB8IG51bGwgewogICAgICAgIGNvbnN0IHsgcGxheWVyU3RvcmUgfSA9IHByb3BzOwogICAgICAgIGNvbnNvbGUubG9nKCdDb3Vyc2VQbGF5ZXJDb250YWluZXIuZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzJyk7CiAgICAgICAgQ291cnNlUGxheWVyQ29udGFpbmVyLmNoZWNrQ291cnNlQ29tcGxldGlvblRvU2hvd1ZpZGVvKHByb3BzLnBsYXllclN0b3JlLCBzdGF0ZSk7CgogICAgICAgIGNvbnNvbGUubG9nKCdDb3Vyc2VQbGF5ZXJDb250YWluZXIuY29tcG9uZW50RGlkTW91bnQgIHF1aXogYWN0aXZlJywgcGxheWVyU3RvcmUuaXNRdWl6QWN0aXZlLCAnbW9iaWxlJywgYm93c2VyLm1vYmlsZSk7CgogICAgICAgIGlmIChib3dzZXIubW9iaWxlICYmIHBsYXllclN0b3JlLmlzUXVpekFjdGl2ZSAmJiAhc3RhdGUuaXNRdWl6VmlzaWJsZSkgewogICAgICAgICAgICBwbGF5ZXJTdG9yZS5jbG9zZU1lbnUoKTsKICAgICAgICB9CgogICAgICAgIGlmIChwbGF5ZXJTdG9yZS5pc1F1aXpBY3RpdmUgJiYgIXN0YXRlLmlzUXVpelZpc2libGUpIHsKICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oc3RhdGUsIHsgaXNRdWl6VmlzaWJsZTogdHJ1ZSB9KTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBudWxsOwogICAgfQoKICAgIHB1YmxpYyByZW5kZXIoKTogSlNYLkVsZW1lbnQgewogICAgICAgIGNvbnN0IHsgcGxheWVyU3RvcmUsIGZ1bGxzY3JlZW5TdG9yZSB9ID0gdGhpcy5wcm9wczsKICAgICAgICBjb25zdCB7CiAgICAgICAgICAgIHByb2dyZXNzU3RvcmUsCiAgICAgICAgICAgIGlzU2lkZWJhck9wZW4sCiAgICAgICAgICAgIGNvdXJzZSwKICAgICAgICAgICAgaXNRdWl6QWN0aXZlLAogICAgICAgIH0gPSBwbGF5ZXJTdG9yZTsKCiAgICAgICAgY29uc3QgYWN0aXZpdHkgPSBjb3Vyc2UuYWN0aXZpdGllc0hhc2hbcHJvZ3Jlc3NTdG9yZS5sYXN0UGxheWVkQWN0aXZpdHlJZF07CgogICAgICAgIExvZ2dlci5pbmZvKCdDb3Vyc2VQbGF5ZXJDb250YWluZXIucmVuZGVyICBhY3Rpdml0eScsIGFjdGl2aXR5LCAnaXNRdWl6QWN0aXZlJywgaXNRdWl6QWN0aXZlKTsKCiAgICAgICAgLyoKICAgICAgICAgKiBUT0RPOiBGaW5kIGEgbmV3IHdheSB0byBoYW5kbGUgc2hvd2luZyBjb21wbGV0aW9uIHZpZGVvIGZvciBzaG9ydCAvIHNraXBwZWQgdmlkZW9zCiAgICAgICAgICogMS4gVmlkZW9zIHRoYXQgYXJlIGxlc3MgdGhhbiA1IHNlY29uZHMgd29uJ3QgdXBkYXRlIHRvIHNob3cgY29tcGxldGlvbiB2aWRlbyBhdCB0aGUgY29ycmVjdCB0aW1lCiAgICAgICAgICogMi4gU2tpcHBpbmcgdmlkZW9zIHRvIGxlc3MgdGhhbiA1IHNlY29uZHMgcmVtYWluaW5nIHdpbGwgY2F1c2UgdGhlIHNhbWUgaXNzdWUKICAgICAgICAgKiAtIFRyaWVkIG1vdmluZyBpdCB0byBjb21wb25lbnREaWRVcGRhdGUsIHN0aWxsIGZhaWxlZCBjb25zaXN0ZW50bHkKICAgICAgICAgKiAtIExvb2tzIGxpa2UgaXQgbWF5IGJlIGFuIGlzc3VlIHdpdGggdGhlIGFtb3VudCBvZiByZXF1ZXN0cyBtYWRlIGJlZm9yZSBjb21wbGV0aW9uIGlzIGZpcmVkCiAgICAgICAgICovCiAgICAgICAgLy8gdGhpcy5jaGVja0NvdXJzZUNvbXBsZXRpb25Ub1Nob3dWaWRlbygpOwoKICAgICAgICBsZXQgY29udGFpbmVyID0gbnVsbDsKICAgICAgICBpZiAocGxheWVyU3RvcmUuY291cnNlICYmIHByb2dyZXNzU3RvcmUuY29udGVudFByb2dyZXNzKSB7CiAgICAgICAgICAgIGNvbnN0IHNpZGViYXIgPSAoCiAgICAgICAgICAgICAgICA8Q291cnNlUGxheWVyU2lkZU5hdgogICAgICAgICAgICAgICAgICAgIGxhc3RQbGF5ZWRBY3Rpdml0eUlkPXtwcm9ncmVzc1N0b3JlLmxhc3RQbGF5ZWRBY3Rpdml0eUlkfQogICAgICAgICAgICAgICAgICAgIG9uQWN0aXZpdHlDbGljaz17dGhpcy5vbkFjdGl2aXR5U2VsZWN0fQogICAgICAgICAgICAgICAgICAgIG9uUXVpekNsaWNrPXt0aGlzLm9uUXVpekNsaWNrfQogICAgICAgICAgICAgICAgICAgIGluZXJ0PXsgIWlzU2lkZWJhck9wZW4gfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgKTsKCiAgICAgICAgICAgIGNvbnRhaW5lciA9ICgKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJjb3Vyc2UtcGxheWVyLWNvbnRhaW5lciIgcm9sZT0icmVnaW9uIiBhcmlhLWxhYmVsPXsgYEN5YmVyVSAkeyBwbGF5ZXJTdG9yZS5jb3Vyc2UudGl0bGUgfWB9PgogICAgICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjbGFzc25hbWVzKCdjb3Vyc2UtcGxheWVyLWNvbnRhaW5lcl9fbmF2JywgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2NvdXJzZS1wbGF5ZXItY29udGFpbmVyX19uYXYtLWFjdGl2ZSc6IGlzU2lkZWJhck9wZW4sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY291cnNlLXBsYXllci1jb250YWluZXJfX25hdi0tcXVpei1hY3RpdmUnOiBpc1F1aXpBY3RpdmUKICAgICAgICAgICAgICAgICAgICAgICAgfSl9CiAgICAgICAgICAgICAgICAgICAgICAgIHRhYkluZGV4PXstMX0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICAgIHtzaWRlYmFyfQogICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc25hbWVzKCdjb3Vyc2UtcGxheWVyLWNvbnRhaW5lcl9fY29udGVudCcsIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY291cnNlLXBsYXllci1jb250YWluZXJfX2NvbnRlbnQtLW5hdi1hY3RpdmUnOiBpc1NpZGViYXJPcGVuLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb3Vyc2UtcGxheWVyLWNvbnRhaW5lcl9fY29udGVudC0tcXVpei1hY3RpdmUnOiBpc1F1aXpBY3RpdmUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2NvdXJzZS1wbGF5ZXItY29udGFpbmVyX19jb250ZW50LS1mdWxsc2NyZWVuLWFjdGl2ZSc6IGJvd3Nlci5tb2JpbGUgJiYgZnVsbHNjcmVlblN0b3JlLmlzRnVsbHNjcmVlbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgeyB0aGlzLnJlbmRlclZpZGVvKGFjdGl2aXR5KSB9CiAgICAgICAgICAgICAgICAgICAgICAgIHsgdGhpcy5yZW5kZXJEb3dubG9hZFNjcmVlbihhY3Rpdml0eSkgfQogICAgICAgICAgICAgICAgICAgICAgICB7IHRoaXMucmVuZGVyUXVpeihpc1F1aXpBY3RpdmUpIH0KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJjb3Vyc2UtcGxheWVyLWNvbnRhaW5lcl9fbmF2LWNvdmVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljaz17cGxheWVyU3RvcmUuY2xvc2VNZW51fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgb25Ub3VjaFN0YXJ0PXtwbGF5ZXJTdG9yZS5jbG9zZU1lbnV9CiAgICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBjb250YWluZXI7CiAgICB9CgogICAgcHJpdmF0ZSByZW5kZXJEb3dubG9hZFNjcmVlbihhY3Rpdml0eTogSUFjdGl2aXR5KSB7CiAgICAgICAgY29uc3QgeyBwbGF5ZXJTdG9yZSwgYXV0aFN0b3JlIH0gPSB0aGlzLnByb3BzOwogICAgICAgIGNvbnN0IHsgdXNlciB9ID0gYXV0aFN0b3JlOwogICAgICAgIGNvbnN0IHsKICAgICAgICAgICAgcHJvZ3Jlc3NTdG9yZSwKICAgICAgICAgICAgaGFzUXVpeiwKICAgICAgICAgICAgdG9nZ2xlU2lkZWJhciwKICAgICAgICAgICAgaXNRdWl6QWN0aXZlCiAgICAgICAgfSA9IHBsYXllclN0b3JlOwogICAgICAgIGNvbnN0IHsgY3VycmVudExlc3NvbkJsb2NrIH0gPSBwcm9ncmVzc1N0b3JlOwoKICAgICAgICBMb2dnZXIuaW5mbygnQ291cnNlUGxheWVyQ29udGFpbmVyLnJlbmRlckRvd25sb2FkU2NyZWVuJywgYWN0aXZpdHkuYWN0aXZpdHlUeXBlKTsKCiAgICAgICAgaWYgKGFjdGl2aXR5LmFjdGl2aXR5VHlwZSA9PT0gJ2RvY3VtZW50JyAmJiAhaXNRdWl6QWN0aXZlKSB7CgogICAgICAgICAgICBsZXQgbmV4dEFjdGl2aXR5OiBJQWN0aXZpdHkgfCB1bmRlZmluZWQgfCBzdHJpbmcgPSBwcm9ncmVzc1N0b3JlLm5leHRBY3Rpdml0eTsKCiAgICAgICAgICAgIGNvbnN0IGxlc3NvblRpdGxlOiBzdHJpbmcgPSBjdXJyZW50TGVzc29uQmxvY2sudGl0bGU7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdDb3Vyc2VQbGF5ZXJDb250YWluZXIucmVuZGVyRG93bmxvYWRTY3JlZW4gIGZpbGVEZXNjcmlwdGlvbicsCiAgICAgICAgICAgICAgICBsZXNzb25UaXRsZSwgJ2FjdGl2aXR5JywgYWN0aXZpdHksICduZXh0QWN0aXZpdHknLCBuZXh0QWN0aXZpdHkpOwoKICAgICAgICAgICAgY29uc3QgbmF2Q2FsbGJhY2s6ICguLi5wYXJhbXM6IGFueVtdKSA9PiB2b2lkID0gKCFuZXh0QWN0aXZpdHkgJiYgaGFzUXVpeikgPyB0aGlzLm9uUXVpekNsaWNrIDogdGhpcy5vbkFjdGl2aXR5U2VsZWN0OwoKICAgICAgICAgICAgbGV0IG5leHRCdXR0b25UZXh0OwoKICAgICAgICAgICAgaWYgKCFuZXh0QWN0aXZpdHkgJiYgaGFzUXVpeikgewogICAgICAgICAgICAgICAgbmV4dEJ1dHRvblRleHQgPSAnU3RhcnQgUXVpeic7CiAgICAgICAgICAgICAgICBuZXh0QWN0aXZpdHkgPSAncXVpeic7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8RG9jdW1lbnRTY3JlZW4gZmlsZURlc2NyaXB0aW9uVGV4dD17bGVzc29uVGl0bGV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG9jdW1lbnRBY3Rpdml0eT17YWN0aXZpdHl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25OZXh0PXtuYXZDYWxsYmFja30KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXh0QWN0aXZpdHk9e25leHRBY3Rpdml0eX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXh0QnV0dG9uVGV4dD17bmV4dEJ1dHRvblRleHR9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNNZW51QnV0dG9uT3Blbj17cGxheWVyU3RvcmUuaXNTaWRlYmFyT3Blbn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbk1lbnVDbGljaz17dG9nZ2xlU2lkZWJhcn0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkV4aXRDbGljaz17dXNlciAmJiAhdXNlci5haWNjID8gdGhpcy5leGl0UGxheWVyIDogbnVsbH0KICAgICAgICAgICAgICAgIC8+CgogICAgICAgICAgICApOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcHJpdmF0ZSByZW5kZXJWaWRlbyhhY3Rpdml0eTogSUFjdGl2aXR5KTogSlNYLkVsZW1lbnQgewoKICAgICAgICBjb25zdCB7IHBsYXllclN0b3JlLCBhdXRoU3RvcmUsIGdldFBsYXllciB9ID0gdGhpcy5wcm9wczsKICAgICAgICBjb25zdCB7CiAgICAgICAgICAgIHByb2dyZXNzU3RvcmUsCiAgICAgICAgICAgIHRvZ2dsZVNpZGViYXIsCiAgICAgICAgICAgIGlzTXV0ZWQsCiAgICAgICAgICAgIHZvbHVtZSwKICAgICAgICAgICAgc3BlZWQsCiAgICAgICAgICAgIHF1YWxpdHksCiAgICAgICAgICAgIHNob3dDb21wbGV0aW9uVmlkZW8sCiAgICAgICAgICAgIGN1cnJlbnRWaWRlb1VybCwKICAgICAgICAgICAgaXNRdWl6QWN0aXZlLAogICAgICAgICAgICBzaG91bGRBdXRvcGxheSwKICAgICAgICAgICAgY29udGludW91c01vZGUsCiAgICAgICAgfSA9IHBsYXllclN0b3JlOwoKICAgICAgICBjb25zdCB7IHVzZXIgfSA9IGF1dGhTdG9yZTsKCiAgICAgICAgTG9nZ2VyLmluZm8oCiAgICAgICAgICAgICdDb3Vyc2VQbGF5ZXJDb250YWluZXIucmVuZGVyVmlkZW8nLCBhY3Rpdml0eS5hY3Rpdml0eVR5cGUsCiAgICAgICAgICAgICdzaG93Q29tcGxldGlvblZpZGVvJywgc2hvd0NvbXBsZXRpb25WaWRlbywKICAgICAgICAgICAgJ3Nob3VsZEF1dG9wbGF5Jywgc2hvdWxkQXV0b3BsYXkKICAgICAgICApOwoKICAgICAgICBpZiAoYWN0aXZpdHkuYWN0aXZpdHlUeXBlID09PSAndmlkZW8nICYmICFpc1F1aXpBY3RpdmUpIHsKCiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8UGxheWVyVmlkZW8KICAgICAgICAgICAgICAgICAgICBnZXRQbGF5ZXI9ew==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMy41cmVtOwogICAgICAgIGhlaWdodDogMy41cmVtOwo=</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAkYnV0dG9uU2l6ZVJlbTsKICAgIGhlaWdodDogJGJ1dHRvblNpemVSZW07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxVcAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDMuNXJlbTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</last-search>
+      <last-search>back</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</last-pattern>
+      <last-pattern>back</last-pattern>
       <last-replace>up-next</last-replace>
       <last-substitute>big-play-button</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry encoding="base64">XDxsb2FkXD4=</entry>
         <entry encoding="base64">XDxzZXRDYXRhbG9nVHlwZVw+</entry>
         <entry encoding="base64">XDxTZXJ2ZXJSZW5kZXJpbmdcPg==</entry>
@@ -1394,6 +1393,7 @@
         <entry>PlayerContr</entry>
         <entry>getPlayer</entry>
         <entry encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</entry>
+        <entry>back</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RhYmxlU3RvcmVDYWNoZWQvZmlsdGVyc1N0b3JlQ2FjaGVkL2c=</entry>
@@ -1413,9 +1413,9 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
-        <entry>reg</entry>
         <entry>%s/big-play-button/up-next/g</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
