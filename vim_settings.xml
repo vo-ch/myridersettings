@@ -24,6 +24,9 @@
         <mark key="^" line="115" column="25" />
         <mark key="." line="115" column="25" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/buttons/ArrowedButton.tsx" timestamp="1539253688313">
+        <mark key="'" line="30" column="17" />
+      </file>
       <file name="C:/projects/UI-Web/Services/Auth/ClientCredentialsTokenService.cs" timestamp="1536855505483">
         <mark key="'" line="49" column="45" />
       </file>
@@ -712,6 +715,9 @@
         <mark key="^" line="28" column="24" />
         <mark key="." line="28" column="24" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/themes/three/buttons/ArrowedButton.tsx" timestamp="1539253634719">
+        <mark key="'" line="13" column="10" />
+      </file>
       <file name="/Dummy.cs" timestamp="1536575493059">
         <mark key="'" line="0" column="80" />
         <mark key="[" line="0" column="0" />
@@ -1201,13 +1207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="79" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="10" column="81" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="19" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="46" column="64" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="171" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="175" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
       <jump line="182" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
       <jump line="526" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="47" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
@@ -1301,6 +1300,13 @@
       <jump line="13" column="9" filename="C:/projects/UI-Web/ClientApp/boot-client.tsx" />
       <jump line="166" column="17" filename="C:/projects/UI-Web/ClientApp/icons/index.ts" />
       <jump line="59" column="6" filename="C:/projects/UI-Web/ClientApp/icons/index.ts" />
+      <jump line="11" column="27" filename="C:/projects/UI-Web/ClientApp/themes/three/buttons/ArrowedButton.tsx" />
+      <jump line="323" column="9" filename="C:/projects/UI-Web/node_modules/@types/react/index.d.ts" />
+      <jump line="13" column="10" filename="C:/projects/UI-Web/ClientApp/themes/three/buttons/ArrowedButton.tsx" />
+      <jump line="6" column="40" filename="C:/projects/UI-Web/ClientApp/themes/core/buttons/ArrowedButton.tsx" />
+      <jump line="11" column="34" filename="C:/projects/UI-Web/ClientApp/themes/core/buttons/ArrowedButton.tsx" />
+      <jump line="27" column="88" filename="C:/projects/UI-Web/ClientApp/themes/core/buttons/ArrowedButton.tsx" />
+      <jump line="30" column="17" filename="C:/projects/UI-Web/ClientApp/themes/core/buttons/ArrowedButton.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1342,7 +1348,7 @@
         <text>4.4.0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VTdHJpY3RcPg==</text>
+        <text>theme</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgb25QbGF5Q2xpY2sgPSAoKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJ0NvdXJzZVBsYXllckNvbnRhaW5lci5vblBsYXlDbGljayAgJyk7CiAgICAgICAgdGhpcy5zdGFydFBsYXlpbmcoKTsKICAgIH07Cg==</text>
@@ -1388,17 +1394,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VTdHJpY3RcPg==</last-search>
+      <last-search>theme</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VTdHJpY3RcPg==</last-pattern>
+      <last-pattern>theme</last-pattern>
       <last-replace>-gonext</last-replace>
       <last-substitute>-forward</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJyZW50TGVzc29uQmxvY2tcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJSZXdpbmRCdXR0b25cPg==</entry>
         <entry>player-controls-mobile</entry>
         <entry>prev</entry>
@@ -1418,6 +1423,7 @@
         <entry encoding="base64">XDxvblBsYXlcPg==</entry>
         <entry encoding="base64">XDxvblBsYXlDb250aW51ZVw+</entry>
         <entry encoding="base64">XDx1c2VTdHJpY3RcPg==</entry>
+        <entry>theme</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/enterprise\/views\/enterprise\//\/enterprise\/views\/professional\//g</entry>
