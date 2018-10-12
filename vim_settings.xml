@@ -37,12 +37,12 @@
         <mark key="." line="35" column="61" />
         <mark key="^" line="34" column="82" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539272890351">
-        <mark key="'" line="51" column="23" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539275989798">
+        <mark key="'" line="243" column="19" />
+        <mark key="[" line="214" column="1" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+        <mark key="^" line="215" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" timestamp="1537975808590">
         <mark key="'" line="109" column="24" />
@@ -447,6 +447,11 @@
         <mark key="]" line="17" column="87" />
         <mark key="." line="17" column="87" />
         <mark key="^" line="17" column="88" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/course-cards/CourseCardResp.scss" timestamp="1539275982001">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="326" column="0" />
+        <mark key="]" line="335" column="1" />
       </file>
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Function.cs" timestamp="1537972219965">
         <mark key="'" line="78" column="77" />
@@ -1196,11 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="112" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/up-next-controls-mobile/UpNextControlsMobile.tsx" />
-      <jump line="33" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/up-next-controls-mobile/UpNextControlsMobile.tsx" />
-      <jump line="159" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="137" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="52" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="542" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="514" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1296,13 +1296,18 @@
       <jump line="265" column="29" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="28" column="12" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="51" column="23" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
+      <jump line="20" column="24" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
+      <jump line="205" column="4" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
+      <jump line="206" column="19" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
+      <jump line="220" column="19" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/components/course-cards/CourseCardResp.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>CourseCard</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LmNvdXJzZS1jYXJkX19pbnN0cnVjdG9yX19kYXRhIHsKICAgIGxpbmUtaGVpZ2h0OiAxOwogICAgd2lkdGg6IDY4JTsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgYWxpZ24taXRlbXM6IGZsZXgtc3RhcnQ7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgIG92ZXJmbG93OiBoaWRkZW47CiAgICBoZWlnaHQ6IDUwcHg7Cn0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1334,13 +1339,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Resp</text>
+        <text>$color-gray-medium-light</text>
       </register>
       <register name="/" type="4">
-        <text>CourseCardRe</text>
+        <text>instructor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3Vyc2U9e2l0ZW19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGxheU1vZGU9e3RoaXMucHJvcHMuZGlzcGxheU1vZGV9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">LmNvdXJzZS1jYXJkX19pbnN0cnVjdG9yX19kYXRhIHsKICAgIGxpbmUtaGVpZ2h0OiAxOwogICAgd2lkdGg6IDY4JTsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgYWxpZ24taXRlbXM6IGZsZXgtc3RhcnQ7CiAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgIG92ZXJmbG93OiBoaWRkZW47CiAgICBoZWlnaHQ6IDUwcHg7Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1383,9 +1388,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CourseCardRe</last-search>
+      <last-search>instructor</last-search>
       <last-offset />
-      <last-pattern>CourseCardRe</last-pattern>
+      <last-pattern>instructor</last-pattern>
       <last-replace>course-card-base</last-replace>
       <last-substitute>course-card</last-substitute>
       <last-dir>1</last-dir>
@@ -1393,8 +1398,6 @@
     </search>
     <history>
       <history-search>
-        <entry>play-butt</entry>
-        <entry>36</entry>
         <entry>Upnext</entry>
         <entry>last</entry>
         <entry>hasNext</entry>
@@ -1413,6 +1416,8 @@
         <entry encoding="base64">XDxGZWF0dXJlU3RvcmVcPg==</entry>
         <entry encoding="base64">XDxJRmVhdHVyZVN0b3JlXD4=</entry>
         <entry>CourseCardRe</entry>
+        <entry>instruc</entry>
+        <entry>instructor</entry>
       </history-search>
       <history-cmd>
         <entry>s/\\/\//g</entry>
