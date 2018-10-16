@@ -34,12 +34,12 @@
         <mark key="." line="35" column="61" />
         <mark key="^" line="34" column="82" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539703333538">
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539705190178">
         <mark key="'" line="102" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="^" line="101" column="0" />
-        <mark key="." line="83" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="86" column="19" />
+        <mark key="^" line="86" column="19" />
+        <mark key="." line="86" column="19" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" timestamp="1537975808590">
         <mark key="'" line="109" column="24" />
@@ -603,10 +603,12 @@
         <mark key="^" line="43" column="95" />
         <mark key="." line="43" column="95" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539704299593">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539705235945">
+        <mark key="'" line="85" column="32" />
+        <mark key="[" line="164" column="92" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="165" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" timestamp="1537889565636">
         <mark key="'" line="23" column="18" />
@@ -924,8 +926,10 @@
         <mark key="^" line="56" column="29" />
         <mark key="." line="57" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/three/layout/WaveSection.tsx" timestamp="1539700166056">
+      <file name="C:/projects/UI-Web/ClientApp/themes/three/layout/WaveSection.tsx" timestamp="1539705029162">
         <mark key="'" line="142" column="30" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="201" column="18" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICourseSearchAction.ts" timestamp="1537795763256">
         <mark key="'" line="22" column="7" />
@@ -1189,7 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="467" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="71" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="470" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1289,13 +1292,14 @@
       <jump line="161" column="24" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="40" column="4" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="165" column="0" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
+      <jump line="85" column="32" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>CourseCard</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJpY2VDb252ZXJ0ZXIgfSBmcm9tICdDbGllbnRBcHAvdXRpbHMvY291cnNlL1ByaWNlQ29udmVydGVyJzsK</text>
+      <register name="&quot;" type="4">
+        <text>style=&quot;fill:white;&quot; id=&quot;e2_curve2&quot;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1327,52 +1331,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>style=&quot;fill:white;&quot; id=&quot;e2_curve2&quot;</text>
       </register>
       <register name="/" type="4">
         <text>instructor</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHJldmlldy1hcnJvdyA=</text>
+        <text encoding="base64">PHBhdGg=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJpY2VDb252ZXJ0ZXIgfSBmcm9tICdDbGllbnRBcHAvdXRpbHMvY291cnNlL1ByaWNlQ29udmVydGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3ZnIHdpZHRoPSIxMDAlIiBoZWlnaHQ9ImF1dG8iICB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIHJlZj17ZWwgPT4gdGhpc1twcm9wXSA9IGVsfSBkPSIiIGZpbGw9IiNGRkZGRkYiLz4KICAgICAgICAgICAgICAgICAgICA8L3N2Zz4K</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE5hbWVIZWxwZXIgZnJvbSAnQ2xpZW50QXBwL3V0aWxzL3VzZXIvTmFtZUhlbHBlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3ZnPjwvc3ZnPgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSVRyYW5zY3JpcHRPYmplY3RTdGF0dXMgfSBmcm9tICdDbGllbnRBcHAvbW9kZWxzL3RyYW5zY3JpcHQvSVRyYW5zY3JpcHQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUHJpY2VDb252ZXJ0ZXIgfSBmcm9tICdDbGllbnRBcHAvdXRpbHMvY291cnNlL1ByaWNlQ29udmVydGVyJzsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbGVzc29uVGl0bGU6IHN0cmluZyA9IGN1cnJlbnRMZXNzb25CbG9jay50aXRsZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE5hbWVIZWxwZXIgZnJvbSAnQ2xpZW50QXBwL3V0aWxzL3VzZXIvTmFtZUhlbHBlcic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXZhdGFyIH0gZnJvbSAnQ2xpZW50QXBwL2NvbXBvbmVudHMvYXZhdGFyL0F2YXRhcic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSVRyYW5zY3JpcHRPYmplY3RTdGF0dXMgfSBmcm9tICdDbGllbnRBcHAvbW9kZWxzL3RyYW5zY3JpcHQvSVRyYW5zY3JpcHQnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZVByZXZpZXc/OiBib29sZWFuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldEhvdXJzVGV4dChob3VycykgewogICAgICAgIGlmIChob3VycyA9PT0gMCkgewogICAgICAgICAgICByZXR1cm4gJ0xlc3MgdGhhbiBhbiBob3VyJzsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gYCR7aG91cnN9IEhvdXJzYDsKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXZhdGFyIH0gZnJvbSAnQ2xpZW50QXBwL2NvbXBvbmVudHMvYXZhdGFyL0F2YXRhcic7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuYWJsZVByZXZpZXc/OiBib29sZWFuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbmRlckNvdXJzZUhvdmVyQ292ZXIoKTogSlNYLkVsZW1lbnQgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgIGdldEhvdXJzVGV4dChob3VycykgewogICAgICAgIGlmIChob3VycyA9PT0gMCkgewogICAgICAgICAgICByZXR1cm4gJ0xlc3MgdGhhbiBhbiBob3VyJzsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gYCR7aG91cnN9IEhvdXJzYDsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1426,8 +1430,8 @@
         <entry>action GotoImplementation</entry>
         <entry>%s/course-card/course-card-base/g</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
