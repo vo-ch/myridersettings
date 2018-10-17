@@ -617,6 +617,13 @@
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="12" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" timestamp="1539793485058">
+        <mark key="'" line="19" column="14" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="4" />
+        <mark key="^" line="175" column="3" />
+        <mark key="." line="178" column="4" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" timestamp="1536310274721">
         <mark key="'" line="215" column="39" />
         <mark key="[" line="215" column="39" />
@@ -1110,10 +1117,10 @@
         <mark key="." line="11" column="66" />
         <mark key="^" line="11" column="66" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" timestamp="1539184822307">
-        <mark key="'" line="178" column="12" />
-        <mark key="[" line="151" column="23" />
-        <mark key="]" line="151" column="24" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" timestamp="1539793420131">
+        <mark key="'" line="150" column="26" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="152" column="9" />
         <mark key="." line="151" column="24" />
         <mark key="^" line="151" column="23" />
       </file>
@@ -1177,10 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="32" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="453" column="75" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="454" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="507" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="471" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="439" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="322" column="76" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -1277,13 +1280,17 @@
       <jump line="173" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="174" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="14" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.tsx" />
+      <jump line="178" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" />
+      <jump line="150" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" />
+      <jump line="19" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cGxheWVyU3RvcmUucGxheWVkICYmIHBsYXllclN0b3JlLnBsYXllZC5zZWNvbmRz</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">ICAgICAgICAucGxheWVyLWNvbnRyb2xzX19yZXdpbmQtYnV0dG9u</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1315,13 +1322,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">ICAgICAgICAucGxheWVyLWNvbnRyb2xzX19yZXdpbmQtYnV0dG9u</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblJld2luZFw+</text>
+        <text>rewind</text>
       </register>
       <register name="0" type="4">
-        <text>isRewindDisabled</text>
+        <text encoding="base64">Ji0tcmV3aW5k</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZTllOWU5Owo=</text>
@@ -1364,9 +1371,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvblJld2luZFw+</last-search>
+      <last-search>rewind</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblJld2luZFw+</last-pattern>
+      <last-pattern>rewind</last-pattern>
       <last-replace>course-card-base</last-replace>
       <last-substitute>course-card</last-substitute>
       <last-dir>1</last-dir>
@@ -1392,8 +1399,8 @@
         <entry>PlayerVideo</entry>
         <entry encoding="base64">XDxzaG91bGRBdXRvcGxheVw+</entry>
         <entry encoding="base64">XDxzdG9wTmV4dFZpZGVvXD4=</entry>
-        <entry>rewind</entry>
         <entry encoding="base64">XDxvblJld2luZFw+</entry>
+        <entry>rewind</entry>
       </history-search>
       <history-cmd>
         <entry>s/\\/\//g</entry>
