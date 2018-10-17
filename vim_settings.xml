@@ -211,6 +211,13 @@
         <mark key="^" line="35" column="65" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" timestamp="1539772322688">
+        <mark key="'" line="308" column="41" />
+        <mark key="[" line="308" column="40" />
+        <mark key="]" line="308" column="83" />
+        <mark key="." line="308" column="83" />
+        <mark key="^" line="308" column="83" />
+      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IExternalUserService.cs" timestamp="1536327354134">
         <mark key="'" line="7" column="28" />
         <mark key="[" line="7" column="68" />
@@ -1186,14 +1193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="467" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="71" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="470" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="782" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="784" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="844" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="847" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="848" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="265" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="72" column="6" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="266" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -1286,6 +1285,14 @@
       <jump line="40" column="4" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="165" column="0" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="85" column="32" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
+      <jump line="453" column="75" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="454" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="507" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="471" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="439" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="322" column="76" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="216" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="308" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1327,7 +1334,7 @@
         <text>staging</text>
       </register>
       <register name="/" type="4">
-        <text>instructor</text>
+        <text encoding="base64">XDxsb2FkUXVpelByb2dyZXNzXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PHBhdGg=</text>
@@ -1373,18 +1380,16 @@
       </register>
     </registers>
     <search>
-      <last-search>instructor</last-search>
+      <last-search encoding="base64">XDxsb2FkUXVpelByb2dyZXNzXD4=</last-search>
       <last-offset />
-      <last-pattern>instructor</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkUXVpelByb2dyZXNzXD4=</last-pattern>
       <last-replace>course-card-base</last-replace>
       <last-substitute>course-card</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Upnext</entry>
-        <entry>last</entry>
         <entry>hasNext</entry>
         <entry>setC</entry>
         <entry>onEnd</entry>
@@ -1403,6 +1408,8 @@
         <entry>CourseCardRe</entry>
         <entry>instruc</entry>
         <entry>instructor</entry>
+        <entry>loadQuizProgress</entry>
+        <entry encoding="base64">XDxsb2FkUXVpelByb2dyZXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/\\/\//g</entry>
