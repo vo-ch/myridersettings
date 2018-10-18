@@ -34,12 +34,12 @@
         <mark key="." line="35" column="61" />
         <mark key="^" line="34" column="82" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539705190178">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="86" column="19" />
-        <mark key="^" line="86" column="19" />
-        <mark key="." line="86" column="19" />
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539855771696">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="86" column="15" />
+        <mark key="]" line="87" column="11" />
+        <mark key="^" line="87" column="11" />
+        <mark key="." line="87" column="11" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" timestamp="1537975808590">
         <mark key="'" line="109" column="24" />
@@ -581,8 +581,8 @@
         <mark key="^" line="43" column="95" />
         <mark key="." line="43" column="95" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539705235945">
-        <mark key="'" line="85" column="32" />
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539855706671">
+        <mark key="'" line="162" column="44" />
         <mark key="[" line="164" column="92" />
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
@@ -1146,7 +1146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="471" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="439" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="322" column="76" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="216" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -1246,13 +1245,14 @@
       <jump line="150" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" />
       <jump line="19" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" />
+      <jump line="162" column="44" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cGxheWVyU3RvcmUucGxheWVkICYmIHBsYXllclN0b3JlLnBsYXllZC5zZWNvbmRz</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAucGxheWVyLWNvbnRyb2xzX19yZXdpbmQtYnV0dG9u</text>
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1284,7 +1284,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAucGxheWVyLWNvbnRyb2xzX19yZXdpbmQtYnV0dG9u</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>rewind</text>
