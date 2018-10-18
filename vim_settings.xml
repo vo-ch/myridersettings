@@ -34,12 +34,12 @@
         <mark key="." line="35" column="61" />
         <mark key="^" line="34" column="82" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539858226161">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="88" column="13" />
-        <mark key="^" line="86" column="11" />
-        <mark key="." line="88" column="13" />
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539867811693">
+        <mark key="'" line="84" column="12" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="82" column="11" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" timestamp="1537975808590">
         <mark key="'" line="109" column="24" />
@@ -581,12 +581,12 @@
         <mark key="^" line="43" column="95" />
         <mark key="." line="43" column="95" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539861203765">
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539867240047">
         <mark key="'" line="162" column="44" />
-        <mark key="[" line="169" column="33" />
-        <mark key="]" line="169" column="82" />
-        <mark key="." line="169" column="82" />
-        <mark key="^" line="169" column="82" />
+        <mark key="[" line="166" column="38" />
+        <mark key="]" line="166" column="39" />
+        <mark key="." line="166" column="39" />
+        <mark key="^" line="166" column="39" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" timestamp="1537889565636">
         <mark key="'" line="23" column="18" />
@@ -1152,7 +1152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="322" column="76" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="216" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="312" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -1252,13 +1251,14 @@
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" />
       <jump line="19" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" />
       <jump line="162" column="44" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
+      <jump line="88" column="12" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">cGxheWVyU3RvcmUucGxheWVkICYmIHBsYXllclN0b3JlLnBsYXllZC5zZWNvbmRz</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1290,7 +1290,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>72</text>
       </register>
       <register name="/" type="4">
         <text>rewind</text>
@@ -1299,28 +1299,28 @@
         <text encoding="base64">Ji0tcmV3aW5k</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZTllOWU5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICY6aG92ZXIgewogICAgICAgIHRyYW5zZm9ybTogc2NhbGUoMS4wMjUsIDEuMDI1KTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZTllOWU5Owo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgbGVzc29uVGl0bGU6IHN0cmluZyA9IGN1cnJlbnRMZXNzb25CbG9jay50aXRsZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxheWVyU3RvcmUuc2V0UGxheWVyV2F0Y2hlZER1cmF0aW9uKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0UGxheWluZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxheWVyU3RvcmUuc2V0UGxheWVyV2F0Y2hlZER1cmF0aW9uKDApOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0UGxheWluZygpOwo=</text>
@@ -1328,11 +1328,11 @@
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JiYgdGhpcy5xdWl6TWFpblN0YXRlLmN1cnJlbnRQYWdlTnVtYmVyID4gMA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0UGxheWluZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
