@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" timestamp="1539956698012">
+        <mark key="'" line="110" column="69" />
+        <mark key="[" line="94" column="4" />
+        <mark key="]" line="94" column="57" />
+        <mark key="." line="110" column="75" />
+        <mark key="^" line="110" column="75" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/data-analytics/DataAnalyticsCollectionStore.ts" timestamp="1537798992246">
         <mark key="'" line="24" column="40" />
         <mark key="[" line="27" column="102" />
@@ -549,12 +556,12 @@
         <mark key="^" line="43" column="95" />
         <mark key="." line="43" column="95" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539954653613">
-        <mark key="'" line="104" column="27" />
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="58" column="34" />
-        <mark key="." line="174" column="36" />
-        <mark key="^" line="174" column="36" />
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539957335006">
+        <mark key="'" line="107" column="27" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="54" column="72" />
+        <mark key="^" line="54" column="72" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" timestamp="1537889565636">
         <mark key="'" line="23" column="18" />
@@ -562,10 +569,6 @@
         <mark key="]" line="26" column="12" />
         <mark key="." line="26" column="12" />
         <mark key="^" line="26" column="12" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" timestamp="1539793485058">
-        <mark key="'" line="19" column="14" />
-        <mark key="^" line="175" column="3" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" timestamp="1536310274721">
         <mark key="'" line="215" column="39" />
@@ -783,12 +786,12 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1539955284347">
-        <mark key="'" line="46" column="36" />
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="49" />
-        <mark key="." line="16" column="49" />
-        <mark key="^" line="16" column="49" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1539957443392">
+        <mark key="'" line="58" column="36" />
+        <mark key="[" line="51" column="25" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="51" column="32" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" timestamp="1539184347776">
         <mark key="'" line="39" column="4" />
@@ -1086,8 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="293" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="514" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="407" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="355" column="75" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="374" column="96" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -1186,13 +1187,15 @@
       <jump line="14899" column="21" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
       <jump line="46" column="36" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="93" column="45" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="110" column="69" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
+      <jump line="17" column="4" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">eyB0aGlzLnN0YXRlLmlzVHJhaWxlclNob3duID8gICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e3RoaXMuc3RhdGUuaXNUcmFpbGVyU2hvd259CiAgICAgICAgICAgICAgICAgICAgICAgIHVybD17Y291cnNlLnRyYWlsZXJVcmx9CiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3Rlcj17dGhpcy5nZXRSZXNpemVkQ292ZXJJbWFnZVVybChjb3Vyc2UuY292ZXJJbWFnZVVybCl9CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUmVxdWVzdENsb3NlPXsoKSA9PiB0aGlzLnNldFN0YXRlKHsgaXNUcmFpbGVyU2hvd246IGZhbHNlIH0pfQogICAgICAgICAgICAgICAgICAgIC8+IDogbnVsbAogICAgICAgIH0K</text>
+      <register name="a" type="4">
+        <text encoding="base64">SUNvdXJzZUNhcmRzSW1hZ2VRdWV1ZVN0b3JlIA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Airbrake</text>
+        <text>coverImageUrl</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1224,25 +1227,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Airbrake</text>
+        <text>coverImageUrl</text>
       </register>
       <register name="/" type="4">
         <text>new Im</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWlyYnJha2UgQWlyYnJha2UgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgIGxvYWRJbWFnZSgpIHsKICAgICAgICBjb25zdCB7IGNvdXJzZTogeyBjb3ZlckltYWdlVXJsIH0gfSA9IHRoaXMucHJvcHM7CiAgICAgICAgdGhpcy5pbWFnZSA9IG5ldyBJbWFnZSgpOwogICAgICAgIHRoaXMuaW1hZ2Uub25sb2FkID0gdGhpcy5vbkltYWdlTG9hZGVkOwogICAgICAgIHRoaXMuaW1hZ2Uub25lcnJvciA9IHRoaXMub25JbWFnZUxvYWRlZDsKICAgICAgICB0aGlzLmltYWdlLnNyYyA9IGNvdmVySW1hZ2VVcmw7CiAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbmZpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGNvdXJzZTogeyBjb3ZlckltYWdlVXJsIH0gfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSUNvdXJzZUNhcmRzSW1hZ2VRdWV1ZVN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9Db3Vyc2VDYXJkc0ltYWdlUXVldWVTdG9yZSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhaWwK</text>
+        <text encoding="base64">ICAgIGNvbmZpCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e2lzVHJhaWxlck1vZGFsT3BlbmVkfQogICAgICAgICAgICAgICAgICAgICAgICB1cmw9e2NvdXJzZS50cmFpbGVyVXJsfQogICAgICAgICAgICAgICAgICAgICAgICBwb3N0ZXI9e3RoaXMuZ2V0UmVzaXplZENvdmVySW1hZ2VVcmwoY291cnNlLmNvdmVySW1hZ2VVcmwpfQogICAgICAgICAgICAgICAgICAgICAgICBvblJlcXVlc3RDbG9zZT17KCkgPT4gY291cnNlRGV0YWlsc1N0b3JlLnNob3dUcmFpbGVyTW9kYWwoZmFsc2UpfQogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
@@ -1251,22 +1254,22 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IGlzR2xvYmFsTG9hZGluZzogYm9vbGVhbjsKICAgIGNsZWFyQ2FjaGUoKTogdm9pZDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRhaWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBhY3Rpb24KICAgIGNsZWFyQ2FjaGUoKTogdm9pZCB7CiAgICAgICAgdGhpcy5jYWNoZWQgPSBEYXRlLm5vdygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkK</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IGlzR2xvYmFsTG9hZGluZzogYm9vbGVhbjsKICAgIGNsZWFyQ2FjaGUoKTogdm9pZDsK</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBhY3Rpb24KICAgIGNsZWFyQ2FjaGUoKTogdm9pZCB7CiAgICAgICAgdGhpcy5jYWNoZWQgPSBEYXRlLm5vdygpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
