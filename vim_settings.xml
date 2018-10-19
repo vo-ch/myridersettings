@@ -120,7 +120,6 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/play-bar/PlayBar.scss" timestamp="1539791145855" />
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/ProfileSection.tsx" timestamp="1534333882702">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="195" column="0" />
@@ -591,8 +590,8 @@
         <mark key="^" line="43" column="95" />
         <mark key="." line="43" column="95" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539941889740">
-        <mark key="'" line="171" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539954007259">
+        <mark key="'" line="102" column="10" />
         <mark key="[" line="174" column="36" />
         <mark key="]" line="174" column="36" />
         <mark key="." line="174" column="36" />
@@ -848,6 +847,12 @@
         <mark key="]" line="49" column="7" />
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1539954181272">
+        <mark key="[" line="13" column="80" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" timestamp="1539184347776">
         <mark key="'" line="39" column="4" />
@@ -1195,9 +1200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="431" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="269" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="626" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="467" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="76" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="186" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -1295,13 +1297,16 @@
       <jump line="26" column="71" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
       <jump line="58" column="53" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
       <jump line="5" column="11" filename="C:/projects/UI-Web/ClientApp/utils/StringUtils.ts" />
+      <jump line="121" column="51" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
+      <jump line="244" column="24" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
+      <jump line="102" column="10" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">eyB0aGlzLnN0YXRlLmlzVHJhaWxlclNob3duID8gICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e3RoaXMuc3RhdGUuaXNUcmFpbGVyU2hvd259CiAgICAgICAgICAgICAgICAgICAgICAgIHVybD17Y291cnNlLnRyYWlsZXJVcmx9CiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3Rlcj17dGhpcy5nZXRSZXNpemVkQ292ZXJJbWFnZVVybChjb3Vyc2UuY292ZXJJbWFnZVVybCl9CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUmVxdWVzdENsb3NlPXsoKSA9PiB0aGlzLnNldFN0YXRlKHsgaXNUcmFpbGVyU2hvd246IGZhbHNlIH0pfQogICAgICAgICAgICAgICAgICAgIC8+IDogbnVsbAogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1333,7 +1338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>LoadingStatusStore</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
@@ -1342,40 +1347,40 @@
         <text>i__mod</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBvYnNlcnZhYmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2FjaGVkOiBudW1iZXIgPSBEYXRlLm5vdygpOwoKICAgIEBjb21wdXRlZCBnZXQgaXNHbG9iYWxMb2FkaW5nKCk6IGJvb2xlYW4gewogICAgICAgIGxldCByZXN1bHQ6IGJvb2xlYW4gPSBmYWxzZTsKICAgICAgICB0aGlzLmNhY2hlZDsKCiAgICAgICAgZm9yIChjb25zdCBzdG9yZUtleSBpbiB0aGlzLmFwcFN0b3JlcykgewogICAgICAgICAgICBpZiAodGhpcy5hcHBTdG9yZXNbc3RvcmVLZXldID09PSB0aGlzKSBjb250aW51ZTsKCiAgICAgICAgICAgIGNvbnN0IHN0b3JlOiBJQmFzZVN0b3JlPElCYXNlU3RhdGU+ID0gdGhpcy5hcHBTdG9yZXNbc3RvcmVLZXldOwogICAgICAgICAgICBpZiAoc3RvcmUuaXNHbG9iYWxMb2FkaW5nKSB7CiAgICAgICAgICAgICAgICByZXN1bHQgPSB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e2lzVHJhaWxlck1vZGFsT3BlbmVkfQogICAgICAgICAgICAgICAgICAgICAgICB1cmw9e2NvdXJzZS50cmFpbGVyVXJsfQogICAgICAgICAgICAgICAgICAgICAgICBwb3N0ZXI9e3RoaXMuZ2V0UmVzaXplZENvdmVySW1hZ2VVcmwoY291cnNlLmNvdmVySW1hZ2VVcmwpfQogICAgICAgICAgICAgICAgICAgICAgICBvblJlcXVlc3RDbG9zZT17KCkgPT4gY291cnNlRGV0YWlsc1N0b3JlLnNob3dUcmFpbGVyTW9kYWwoZmFsc2UpfQogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyB0aGlzLnN0YXRlLmlzVHJhaWxlclNob3duID8gICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e3RoaXMuc3RhdGUuaXNUcmFpbGVyU2hvd259CiAgICAgICAgICAgICAgICAgICAgICAgIHVybD17Y291cnNlLnRyYWlsZXJVcmx9CiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3Rlcj17dGhpcy5nZXRSZXNpemVkQ292ZXJJbWFnZVVybChjb3Vyc2UuY292ZXJJbWFnZVVybCl9CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUmVxdWVzdENsb3NlPXsoKSA9PiB0aGlzLnNldFN0YXRlKHsgaXNUcmFpbGVyU2hvd246IGZhbHNlIH0pfQogICAgICAgICAgICAgICAgICAgIC8+IDogbnVsbAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljawo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpemU9ey41fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eyB0aGlzLnN0YXRlLmlzVHJhaWxlclNob3duID8gICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e3RoaXMuc3RhdGUuaXNUcmFpbGVyU2hvd259CiAgICAgICAgICAgICAgICAgICAgICAgIHVybD17Y291cnNlLnRyYWlsZXJVcmx9CiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3Rlcj17dGhpcy5nZXRSZXNpemVkQ292ZXJJbWFnZVVybChjb3Vyc2UuY292ZXJJbWFnZVVybCl9CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUmVxdWVzdENsb3NlPXsoKSA9PiB0aGlzLnNldFN0YXRlKHsgaXNUcmFpbGVyU2hvd246IGZhbHNlIH0pfQogICAgICAgICAgICAgICAgICAgIC8+IDogbnVsbAogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+e2NvdXJzZS50cmFpbGVyVXJsfTwvZGl2Pgo=</text>
+      <register name="8" type="4">
+        <text>{</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpemU9ey41fQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
