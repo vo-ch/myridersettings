@@ -34,12 +34,12 @@
         <mark key="." line="35" column="61" />
         <mark key="^" line="34" column="82" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539940533966">
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" timestamp="1539942459140">
         <mark key="'" line="63" column="23" />
-        <mark key="[" line="103" column="11" />
-        <mark key="]" line="103" column="12" />
-        <mark key="^" line="63" column="23" />
-        <mark key="." line="103" column="12" />
+        <mark key="[" line="105" column="15" />
+        <mark key="]" line="106" column="36" />
+        <mark key="^" line="106" column="36" />
+        <mark key="." line="106" column="36" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/Processors/BaseProcessor.cs" timestamp="1537975808590">
         <mark key="'" line="109" column="24" />
@@ -591,11 +591,12 @@
         <mark key="^" line="43" column="95" />
         <mark key="." line="43" column="95" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539940574481">
-        <mark key="'" line="193" column="30" />
+      <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1539941889740">
+        <mark key="'" line="171" column="28" />
         <mark key="[" line="174" column="36" />
-        <mark key="]" line="174" column="37" />
-        <mark key="." line="174" column="37" />
+        <mark key="]" line="174" column="36" />
+        <mark key="." line="174" column="36" />
+        <mark key="^" line="174" column="36" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/ICoursePlayerAction.ts" timestamp="1537889565636">
         <mark key="'" line="23" column="18" />
@@ -666,6 +667,11 @@
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionsProcessor.cs" timestamp="1536583566880">
         <mark key="'" line="26" column="102" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" timestamp="1539941575385">
+        <mark key="'" line="58" column="53" />
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="60" column="21" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/course-cards/CourseMiniCard.js" timestamp="1539266929466">
         <mark key="'" line="6" column="21" />
@@ -1189,12 +1195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="563" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="602" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="603" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="270" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="49" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="505" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="431" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="269" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="626" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -1289,13 +1289,19 @@
       <jump line="7" column="18" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="48" column="9" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="63" column="23" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
+      <jump line="171" column="28" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
+      <jump line="19" column="21" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="22" column="42" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="26" column="71" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="58" column="53" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
+      <jump line="5" column="11" filename="C:/projects/UI-Web/ClientApp/utils/StringUtils.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">eyB0aGlzLnN0YXRlLmlzVHJhaWxlclNob3duID8gICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e3RoaXMuc3RhdGUuaXNUcmFpbGVyU2hvd259CiAgICAgICAgICAgICAgICAgICAgICAgIHVybD17Y291cnNlLnRyYWlsZXJVcmx9CiAgICAgICAgICAgICAgICAgICAgICAgIHBvc3Rlcj17dGhpcy5nZXRSZXNpemVkQ292ZXJJbWFnZVVybChjb3Vyc2UuY292ZXJJbWFnZVVybCl9CiAgICAgICAgICAgICAgICAgICAgICAgIG9uUmVxdWVzdENsb3NlPXsoKSA9PiB0aGlzLnNldFN0YXRlKHsgaXNUcmFpbGVyU2hvd246IGZhbHNlIH0pfQogICAgICAgICAgICAgICAgICAgIC8+IDogbnVsbAogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>64</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1327,13 +1333,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>64</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>basis</text>
+        <text>size</text>
       </register>
       <register name="0" type="4">
-        <text>MouseEvent</text>
+        <text>i__mod</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb25DbGljawo=</text>
@@ -1376,9 +1382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>basis</last-search>
+      <last-search>size</last-search>
       <last-offset />
-      <last-pattern>basis</last-pattern>
+      <last-pattern>size</last-pattern>
       <last-replace>course-card-base</last-replace>
       <last-substitute>course-card</last-substitute>
       <last-dir>1</last-dir>
@@ -1386,7 +1392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loadQuizProgress</entry>
         <entry encoding="base64">XDxsb2FkUXVpelByb2dyZXNzXD4=</entry>
         <entry encoding="base64">XDxxdWl6UHJvZ3Jlc3NcPg==</entry>
         <entry>new QuizProg</entry>
@@ -1406,6 +1411,7 @@
         <entry encoding="base64">XDxNb3VzZUV2ZW50XD4=</entry>
         <entry>render</entry>
         <entry>basis</entry>
+        <entry>size</entry>
       </history-search>
       <history-cmd>
         <entry>s/\\/\//g</entry>
