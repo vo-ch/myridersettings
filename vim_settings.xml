@@ -295,12 +295,12 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540200325893">
-        <mark key="'" line="74" column="23" />
-        <mark key="[" line="59" column="5" />
-        <mark key="]" line="59" column="5" />
-        <mark key="." line="59" column="5" />
-        <mark key="^" line="59" column="5" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540201389664">
+        <mark key="'" line="58" column="22" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="22" />
+        <mark key="." line="59" column="22" />
+        <mark key="^" line="59" column="22" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" timestamp="1539184347776">
         <mark key="'" line="39" column="4" />
@@ -1074,10 +1074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="14" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.tsx" />
-      <jump line="178" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" />
-      <jump line="150" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" />
       <jump line="19" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.scss" />
       <jump line="88" column="12" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
@@ -1174,13 +1170,17 @@
       <jump line="65" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="33" column="4" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="70" column="23" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="57" column="5" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="0" column="9" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="58" column="22" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="10441" column="8" filename="C:/projects/UI-Web/node_modules/@types/lodash/index.d.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ICourseCardsImageQueueItem</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2goKTsK</text>
+      <register name="&quot;" type="4">
+        <text>, 0</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1212,13 +1212,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy53YWl0SGVhZCB8fCA=</text>
+        <text>, 0</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cmVmcmVzaCgpOiB2b2lkIA==</text>
+        <text>debounce</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2goKTsK</text>
