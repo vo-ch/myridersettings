@@ -296,12 +296,12 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540209662199">
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540210687073">
         <mark key="'" line="95" column="54" />
-        <mark key="[" line="130" column="51" />
-        <mark key="]" line="131" column="7" />
-        <mark key="^" line="131" column="7" />
-        <mark key="." line="131" column="7" />
+        <mark key="[" line="96" column="12" />
+        <mark key="]" line="96" column="26" />
+        <mark key="^" line="96" column="26" />
+        <mark key="." line="96" column="26" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" timestamp="1539184347776">
         <mark key="'" line="39" column="4" />
@@ -1181,7 +1181,7 @@
         <text>onImageLoaded</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Ready</text>
+        <text>batchSize</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1218,8 +1218,8 @@
       <register name="/" type="4">
         <text>this</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IGlzUmVhZHk6IGJvb2xlYW47Cg==</text>
+      <register name="0" type="4">
+        <text>batchSize</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoYmF0Y2hTaXplICYmIHRoaXMud2FpdEhlYWQgJiYgIXRoaXMud2FpdEhlYWQubmV4dCkgewogICAgICAgICAgICBpZiAoIXRoaXMud2FpdEhlYWQuaXNSZWFkeSkgdGhpcy53YWl0SGVhZC5sb2FkSW1hZ2UoKTsKICAgICAgICAgICAgdGhpcy53YWl0SGVhZCA9IG51bGw7CiAgICAgICAgfQo=</text>
