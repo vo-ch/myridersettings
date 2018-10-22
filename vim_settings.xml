@@ -295,11 +295,11 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540196430828">
-        <mark key="'" line="65" column="25" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540197627379">
+        <mark key="'" line="70" column="23" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
         <mark key="^" line="69" column="29" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" timestamp="1539184347776">
@@ -1074,7 +1074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="174" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="14" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls-mobile/PlayerControlsMobile.tsx" />
       <jump line="178" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" />
@@ -1174,13 +1173,14 @@
       <jump line="112" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="65" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="33" column="4" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="70" column="23" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ICourseCardsImageQueueItem</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2goKTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1212,66 +1212,65 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>push</text>
+        <text encoding="base64">dGhpcy53YWl0SGVhZCB8fCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3Vyc2VDYXJkSW1hZ2VRdWV1ZVN0b3JlXD4=</text>
+        <text>this</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cmVmcmVzaCgpOiB2b2lkIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2goKTsK</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnF1ZXVlID0gbnVsbDsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">dGhpcy53YWl0SGVhZCB8fCA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnF1ZXVlLnJlZnJlc2goKTsK</text>
+      <register name="3" type="4">
+        <text>!</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e2lzVHJhaWxlck1vZGFsT3BlbmVkfQogICAgICAgICAgICAgICAgICAgICAgICB1cmw9e2NvdXJzZS50cmFpbGVyVXJsfQogICAgICAgICAgICAgICAgICAgICAgICBwb3N0ZXI9e3RoaXMuZ2V0UmVzaXplZENvdmVySW1hZ2VVcmwoY291cnNlLmNvdmVySW1hZ2VVcmwpfQogICAgICAgICAgICAgICAgICAgICAgICBvblJlcXVlc3RDbG9zZT17KCkgPT4gY291cnNlRGV0YWlsc1N0b3JlLnNob3dUcmFpbGVyTW9kYWwoZmFsc2UpfQogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW1hZ2U6IEhUTUxJbWFnZUVsZW1lbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pbWFnZSkgewogICAgICAgICAgICB0aGlzLmltYWdlLm9ubG9hZCA9IG51bGw7CiAgICAgICAgICAgIHRoaXMuaW1hZ2Uub25lcnJvciA9IG51bGw7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnF1ZXVlID0gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnF1ZXVlLnJlZnJlc2goKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUFwcGxpY2F0aW9uU3RvcmVzIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBsaWNhdGlvblN0b3Jlcyc7CmltcG9ydCB7IGFjdGlvbiwgY29tcHV0ZWQsIG9ic2VydmFibGUgfSBmcm9tICdtb2J4JzsKaW1wb3J0IHsgSUJhc2VTdGF0ZSwgSUJhc2VTdG9yZSB9IGZyb20gJy4vQmFzZVN0b3JlJzsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW1hZ2U6IEhUTUxJbWFnZUVsZW1lbnQ7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy53YWl0SGVhZCA9IHRoaXMud2FpdEhlYWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pbWFnZSkgewogICAgICAgICAgICB0aGlzLmltYWdlLm9ubG9hZCA9IG51bGw7CiAgICAgICAgICAgIHRoaXMuaW1hZ2Uub25lcnJvciA9IG51bGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndhaXRIZWFkID0gbmV4dFdhaXRIZWFkOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnF1ZXVlLnJlZnJlc2goKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3Vyc2VDYXJkSW1hZ2VRdWV1ZVN0b3JlXD4=</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3Vyc2VDYXJkSW1hZ2VRdWV1ZVN0b3JlXD4=</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-replace>course-card-base</last-replace>
       <last-substitute>course-card</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Play.*vide</entry>
         <entry>PlayerVideo</entry>
         <entry encoding="base64">XDxzaG91bGRBdXRvcGxheVw+</entry>
         <entry encoding="base64">XDxzdG9wTmV4dFZpZGVvXD4=</entry>
@@ -1291,6 +1290,7 @@
         <entry encoding="base64">XDxpbWFnZVJlYWR5XD4=</entry>
         <entry encoding="base64">XDxpc0xvYWRpbmdcPg==</entry>
         <entry encoding="base64">XDxjb3Vyc2VDYXJkSW1hZ2VRdWV1ZVN0b3JlXD4=</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>s/\\/\//g</entry>
@@ -1311,8 +1311,8 @@
         <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
-        <entry>nohl</entry>
         <entry>action GotoImplementation</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
