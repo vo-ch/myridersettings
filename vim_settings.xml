@@ -296,12 +296,12 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540206904252">
-        <mark key="'" line="90" column="12" />
-        <mark key="[" line="85" column="24" />
-        <mark key="]" line="85" column="24" />
-        <mark key="." line="85" column="24" />
-        <mark key="^" line="85" column="24" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540209662199">
+        <mark key="'" line="95" column="54" />
+        <mark key="[" line="130" column="51" />
+        <mark key="]" line="131" column="7" />
+        <mark key="^" line="131" column="7" />
+        <mark key="." line="131" column="7" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" timestamp="1539184347776">
         <mark key="'" line="39" column="4" />
@@ -1075,9 +1075,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="162" column="40" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="84" column="34" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
       <jump line="72" column="31" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/components/course-card-on-profile/CourseCardOnProfile.tsx" />
       <jump line="26" column="0" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="101" column="24" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
@@ -1171,17 +1168,20 @@
       <jump line="0" column="9" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="58" column="22" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="10441" column="8" filename="C:/projects/UI-Web/node_modules/@types/lodash/index.d.ts" />
-      <jump line="71" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="35" column="4" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="90" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="97" column="8" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="71" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="85" column="17" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="109" column="4" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="95" column="54" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>onImageLoaded</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYgdGhpcy53YWl0SGVhZA==</text>
+        <text>Ready</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1213,52 +1213,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Ready</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JiYgdGhpcy53YWl0SGVhZA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlYWRvbmx5IGlzUmVhZHk6IGJvb2xlYW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYmF0Y2hTaXplICYmIHRoaXMud2FpdEhlYWQgJiYgIXRoaXMud2FpdEhlYWQubmV4dCkgewogICAgICAgICAgICBpZiAoIXRoaXMud2FpdEhlYWQuaXNSZWFkeSkgdGhpcy53YWl0SGVhZC5sb2FkSW1hZ2UoKTsKICAgICAgICAgICAgdGhpcy53YWl0SGVhZCA9IG51bGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9uSW1hZ2VMb2FkZWQoaXRlbTogSUNvdXJzZUNhcmRzSW1hZ2VRdWV1ZUl0ZW0pOiB2b2lkIHsKICAgICAgICBpZiAodGhpcy53YWl0SGVhZCA9PT0gaXRlbSkgewogICAgICAgICAgICB0aGlzLndhaXRIZWFkID0gbnVsbDsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy53YWl0SGVhZCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMud2FpdEhlYWQpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e2lzVHJhaWxlck1vZGFsT3BlbmVkfQogICAgICAgICAgICAgICAgICAgICAgICB1cmw9e2NvdXJzZS50cmFpbGVyVXJsfQogICAgICAgICAgICAgICAgICAgICAgICBwb3N0ZXI9e3RoaXMuZ2V0UmVzaXplZENvdmVySW1hZ2VVcmwoY291cnNlLmNvdmVySW1hZ2VVcmwpfQogICAgICAgICAgICAgICAgICAgICAgICBvblJlcXVlc3RDbG9zZT17KCkgPT4gY291cnNlRGV0YWlsc1N0b3JlLnNob3dUcmFpbGVyTW9kYWwoZmFsc2UpfQogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2FkTmV4dCh0aGlzLmFwcFN0b3Jlcy5jb25maWd1cmF0aW9uLmNvdXJzZUNhcmRJbWFnZUxvYWRpbmdCYXRjaFNpemUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmNvdW50KGBMb2FkOiAke2JhdGNoU2l6ZX1gKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sb2FkTmV4dCh0aGlzLmFwcFN0b3Jlcy5jb25maWd1cmF0aW9uLmNvdXJzZUNhcmRJbWFnZUxvYWRpbmdCYXRjaFNpemUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghY3VycmVudC5pc1JlYWR5KSB7CiAgICAgICAgICAgICAgICAgICAgYmF0Y2hSZWFkeSA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2hEZWJvdW5jZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVtb3ZlKGN1cnJlbnQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZnJlc2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dGhpcy53YWl0SGVhZCB8fCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudC5wcmV2Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -1311,9 +1311,9 @@
         <entry>%s/course-card/course-card-base/g</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>nohl</entry>
         <entry>reg</entry>
         <entry>action GotoImplementation</entry>
-        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
