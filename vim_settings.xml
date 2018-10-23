@@ -291,11 +291,11 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540288461007">
-        <mark key="'" line="318" column="16" />
-        <mark key="[" line="317" column="4" />
-        <mark key="]" line="317" column="4" />
-        <mark key="." line="317" column="4" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540290337282">
+        <mark key="'" line="109" column="36" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="254" column="22" />
+        <mark key="." line="252" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540223450987">
         <mark key="'" line="161" column="35" />
@@ -1083,9 +1083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/components/course-list/CourseList.module.scss" />
-      <jump line="105" column="14" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
-      <jump line="7" column="18" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="48" column="9" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="63" column="23" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="171" column="28" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
@@ -1183,13 +1180,16 @@
       <jump line="48" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="408" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="530" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="317" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="56" column="6" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="109" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICYtLWxvYWRpbmcgewogICAgICAgIG9wYWNpdHk6IDA7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFJld2luZCAxMCBzZWNvbmRzCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgKTsKICAgIH0KCiAgICBnZXQgaXNVcE5leHRTY3JlZW5TaG93bigpOiBib29sZWFuIHsKICAgICAgICBjb25zdCB7IHNob3VsZEF1dG9wbGF5LCBpc1BsYXlpbmcsIGNvbnRpbnVvdXNNb2RlIH0gPSB0aGlzLnByb3BzOwogICAgICAgIHJldHVybiAhc2hvdWxkQXV0b3BsYXkgJiYgIWlzUGxheWluZyAmJiBjb250aW51b3VzTW9kZTsKICAgIH0KCgogICAgLyoKICAgICAqIEJpZyBwbGF5IGJ1dHRvbgogICAgICovCiAgICBwcml2YXRlIHJlbmRlckJpZ1BsYXlCdXR0b24oKTogSlNYLkVsZW1lbnQgfCBudWxsIHsKICAgICAgICBjb25zdCB7IHNob3VsZEF1dG9wbGF5LCBvblBsYXlDbGljaywgaXNQbGF5aW5nLCBjb250aW51b3VzTW9kZSwgdGl0bGUgfSA9IHRoaXMucHJvcHM7CgogICAgICAgIGlmICghc2hvdWxkQXV0b3BsYXkpIHsKICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIGNvbnRpbnVvdXNNb2RlID8KICAgICAgICAgICAgICAgIDxVcE5leHQK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFByZXZpb3VzIExlc3NvbgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1221,13 +1221,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QGNvbXB1dGVkIA==</text>
+        <text>Rewind 10 seconds</text>
       </register>
       <register name="/" type="4">
-        <text>onEnd</text>
+        <text>rewind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogVGhpcyBnbG9iYWwgc3RvcmUgaXMgaW4gY2hhcmdlIG9mIHByZWxvYWRpbmcgY291cnNlIGNhcmQgY292ZXIgaW1hZ2VzIGluIGNvcnJlY3Qgb3JkZXIuCiAqIEl0IGNvbnRyb2xzIGltYWdlcyB0byBiZSBsb2FkZWQgc2VxdWVudGlhbGx5IGluc3RlYWQgb2YgYWxsIGluIHBhcmFsbGVsLgogKiBJbWFnZXMgYXJlIGxvYWRpbmcgaW4gYmF0Y2hlcy4gQmF0Y2ggYnkgYmF0Y2ggaW4gdGhlIHNhbWUgb3JkZXIgQ291cnNlQ2FyZHNJbWFnZVF1ZXVlSXRlbSB3ZXJlIGluc3RhbnRpYXRlZAogKiBhbmQgcHVzaGVkIHRvIHRoZSBxdWV1ZS4KICogQmF0Y2ggc2l6ZSBjYW4gYmUgY29uZmlndXJlZCBhcyAiQ291cnNlQ2FyZEltYWdlTG9hZGluZ0JhdGNoU2l6ZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFByZXZpb3VzIExlc3NvbgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1266,13 +1266,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/\.qa/-honeysha/g</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>onEnd</last-search>
+      <last-search>rewind</last-search>
       <last-offset />
-      <last-pattern>onEnd</last-pattern>
+      <last-pattern>rewind</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>\.qa</last-substitute>
       <last-dir>1</last-dir>
@@ -1280,7 +1280,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rewind</entry>
         <entry encoding="base64">XDxDb3Vyc2VDYXJkXD4=</entry>
         <entry>trailer</entry>
         <entry encoding="base64">XDxvblNob3dUcmFpbGVyQ2xpY2tcPg==</entry>
@@ -1300,6 +1299,7 @@
         <entry>.staging\.</entry>
         <entry>\.qa</entry>
         <entry>onEnd</entry>
+        <entry>rewind</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByBlockComment</entry>
@@ -1315,13 +1315,13 @@
         <entry>%s/course-card/course-card-base/g</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>nohl</entry>
-        <entry>reg</entry>
         <entry>action GotoImplementation</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>%s/.staging\./.qa/g</entry>
         <entry>%s/.staging\./.qa./g</entry>
         <entry>%s/\.qa/-honeysha/g</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
