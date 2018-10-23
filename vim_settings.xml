@@ -331,12 +331,12 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1540304874063">
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1540306458117">
         <mark key="'" line="58" column="23" />
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="29" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="38" column="31" />
+        <mark key="." line="58" column="32" />
+        <mark key="^" line="43" column="36" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/LearningTabActionsProcessor.cs" timestamp="1536240195125">
         <mark key="'" line="26" column="103" />
@@ -895,8 +895,8 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1540289154575">
-        <mark key="'" line="530" column="22" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1540306283266">
+        <mark key="'" line="335" column="23" />
         <mark key="[" line="458" column="0" />
         <mark key="]" line="458" column="0" />
         <mark key="." line="458" column="0" />
@@ -918,6 +918,9 @@
         <mark key="]" line="17" column="23" />
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1540306175915">
+        <mark key="'" line="368" column="49" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538496109426">
         <mark key="'" line="8" column="4" />
@@ -1054,14 +1057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="53" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
-      <jump line="5" column="11" filename="C:/projects/UI-Web/ClientApp/utils/StringUtils.ts" />
-      <jump line="121" column="51" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="244" column="24" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="102" column="10" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="228" column="19" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="106" column="13" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="107" column="13" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="111" column="17" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="126" column="17" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="129" column="13" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
@@ -1154,13 +1149,21 @@
       <jump line="5" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="223" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="255" column="126" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="425" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="38" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="354" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="368" column="49" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="58" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="363" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="103" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="335" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>isPlaying ? 'Pause' : 'Play'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>prod</text>
+        <text>qa</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1192,10 +1195,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>qa</text>
       </register>
       <register name="/" type="4">
-        <text>tooltip</text>
+        <text encoding="base64">XDxpbml0UHJldmlld1N0YXRlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>play</text>
@@ -1241,9 +1244,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tooltip</last-search>
+      <last-search encoding="base64">XDxpbml0UHJldmlld1N0YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>tooltip</last-pattern>
+      <last-pattern encoding="base64">XDxpbml0UHJldmlld1N0YXRlXD4=</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>\.qa</last-substitute>
       <last-dir>1</last-dir>
@@ -1251,10 +1254,6 @@
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
-        <entry>basis</entry>
-        <entry>size</entry>
-        <entry encoding="base64">XDxJbWFnZVw+</entry>
         <entry>new Im</entry>
         <entry encoding="base64">XDxsb2FkSW1hZ2VcPg==</entry>
         <entry encoding="base64">XDxpbWFnZVJlYWR5XD4=</entry>
@@ -1271,6 +1270,10 @@
         <entry encoding="base64">XDxSZWFjdFRvb2x0aXBcPg==</entry>
         <entry>tool</entry>
         <entry>tooltip</entry>
+        <entry>initPreview</entry>
+        <entry>initPr</entry>
+        <entry encoding="base64">XDxpbml0UHJldmlld0RhdGFcPg==</entry>
+        <entry encoding="base64">XDxpbml0UHJldmlld1N0YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByBlockComment</entry>
