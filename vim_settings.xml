@@ -291,6 +291,12 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540288461007">
+        <mark key="'" line="318" column="16" />
+        <mark key="[" line="317" column="4" />
+        <mark key="]" line="317" column="4" />
+        <mark key="." line="317" column="4" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540223450987">
         <mark key="'" line="161" column="35" />
         <mark key="[" line="11" column="0" />
@@ -492,8 +498,8 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="112" column="18" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1539939686856">
-        <mark key="'" line="202" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1540288411188">
+        <mark key="'" line="528" column="14" />
         <mark key="[" line="402" column="49" />
         <mark key="]" line="402" column="49" />
         <mark key="^" line="402" column="49" />
@@ -651,6 +657,9 @@
         <mark key="]" line="2" column="44" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="77" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1540288092485">
+        <mark key="'" line="294" column="33" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/Action/UiActionPayload.cs" timestamp="1534948392682">
         <mark key="'" line="60" column="45" />
@@ -1073,16 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11907" column="10" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.d.ts" />
-      <jump line="31" column="24" filename="C:/projects/UI-Web/node_modules/@types/react/index.d.ts" />
-      <jump line="587" column="45" filename="C:/projects/UI-Web/node_modules/@types/react/index.d.ts" />
-      <jump line="170" column="38" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="256" column="37" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="1" column="0" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="36" column="21" filename="C:/projects/UI-Web/ClientApp/components/modals/VideoModal.tsx" />
-      <jump line="193" column="30" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="68" column="30" filename="C:/projects/UI-Web/ClientApp/components/modals/VideoModal.tsx" />
-      <jump line="97" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="76" column="23" filename="C:/projects/UI-Web/ClientApp/components/modals/VideoModal.tsx" />
       <jump line="202" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/components/course-list/CourseList.module.scss" />
@@ -1173,13 +1172,23 @@
       <jump line="79" column="4" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="38" column="30" filename="C:/projects/UI-Web/appsettings.json" />
       <jump line="58" column="23" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="422" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="554" column="95" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="555" column="109" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="294" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="416" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="528" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="152" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="319" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="318" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="48" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICYtLWxvYWRpbmcgewogICAgICAgIG9wYWNpdHk6IDA7CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QGNvbXB1dGVkIA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1211,10 +1220,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">QGNvbXB1dGVkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>\.qa</text>
+        <text>onEnd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICogVGhpcyBnbG9iYWwgc3RvcmUgaXMgaW4gY2hhcmdlIG9mIHByZWxvYWRpbmcgY291cnNlIGNhcmQgY292ZXIgaW1hZ2VzIGluIGNvcnJlY3Qgb3JkZXIuCiAqIEl0IGNvbnRyb2xzIGltYWdlcyB0byBiZSBsb2FkZWQgc2VxdWVudGlhbGx5IGluc3RlYWQgb2YgYWxsIGluIHBhcmFsbGVsLgogKiBJbWFnZXMgYXJlIGxvYWRpbmcgaW4gYmF0Y2hlcy4gQmF0Y2ggYnkgYmF0Y2ggaW4gdGhlIHNhbWUgb3JkZXIgQ291cnNlQ2FyZHNJbWFnZVF1ZXVlSXRlbSB3ZXJlIGluc3RhbnRpYXRlZAogKiBhbmQgcHVzaGVkIHRvIHRoZSBxdWV1ZS4KICogQmF0Y2ggc2l6ZSBjYW4gYmUgY29uZmlndXJlZCBhcyAiQ291cnNlQ2FyZEltYWdlTG9hZGluZ0JhdGNoU2l6ZSIK</text>
@@ -1260,9 +1269,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.qa</last-search>
+      <last-search>onEnd</last-search>
       <last-offset />
-      <last-pattern>\.qa</last-pattern>
+      <last-pattern>onEnd</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>\.qa</last-substitute>
       <last-dir>1</last-dir>
@@ -1270,7 +1279,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblJld2luZFw+</entry>
         <entry>rewind</entry>
         <entry encoding="base64">XDxDb3Vyc2VDYXJkXD4=</entry>
         <entry>trailer</entry>
@@ -1290,6 +1298,7 @@
         <entry>head</entry>
         <entry>.staging\.</entry>
         <entry>\.qa</entry>
+        <entry>onEnd</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByBlockComment</entry>
