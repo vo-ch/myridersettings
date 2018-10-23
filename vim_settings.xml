@@ -331,7 +331,8 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1540216605910">
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1540287328287">
+        <mark key="'" line="58" column="23" />
         <mark key="[" line="38" column="5" />
         <mark key="]" line="38" column="35" />
         <mark key="." line="141" column="39" />
@@ -1072,8 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="674" column="46" filename="C:/projects/UI-Web/node_modules/@types/react/index.d.ts" />
-      <jump line="632" column="14" filename="C:/projects/UI-Web/node_modules/@types/react/index.d.ts" />
       <jump line="11907" column="10" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.d.ts" />
       <jump line="31" column="24" filename="C:/projects/UI-Web/node_modules/@types/react/index.d.ts" />
       <jump line="587" column="45" filename="C:/projects/UI-Web/node_modules/@types/react/index.d.ts" />
@@ -1172,6 +1171,8 @@
       <jump line="130" column="37" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="134" column="33" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="79" column="4" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
+      <jump line="38" column="30" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="58" column="23" filename="C:/projects/UI-Web/appsettings.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1213,7 +1214,7 @@
         <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>head</text>
+        <text>\.qa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICogVGhpcyBnbG9iYWwgc3RvcmUgaXMgaW4gY2hhcmdlIG9mIHByZWxvYWRpbmcgY291cnNlIGNhcmQgY292ZXIgaW1hZ2VzIGluIGNvcnJlY3Qgb3JkZXIuCiAqIEl0IGNvbnRyb2xzIGltYWdlcyB0byBiZSBsb2FkZWQgc2VxdWVudGlhbGx5IGluc3RlYWQgb2YgYWxsIGluIHBhcmFsbGVsLgogKiBJbWFnZXMgYXJlIGxvYWRpbmcgaW4gYmF0Y2hlcy4gQmF0Y2ggYnkgYmF0Y2ggaW4gdGhlIHNhbWUgb3JkZXIgQ291cnNlQ2FyZHNJbWFnZVF1ZXVlSXRlbSB3ZXJlIGluc3RhbnRpYXRlZAogKiBhbmQgcHVzaGVkIHRvIHRoZSBxdWV1ZS4KICogQmF0Y2ggc2l6ZSBjYW4gYmUgY29uZmlndXJlZCBhcyAiQ291cnNlQ2FyZEltYWdlTG9hZGluZ0JhdGNoU2l6ZSIK</text>
@@ -1255,22 +1256,20 @@
         <text encoding="base64">aW1wb3J0IGNsYXNzbmFtZXMgZnJvbSAnY2xhc3NuYW1lcyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>%s/\.qa/-honeysha/g</text>
       </register>
     </registers>
     <search>
-      <last-search>head</last-search>
+      <last-search>\.qa</last-search>
       <last-offset />
-      <last-pattern>head</last-pattern>
-      <last-replace>course-card-base</last-replace>
-      <last-substitute>course-card</last-substitute>
+      <last-pattern>\.qa</last-pattern>
+      <last-replace>-honeysha</last-replace>
+      <last-substitute>\.qa</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG91bGRBdXRvcGxheVw+</entry>
-        <entry encoding="base64">XDxzdG9wTmV4dFZpZGVvXD4=</entry>
         <entry encoding="base64">XDxvblJld2luZFw+</entry>
         <entry>rewind</entry>
         <entry encoding="base64">XDxDb3Vyc2VDYXJkXD4=</entry>
@@ -1289,11 +1288,10 @@
         <entry>this</entry>
         <entry encoding="base64">XDxjb3ZlckltYWdlVXJsXD4=</entry>
         <entry>head</entry>
+        <entry>.staging\.</entry>
+        <entry>\.qa</entry>
       </history-search>
       <history-cmd>
-        <entry>s/\\/\//g</entry>
-        <entry>s/enterprise\/course-catalog/enterprise\/views\/course-catalog</entry>
-        <entry>%s/enterprise\/course-catalog/enterprise\/views\/course-catalog/g</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</entry>
         <entry>version</entry>
@@ -1311,6 +1309,9 @@
         <entry>action GotoImplementation</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>%s/.staging\./.qa/g</entry>
+        <entry>%s/.staging\./.qa./g</entry>
+        <entry>%s/\.qa/-honeysha/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
