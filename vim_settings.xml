@@ -297,12 +297,12 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540300467151">
-        <mark key="'" line="5" column="7" />
-        <mark key="[" line="316" column="0" />
-        <mark key="]" line="316" column="0" />
-        <mark key="." line="316" column="0" />
-        <mark key="^" line="315" column="15" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540302072400">
+        <mark key="'" line="255" column="126" />
+        <mark key="[" line="255" column="80" />
+        <mark key="]" line="256" column="19" />
+        <mark key="." line="256" column="19" />
+        <mark key="^" line="256" column="19" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540223450987">
         <mark key="'" line="161" column="35" />
@@ -851,11 +851,11 @@
         <mark key="^" line="40" column="15" />
         <mark key="." line="40" column="15" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" timestamp="1540300370571">
-        <mark key="[" line="16" column="61" />
-        <mark key="]" line="16" column="61" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="16" column="61" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" timestamp="1540301667471">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="C:/projects/UI-Web/Configuration/AppSettings.cs" timestamp="1540285023071">
         <mark key="[" line="25" column="0" />
@@ -932,7 +932,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540283431421">
+      <file name="/Dummy.txt" timestamp="1540302511355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1537795745604">
@@ -1077,8 +1077,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="42" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
-      <jump line="26" column="71" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
       <jump line="58" column="53" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
       <jump line="5" column="11" filename="C:/projects/UI-Web/ClientApp/utils/StringUtils.ts" />
       <jump line="121" column="51" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
@@ -1177,13 +1175,15 @@
       <jump line="29" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="10" column="18" filename="C:/projects/UI-Web/node_modules/@types/react-tooltip/index.d.ts" />
       <jump line="5" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="223" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="255" column="126" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZWFjdFRvb2x0aXAgcGxhY2U9InRvcCIgdHlwZT0iZGFyayIgZWZmZWN0PSJzb2xpZCIgPlByZXZpb3VzIExlc3NvbjwvUmVhY3RUb29sdGlwPgo=</text>
+      <register name="a" type="4">
+        <text>isPlaying ? 'Pause' : 'Play'</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFJld2luZCAxMCBzZWNvbmRzCiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>this.isUpNextScreenShown</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1215,49 +1215,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Previous Lesson</text>
+        <text>rewind</text>
       </register>
       <register name="/" type="4">
         <text>tooltip</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgUmV3aW5kIDEwIHNlY29uZHMKICAgICAgICAgICAgICAgIA==</text>
+        <text>play</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFJld2luZCAxMCBzZWNvbmRzCiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm94LXNoYWRvdzogMC41cHggMHB4IDJweCAwcHggcmdiKDEzMCwgMTMwLCAxMzApOwo=</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFJld2luZCAxMCBzZWNvbmRzCiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPjwvZGl2Pgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="s" type="4">
+        <text>this.isUpNextScreenShown</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgRm9yd2FyZCAxMCBzZWNvbmRzCiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="s" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e2lzVHJhaWxlck1vZGFsT3BlbmVkfQogICAgICAgICAgICAgICAgICAgICAgICB1cmw9e2NvdXJzZS50cmFpbGVyVXJsfQogICAgICAgICAgICAgICAgICAgICAgICBwb3N0ZXI9e3RoaXMuZ2V0UmVzaXplZENvdmVySW1hZ2VVcmwoY291cnNlLmNvdmVySW1hZ2VVcmwpfQogICAgICAgICAgICAgICAgICAgICAgICBvblJlcXVlc3RDbG9zZT17KCkgPT4gY291cnNlRGV0YWlsc1N0b3JlLnNob3dUcmFpbGVyTW9kYWwoZmFsc2UpfQogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyOiAxcHggc29saWQgZ3JleTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIC8qIGJvcmRlcjogMXB4IHNvbGlkIGdyZXk7ICovCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5fX3JlYWN0X2NvbXBvbmVudF90b29sdGlwIHsKICAgICAgICBwYWRkaW5nOiA1cHggMTBweDsKICAgICAgICBib3JkZXI6IDFweCBzb2xpZCBncmV5OwogICAgfQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
+        <text encoding="base64">ICAgIC5fX3JlYWN0X2NvbXBvbmVudF90b29sdGlwIHsKICAgICAgICBwYWRkaW5nOiA1cHggMTBweDsKICAgICAgICBib3JkZXI6IDFweCBzb2xpZCBncmV5OwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFByZXZpb3VzIExlc3NvbgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
