@@ -291,12 +291,12 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540294113326">
-        <mark key="'" line="29" column="12" />
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="26" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540298776688">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="254" column="62" />
+        <mark key="]" line="254" column="66" />
+        <mark key="." line="254" column="66" />
+        <mark key="^" line="254" column="66" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540223450987">
         <mark key="'" line="161" column="35" />
@@ -1090,7 +1090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="21" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
       <jump line="22" column="42" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
       <jump line="26" column="71" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
       <jump line="58" column="53" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
@@ -1190,13 +1189,14 @@
       <jump line="32" column="29" filename="C:/projects/UI-Web/package.json" />
       <jump line="29" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="10" column="18" filename="C:/projects/UI-Web/node_modules/@types/react-tooltip/index.d.ts" />
+      <jump line="5" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFJld2luZCAxMCBzZWNvbmRzCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgKTsKICAgIH0KCiAgICBnZXQgaXNVcE5leHRTY3JlZW5TaG93bigpOiBib29sZWFuIHsKICAgICAgICBjb25zdCB7IHNob3VsZEF1dG9wbGF5LCBpc1BsYXlpbmcsIGNvbnRpbnVvdXNNb2RlIH0gPSB0aGlzLnByb3BzOwogICAgICAgIHJldHVybiAhc2hvdWxkQXV0b3BsYXkgJiYgIWlzUGxheWluZyAmJiBjb250aW51b3VzTW9kZTsKICAgIH0KCgogICAgLyoKICAgICAqIEJpZyBwbGF5IGJ1dHRvbgogICAgICovCiAgICBwcml2YXRlIHJlbmRlckJpZ1BsYXlCdXR0b24oKTogSlNYLkVsZW1lbnQgfCBudWxsIHsKICAgICAgICBjb25zdCB7IHNob3VsZEF1dG9wbGF5LCBvblBsYXlDbGljaywgaXNQbGF5aW5nLCBjb250aW51b3VzTW9kZSwgdGl0bGUgfSA9IHRoaXMucHJvcHM7CgogICAgICAgIGlmICghc2hvdWxkQXV0b3BsYXkpIHsKICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIGNvbnRpbnVvdXNNb2RlID8KICAgICAgICAgICAgICAgIDxVcE5leHQK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>float</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1228,58 +1228,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>float</text>
       </register>
       <register name="/" type="4">
-        <text>react-tool</text>
+        <text encoding="base64">XDxSZWFjdFRvb2x0aXBcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Previous Lesson</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFByZXZpb3VzIExlc3NvbgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="q" type="4">
         <text>ICourseCatalogFiltersData</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFByZXZpb3VzIExlc3NvbgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMubmV4dEFjdGl2aXR5KSB0aGlzLnBsYXllclN0b3JlLnNldENvbnRpbnVvdXNNb2RlKGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VmlkZW9Nb2RhbAogICAgICAgICAgICAgICAgICAgICAgICBpc09wZW49e2lzVHJhaWxlck1vZGFsT3BlbmVkfQogICAgICAgICAgICAgICAgICAgICAgICB1cmw9e2NvdXJzZS50cmFpbGVyVXJsfQogICAgICAgICAgICAgICAgICAgICAgICBwb3N0ZXI9e3RoaXMuZ2V0UmVzaXplZENvdmVySW1hZ2VVcmwoY291cnNlLmNvdmVySW1hZ2VVcmwpfQogICAgICAgICAgICAgICAgICAgICAgICBvblJlcXVlc3RDbG9zZT17KCkgPT4gY291cnNlRGV0YWlsc1N0b3JlLnNob3dUcmFpbGVyTW9kYWwoZmFsc2UpfQogICAgICAgICAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXRoaXMubmV4dEFjdGl2aXR5KSB0aGlzLnBsYXllclN0b3JlLnNldENvbnRpbnVvdXNNb2RlKGZhbHNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nW10gRmVhdHVyZWRDb3Vyc2VMaXN0cyB7IGdldDsgc2V0OyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246IDsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nW10gRmVhdHVyZWRDb3Vyc2VMaXN0cyB7IGdldDsgc2V0OyB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9wYWNpdHk6IDE7Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246IDsK</text>
       </register>
       <register name="w" type="4">
         <text>ManageCourse</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9wYWNpdHk6IDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICYtLWxvYWRpbmcgewogICAgICAgIG9wYWNpdHk6IDA7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>react-tool</last-search>
+      <last-search encoding="base64">XDxSZWFjdFRvb2x0aXBcPg==</last-search>
       <last-offset />
-      <last-pattern>react-tool</last-pattern>
+      <last-pattern encoding="base64">XDxSZWFjdFRvb2x0aXBcPg==</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>\.qa</last-substitute>
       <last-dir>1</last-dir>
@@ -1287,7 +1287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trailer</entry>
         <entry encoding="base64">XDxvblNob3dUcmFpbGVyQ2xpY2tcPg==</entry>
         <entry encoding="base64">XDxNb3VzZUV2ZW50XD4=</entry>
         <entry>render</entry>
@@ -1307,6 +1306,7 @@
         <entry>onEnd</entry>
         <entry>rewind</entry>
         <entry>react-tool</entry>
+        <entry encoding="base64">XDxSZWFjdFRvb2x0aXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByBlockComment</entry>
