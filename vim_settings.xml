@@ -637,6 +637,12 @@
         <mark key="." line="282" column="71" />
         <mark key="^" line="281" column="49" />
       </file>
+      <file name="C:/projects/UI-Web/package.json" timestamp="1540292057257">
+        <mark key="'" line="32" column="29" />
+        <mark key="[" line="153" column="22" />
+        <mark key="]" line="153" column="22" />
+        <mark key="." line="153" column="22" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/models/category/ICsodCategory.ts" timestamp="1538651471813">
         <mark key="'" line="3" column="9" />
         <mark key="[" line="0" column="17" />
@@ -1083,7 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="9" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="63" column="23" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.scss" />
       <jump line="171" column="28" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="19" column="21" filename="C:/projects/UI-Web/ClientApp/components/icons/icon/Icon.tsx" />
@@ -1183,13 +1188,14 @@
       <jump line="317" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="56" column="6" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="109" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="32" column="29" filename="C:/projects/UI-Web/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFJld2luZCAxMCBzZWNvbmRzCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgKTsKICAgIH0KCiAgICBnZXQgaXNVcE5leHRTY3JlZW5TaG93bigpOiBib29sZWFuIHsKICAgICAgICBjb25zdCB7IHNob3VsZEF1dG9wbGF5LCBpc1BsYXlpbmcsIGNvbnRpbnVvdXNNb2RlIH0gPSB0aGlzLnByb3BzOwogICAgICAgIHJldHVybiAhc2hvdWxkQXV0b3BsYXkgJiYgIWlzUGxheWluZyAmJiBjb250aW51b3VzTW9kZTsKICAgIH0KCgogICAgLyoKICAgICAqIEJpZyBwbGF5IGJ1dHRvbgogICAgICovCiAgICBwcml2YXRlIHJlbmRlckJpZ1BsYXlCdXR0b24oKTogSlNYLkVsZW1lbnQgfCBudWxsIHsKICAgICAgICBjb25zdCB7IHNob3VsZEF1dG9wbGF5LCBvblBsYXlDbGljaywgaXNQbGF5aW5nLCBjb250aW51b3VzTW9kZSwgdGl0bGUgfSA9IHRoaXMucHJvcHM7CgogICAgICAgIGlmICghc2hvdWxkQXV0b3BsYXkpIHsKICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIGNvbnRpbnVvdXNNb2RlID8KICAgICAgICAgICAgICAgIDxVcE5leHQK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFByZXZpb3VzIExlc3NvbgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>^</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1221,7 +1227,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Rewind 10 seconds</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>react-tool</text>
