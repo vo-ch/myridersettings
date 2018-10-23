@@ -52,13 +52,6 @@
         <mark key="^" line="39" column="4" />
         <mark key="." line="39" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" timestamp="1540309139624">
-        <mark key="'" line="86" column="30" />
-        <mark key="[" line="303" column="10" />
-        <mark key="]" line="303" column="11" />
-        <mark key="^" line="303" column="9" />
-        <mark key="." line="303" column="11" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.scss" timestamp="1540299534700">
         <mark key="[" line="13" column="25" />
       </file>
@@ -285,13 +278,6 @@
         <mark key="^" line="141" column="22" />
         <mark key="." line="141" column="22" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1540311019043">
-        <mark key="'" line="273" column="29" />
-        <mark key="[" line="131" column="38" />
-        <mark key="]" line="132" column="19" />
-        <mark key="^" line="132" column="19" />
-        <mark key="." line="132" column="19" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" timestamp="1533827964170">
         <mark key="'" line="21" column="48" />
         <mark key="[" line="48" column="42" />
@@ -404,6 +390,12 @@
         <mark key="]" line="53" column="139" />
         <mark key="^" line="53" column="139" />
         <mark key="." line="53" column="139" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1540313655566">
+        <mark key="[" line="326" column="67" />
+        <mark key="]" line="326" column="67" />
+        <mark key="." line="326" column="67" />
+        <mark key="^" line="326" column="67" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IExternalUserService.cs" timestamp="1536327354134">
         <mark key="'" line="7" column="28" />
@@ -929,12 +921,12 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1540306283266">
-        <mark key="'" line="335" column="23" />
-        <mark key="[" line="458" column="0" />
-        <mark key="]" line="458" column="0" />
-        <mark key="." line="458" column="0" />
-        <mark key="^" line="440" column="7" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1540312190000">
+        <mark key="'" line="328" column="60" />
+        <mark key="[" line="453" column="0" />
+        <mark key="]" line="453" column="0" />
+        <mark key="." line="453" column="0" />
+        <mark key="^" line="435" column="7" />
       </file>
       <file name="C:/projects/cu-data-reporting/Core/Models/UserAgentDetails.cs" timestamp="1537976235082">
         <mark key="'" line="16" column="28" />
@@ -943,7 +935,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540303595471">
+      <file name="/Dummy.txt" timestamp="1540314332062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1537795745604">
@@ -1101,11 +1093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="69" column="8" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="233" column="24" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="50" column="4" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="70" column="8" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="81" column="23" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="112" column="12" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="58" column="47" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
@@ -1201,13 +1188,18 @@
       <jump line="150" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="245" column="54" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
       <jump line="301" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
+      <jump line="104" column="39" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="145" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="333" column="60" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="166" column="28" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="251" column="36" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>isPlaying ? 'Pause' : 'Play'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>null</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1239,19 +1231,30 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
       </register>
       <register name="0" type="4">
-        <text>'admin' as IAppRole</text>
+        <text>activityState</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm94LXNoYWRvdzogMC41cHggMHB4IDJweCAwcHggcmdiKDEzMCwgMTMwLCAxMzApOwo=</text>
       </register>
       <register name="q" type="4">
-        <text>ICourseCatalogFiltersData</text>
+        <keys>
+          <key char="97" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFJld2luZCAxMCBzZWNvbmRzCiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
@@ -1284,7 +1287,7 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1337,9 +1340,9 @@
         <entry>reg</entry>
         <entry>.,.+2action CommentByLineComment</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
