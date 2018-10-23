@@ -1224,7 +1224,7 @@
         <text>Rewind 10 seconds</text>
       </register>
       <register name="/" type="4">
-        <text>rewind</text>
+        <text>react-tool</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPgogICAgICAgICAgICAgICAgICAgIFByZXZpb3VzIExlc3NvbgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
@@ -1270,9 +1270,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rewind</last-search>
+      <last-search>react-tool</last-search>
       <last-offset />
-      <last-pattern>rewind</last-pattern>
+      <last-pattern>react-tool</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>\.qa</last-substitute>
       <last-dir>1</last-dir>
@@ -1280,7 +1280,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3Vyc2VDYXJkXD4=</entry>
         <entry>trailer</entry>
         <entry encoding="base64">XDxvblNob3dUcmFpbGVyQ2xpY2tcPg==</entry>
         <entry encoding="base64">XDxNb3VzZUV2ZW50XD4=</entry>
@@ -1300,6 +1299,7 @@
         <entry>\.qa</entry>
         <entry>onEnd</entry>
         <entry>rewind</entry>
+        <entry>react-tool</entry>
       </history-search>
       <history-cmd>
         <entry>action CommentByBlockComment</entry>
