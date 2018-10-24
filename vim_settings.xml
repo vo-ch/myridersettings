@@ -285,12 +285,12 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540302072400">
-        <mark key="'" line="255" column="126" />
-        <mark key="[" line="255" column="80" />
-        <mark key="]" line="256" column="19" />
-        <mark key="." line="256" column="19" />
-        <mark key="^" line="256" column="19" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540373537032">
+        <mark key="'" line="371" column="29" />
+        <mark key="[" line="369" column="85" />
+        <mark key="]" line="370" column="19" />
+        <mark key="^" line="370" column="19" />
+        <mark key="." line="370" column="19" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1540223450987">
         <mark key="'" line="161" column="35" />
@@ -1086,12 +1086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="23" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="112" column="12" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="58" column="47" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
-      <jump line="135" column="19" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
-      <jump line="5" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="223" column="33" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="110" column="4" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="220" column="35" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
       <jump line="112" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
@@ -1186,13 +1180,19 @@
       <jump line="333" column="60" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="166" column="28" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
       <jump line="251" column="36" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
+      <jump line="265" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="111" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="297" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="112" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="367" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="10" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/SpeedMenu.tsx" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>isPlaying ? 'Pause' : 'Play'</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhLXRpcAogICAgICAgICAgICAgICAgICAgIGRhdGEtZm9yPSJmb3J3YXJkIgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>forward</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1224,7 +1224,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>forward</text>
       </register>
       <register name="/" type="4">
         <text>options</text>
@@ -1255,8 +1255,8 @@
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJwbGF5ZXItY29udHJvbHNfX3Rvb2x0aXAiPjwvZGl2Pgo=</text>
       </register>
-      <register name="s" type="4">
-        <text>this.isUpNextScreenShown</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZWFjdFRvb2x0aXAgaWQ9ImZvcndhcmQiIHBsYWNlPSJ0b3AiIHR5cGU9ImRhcmsiIGVmZmVjdD0ic29saWQiID4KICAgICAgICAgICAgICAgICAgICBGb3J3YXJkIDEwIHNlY29uZHMKICAgICAgICAgICAgICAgIDwvUmVhY3RUb29sdGlwPgo=</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgRm9yd2FyZCAxMCBzZWNvbmRzCiAgICAgICAgICAgICAgICA=</text>
@@ -1280,7 +1280,7 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -1330,12 +1330,12 @@
         <entry>%s/.staging\./.qa/g</entry>
         <entry>%s/.staging\./.qa./g</entry>
         <entry>%s/\.qa/-honeysha/g</entry>
-        <entry>reg</entry>
         <entry>.,.+2action CommentByLineComment</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
