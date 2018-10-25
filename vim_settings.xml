@@ -146,8 +146,12 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" timestamp="1540195638790">
-        <mark key="'" line="5" column="31" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" timestamp="1540460542621">
+        <mark key="'" line="255" column="1" />
+        <mark key="[" line="280" column="38" />
+        <mark key="]" line="280" column="49" />
+        <mark key="." line="280" column="49" />
+        <mark key="^" line="280" column="49" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/BaseLogsProcessor.cs" timestamp="1536846839424">
         <mark key="'" line="9" column="48" />
@@ -162,6 +166,11 @@
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/lesson-button/LessonButton.tsx" timestamp="1540460436183">
+        <mark key="'" line="170" column="47" />
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="293" column="26" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/Quiz.tsx" timestamp="1540455115139">
         <mark key="'" line="246" column="0" />
@@ -809,9 +818,6 @@
         <mark key="." line="52" column="36" />
         <mark key="^" line="52" column="36" />
       </file>
-      <file name="C:/projects/UI-Web/Utils/Logging/NLogConfigurationBuilder.cs" timestamp="1540308611445">
-        <mark key="'" line="27" column="46" />
-      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionsProcessors.cs" timestamp="1536583692200">
         <mark key="'" line="17" column="63" />
         <mark key="[" line="17" column="87" />
@@ -1114,24 +1120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" />
-      <jump line="104" column="39" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
-      <jump line="145" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
-      <jump line="333" column="60" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="166" column="28" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
-      <jump line="251" column="36" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
-      <jump line="265" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="111" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="297" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="367" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="371" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="10" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/SpeedMenu.tsx" />
-      <jump line="17" column="46" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
-      <jump line="23" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" />
-      <jump line="9" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractKeyboardEnabledMenu.tsx" />
-      <jump line="18" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/SpeedMenu.tsx" />
-      <jump line="54" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/SpeedMenu.tsx" />
-      <jump line="35" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/SpeedMenu.tsx" />
       <jump line="52" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/SpeedMenu.tsx" />
       <jump line="379" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="322" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
@@ -1170,7 +1158,6 @@
       <jump line="571" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="575" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="588" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="62" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="268" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="628" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="572" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -1214,13 +1201,32 @@
       <jump line="485" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="486" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="687" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="11" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="133" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="45" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="149" column="102" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="143" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="62" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="187" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="337" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="51" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="71" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="135" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="137" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="221" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="176" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="280" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="170" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/lesson-button/LessonButton.tsx" />
+      <jump line="131" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/lesson-button/LessonButton.tsx" />
+      <jump line="274" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="256" column="1" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>showQuiz(value: boolean = true): voi</text>
+        <text encoding="base64">cXVpelN0b3JlICYmIChxdWl6U3RvcmUuaXNBY3RpdmUgfHwgcGxheWVyU3RvcmUuc2hvd0NvbXBsZXRpb25WaWRlb09uUXVpeik=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>playerStore.quizStore.isActive || playerStore.showCompletionVideoOnQuiz</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1255,52 +1261,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>playerStore.quizStore.isActive || playerStore.showCompletionVideoOnQuiz</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRTaG93Q29tcGxldGlvblZpZGVvXD4=</text>
+        <text encoding="base64">XDxhY3RpdmVDaGFwdGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxheWVyU3RvcmUuc2V0U2hvd0NvbXBsZXRpb25WaWRlbyh0cnVlKTsK</text>
+      <register name="0" type="4">
+        <text>isQuizActive</text>
       </register>
       <register name="1" type="4">
-        <text>else if (showCompletionVideo) {
-            // completion video just finished, prevent it from being played again and stop the player
-            this.setCompletionVideoPlayed(true);
-            this.setPlaying(false);
-            this.setShowCompletionVideo(false);
-            this.quizStore.showQuiz();
-        }</text>
+        <text encoding="base64">cXVpelN0b3JlICYmIChxdWl6U3RvcmUuaXNBY3RpdmUgfHwgcGxheWVyU3RvcmUuc2hvd0NvbXBsZXRpb25WaWRlb09uUXVpeik=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB7IHZhbHVlLCBjbGFzc05hbWUsIHRvb2x0aXAsIHRvb2x0aXBJZCB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
-      <register name="2" type="4">
-        <text>else if (showCompletionVideo) {
-            // completion video just finished, prevent it from being played again and stop the player
-            this.setCompletionVideoPlayed(true);
-            this.setPlaying(false);
-            this.setShowCompletionVideo(false);
-            this.quizStore.showQuiz();
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwbGF5ZXItbmF2X19maW5hbC10ZXN0LWJ1dHRvbi0tYWN0aXZlJzogcXVpelN0b3JlICYmIChxdWl6U3RvcmUuaXNBY3RpdmUgfHwgcGxheWVyU3RvcmUuc2hvd0NvbXBsZXRpb25WaWRlb09uUXVpeikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdwbGF5ZXItbmF2X19maW5hbC10ZXN0LWJ1dHRvbi0tYWN0aXZlJzogcXVpelN0b3JlICYmIChxdWl6U3RvcmUuaXNBY3RpdmUgfHwgcGxheWVyU3RvcmUuc2hvd0NvbXBsZXRpb25WaWRlb09uUXVpeikK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZWFjdFRvb2x0aXAgaWQ9ImZvcndhcmQiIHBsYWNlPSJ0b3AiIHR5cGU9ImRhcmsiIGVmZmVjdD0ic29saWQiID4KICAgICAgICAgICAgICAgICAgICBGb3J3YXJkIDEwIHNlY29uZHMKICAgICAgICAgICAgICAgIDwvUmVhY3RUb29sdGlwPgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>else if (showCompletionVideo) {
+            // completion video just finished, prevent it from being played again and stop the player
+            this.setCompletionVideoPlayed(true);
+            this.setPlaying(false);
+            this.setShowCompletionVideo(false);
+            this.quizStore.showQuiz();
+        }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgb25Db21wbGV0ZUNsaWNrID0gKCk6IHZvaWQgPT4gewogICAgICAgIGNvbnN0IHsgcGxheWVyU3RvcmUgfSA9IHRoaXMucHJvcHM7CiAgICAgICAgY29uc3QgeyBxdWl6U3RvcmUgfSA9IHBsYXllclN0b3JlOwogICAgICAgIHBsYXllclN0b3JlLnNldFNob3dDb21wbGV0aW9uVmlkZW8odHJ1ZSk7CiAgICAgICAgcGxheWVyU3RvcmUuc2V0UGxheWJhY2tJbml0aWF0ZWQodHJ1ZSk7CiAgICB9Owo=</text>
+      <register name="5" type="4">
+        <text>else if (showCompletionVideo) {
+            // completion video just finished, prevent it from being played again and stop the player
+            this.setCompletionVideoPlayed(true);
+            this.setPlaying(false);
+            this.setShowCompletionVideo(false);
+            this.quizStore.showQuiz();
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNvbXBsZXRlQ2xpY2s9e2FsbG93Q29tcGxldGVDbGljayA/IHRoaXMub25Db21wbGV0ZUNsaWNrIDogbnVsbH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1309,19 +1315,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXRpcD17ISF0b29sdGlwfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtZm9yPXt0b29sdGlwSWR9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWxsb3dDb21wbGV0ZUNsaWNrOiBib29sZWFuID0gKAogICAgICAgICAgICAgICAgcXVpek1haW5TdGF0ZSAmJiBxdWl6TWFpblN0YXRlLm1vdmVkVG9Db21wbGV0ZSAmJiBxdWl6TWFpblN0YXRlLnBhc3NlZCAmJgogICAgICAgICAgICAgICAgcHJvZ3Jlc3NTdG9yZSAmJiBwcm9ncmVzc1N0b3JlLmNvbnRlbnRQcm9ncmVzcyAmJgogICAgICAgICAgICAgICAgcHJvZ3Jlc3NTdG9yZS5jb250ZW50UHJvZ3Jlc3MuaXNDb21wbGV0ZWQgJiYKICAgICAgICAgICAgICAgICFwbGF5ZXJTdG9yZS5jb21wbGV0aW9uVmlkZW9QbGF5ZWQKICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgb25Db21wbGV0ZUNsaWNrID0gKCk6IHZvaWQgPT4gewogICAgICAgIGNvbnN0IHsgcGxheWVyU3RvcmUgfSA9IHRoaXMucHJvcHM7CiAgICAgICAgY29uc3QgeyBxdWl6U3RvcmUgfSA9IHBsYXllclN0b3JlOwogICAgICAgIHBsYXllclN0b3JlLnNldFNob3dDb21wbGV0aW9uVmlkZW8odHJ1ZSk7CiAgICAgICAgcGxheWVyU3RvcmUuc2V0UGxheWJhY2tJbml0aWF0ZWQodHJ1ZSk7CiAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBvYnNlcnZhYmxlIHNob3dDb21wbGV0aW9uVmlkZW9PblF1aXo6IGJvb2xlYW4gPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNvbXBsZXRlQ2xpY2s9e2FsbG93Q29tcGxldGVDbGljayA/IHRoaXMub25Db21wbGV0ZUNsaWNrIDogbnVsbH0K</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRTaG93Q29tcGxldGlvblZpZGVvXD4=</last-search>
+      <last-search encoding="base64">XDxhY3RpdmVDaGFwdGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRTaG93Q29tcGxldGlvblZpZGVvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhY3RpdmVDaGFwdGVyXD4=</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>\.qa</last-substitute>
       <last-dir>1</last-dir>
@@ -1329,8 +1335,6 @@
     </search>
     <history>
       <history-search>
-        <entry>options</entry>
-        <entry encoding="base64">XDxSZWFjdFRvb2x0aXBcPg==</entry>
         <entry>rend</entry>
         <entry>too</entry>
         <entry encoding="base64">XDxhbHRUZXh0XD4=</entry>
@@ -1349,6 +1353,8 @@
         <entry encoding="base64">XDxzaG93Q29tcGxldGlvblZpZGVvXD4=</entry>
         <entry encoding="base64">XDxvbkNvbXBsZXRlQ2xpY2tcPg==</entry>
         <entry encoding="base64">XDxzZXRTaG93Q29tcGxldGlvblZpZGVvXD4=</entry>
+        <entry>quiz</entry>
+        <entry encoding="base64">XDxhY3RpdmVDaGFwdGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</entry>
