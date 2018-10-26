@@ -726,12 +726,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" timestamp="1536745568458">
-        <mark key="'" line="53" column="40" />
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="66" />
-        <mark key="." line="53" column="37" />
-        <mark key="^" line="53" column="37" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" timestamp="1540559405145">
+        <mark key="'" line="133" column="26" />
+        <mark key="[" line="132" column="39" />
+        <mark key="]" line="132" column="45" />
+        <mark key="." line="132" column="45" />
+        <mark key="^" line="132" column="45" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/PagesViews/CourseSearch/CommonProcessors/CourseSearchPageViews/CourseSearchViewsProcessor.cs" timestamp="1535719509987">
         <mark key="'" line="61" column="41" />
@@ -1127,16 +1127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" />
-      <jump line="116" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="438" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="422" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="345" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="268" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="42" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="562" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="150" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="362" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="347" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="482" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="390" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -1227,13 +1217,23 @@
       <jump line="680" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="62" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="263" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/Quiz.tsx" />
+      <jump line="60" column="8" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
+      <jump line="101" column="27" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
+      <jump line="128" column="41" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
+      <jump line="56" column="4" filename="C:/projects/UI-Web/node_modules/mobx/lib/types/observablemap.d.ts" />
+      <jump line="86" column="0" filename="C:/projects/UI-Web/node_modules/mobx/lib/types/observablemap.d.ts" />
+      <jump line="131" column="26" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
+      <jump line="76" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es2015.iterable.d.ts" />
+      <jump line="134" column="26" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
+      <jump line="31" column="20" filename="C:/projects/UI-Web/ClientApp/types/mobx-react-form/Field.d.ts" />
+      <jump line="133" column="26" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHNob3dDb21wbGV0aW9uVmlkZW8oKSB7CiAgICAgICAgdGhpcy5xdWl6U3RvcmUuc2hvd1F1aXooZmFsc2UpOwogICAgICAgIHRoaXMuc2V0U2hvd0NvbXBsZXRpb25WaWRlbyh0cnVlLCAnb25RdWl6Q29tcGxldGUnLCB0cnVlKTsKICAgICAgICB0aGlzLnNldFBsYXllcldhdGNoZWREdXJhdGlvbigwKTsKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1268,13 +1268,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>showCompletionVideoOnQuiz</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93UXVpekNvbXBsZXRpb25WaWRlb1w+</text>
+        <text>refreshNes</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">c2hvd0NvbXBsZXRpb25RdWl6VmlkZW8oKTogdm9pZCA=</text>
+        <text>fields</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1316,13 +1316,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93UXVpekNvbXBsZXRpb25WaWRlb1w+</last-search>
+      <last-search>refreshNes</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93UXVpekNvbXBsZXRpb25WaWRlb1w+</last-pattern>
+      <last-pattern>refreshNes</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>\.qa</last-substitute>
       <last-dir>1</last-dir>
@@ -1330,7 +1330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isQuiz</entry>
         <entry>onQui</entry>
         <entry>PlayerVideo</entry>
         <entry>autoPlay</entry>
@@ -1350,6 +1349,7 @@
         <entry>onQuiz</entry>
         <entry>showCompletion</entry>
         <entry encoding="base64">XDxzaG93UXVpekNvbXBsZXRpb25WaWRlb1w+</entry>
+        <entry>refreshNes</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ICourseCatalogEnterpiseFilters/ICourseCatalogEnterpriseFilters/g</entry>
@@ -1369,9 +1369,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>reg</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
