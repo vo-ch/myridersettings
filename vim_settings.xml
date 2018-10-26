@@ -422,6 +422,9 @@
         <mark key="^" line="274" column="7" />
         <mark key="." line="273" column="0" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseForm.ts" timestamp="1540563104170">
+        <mark key="'" line="13" column="17" />
+      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Logger/UserActivityMessanger.cs" timestamp="1536329148889">
         <mark key="'" line="53" column="42" />
         <mark key="[" line="53" column="132" />
@@ -726,9 +729,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" timestamp="1540559405145">
+      <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" timestamp="1540563062301">
         <mark key="'" line="133" column="26" />
-        <mark key="[" line="132" column="39" />
+        <mark key="[" line="132" column="46" />
         <mark key="]" line="132" column="45" />
         <mark key="." line="132" column="45" />
         <mark key="^" line="132" column="45" />
@@ -1127,8 +1130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="482" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="390" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="388" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="98" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -1227,6 +1228,8 @@
       <jump line="134" column="26" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
       <jump line="31" column="20" filename="C:/projects/UI-Web/ClientApp/types/mobx-react-form/Field.d.ts" />
       <jump line="133" column="26" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
+      <jump line="132" column="45" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
+      <jump line="13" column="17" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseForm.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1316,7 +1319,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -1370,8 +1373,8 @@
         <entry>reg</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
