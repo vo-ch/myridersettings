@@ -443,12 +443,6 @@
         <mark key="]" line="5" column="41" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" timestamp="1540544444371">
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="^" line="274" column="7" />
-        <mark key="." line="273" column="0" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseForm.ts" timestamp="1540563104170">
         <mark key="'" line="13" column="17" />
       </file>
@@ -936,6 +930,13 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="36" column="144" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/progress-bar/QuizProgressBar.scss" timestamp="1540817471185">
+        <mark key="'" line="147" column="3" />
+        <mark key="[" line="146" column="11" />
+        <mark key="]" line="147" column="3" />
+        <mark key="." line="147" column="3" />
+        <mark key="^" line="147" column="3" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/play-bar/PlayBar.tsx" timestamp="1539790815903">
         <mark key="'" line="25" column="37" />
         <mark key="[" line="25" column="39" />
@@ -1025,12 +1026,12 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/navigation/QuizNavigation.scss" timestamp="1540816610705">
-        <mark key="'" line="163" column="13" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="^" line="160" column="35" />
-        <mark key="." line="161" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/navigation/QuizNavigation.scss" timestamp="1540818046119">
+        <mark key="'" line="166" column="13" />
+        <mark key="[" line="162" column="16" />
+        <mark key="]" line="162" column="16" />
+        <mark key="^" line="162" column="16" />
+        <mark key="." line="162" column="16" />
       </file>
       <file name="C:/projects/cu-data-reporting/Core/Models/UserAgentDetails.cs" timestamp="1537976235082">
         <mark key="'" line="16" column="28" />
@@ -1196,10 +1197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="70" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="151" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="152" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="174" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="295" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="304" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -1296,13 +1293,17 @@
       <jump line="172" column="15" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
       <jump line="9" column="0" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
       <jump line="198" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/score-slide/ScoreSlide.scss" />
+      <jump line="139" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/progress-bar/QuizProgressBar.scss" />
+      <jump line="3" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/progress-bar/QuizProgressBar.scss" />
+      <jump line="145" column="2" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/progress-bar/QuizProgressBar.scss" />
+      <jump line="147" column="3" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/progress-bar/QuizProgressBar.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsKICAgIC5wbGF5ZXItbmF2X19idXR0b24gewogICAgICAgICY6Zm9jdXMgewogICAgICAgICAgICBvdXRsaW5lOiBub25lOwogICAgICAgICAgICBib3gtc2hhZG93OiBub25lOwogICAgICAgICAgICBib3JkZXI6IDA7CiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGxlZnQ6IDAuMTI1cmVtOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.player-nav__button</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1328,52 +1329,52 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGxlZnQ6IDA7</text>
+        <text>.player-nav__button</text>
       </register>
       <register name="/" type="4">
         <text>:focus</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYW5zZm9ybTogbm9uZTsK</text>
+      <register name="0" type="4">
+        <text>.quiz-progress-bar</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGxlZnQ6IDAuMTI1cmVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB7IHZhbHVlLCBjbGFzc05hbWUsIHRvb2x0aXAsIHRvb2x0aXBJZCB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiAkY29sb3ItYXF1YTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGxlZnQ6IDAuMTI1cmVtOwo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">Jl9fYm90dG9tLXJvdy1idG4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0OiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiAkY29sb3ItYXF1YTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJpZ2h0OiAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICY6aG92ZXIgewogICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNGNDVBMkI7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>diWlljkdd9jddkdd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGxpbmU6IG5vbmU7CiAgICAgICAgICAgICAgICBib3gtc2hhZG93OiBub25lOwogICAgICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNGNDVBMkI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICY6aG92ZXIgewogICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNGNDVBMkI7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action CommentByBlockComment</text>
