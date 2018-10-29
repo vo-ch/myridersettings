@@ -34,12 +34,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" timestamp="1540375305092">
         <mark key="'" line="17" column="46" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" timestamp="1540568746546">
+      <file name="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" timestamp="1540805900993">
         <mark key="'" line="141" column="0" />
         <mark key="[" line="141" column="0" />
-        <mark key="]" line="154" column="1" />
-        <mark key="^" line="140" column="0" />
-        <mark key="." line="141" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="^" line="148" column="7" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/UserCourses/IndexDefinitions/CourseConsumption/CoursePortionConsumedProcessor.cs" timestamp="1537546384141">
         <mark key="'" line="22" column="41" />
@@ -616,12 +616,11 @@
         <mark key="." line="12" column="71" />
         <mark key="^" line="12" column="71" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.scss" timestamp="1540567970241">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="90" column="1" />
-        <mark key="." line="83" column="27" />
-        <mark key="^" line="83" column="27" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.scss" timestamp="1540805801123">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="84" column="7" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="C:/projects/cu-data-reporting/Client/DataCollectionService.cs" timestamp="1536042294211">
         <mark key="'" line="23" column="41" />
@@ -867,6 +866,12 @@
         <mark key="]" line="8" column="76" />
         <mark key="^" line="8" column="76" />
         <mark key="." line="8" column="76" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/Quiz.scss" timestamp="1540805929640">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="8" />
+        <mark key="." line="52" column="8" />
+        <mark key="^" line="52" column="8" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CourseDetailsActions/CourseDetailsActionsProcessors.cs" timestamp="1536583692200">
         <mark key="'" line="17" column="63" />
@@ -1168,8 +1173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="51" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
       <jump line="71" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
       <jump line="135" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
       <jump line="137" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
@@ -1268,13 +1271,15 @@
       <jump line="149" column="2" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/theme-toggle/ThemeToggle.scss" />
       <jump line="0" column="1" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
       <jump line="141" column="0" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
+      <jump line="51" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.scss" />
+      <jump line="90" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsKICAgIGJ1dHRvbiwgZGl2LCBzcGFuLCBpbnB1dCB7CiAgICAgICAgJjpmb2N1cyB7CiAgICAgICAgICAgIG91dGxpbmU6IG5vbmU7CiAgICAgICAgICAgIGJveC1zaGFkb3c6IG5vbmU7CiAgICAgICAgICAgIGJvcmRlcjogMDsKICAgICAgICB9CiAgICB9Cn0K</text>
+        <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsKICAgICNkb29yYmVsbCB7CiAgICAgICAgYnV0dG9uLCBkaXYsIHNwYW4sIGlucHV0IHsKICAgICAgICAgICAgJjpmb2N1cyB7CiAgICAgICAgICAgICAgICBvdXRsaW5lOiBub25lOwogICAgICAgICAgICAgICAgYm94LXNoYWRvdzogbm9uZTsKICAgICAgICAgICAgICAgIGJvcmRlcjogMDsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#doorbell</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1309,52 +1314,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YnV0dG9uLCBkaXYsIHNwYW4sIGlucHV0IA==</text>
+        <text>#doorbell</text>
       </register>
       <register name="/" type="4">
         <text>focused</text>
       </register>
       <register name="0" type="4">
-        <text>theme-toggle--focused</text>
+        <text>#doorbell</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB7IHZhbHVlLCBjbGFzc05hbWUsIHRvb2x0aXAsIHRvb2x0aXBJZCB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAmOmZvY3VzIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1dHRvbiwgZGl2LCBzcGFuLCBpbnB1dCB7CiAgICAgICAgJjpmb2N1cyB7CiAgICAgICAgICAgIG91dGxpbmU6IG5vbmU7CiAgICAgICAgICAgIGJveC1zaGFkb3c6IG5vbmU7CiAgICAgICAgICAgIGJvcmRlcjogMDsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxSZWFjdFRvb2x0aXAgaWQ9ImZvcndhcmQiIHBsYWNlPSJ0b3AiIHR5cGU9ImRhcmsiIGVmZmVjdD0ic29saWQiID4KICAgICAgICAgICAgICAgICAgICBGb3J3YXJkIDEwIHNlY29uZHMKICAgICAgICAgICAgICAgIDwvUmVhY3RUb29sdGlwPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJ1dHRvbiwgZGl2LCBzcGFuLCBpbnB1dCB7CiAgICAgICAgJjpmb2N1cyB7CiAgICAgICAgICAgIG91dGxpbmU6IG5vbmU7CiAgICAgICAgICAgIGJveC1zaGFkb3c6IG5vbmU7CiAgICAgICAgICAgIGJvcmRlcjogMDsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG91dGxpbmU6IG5vbmU7CiAgICBib3gtc2hhZG93OiBub25lOwogICAgYm9yZGVyOiAwOwo=</text>
+        <text encoding="base64">Ci8qCiAqIFN1cHByZXNzIGZvY3VzIHJpbmcgb24gZm9ybSBjb250cm9scyBmb3IgbW91c2UgdXNlcnMKICogaW5mbzogaHR0cHM6Ly9naXRodWIuY29tL3RlbjFzZXZlbi93aGF0LWlucHV0CiAqLwpbZGF0YS13aGF0aW50ZW50PSd0b3VjaCddICwKW2RhdGEtd2hhdGlucHV0PSdtb3VzZSddW2RhdGEtd2hhdGludGVudD0nbW91c2UnXSB7CiAgICBidXR0b24sIGRpdiwgc3BhbiwgaW5wdXQgewogICAgICAgICY6Zm9jdXMgewogICAgICAgICAgICBvdXRsaW5lOiBub25lOwogICAgICAgICAgICBib3gtc2hhZG93OiBub25lOwogICAgICAgICAgICBib3JkZXI6IDA7CiAgICAgICAgfQogICAgfQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXRpcD17ISF0b29sdGlwfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtZm9yPXt0b29sdGlwSWR9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAmOmZvY3VzIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHF1aXpTdG9yZSB9ID0gcGxheWVyU3RvcmU7CiAgICAgICAgcGxheWVyU3RvcmUuc2V0U2hvd0NvbXBsZXRpb25WaWRlbyh0cnVlKTsKICAgICAgICBwbGF5ZXJTdG9yZS5zZXRQbGF5YmFja0luaXRpYXRlZCh0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
