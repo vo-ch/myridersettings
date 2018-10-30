@@ -363,8 +363,8 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1540306458117">
-        <mark key="'" line="58" column="23" />
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1540895625328">
+        <mark key="'" line="43" column="32" />
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="29" />
         <mark key="." line="58" column="32" />
@@ -1154,7 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="680" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="62" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="263" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/Quiz.tsx" />
       <jump line="60" column="8" filename="C:/projects/UI-Web/ClientApp/stores/forms/BaseField.ts" />
@@ -1254,6 +1253,7 @@
       <jump line="303" column="10" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/CourseProgressService.ts" />
       <jump line="75" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/services/CoursePlayerFinalQuizService.ts" />
       <jump line="459" column="118" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="43" column="32" filename="C:/projects/UI-Web/appsettings.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1289,7 +1289,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>attemp</text>
+        <text>\.staging</text>
       </register>
       <register name="0" type="4">
         <text>attemptNumber</text>
@@ -1334,21 +1334,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByBlockComment</text>
+        <text>%s/\.staging/-honeysha/g</text>
       </register>
     </registers>
     <search>
-      <last-search>attemp</last-search>
+      <last-search>\.staging</last-search>
       <last-offset />
-      <last-pattern>attemp</last-pattern>
+      <last-pattern>\.staging</last-pattern>
       <last-replace>-honeysha</last-replace>
-      <last-substitute>\.qa</last-substitute>
+      <last-substitute>\.staging</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93Q29tcGxldGlvblZpZGVvXD4=</entry>
         <entry encoding="base64">XDxvbkNvbXBsZXRlQ2xpY2tcPg==</entry>
         <entry encoding="base64">XDxzZXRTaG93Q29tcGxldGlvblZpZGVvXD4=</entry>
         <entry>quiz</entry>
@@ -1368,9 +1367,9 @@
         <entry>player-nav</entry>
         <entry>:focus</entry>
         <entry>attemp</entry>
+        <entry>\.staging</entry>
       </history-search>
       <history-cmd>
-        <entry>version</entry>
         <entry>CourseDetails</entry>
         <entry>%s/big-play-button/up-next/g</entry>
         <entry>%s/player-controls-mobile/up-next-controls-mobile/g</entry>
@@ -1390,6 +1389,7 @@
         <entry>action CommentByLineComment</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
+        <entry>%s/\.staging/-honeysha/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
