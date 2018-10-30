@@ -244,7 +244,7 @@
         <mark key="." line="2" column="91" />
         <mark key="^" line="2" column="91" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/profiles/instructor/InstructorProfile.tsx" timestamp="1533897521318">
+      <file name="C:/projects/UI-Web/ClientApp/views/profiles/instructor/InstructorProfile.tsx" timestamp="1540910375732">
         <mark key="'" line="194" column="3" />
         <mark key="[" line="212" column="12" />
         <mark key="]" line="212" column="21" />
@@ -1279,7 +1279,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdHJhbnNmb3JtOiBzY2FsZSgxLjEpOwogICAgICAgICAgICBjb2xvcjogJGNvbG9yLXdoaXRlOwogICAgICAgICAgICBiYWNrZ3JvdW5kOiByZ2JhKDI1NSwgMjU1LCAyNTUsIDApOwogICAgICAgICAgICBib3JkZXI6IDJweCByZ2JhKDI1NSwgMjU1LCAyNTUsIDEpIHNvbGlkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action CommentByBlockComment</text>
       </register>
     </registers>
     <search>
@@ -1331,10 +1331,10 @@
         <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByBlockComment</entry>
         <entry>%s/\.staging/-honeysha/g</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByBlockComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
