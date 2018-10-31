@@ -60,11 +60,20 @@
       <file name="/Dummy.txt" timestamp="1540913758126">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/styles/mixins/suppress-mouse-focus.scss" timestamp="1540983964918">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/styles/mixins/suppress-mouse-focus.scss" timestamp="1540993518226">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" timestamp="1540375305092">
         <mark key="'" line="17" column="46" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" timestamp="1540993492512">
+        <mark key="'" line="141" column="25" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="28" />
+        <mark key="." line="141" column="28" />
+        <mark key="^" line="141" column="28" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.scss" timestamp="1540896342772">
         <mark key="[" line="14" column="18" />
@@ -106,12 +115,12 @@
         <mark key="]" line="32" column="22" />
         <mark key="." line="32" column="22" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.scss" timestamp="1540822444678">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.scss" timestamp="1540993634358">
         <mark key="'" line="4" column="0" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1540906355986">
-        <mark key="'" line="229" column="12" />
-        <mark key="]" line="347" column="13" />
+        <mark key="[" line="78" column="17" />
+        <mark key="]" line="79" column="41" />
+        <mark key="." line="79" column="41" />
+        <mark key="^" line="79" column="41" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" timestamp="1540375308891">
         <mark key="'" line="23" column="42" />
@@ -121,11 +130,14 @@
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="43" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/styles/mixins/index.scss" timestamp="1540992083278">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="89" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="90" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="95" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="96" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="97" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
@@ -157,7 +169,6 @@
       <jump line="30" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/theme-toggle/ThemeToggle.tsx" />
       <jump line="149" column="2" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/theme-toggle/ThemeToggle.scss" />
       <jump line="0" column="1" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
-      <jump line="141" column="0" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
       <jump line="51" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.scss" />
       <jump line="90" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.scss" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/navigation/QuizNavigation.scss" />
@@ -223,13 +234,17 @@
       <jump line="9" column="92" filename="C:/projects/NewCMS/src/sources/CourseSource.js" />
       <jump line="2" column="53" filename="C:/projects/NewCMS/src/views/course-registrations/stores/CourseRegistrationsStore.js" />
       <jump line="67" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/slide-call-to-action/SlideCallToAction.scss" />
+      <jump line="149" column="0" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
+      <jump line="156" column="0" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
+      <jump line="141" column="25" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
+      <jump line="0" column="7" filename="C:/projects/UI-Web/ClientApp/styles/mixins/suppress-mouse-focus.scss" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>baseLmsUrl</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICNkb29yYmVsbCB7CiAgICAgICAgYnV0dG9uLCBkaXYsIHNwYW4sIGlucHV0LCB0ZXh0YXJlYSB7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">W2RhdGEtd2hhdGludGVudD0ndG91Y2gnXSAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0bGluZTogbm9uZTsKICAgICAgICAgICAgYm94LXNoYWRvdzogbm9uZTsKICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -255,57 +270,128 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>/lms</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>/lms/courses/search/v2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3V0bGluZTogbm9uZTsKICAgICAgICAgICAgYm94LXNoYWRvdzogbm9uZTsKICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAiYmFzZVVybCI6ICJodHRwczovL2dhdGV3YXkuc3RhZ2luZy5jeWJlcnUuaW8vYXBpL3YxIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0bGluZTogbm9uZTsKICAgICAgICAgICAgYm94LXNoYWRvdzogbm9uZTsKICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
       </register>
-      <register name="q" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHZhbHVlLCBjbGFzc05hbWUsIHRvb2x0aXAsIHRvb2x0aXBJZCB9ID0gdGhpcy5wcm9wczsK</text>
+      <register name="q" type="4">
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="77" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkic2VhcmNoIjogIi9zZWFyY2giCg==</text>
+        <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text>{
-			 
-		}</text>
+      <register name="3" type="2">
+        <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">Jl9fYm90dG9tLXJvdy1idG4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkgImZldGNoIjogIi9jb3Vyc2VzIiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllclN0b3JlLnNldENvbXBsZXRpb25WaWRlb1BsYXllZChmYWxzZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5hdXRoU3RvcmUgJiYgdGhpcy5hdXRoU3RvcmUudXNlciAmJiB0aGlzLmF1dGhTdG9yZS51c2VyLmFpY2MpIHN0YXRlUmVzdWx0LmF0dGVtcHROdW1iZXIgPSAxOwo=</text>
+        <text encoding="base64">ICAgIEBpbmNsdWRlIHN1cHByZXNzTW91c2VGb2N1cyB7Cg==</text>
       </register>
       <register name="w" type="4">
-        <text>diWlljkdd9jddkdd</text>
+        <keys>
+          <key char="50" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5hdXRoU3RvcmUgJiYgdGhpcy5hdXRoU3RvcmUudXNlciAmJiB0aGlzLmF1dGhTdG9yZS51c2VyLmFpY2MpIHN0YXRlUmVzdWx0LmF0dGVtcHROdW1iZXIgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2Rvb3JiZWxsIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByBlockComment</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -313,7 +399,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwsXD4=</last-pattern>
       <last-replace>-honeysha</last-replace>
-      <last-substitute>\.staging</last-substitute>
+      <last-substitute encoding="base64">XDwsXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -354,13 +440,13 @@
         <entry>.,.+2action CommentByLineComment</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>reg</entry>
         <entry>action CommentByLineComment</entry>
         <entry>%s/\.staging/-honeysha/g</entry>
         <entry>action GotoImplementation</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
+        <entry>reg</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
