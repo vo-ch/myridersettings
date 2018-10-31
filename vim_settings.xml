@@ -22,6 +22,10 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/lesson-button/LessonButton.scss" timestamp="1540822810240">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.scss" timestamp="1540982823261">
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="27" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1540565640947">
         <mark key="'" line="192" column="48" />
       </file>
@@ -87,6 +91,9 @@
       <file name="C:/projects/UI-Web/Program.cs" timestamp="1540308380489">
         <mark key="'" line="19" column="70" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/slide-call-to-action/SlideCallToAction.scss" timestamp="1540982916906">
+        <mark key="'" line="67" column="33" />
+      </file>
       <file name="C:/projects/UI-Web/Utils/Logging/NLogLogglyTarget.cs" timestamp="1540308418547">
         <mark key="'" line="20" column="41" />
       </file>
@@ -113,7 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="87" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="89" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="90" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
@@ -213,13 +219,14 @@
       <jump line="52" column="2" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
       <jump line="9" column="92" filename="C:/projects/NewCMS/src/sources/CourseSource.js" />
       <jump line="2" column="53" filename="C:/projects/NewCMS/src/views/course-registrations/stores/CourseRegistrationsStore.js" />
+      <jump line="67" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/slide-call-to-action/SlideCallToAction.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>baseLmsUrl</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/lms</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W2RhdGEtd2hhdGludGVudD0ndG91Y2gnXSAsCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -248,7 +255,7 @@
         <text>/lms</text>
       </register>
       <register name="/" type="4">
-        <text>fetch</text>
+        <text encoding="base64">XDwsXD4=</text>
       </register>
       <register name="0" type="4">
         <text>/lms/courses/search/v2</text>
@@ -299,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fetch</last-search>
+      <last-search encoding="base64">XDwsXD4=</last-search>
       <last-offset />
-      <last-pattern>fetch</last-pattern>
+      <last-pattern encoding="base64">XDwsXD4=</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>\.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onQuizCom</entry>
         <entry>onQuiz</entry>
         <entry>showCompletion</entry>
         <entry encoding="base64">XDxzaG93UXVpekNvbXBsZXRpb25WaWRlb1w+</entry>
@@ -329,6 +335,7 @@
         <entry>should</entry>
         <entry>search</entry>
         <entry>fetch</entry>
+        <entry encoding="base64">XDwsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>CourseDetails</entry>
