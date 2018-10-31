@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-top-bar/PlayerTopBar.scss" timestamp="1540994500061">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="190" column="28" />
-        <mark key="^" line="190" column="28" />
-        <mark key="." line="190" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-top-bar/PlayerTopBar.scss" timestamp="1540997960893">
+        <mark key="'" line="208" column="48" />
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="8" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="209" column="8" />
       </file>
       <file name="C:/projects/NewCMS/src/sources/CourseSource.js" timestamp="1540979165719">
         <mark key="'" line="9" column="92" />
@@ -77,6 +77,9 @@
         <mark key="." line="137" column="45" />
         <mark key="^" line="137" column="45" />
       </file>
+      <file name="/Dummy.txt" timestamp="1540998185034">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/styles/mixins/suppress-mouse-focus.scss" timestamp="1540997054095">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -104,11 +107,11 @@
       <file name="C:/projects/UI-Web/ClientApp/styles/mixins/transition.scss" timestamp="1540819912848">
         <mark key="'" line="11" column="12" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/score-slide/ScoreSlide.scss" timestamp="1540996010520">
-        <mark key="[" line="180" column="26" />
-        <mark key="]" line="181" column="49" />
-        <mark key="." line="181" column="49" />
-        <mark key="^" line="181" column="49" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/score-slide/ScoreSlide.scss" timestamp="1540998739146">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+        <mark key="^" line="117" column="20" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/instructor/InstructorProfile.tsx" timestamp="1540913750535">
         <mark key="'" line="194" column="3" />
@@ -166,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="96" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="97" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="99" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="100" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
@@ -266,13 +267,15 @@
       <jump line="156" column="0" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
       <jump line="141" column="25" filename="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" />
       <jump line="0" column="7" filename="C:/projects/UI-Web/ClientApp/styles/mixins/suppress-mouse-focus.scss" />
+      <jump line="208" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-top-bar/PlayerTopBar.scss" />
+      <jump line="4" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-top-bar/PlayerTopBar.scss" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICNkb29yYmVsbCB7CiAgICAgICAgYnV0dG9uLCBkaXYsIHNwYW4sIGlucHV0LCB0ZXh0YXJlYSB7Cg==</text>
+      <register name="a" type="4">
+        <text>scoreSlideBottomButtonHover</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -298,16 +301,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$playerTopBarButtonBorderHover</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0bGluZTogbm9uZTsKICAgICAgICAgICAgYm94LXNoYWRvdzogbm9uZTsKICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGluY2x1ZGUgc2NvcmVTbGlkZUJvdHRvbUJ1dHRvbkhvdmVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,28 +353,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsK</text>
+        <text encoding="base64">dHJhbnNmb3JtOiBzY2FsZSgxLjAyKTsKCiAgICAgICAgICAgICAgICBpIHsKICAgICAgICAgICAgICAgICAgICB0cmFuc2Zvcm06IHJvdGF0ZSg5MGRlZyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvdXRsaW5lOiBub25lOwogICAgICAgICAgICAgICAgICAgIGJveC1zaGFkb3c6IG5vbmU7CiAgICAgICAgICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="s" type="4">
-        <text encoding="base64">Jl9fYm90dG9tLXJvdy1idG4=</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCByZ2JhKDI5LCAxOTcsIDIyNiwgLjc1KTsKCiAgICAgICAgICAgIC5pIHsKICAgICAgICAgICAgICAgIG9wYWNpdHk6IDE7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsK</text>
+        <text encoding="base64">dHJhbnNmb3JtOiBzY2FsZSgxLjAyKTsKICAgICAgICAgICAgaSB7CiAgICAgICAgICAgICAgICB0cmFuc2Zvcm06IHJvdGF0ZSg5MGRlZyk7CiAgICAgICAgICAgIH0KICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGxpbmU6IG5vbmU7CiAgICAgICAgICAgICAgICBib3gtc2hhZG93OiBub25lOwogICAgICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
+        <text encoding="base64">Ym9yZGVyOiAkcGxheWVyVG9wQmFyQnV0dG9uQm9yZGVySG92ZXI7CgogICAgICAgICAgICBvcGFjaXR5OiA7CiAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dGxpbmU6IG5vbmU7CiAgICAgICAgICAgICAgICBib3gtc2hhZG93OiBub25lOwogICAgICAgICAgICAgICAgYm9yZGVyOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCByZ2JhKDI5LCAxOTcsIDIyNiwgLjc1KTsKCiAgICAgICAgICAgIC5pIHsKICAgICAgICAgICAgICAgIG9wYWNpdHk6IDE7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -412,11 +415,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsK</text>
+      <register name="8" type="4">
+        <text>1px solid rgba(29, 197, 226, .75)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoKICogU3VwcHJlc3MgZm9jdXMgcmluZyBvbiBmb3JtIGNvbnRyb2xzIGZvciBtb3VzZSB1c2VycwogKiBpbmZvOiBodHRwczovL2dpdGh1Yi5jb20vdGVuMXNldmVuL3doYXQtaW5wdXQKICovCltkYXRhLXdoYXRpbnRlbnQ9J3RvdWNoJ10gLApbZGF0YS13aGF0aW5wdXQ9J21vdXNlJ11bZGF0YS13aGF0aW50ZW50PSdtb3VzZSddIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BhY2l0eTogMC45Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
