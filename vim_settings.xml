@@ -59,12 +59,12 @@
         <mark key="." line="45" column="52" />
         <mark key="^" line="45" column="50" />
       </file>
-      <file name="C:/projects/NewCMS/src/sources/CourseSource.js" timestamp="1540979165719">
+      <file name="C:/projects/NewCMS/src/sources/CourseSource.js" timestamp="1541067051470">
         <mark key="'" line="9" column="92" />
-        <mark key="[" line="9" column="42" />
-        <mark key="]" line="9" column="51" />
-        <mark key="^" line="9" column="51" />
-        <mark key="." line="9" column="51" />
+        <mark key="[" line="9" column="88" />
+        <mark key="]" line="9" column="92" />
+        <mark key="^" line="9" column="92" />
+        <mark key="." line="9" column="92" />
       </file>
       <file name="C:/projects/UI-Web/ViewModels/Sitemap/Category.cs" timestamp="1533563421679">
         <mark key="'" line="8" column="27" />
@@ -226,12 +226,12 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseForm.ts" timestamp="1540563104170">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="C:/projects/NewCMS/src/configSource.json" timestamp="1541063800134">
-        <mark key="'" line="18" column="26" />
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="86" column="16" />
-        <mark key="^" line="71" column="61" />
+      <file name="C:/projects/NewCMS/src/configSource.json" timestamp="1541067027451">
+        <mark key="'" line="78" column="5" />
+        <mark key="[" line="86" column="10" />
+        <mark key="]" line="86" column="14" />
+        <mark key="." line="86" column="14" />
+        <mark key="^" line="86" column="14" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1540388820737">
         <mark key="'" line="150" column="27" />
@@ -535,6 +535,10 @@
         <mark key="." line="55" column="72" />
         <mark key="^" line="55" column="72" />
       </file>
+      <file name="/configSource.json" timestamp="1541067017165">
+        <mark key="[" line="85" column="10" />
+        <mark key="]" line="85" column="14" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/home/components/home-super-hero/HomeSuperHero.tsx" timestamp="1537794712839">
         <mark key="'" line="109" column="37" />
         <mark key="[" line="116" column="0" />
@@ -584,7 +588,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540999391806">
+      <file name="/Dummy.txt" timestamp="1541067058590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538496109426">
@@ -1175,7 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.scss" />
       <jump line="117" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
       <jump line="173" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.scss" />
       <jump line="183" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.scss" />
@@ -1275,13 +1278,14 @@
       <jump line="6" column="7" filename="C:/projects/UI-Web/ClientApp/stores/extensions/courseSearchStore.ts" />
       <jump line="34" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="18" column="26" filename="C:/projects/NewCMS/src/configSource.json" />
+      <jump line="78" column="5" filename="C:/projects/NewCMS/src/configSource.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>.staging.</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.staging.</text>
+        <text>search</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1307,13 +1311,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>$playerTopBarButtonBorderHover</text>
+        <text>search</text>
       </register>
       <register name="/" type="4">
-        <text>\.staging\.</text>
+        <text encoding="base64">XDxjb3Vyc2VSZWdpc3RyYXRpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGluY2x1ZGUgc2NvcmVTbGlkZUJvdHRvbUJ1dHRvbkhvdmVyOwo=</text>
+      <register name="0" type="4">
+        <text>fetch</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1432,9 +1436,9 @@
       </register>
     </registers>
     <search>
-      <last-search>\.staging\.</last-search>
+      <last-search encoding="base64">XDxjb3Vyc2VSZWdpc3RyYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>\.staging\.</last-pattern>
+      <last-pattern encoding="base64">XDxjb3Vyc2VSZWdpc3RyYXRpb25cPg==</last-pattern>
       <last-replace>-vchmuzh.</last-replace>
       <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1442,7 +1446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showCompletion</entry>
         <entry encoding="base64">XDxzaG93UXVpekNvbXBsZXRpb25WaWRlb1w+</entry>
         <entry>refreshNes</entry>
         <entry>play</entry>
@@ -1462,6 +1465,7 @@
         <entry>fetch</entry>
         <entry encoding="base64">XDwsXD4=</entry>
         <entry>\.staging\.</entry>
+        <entry encoding="base64">XDxjb3Vyc2VSZWdpc3RyYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/big-play-button/up-next/g</entry>
