@@ -226,10 +226,10 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseForm.ts" timestamp="1540563104170">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="C:/projects/NewCMS/src/configSource.json" timestamp="1540979206328">
-        <mark key="'" line="26" column="21" />
-        <mark key="[" line="86" column="16" />
-        <mark key="]" line="86" column="16" />
+      <file name="C:/projects/NewCMS/src/configSource.json" timestamp="1541063800134">
+        <mark key="'" line="18" column="26" />
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="34" />
         <mark key="." line="86" column="16" />
         <mark key="^" line="71" column="61" />
       </file>
@@ -1175,7 +1175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.scss" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.scss" />
       <jump line="117" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
       <jump line="173" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.scss" />
@@ -1275,13 +1274,14 @@
       <jump line="47" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="6" column="7" filename="C:/projects/UI-Web/ClientApp/stores/extensions/courseSearchStore.ts" />
       <jump line="34" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="18" column="26" filename="C:/projects/NewCMS/src/configSource.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>scoreSlideBottomButtonHover</text>
+        <text>.staging.</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.staging.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1310,7 +1310,7 @@
         <text>$playerTopBarButtonBorderHover</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwsXD4=</text>
+        <text>\.staging\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQGluY2x1ZGUgc2NvcmVTbGlkZUJvdHRvbUJ1dHRvbkhvdmVyOwo=</text>
@@ -1428,21 +1428,20 @@
         <text encoding="base64">ICAgICAgICAgICAgb3BhY2l0eTogMC45Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>%s/\.staging\./-vchmuzh./g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwsXD4=</last-search>
+      <last-search>\.staging\.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwsXD4=</last-pattern>
-      <last-replace>-honeysha</last-replace>
-      <last-substitute encoding="base64">XDwsXD4=</last-substitute>
+      <last-pattern>\.staging\.</last-pattern>
+      <last-replace>-vchmuzh.</last-replace>
+      <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onQuiz</entry>
         <entry>showCompletion</entry>
         <entry encoding="base64">XDxzaG93UXVpekNvbXBsZXRpb25WaWRlb1w+</entry>
         <entry>refreshNes</entry>
@@ -1462,9 +1461,9 @@
         <entry>search</entry>
         <entry>fetch</entry>
         <entry encoding="base64">XDwsXD4=</entry>
+        <entry>\.staging\.</entry>
       </history-search>
       <history-cmd>
-        <entry>CourseDetails</entry>
         <entry>%s/big-play-button/up-next/g</entry>
         <entry>%s/player-controls-mobile/up-next-controls-mobile/g</entry>
         <entry>%s/-rewind/-goprev/g</entry>
@@ -1484,6 +1483,7 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
+        <entry>%s/\.staging\./-vchmuzh./g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
