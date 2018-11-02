@@ -958,8 +958,8 @@
         <mark key="." line="67" column="15" />
         <mark key="^" line="67" column="15" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1540895625328">
-        <mark key="'" line="43" column="32" />
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541166203342">
+        <mark key="'" line="35" column="10" />
         <mark key="[" line="58" column="29" />
         <mark key="]" line="58" column="29" />
         <mark key="." line="58" column="32" />
@@ -1296,7 +1296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="C:/projects/NewCMS/src/components/SearchBox.jsx" />
       <jump line="47" column="0" filename="C:/projects/NewCMS/src/views/courses/components/CourseSearchComponent.jsx" />
       <jump line="224" column="72" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
       <jump line="76" column="29" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
@@ -1396,6 +1395,7 @@
       <jump line="777" column="83" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="786" column="89" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="844" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="35" column="10" filename="C:/projects/UI-Web/appsettings.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1431,7 +1431,7 @@
         <text>secs</text>
       </register>
       <register name="/" type="4">
-        <text>compone</text>
+        <text>\.staging\.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBhY3Rpb24gc2V0Q29udGludW91c01vZGUobW9kZTogYm9vbGVhbiA9IHRydWUpOiB2b2lkIHsKICAgICAgICB0aGlzLmNvbnRpbnVvdXNNb2RlID0gbW9kZTsKICAgIH0K</text>
@@ -1549,15 +1549,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/-vchmuzh/.staging/g</text>
+        <text>%s/\.staging\./-vchmuzh./g</text>
       </register>
     </registers>
     <search>
-      <last-search>compone</last-search>
+      <last-search>\.staging\.</last-search>
       <last-offset />
-      <last-pattern>compone</last-pattern>
-      <last-replace>.staging</last-replace>
-      <last-substitute>-vchmuzh</last-substitute>
+      <last-pattern>\.staging\.</last-pattern>
+      <last-replace>-vchmuzh.</last-replace>
+      <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1565,7 +1565,6 @@
       <history-search>
         <entry>fetch</entry>
         <entry encoding="base64">XDwsXD4=</entry>
-        <entry>\.staging\.</entry>
         <entry encoding="base64">XDxjb3Vyc2VSZWdpc3RyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxsb2FkSW5pdGlhbERhdGFcPg==</entry>
         <entry>loadData</entry>
@@ -1583,6 +1582,7 @@
         <entry>compon.*Update</entry>
         <entry>componenet.*</entry>
         <entry>compone</entry>
+        <entry>\.staging\.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/player-controls-mobile/up-next-controls-mobile/g</entry>
@@ -1602,9 +1602,9 @@
         <entry>reg</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>%s/\.staging\./-vchmuzh./g</entry>
         <entry>action GotoImplementation</entry>
         <entry>%s/-vchmuzh/.staging/g</entry>
+        <entry>%s/\.staging\./-vchmuzh./g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
