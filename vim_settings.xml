@@ -365,6 +365,9 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="112" column="18" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1541160038397">
+        <mark key="'" line="446" column="13" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/EntitiesList.cs" timestamp="1536847895654">
         <mark key="'" line="16" column="84" />
         <mark key="[" line="16" column="67" />
@@ -1289,8 +1292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="488" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="261" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/Quiz.tsx" />
       <jump line="253" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/Quiz.tsx" />
@@ -1389,6 +1390,8 @@
       <jump line="25" column="67" filename="C:/projects/NewCMS/src/views/courses/CoursesSection.jsx" />
       <jump line="62" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="474" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="101" column="21" filename="C:/projects/UI-Web/node_modules/react-player-cu/index.d.ts" />
+      <jump line="446" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1424,7 +1427,7 @@
         <text>this.props.stores.router.search</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRDb250aW51b3VzTW9kZVw+</text>
+        <text encoding="base64">XDxSZWFjdFBsYXllclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBhY3Rpb24gc2V0Q29udGludW91c01vZGUobW9kZTogYm9vbGVhbiA9IHRydWUpOiB2b2lkIHsKICAgICAgICB0aGlzLmNvbnRpbnVvdXNNb2RlID0gbW9kZTsKICAgIH0K</text>
@@ -1546,17 +1549,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRDb250aW51b3VzTW9kZVw+</last-search>
+      <last-search encoding="base64">XDxSZWFjdFBsYXllclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRDb250aW51b3VzTW9kZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxSZWFjdFBsYXllclw+</last-pattern>
       <last-replace>.staging</last-replace>
       <last-substitute>-vchmuzh</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>playervideo</entry>
         <entry encoding="base64">XDxzaG93Q29tcGxldGlvblZpZGVvT25RdWl6XD4=</entry>
         <entry encoding="base64">XDxvbkNvbXBsZXRlQ2xpY2tcPg==</entry>
         <entry encoding="base64">XDxhbGxvd0NvbXBsZXRlQ2xpY2tcPg==</entry>
@@ -1576,6 +1578,7 @@
         <entry encoding="base64">XDxmbGF0dGVuXD4=</entry>
         <entry>router</entry>
         <entry encoding="base64">XDxzZXRDb250aW51b3VzTW9kZVw+</entry>
+        <entry encoding="base64">XDxSZWFjdFBsYXllclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/player-controls-mobile/up-next-controls-mobile/g</entry>
