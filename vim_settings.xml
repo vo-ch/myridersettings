@@ -365,8 +365,8 @@
         <mark key="." line="20" column="28" />
         <mark key="^" line="112" column="18" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1541411066494">
-        <mark key="'" line="258" column="45" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1541412276558">
+        <mark key="'" line="5" column="39" />
         <mark key="[" line="464" column="36" />
         <mark key="]" line="464" column="40" />
         <mark key="." line="464" column="40" />
@@ -1295,7 +1295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="64" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="41" column="10" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="132" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
@@ -1367,7 +1366,6 @@
       <jump line="951" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="12" column="3" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="13" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="97" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="102" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="266" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="277" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1378,10 +1376,7 @@
       <jump line="844" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="35" column="10" filename="C:/projects/UI-Web/appsettings.json" />
       <jump line="930" column="58" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="5" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="8" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="1" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="3" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="462" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="798" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1391,10 +1386,15 @@
       <jump line="807" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="59" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="395" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="560" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="2" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="238" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="258" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="560" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="911" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="97" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="1" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="3" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="5" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1430,7 +1430,7 @@
         <text>ready</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>react</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBhY3Rpb24gc2V0Q29udGludW91c01vZGUobW9kZTogYm9vbGVhbiA9IHRydWUpOiB2b2lkIHsKICAgICAgICB0aGlzLmNvbnRpbnVvdXNNb2RlID0gbW9kZTsKICAgIH0K</text>
@@ -1552,9 +1552,9 @@
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>react</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>react</last-pattern>
       <last-replace>-vchmuzh.</last-replace>
       <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1576,12 +1576,12 @@
         <entry>compone</entry>
         <entry>\.staging\.</entry>
         <entry>reactPla</entry>
-        <entry>react</entry>
-        <entry>React</entry>
         <entry encoding="base64">XDxSZWFjdFBsYXllclw+</entry>
         <entry encoding="base64">XDxvblJlYWR5XD4=</entry>
         <entry>willMount</entry>
         <entry>name</entry>
+        <entry>React</entry>
+        <entry>react</entry>
       </history-search>
       <history-cmd>
         <entry>%s/player-controls-mobile/up-next-controls-mobile/g</entry>
