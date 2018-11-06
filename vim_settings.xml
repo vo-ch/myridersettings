@@ -647,8 +647,8 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1541506305642">
-        <mark key="'" line="119" column="26" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1541512042776">
+        <mark key="'" line="126" column="34" />
         <mark key="[" line="35" column="25" />
         <mark key="]" line="35" column="36" />
       </file>
@@ -1244,12 +1244,12 @@
         <mark key="." line="140" column="45" />
         <mark key="^" line="140" column="45" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1541506317815">
-        <mark key="'" line="12" column="49" />
-        <mark key="[" line="12" column="41" />
-        <mark key="]" line="12" column="52" />
-        <mark key="." line="12" column="52" />
-        <mark key="^" line="12" column="52" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1541511578805">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1537795745604">
         <mark key="'" line="12" column="28" />
@@ -1311,9 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="852" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="889" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="909" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="922" column="88" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="924" column="69" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="951" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1411,13 +1408,16 @@
       <jump line="11" column="52" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="12" column="49" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="124" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="23" column="2" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
+      <jump line="126" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="189" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>downloadSize</text>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1443,16 +1443,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>/this./ /g</text>
       </register>
       <register name="0" type="4">
-        <text>VideoQuality</text>
+        <text encoding="base64">Z2V0UHJlZmVyYWJsZVZpZGVvUXVhbGl0eSgpOiBQcm9taXNlPFZpZGVvUXVhbGl0eT4g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzcGVlZEticHMgPSB0aGlzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1495,28 +1495,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzcGVlZEticHMgPSB0aGlzLgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVzZXRKb2JCb29rbWFya1JlcXVlc3QgfSBmcm9tICdhd3Mtc2RrL2NsaWVudHMvZ2x1ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCByZ2JhKDI5LCAxOTcsIDIyNiwgLjc1KTsKCiAgICAgICAgICAgIC5pIHsKICAgICAgICAgICAgICAgIG9wYWNpdHk6IDE7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvbnRhY3RVcyB9IGZyb20gJy4uL21vZGVscy9JQ29udGFjdFVzJzsKaW1wb3J0IHsgSUFwcGxpY2F0aW9uU3RvcmVzIH0gZnJvbSAnLi9BcHBsaWNhdGlvblN0b3Jlcyc7CmltcG9ydCB7IGFjdGlvbiwgb2JzZXJ2YWJsZSwgY29tcHV0ZWQgfSBmcm9tICdtb2J4JzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVzZXRKb2JCb29rbWFya1JlcXVlc3QgfSBmcm9tICdhd3Mtc2RrL2NsaWVudHMvZ2x1ZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSUNvbnRhY3RVcyB9IGZyb20gJy4uL21vZGVscy9JQ29udGFjdFVzJzsKaW1wb3J0IHsgSUFwcGxpY2F0aW9uU3RvcmVzIH0gZnJvbSAnLi9BcHBsaWNhdGlvblN0b3Jlcyc7CmltcG9ydCB7IGFjdGlvbiwgb2JzZXJ2YWJsZSwgY29tcHV0ZWQgfSBmcm9tICdtb2J4JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY2FjaGVCdXN0ZXIgPSAnP25ubj0nICsgc3RhcnRUaW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY2FjaGVCdXN0ZXIgPSAnP25ubj0nICsgc3RhcnRUaW1lOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1561,7 +1561,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBteUltYWdlID0gbmV3IEltYWdlKCk7CiAgICAgICAgY29uc3Qgc3RhcnRUaW1lOiBudW1iZXIgPSAobmV3IERhdGUoKSkuZ2V0VGltZSgpOwogICAgICAgIGNvbnN0IGNhY2hlQnVzdGVyID0gJz9ubm49JyArIHN0YXJ0VGltZTsKICAgICAgICBteUltYWdlLnNyYyA9ICdodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc3VtYW5ib2dhdGkvaW1hZ2VzL21hc3Rlci9qc3R1dG9yaWFsL2JhbmR3aWR0aC10ZXN0LmpwZycgKyBjYWNoZUJ1c3RlcjsKICAgICAgICBteUltYWdlLm9ubG9hZCA9ICgpOiB2b2lkID0+IHsKICAgICAgICAgICAgY29uc3QgZW5kVGltZTogbnVtYmVyID0gKG5ldyBEYXRlKCkpLmdldFRpbWUoKTsKICAgICAgICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
