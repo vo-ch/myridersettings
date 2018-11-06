@@ -17,11 +17,11 @@
         <mark key="^" line="71" column="72" />
         <mark key="." line="71" column="72" />
       </file>
-      <file name="C:/projects/UI-Web/Configuration/NetworkTestSection.cs" timestamp="1541437117482">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="34" />
-        <mark key="^" line="6" column="59" />
-        <mark key="." line="6" column="59" />
+      <file name="C:/projects/UI-Web/Configuration/NetworkTestSection.cs" timestamp="1541496132839">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-top-bar/PlayerTopBar.scss" timestamp="1540997960893">
         <mark key="'" line="208" column="48" />
@@ -295,11 +295,12 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="50" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1541437138140">
-        <mark key="[" line="93" column="17" />
-        <mark key="]" line="93" column="17" />
-        <mark key="^" line="93" column="17" />
-        <mark key="." line="93" column="17" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1541496612666">
+        <mark key="'" line="42" column="43" />
+        <mark key="[" line="291" column="29" />
+        <mark key="]" line="291" column="41" />
+        <mark key="^" line="291" column="41" />
+        <mark key="." line="291" column="41" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessors.cs" timestamp="1537885509661">
         <mark key="'" line="23" column="39" />
@@ -595,7 +596,7 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/content/views/lesson/activity-preview/ActivityPreview.tsx" timestamp="1541414460910">
         <mark key="'" line="88" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/Configuration/AppSettings.cs" timestamp="1541436975660">
+      <file name="C:/projects/UI-Web/Configuration/AppSettings.cs" timestamp="1541496383862">
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="44" />
         <mark key="^" line="28" column="56" />
@@ -1327,8 +1328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="16" filename="C:/projects/NewCMS/package.json" />
-      <jump line="25" column="67" filename="C:/projects/NewCMS/src/views/courses/CoursesSection.jsx" />
       <jump line="62" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="474" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="101" column="21" filename="C:/projects/UI-Web/node_modules/react-player-cu/index.d.ts" />
@@ -1427,13 +1426,15 @@
       <jump line="18" column="32" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="15" column="32" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="26" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es2015.promise.d.ts" />
+      <jump line="42" column="43" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="94" column="17" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgb24gcmVhZHkgJHt0aGlzLnByb3BzLnVybH1gKTsK</text>
+      <register name="a" type="4">
+        <text>INetworkTestSection</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>NetworkTestSection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlYWRvbmx5IG5ldHdvcmtUZXN0OiBJTmV0d29ya1Rlc3RTZWN0aW9uOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1459,13 +1460,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>downloadSize</text>
       </register>
       <register name="/" type="4">
         <text>/this./ /g</text>
       </register>
-      <register name="0" type="4">
-        <text>NetworkTestSection</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlYWRvbmx5IG5ldHdvcmtUZXN0OiBJTmV0d29ya1Rlc3RTZWN0aW9uOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
