@@ -4,7 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" timestamp="1541504974396">
-        <mark key="[" line="106" column="61" />
         <mark key="]" line="107" column="7" />
         <mark key="^" line="107" column="7" />
         <mark key="." line="107" column="7" />
@@ -289,13 +288,6 @@
         <mark key="]" line="16" column="50" />
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="50" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1541503719427">
-        <mark key="'" line="42" column="43" />
-        <mark key="[" line="96" column="27" />
-        <mark key="]" line="96" column="32" />
-        <mark key="^" line="96" column="32" />
-        <mark key="." line="96" column="32" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/CoursePlayerActions/PlayerActionsProcessors.cs" timestamp="1537885509661">
         <mark key="'" line="23" column="39" />
@@ -653,8 +645,8 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1541512042776">
-        <mark key="'" line="126" column="34" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1541514384886">
+        <mark key="'" line="310" column="69" />
         <mark key="[" line="35" column="25" />
         <mark key="]" line="35" column="36" />
       </file>
@@ -665,11 +657,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541432110243">
+      <file name="/Dummy.txt" timestamp="1541514457189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1541506277108">
-        <mark key="'" line="296" column="16" />
+        <mark key="'" line="281" column="16" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538496109426">
         <mark key="'" line="8" column="4" />
@@ -979,10 +971,6 @@
       </file>
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541504005527">
         <mark key="'" line="35" column="10" />
-        <mark key="[" line="130" column="25" />
-        <mark key="]" line="130" column="25" />
-        <mark key="^" line="130" column="25" />
-        <mark key="." line="130" column="25" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/LearningTabActionsProcessor.cs" timestamp="1536240195125">
         <mark key="'" line="26" column="103" />
@@ -1250,12 +1238,12 @@
         <mark key="." line="140" column="45" />
         <mark key="^" line="140" column="45" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1541511578805">
-        <mark key="'" line="24" column="2" />
-        <mark key="[" line="14" column="66" />
-        <mark key="]" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-        <mark key="^" line="15" column="7" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1541514930866">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+        <mark key="^" line="14" column="58" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1537795745604">
         <mark key="'" line="12" column="28" />
@@ -1317,8 +1305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="922" column="88" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="924" column="69" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="951" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="12" column="3" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="13" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1417,13 +1403,15 @@
       <jump line="23" column="2" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="126" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="189" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="115" column="56" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="310" column="69" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>downloadSize</text>
+        <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9ICAgCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1449,16 +1437,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>preferableVideoQuality: VideoQuality</text>
       </register>
       <register name="/" type="4">
-        <text>/this./ /g</text>
+        <text>hlss</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z2V0UHJlZmVyYWJsZVZpZGVvUXVhbGl0eSgpOiBQcm9taXNlPFZpZGVvUXVhbGl0eT4g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1501,28 +1489,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAoKSA9PiB7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzcGVlZEticHMgPSB0aGlzLgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KHByZWZlcmFibGVWaWRlb1F1YWxpdHk6IFZpZGVvUXVhbGl0eSkgPT4gewogICAgICAgIH0=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCByZ2JhKDI5LCAxOTcsIDIyNiwgLjc1KTsKCiAgICAgICAgICAgIC5pIHsKICAgICAgICAgICAgICAgIG9wYWNpdHk6IDE7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">KChwcmVmZXJhYmxlVmlkZW9RdWFsaXR5OiBWaWRlb1F1YWxpdHkpID0+IHsKICAgICAgICB9KQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVzZXRKb2JCb29rbWFya1JlcXVlc3QgfSBmcm9tICdhd3Mtc2RrL2NsaWVudHMvZ2x1ZSc7Cg==</text>
+      <register name="5" type="4">
+        <text />
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNvbnRhY3RVcyB9IGZyb20gJy4uL21vZGVscy9JQ29udGFjdFVzJzsKaW1wb3J0IHsgSUFwcGxpY2F0aW9uU3RvcmVzIH0gZnJvbSAnLi9BcHBsaWNhdGlvblN0b3Jlcyc7CmltcG9ydCB7IGFjdGlvbiwgb2JzZXJ2YWJsZSwgY29tcHV0ZWQgfSBmcm9tICdtb2J4JzsK</text>
+      <register name="6" type="4">
+        <text>(preferableVideoQuality: VideoQuality</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5ID0gcHJlZmVyYWJsZVZpZGVvUXVhbGl0eTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1564,7 +1552,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgY2FjaGVCdXN0ZXIgPSAnP25ubj0nICsgc3RhcnRUaW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1574,9 +1562,9 @@
       </register>
     </registers>
     <search>
-      <last-search>/this./ /g</last-search>
+      <last-search>hlss</last-search>
       <last-offset />
-      <last-pattern>/this./ /g</last-pattern>
+      <last-pattern>hlss</last-pattern>
       <last-replace />
       <last-substitute>/this./ /g</last-substitute>
       <last-dir>1</last-dir>
@@ -1584,7 +1572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>react</entry>
         <entry>update</entry>
         <entry>loadedS</entry>
         <entry>getSecondsLoaded</entry>
@@ -1604,6 +1591,7 @@
         <entry encoding="base64">XDxyZWZyZXNoVHJhaWxlclVwbG9hZFRpbWVvdXRJZFw+</entry>
         <entry>/this\.//g</entry>
         <entry>/this./ /g</entry>
+        <entry>hlss</entry>
       </history-search>
       <history-cmd>
         <entry>%s/-forward/-gonext/g</entry>
