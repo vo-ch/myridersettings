@@ -568,7 +568,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/content/views/lesson/activity-preview/ActivityPreview.tsx" timestamp="1541414460910">
         <mark key="'" line="88" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/Configuration/AppSettings.cs" timestamp="1541496383862">
+      <file name="C:/projects/UI-Web/Configuration/AppSettings.cs" timestamp="1541517597135">
+        <mark key="'" line="28" column="29" />
         <mark key="[" line="28" column="34" />
         <mark key="]" line="28" column="44" />
         <mark key="^" line="28" column="56" />
@@ -931,8 +932,11 @@
         <mark key="." line="67" column="15" />
         <mark key="^" line="67" column="15" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541504005527">
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541517625625">
         <mark key="'" line="35" column="10" />
+        <mark key="[" line="131" column="9" />
+        <mark key="]" line="131" column="9" />
+        <mark key="." line="131" column="9" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/LearningTabActionsProcessor.cs" timestamp="1536240195125">
         <mark key="'" line="26" column="103" />
@@ -1185,12 +1189,12 @@
         <mark key="." line="140" column="45" />
         <mark key="^" line="140" column="45" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1541515991359">
-        <mark key="'" line="34" column="2" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1541518568688">
+        <mark key="'" line="28" column="2" />
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/models/data-analytics/DataRecordsMap.ts" timestamp="1537795745604">
         <mark key="'" line="12" column="28" />
@@ -1252,7 +1256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="102" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="266" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="298" column="60" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1352,13 +1355,14 @@
       <jump line="89" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="115" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="130" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="28" column="29" filename="C:/projects/UI-Web/Configuration/AppSettings.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">KCF0aGlzLmlzSGxzU3VwcG9ydGVkICYmICFuZXR3b3JrU3BlZWRTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5ICk=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>onNetworkSpeed</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1384,16 +1388,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>onPreferableVideoQualityLoaded</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0hsc1N1cHBvcnRlZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>networkSpeedStore</text>
+        <text>onNetworkSpeed</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmb3JtYXQgPSB0aGlzLmlzSGxzU3VwcG9ydGVkID8gJ0hscycgOiAnTXA0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1436,28 +1440,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5ID0gJzQ4MHAnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGN1dE9mZnMgfSA9IHRoaXMuc3RvcmVzLmNvbmZpZ3VyYXRpb24ubmV0d29ya1Rlc3Q7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9ICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">KHByZWZlcmFibGVWaWRlb1F1YWxpdHk6IFZpZGVvUXVhbGl0eSk6IHZvaWQgPT4gewogICAgICAgIAogICAgfQ==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCByZ2JhKDI5LCAxOTcsIDIyNiwgLjc1KTsKCiAgICAgICAgICAgIC5pIHsKICAgICAgICAgICAgICAgIG9wYWNpdHk6IDE7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAoKSA9PiB7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">KHNwZWVkS2JwczogbnVtYmVyKTogVmlkZW9RdWFsaXR5ID0+IHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaWYgKHNwZWVkS2JwcyA8IGN1dE9mZnMuY3V0T2ZmMTA4MHApIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJzQ4MHAnOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybiAnSEQnOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KHByZWZlcmFibGVWaWRlb1F1YWxpdHk6IFZpZGVvUXVhbGl0eSkgPT4gewogICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBmb3JtYXQgPSB0aGlzLmlzSGxzU3VwcG9ydGVkID8gJ0hscycgOiAnTXA0JzsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KChwcmVmZXJhYmxlVmlkZW9RdWFsaXR5OiBWaWRlb1F1YWxpdHkpID0+IHsKICAgICAgICB9KQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5ID0gJzQ4MHAnOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9ICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1498,11 +1502,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>(preferableVideoQuality: VideoQuality</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAoKSA9PiB7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5ID0gcHJlZmVyYWJsZVZpZGVvUXVhbGl0eTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">KHByZWZlcmFibGVWaWRlb1F1YWxpdHk6IFZpZGVvUXVhbGl0eSkgPT4gewogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
