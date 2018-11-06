@@ -279,10 +279,10 @@
         <mark key="^" line="16" column="50" />
         <mark key="." line="16" column="50" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1541519992756">
-        <mark key="'" line="42" column="26" />
-        <mark key="[" line="97" column="20" />
-        <mark key="]" line="97" column="23" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1541521367153">
+        <mark key="'" line="215" column="40" />
+        <mark key="[" line="231" column="72" />
+        <mark key="]" line="231" column="80" />
         <mark key="^" line="97" column="23" />
         <mark key="." line="97" column="23" />
       </file>
@@ -638,8 +638,8 @@
         <mark key="^" line="31" column="33" />
         <mark key="." line="31" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1541517010455">
-        <mark key="'" line="130" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1541521324377">
+        <mark key="'" line="90" column="44" />
         <mark key="[" line="118" column="81" />
         <mark key="]" line="119" column="7" />
         <mark key="^" line="119" column="7" />
@@ -939,8 +939,8 @@
         <mark key="." line="67" column="15" />
         <mark key="^" line="67" column="15" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541519417744">
-        <mark key="'" line="35" column="10" />
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541521276879">
+        <mark key="'" line="139" column="12" />
         <mark key="[" line="131" column="16" />
         <mark key="]" line="131" column="19" />
         <mark key="." line="131" column="19" />
@@ -1264,17 +1264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="266" column="42" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="298" column="60" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="383" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="777" column="83" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="786" column="89" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="844" column="7" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="35" column="10" filename="C:/projects/UI-Web/appsettings.json" />
-      <jump line="930" column="58" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="8" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="462" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="798" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="797" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1364,13 +1353,24 @@
       <jump line="130" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="28" column="15" filename="C:/projects/UI-Web/Configuration/AppSettings.cs" />
       <jump line="42" column="26" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="131" column="19" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="144" column="36" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="139" column="12" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="97" column="23" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="2" column="29" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="238" column="21" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="257" column="11" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="90" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="116" column="13" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="177" column="13" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="215" column="40" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">KCF0aGlzLmlzSGxzU3VwcG9ydGVkICYmICFuZXR3b3JrU3BlZWRTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5ICk=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>FORCE_MP4</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1399,7 +1399,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0hsc1N1cHBvcnRlZFw+</text>
+        <text encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>onNetworkSpeed</text>
@@ -1465,9 +1465,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0hsc1N1cHBvcnRlZFw+</last-search>
+      <last-search encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0hsc1N1cHBvcnRlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</last-pattern>
       <last-replace />
       <last-substitute>/this./ /g</last-substitute>
       <last-dir>1</last-dir>
@@ -1475,9 +1475,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loadedS</entry>
-        <entry>getSecondsLoaded</entry>
-        <entry encoding="base64">XDxDb3Vyc2VQdXJjaGFzZUJ1dHRvblw+</entry>
         <entry encoding="base64">XDxyZW5kZXJQdXJjaGFzZUJ1dHRvblw+</entry>
         <entry>options</entry>
         <entry encoding="base64">XDxpc0NvdXJzZU9wdGlvbnNTaG93blw+</entry>
@@ -1495,6 +1492,9 @@
         <entry>/this./ /g</entry>
         <entry>hlss</entry>
         <entry encoding="base64">XDxpc0hsc1N1cHBvcnRlZFw+</entry>
+        <entry>isHls</entry>
+        <entry>hls</entry>
+        <entry encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/-forward/-gonext/g</entry>
