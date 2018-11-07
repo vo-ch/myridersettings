@@ -939,12 +939,12 @@
         <mark key="." line="67" column="15" />
         <mark key="^" line="67" column="15" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541521276879">
-        <mark key="'" line="139" column="12" />
-        <mark key="[" line="131" column="16" />
-        <mark key="]" line="131" column="19" />
-        <mark key="." line="131" column="19" />
-        <mark key="^" line="131" column="19" />
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541589399570">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="48" column="36" />
+        <mark key="." line="48" column="36" />
+        <mark key="^" line="48" column="36" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/Ui/LearningTabAcrions/LearningTabActionsProcessor.cs" timestamp="1536240195125">
         <mark key="'" line="26" column="103" />
@@ -1264,7 +1264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="798" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="797" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="801" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -1364,6 +1363,7 @@
       <jump line="116" column="13" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="177" column="13" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="215" column="40" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="29" column="4" filename="C:/projects/UI-Web/appsettings.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1399,7 +1399,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</text>
+        <text>\.staging\.</text>
       </register>
       <register name="0" type="4">
         <text>onNetworkSpeed</text>
@@ -1461,21 +1461,20 @@
         <text encoding="base64">KHByZWZlcmFibGVWaWRlb1F1YWxpdHk6IFZpZGVvUXVhbGl0eSkgPT4gewogICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>%s/\.staging\./-akosov./g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</last-search>
+      <last-search>\.staging\.</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</last-pattern>
-      <last-replace />
-      <last-substitute>/this./ /g</last-substitute>
+      <last-pattern>\.staging\.</last-pattern>
+      <last-replace>-akosov.</last-replace>
+      <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJQdXJjaGFzZUJ1dHRvblw+</entry>
         <entry>options</entry>
         <entry encoding="base64">XDxpc0NvdXJzZU9wdGlvbnNTaG93blw+</entry>
         <entry encoding="base64">XDxyZW5kZXJVc2VyQWN0aW9uc1w+</entry>
@@ -1495,9 +1494,9 @@
         <entry>isHls</entry>
         <entry>hls</entry>
         <entry encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</entry>
+        <entry>\.staging\.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/-forward/-gonext/g</entry>
         <entry>%s/course-card/course-card-base/g</entry>
         <entry>nohl</entry>
         <entry>%s/.staging\./.qa/g</entry>
@@ -1517,6 +1516,7 @@
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>%s/\.staging\./-akosov./g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
