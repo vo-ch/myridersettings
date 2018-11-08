@@ -944,10 +944,10 @@
         <mark key="." line="67" column="15" />
         <mark key="^" line="67" column="15" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541606300922">
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1541671763192">
         <mark key="'" line="29" column="4" />
-        <mark key="[" line="133" column="27" />
-        <mark key="]" line="133" column="28" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="135" column="6" />
         <mark key="." line="133" column="28" />
         <mark key="^" line="48" column="36" />
       </file>
@@ -1377,8 +1377,8 @@
       <register name="a" type="4">
         <text encoding="base64">KCF0aGlzLmlzSGxzU3VwcG9ydGVkICYmICFuZXR3b3JrU3BlZWRTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5ICk=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>hasStreamingSupport</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1409,8 +1409,8 @@
       <register name="/" type="4">
         <text>qual</text>
       </register>
-      <register name="0" type="4">
-        <text>hasStreamingSupport</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -1479,7 +1479,7 @@
       <last-replace>-akosov.</last-replace>
       <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
