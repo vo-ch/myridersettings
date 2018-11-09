@@ -220,6 +220,11 @@
         <mark key="^" line="23" column="27" />
         <mark key="." line="23" column="27" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/buttons/ArrowButton.tsx" timestamp="1541773553921">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="90" column="0" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/stores/EnterpriseStore.ts" timestamp="1538665721405">
         <mark key="'" line="25" column="14" />
         <mark key="[" line="7" column="0" />
@@ -658,7 +663,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541690844708">
+      <file name="/Dummy.txt" timestamp="1541773204639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538496109426">
@@ -1289,8 +1294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="982" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="865" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="881" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="67" column="17" filename="C:/projects/UI-Web/node_modules/@types/node/index.d.ts" />
       <jump line="43" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/commerce/views/visuals/VisualsVideo.tsx" />
@@ -1389,13 +1392,15 @@
       <jump line="88" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
       <jump line="85" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
       <jump line="157" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="19" column="26" filename="C:/projects/UI-Web/ClientApp/components/buttons/ArrowButton.tsx" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/components/buttons/ArrowButton.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>onClickOutOfOptionsHandler</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwppbXBvcnQgeyBpbmplY3QsIG9ic2VydmVyIH0gZnJvbSAnbW9ieC1yZWFjdCc7CgppbXBvcnQgeyBMaW5rIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbSc7CmltcG9ydCBjbGFzc05hbWVzIGZyb20gJ2NsYXNzbmFtZXMnOwppbXBvcnQgQ0ROIGZyb20gJ0NsaWVudEFwcC91dGlscy9DRE4nOwppbXBvcnQgSWNvbiBmcm9tICdDbGllbnRBcHAvY29tcG9uZW50cy9pY29ucy9pY29uL0ljb24nOwoKaW1wb3J0ICcuL0Fycm93QnV0dG9uLnNjc3MnOwoKLy8gVE9ETzogZ2V0IHJpZCBvZiBoYXNTaGFkb3cgYW5kIGlzQmxvY2sgYW5kIGp1c3QgdXNlIGNzcyBidXR0b24gY2xhc3NlcwpleHBvcnQgaW50ZXJmYWNlIElQcm9wcyB7CiAgICB1cmw/OiBzdHJpbmc7CiAgICBvbkNsaWNrPzogKGU6IFJlYWN0Lk1vdXNlRXZlbnQ8SFRNTEJ1dHRvbkVsZW1lbnQ+KSA9PiB2b2lkOwogICAgb25MaW5rQ2xpY2s/OiAoKSA9PiB2b2lkOwogICAgZGlzYWJsZWQ/OiBib29sZWFuOwogICAgY2xhc3NOYW1lPzogc3RyaW5nOwogICAgaGFzU2hhZG93PzogYm9vbGVhbjsKICAgIGlzQmxvY2s/OiBib29sZWFuOwogICAgaXNCYWNrQnV0dG9uPzogYm9vbGVhbjsKfQoKCkBvYnNlcnZlcgpleHBvcnQgZGVmYXVsdCBjbGFzcyBBcnJvd0J1dHRvbiBleHRlbmRzIFJlYWN0LkNvbXBvbmVudDxJUHJvcHMsIHt9PiB7CgogICAgcmVuZGVyKCk6IEpTWC5FbGVtZW50IHsKICAgICAgICBjb25zdCB7IHVybCwgb25DbGljaywgY2xhc3NOYW1lLCBpc0JhY2tCdXR0b24sIGhhc1NoYWRvdywgaXNCbG9jaywgb25MaW5rQ2xpY2sgfSA9IHRoaXMucHJvcHM7CiAgICAgICAgY29uc3QgY3NzQ2xhc3Nlczogc3RyaW5nID0gY2xhc3NOYW1lcygnYnV0dG9uJywgJ2Fycm93LWJ1dHRvbicsIHsKICAgICAgICAgICAgW2NsYXNzTmFtZV06ICEhY2xhc3NOYW1lLAogICAgICAgICAgICAnYXJyb3ctYnV0dG9uLS1iYWNrJzogKGlzQmFja0J1dHRvbiA9PT0gdHJ1ZSksCiAgICAgICAgICAgICdidXR0b24tLXNoYWRvd2VkJzogaGFzU2hhZG93LAogICAgICAgICAgICAnYnV0dG9uLS1pbmxpbmUnOiAhaXNCbG9jawogICAgICAgIH0pOwoKICAgICAgICBpZiAob25DbGljaykgewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnByb3BzLmRpc2FibGVkfQogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y3NzQ2xhc3Nlc30KICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtvbkNsaWNrfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHsgdGhpcy5yZW5kZXJDb250ZW50KCkgfQogICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICk7CiAgICAgICAgfSBlbHNlIGlmICh1cmwpIHsKICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjc3NDbGFzc2VzfQogICAgICAgICAgICAgICAgICAgIHRvPXt1cmx9CiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17b25MaW5rQ2xpY2t9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgeyB0aGlzLnJlbmRlckNvbnRlbnQoKSB9CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbnVsbDsKCiAgICB9CgogICAgcmVuZGVyQ29udGVudCgpOiBKU1guRWxlbWVudCB7CgogICAgICAgIGNvbnN0IHsgaXNCYWNrQnV0dG9uLCBjaGlsZHJlbiB9ID0gdGhpcy5wcm9wczsKCiAgICAgICAgY29uc3QgYXJyb3dVcmw6IHN0cmluZyA9IENETi5nZXRVcmwoJy9zdmcvZ2xvYmFsL3JpZ2h0LWFycm93LnN2ZycpOwoKICAgICAgICBpZiAoaXNCYWNrQnV0dG9uKSB7CiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8UmVhY3QuRnJhZ21lbnQ+CiAgICAgICAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImFycm93LWJ1dHRvbl9fYXJyb3ciCiAgICAgICAgICAgICAgICAgICAgICAgIHNyYz17YXJyb3dVcmx9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICB7Y2hpbGRyZW59CiAgICAgICAgICAgICAgICA8L1JlYWN0LkZyYWdtZW50PgogICAgICAgICAgICApOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8UmVhY3QuRnJhZ21lbnQ+CiAgICAgICAgICAgICAgICAgICAge2NoaWxkcmVufQogICAgICAgICAgICAgICAgICAgIDxpbWcKICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhcnJvdy1idXR0b25fX2Fycm93IgogICAgICAgICAgICAgICAgICAgICAgICBzcmM9e2Fycm93VXJsfQogICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8L1JlYWN0LkZyYWdtZW50PgogICAgICAgICAgICApOwogICAgICAgIH0KICAgIH0KfQoK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1427,7 +1432,7 @@
         <text encoding="base64">XDxvbkNvbnRyb2xDbGlja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnQucmVtb3ZlRXZlbnRMaXN0ZW5lcignY2xpY2snLCB0aGlzLm9uQ2xpY2tPdXRIYW5kbGVyKTsK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwppbXBvcnQgeyBpbmplY3QsIG9ic2VydmVyIH0gZnJvbSAnbW9ieC1yZWFjdCc7CgppbXBvcnQgeyBMaW5rIH0gZnJvbSAncmVhY3Qtcm91dGVyLWRvbSc7CmltcG9ydCBjbGFzc05hbWVzIGZyb20gJ2NsYXNzbmFtZXMnOwppbXBvcnQgQ0ROIGZyb20gJ0NsaWVudEFwcC91dGlscy9DRE4nOwppbXBvcnQgSWNvbiBmcm9tICdDbGllbnRBcHAvY29tcG9uZW50cy9pY29ucy9pY29uL0ljb24nOwoKaW1wb3J0ICcuL0Fycm93QnV0dG9uLnNjc3MnOwoKLy8gVE9ETzogZ2V0IHJpZCBvZiBoYXNTaGFkb3cgYW5kIGlzQmxvY2sgYW5kIGp1c3QgdXNlIGNzcyBidXR0b24gY2xhc3NlcwpleHBvcnQgaW50ZXJmYWNlIElQcm9wcyB7CiAgICB1cmw/OiBzdHJpbmc7CiAgICBvbkNsaWNrPzogKGU6IFJlYWN0Lk1vdXNlRXZlbnQ8SFRNTEJ1dHRvbkVsZW1lbnQ+KSA9PiB2b2lkOwogICAgb25MaW5rQ2xpY2s/OiAoKSA9PiB2b2lkOwogICAgZGlzYWJsZWQ/OiBib29sZWFuOwogICAgY2xhc3NOYW1lPzogc3RyaW5nOwogICAgaGFzU2hhZG93PzogYm9vbGVhbjsKICAgIGlzQmxvY2s/OiBib29sZWFuOwogICAgaXNCYWNrQnV0dG9uPzogYm9vbGVhbjsKfQoKCkBvYnNlcnZlcgpleHBvcnQgZGVmYXVsdCBjbGFzcyBBcnJvd0J1dHRvbiBleHRlbmRzIFJlYWN0LkNvbXBvbmVudDxJUHJvcHMsIHt9PiB7CgogICAgcmVuZGVyKCk6IEpTWC5FbGVtZW50IHsKICAgICAgICBjb25zdCB7IHVybCwgb25DbGljaywgY2xhc3NOYW1lLCBpc0JhY2tCdXR0b24sIGhhc1NoYWRvdywgaXNCbG9jaywgb25MaW5rQ2xpY2sgfSA9IHRoaXMucHJvcHM7CiAgICAgICAgY29uc3QgY3NzQ2xhc3Nlczogc3RyaW5nID0gY2xhc3NOYW1lcygnYnV0dG9uJywgJ2Fycm93LWJ1dHRvbicsIHsKICAgICAgICAgICAgW2NsYXNzTmFtZV06ICEhY2xhc3NOYW1lLAogICAgICAgICAgICAnYXJyb3ctYnV0dG9uLS1iYWNrJzogKGlzQmFja0J1dHRvbiA9PT0gdHJ1ZSksCiAgICAgICAgICAgICdidXR0b24tLXNoYWRvd2VkJzogaGFzU2hhZG93LAogICAgICAgICAgICAnYnV0dG9uLS1pbmxpbmUnOiAhaXNCbG9jawogICAgICAgIH0pOwoKICAgICAgICBpZiAob25DbGljaykgewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnByb3BzLmRpc2FibGVkfQogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y3NzQ2xhc3Nlc30KICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtvbkNsaWNrfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHsgdGhpcy5yZW5kZXJDb250ZW50KCkgfQogICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICk7CiAgICAgICAgfSBlbHNlIGlmICh1cmwpIHsKICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjc3NDbGFzc2VzfQogICAgICAgICAgICAgICAgICAgIHRvPXt1cmx9CiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17b25MaW5rQ2xpY2t9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgeyB0aGlzLnJlbmRlckNvbnRlbnQoKSB9CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbnVsbDsKCiAgICB9CgogICAgcmVuZGVyQ29udGVudCgpOiBKU1guRWxlbWVudCB7CgogICAgICAgIGNvbnN0IHsgaXNCYWNrQnV0dG9uLCBjaGlsZHJlbiB9ID0gdGhpcy5wcm9wczsKCiAgICAgICAgY29uc3QgYXJyb3dVcmw6IHN0cmluZyA9IENETi5nZXRVcmwoJy9zdmcvZ2xvYmFsL3JpZ2h0LWFycm93LnN2ZycpOwoKICAgICAgICBpZiAoaXNCYWNrQnV0dG9uKSB7CiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8UmVhY3QuRnJhZ21lbnQ+CiAgICAgICAgICAgICAgICAgICAgPGltZwogICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImFycm93LWJ1dHRvbl9fYXJyb3ciCiAgICAgICAgICAgICAgICAgICAgICAgIHNyYz17YXJyb3dVcmx9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICB7Y2hpbGRyZW59CiAgICAgICAgICAgICAgICA8L1JlYWN0LkZyYWdtZW50PgogICAgICAgICAgICApOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICA8UmVhY3QuRnJhZ21lbnQ+CiAgICAgICAgICAgICAgICAgICAge2NoaWxkcmVufQogICAgICAgICAgICAgICAgICAgIDxpbWcKICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhcnJvdy1idXR0b25fX2Fycm93IgogICAgICAgICAgICAgICAgICAgICAgICBzcmM9e2Fycm93VXJsfQogICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8L1JlYWN0LkZyYWdtZW50PgogICAgICAgICAgICApOwogICAgICAgIH0KICAgIH0KfQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1497,7 +1502,7 @@
       <last-replace>-akosov.</last-replace>
       <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
