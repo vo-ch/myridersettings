@@ -182,6 +182,13 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1541677703409">
         <mark key="'" line="298" column="26" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" timestamp="1541776950378">
+        <mark key="'" line="76" column="24" />
+        <mark key="[" line="209" column="4" />
+        <mark key="]" line="212" column="5" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="208" column="3" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/CourseCatalogPageProfessional.tsx" timestamp="1538398871682">
         <mark key="'" line="31" column="80" />
         <mark key="[" line="18" column="13" />
@@ -239,11 +246,12 @@
         <mark key="." line="86" column="14" />
         <mark key="^" line="86" column="14" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" timestamp="1541774807202">
-        <mark key="'" line="88" column="21" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" timestamp="1541776836993">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="255" column="5" />
+        <mark key="." line="252" column="0" />
+        <mark key="^" line="154" column="48" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1540388820737">
         <mark key="'" line="150" column="27" />
@@ -627,7 +635,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541773204639">
+      <file name="/Dummy.txt" timestamp="1541776956131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538496109426">
@@ -750,10 +758,10 @@
         <mark key="." line="134" column="52" />
         <mark key="^" line="134" column="52" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" timestamp="1541775279368">
-        <mark key="'" line="269" column="22" />
-        <mark key="[" line="265" column="32" />
-        <mark key="]" line="265" column="32" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" timestamp="1541776705729">
+        <mark key="'" line="264" column="12" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="58" />
         <mark key="." line="265" column="32" />
         <mark key="^" line="265" column="32" />
       </file>
@@ -1252,12 +1260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="26" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
-      <jump line="96" column="32" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
-      <jump line="21" column="41" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
-      <jump line="26" column="18" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
-      <jump line="18" column="47" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
-      <jump line="15" column="28" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="248" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="227" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="296" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -1352,10 +1354,16 @@
       <jump line="15" column="25" filename="C:/projects/UI-Web/ClientApp/components/helpers/document-click/DocClickHandle.tsx" />
       <jump line="19" column="27" filename="C:/projects/UI-Web/ClientApp/components/helpers/document-click/DocClickHandle.tsx" />
       <jump line="3336" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
+      <jump line="264" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
+      <jump line="94" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="111" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="116" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="141" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="76" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>onClickOutOfOptionsHandler</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgb25DbGlja091dCA9ICgpOiB2b2lkID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnY2xpY2sgb3VyJyk7CiAgICAgICAgdGhpcy5zZXRPcGVuU3RhdGUoZmFsc2UpOwogICAgfQo=</text>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
@@ -1384,13 +1392,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RG9jQ2xpY2tIYW5kbGU+</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250cm9sQnV0dG9uXD4=</text>
+        <text encoding="base64">XDxvbkNsaWNrT3V0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXRPcGVuU3RhdGUoZmFsc2UpOwo=</text>
+      <register name="0" type="4">
+        <text>DocClickHandle</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1408,25 +1416,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPERvY0NsaWNrSGFuZGxlIGhhbmRsZXI9e3t0aGlzLm9uQ2xpY2tPdXR9PgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICcuL0Fycm93QnV0dG9uLnNjc3MnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCByZ2JhKDI5LCAxOTcsIDIyNiwgLjc1KTsKCiAgICAgICAgICAgIC5pIHsKICAgICAgICAgICAgICAgIG9wYWNpdHk6IDE7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxEb2NDbGlja0hhbmRsZSBoYW5kbGVyPXt0aGlzLm9uQ2xpY2tPdXR9Pgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuL0Fycm93QnV0dG9uLnNjc3MnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVhY3ROb2RlIH0gZnJvbSAncmVhY3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1443,19 +1451,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbmRlckNvbnRlbnQoKTogSlNYLkVsZW1lbnQgewoKICAgICAgICBjb25zdCB7IGlzQmFja0J1dHRvbiwgY2hpbGRyZW4gfSA9IHRoaXMucHJvcHM7CgogICAgICAgIGNvbnN0IGFycm93VXJsOiBzdHJpbmcgPSBDRE4uZ2V0VXJsKCcvc3ZnL2dsb2JhbC9yaWdodC1hcnJvdy5zdmcnKTsKCiAgICAgICAgaWYgKGlzQmFja0J1dHRvbikgewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgPFJlYWN0LkZyYWdtZW50PgogICAgICAgICAgICAgICAgICAgIDxpbWcKICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJhcnJvdy1idXR0b25fX2Fycm93IgogICAgICAgICAgICAgICAgICAgICAgICBzcmM9e2Fycm93VXJsfQogICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAge2NoaWxkcmVufQogICAgICAgICAgICAgICAgPC9SZWFjdC5GcmFnbWVudD4KICAgICAgICAgICAgKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgPFJlYWN0LkZyYWdtZW50PgogICAgICAgICAgICAgICAgICAgIHtjaGlsZHJlbn0KICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYXJyb3ctYnV0dG9uX19hcnJvdyIKICAgICAgICAgICAgICAgICAgICAgICAgc3JjPXthcnJvd1VybH0KICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPC9SZWFjdC5GcmFnbWVudD4KICAgICAgICAgICAgKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVhY3ROb2RlIH0gZnJvbSAncmVhY3QnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7fSA9IHRoaXMucHJvcHM7CiAgICAgICAgY29uc3QgY3NzQ2xhc3Nlczogc3RyaW5nID0gY2xhc3NOYW1lcygnYnV0dG9uJywgJ2Fycm93LWJ1dHRvbicsIHsKICAgICAgICAgICAgW2NsYXNzTmFtZV06ICEhY2xhc3NOYW1lLAogICAgICAgICAgICAnYXJyb3ctYnV0dG9uLS1iYWNrJzogKGlzQmFja0J1dHRvbiA9PT0gdHJ1ZSksCiAgICAgICAgICAgICdidXR0b24tLXNoYWRvd2VkJzogaGFzU2hhZG93LAogICAgICAgICAgICAnYnV0dG9uLS1pbmxpbmUnOiAhaXNCbG9jawogICAgICAgIH0pOwoKICAgICAgICBpZiAob25DbGljaykgewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXt0aGlzLnByb3BzLmRpc2FibGVkfQogICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT17Y3NzQ2xhc3Nlc30KICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtvbkNsaWNrfQogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgIHsgdGhpcy5yZW5kZXJDb250ZW50KCkgfQogICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICk7CiAgICAgICAgfSBlbHNlIGlmICh1cmwpIHsKICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjc3NDbGFzc2VzfQogICAgICAgICAgICAgICAgICAgIHRvPXt1cmx9CiAgICAgICAgICAgICAgICAgICAgb25DbGljaz17b25MaW5rQ2xpY2t9CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgeyB0aGlzLnJlbmRlckNvbnRlbnQoKSB9CiAgICAgICAgICAgICAgICA8L0xpbms+CiAgICAgICAgICAgICk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250cm9sQnV0dG9uXD4=</last-search>
+      <last-search encoding="base64">XDxvbkNsaWNrT3V0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250cm9sQnV0dG9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNsaWNrT3V0XD4=</last-pattern>
       <last-replace>-akosov.</last-replace>
       <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1463,7 +1471,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZyZXNoVHJhaWxlclVwbG9hZFRpbWVvdXRJZFw+</entry>
         <entry>/this\.//g</entry>
         <entry>/this./ /g</entry>
         <entry>hlss</entry>
@@ -1483,6 +1490,7 @@
         <entry encoding="base64">XDxpc01lbnVWaXNpYmxlXD4=</entry>
         <entry encoding="base64">XDxvbkNvbnRyb2xDbGlja1w+</entry>
         <entry encoding="base64">XDxjb250cm9sQnV0dG9uXD4=</entry>
+        <entry encoding="base64">XDxvbkNsaWNrT3V0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/course-card/course-card-base/g</entry>
@@ -1491,7 +1499,6 @@
         <entry>%s/.staging\./.qa./g</entry>
         <entry>%s/\.qa/-honeysha/g</entry>
         <entry>.,.+2action CommentByLineComment</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>%s/\.staging/-honeysha/g</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
@@ -1505,6 +1512,7 @@
         <entry>%s/\.staging\./-akosov./g</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
