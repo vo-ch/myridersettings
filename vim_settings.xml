@@ -182,11 +182,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1541677703409">
         <mark key="'" line="298" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" timestamp="1542034465470">
-        <mark key="'" line="135" column="52" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" timestamp="1542041062419">
+        <mark key="'" line="47" column="34" />
+        <mark key="[" line="170" column="56" />
+        <mark key="]" line="170" column="65" />
+        <mark key="." line="170" column="65" />
+        <mark key="^" line="170" column="65" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/CourseCatalogPageProfessional.tsx" timestamp="1538398871682">
         <mark key="'" line="31" column="80" />
@@ -634,7 +635,7 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="16" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541776956131">
+      <file name="/Dummy.txt" timestamp="1542041394215">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/professional/course-catalog-table/CourseCatalogEnterpriseTable.tsx" timestamp="1538496109426">
@@ -730,12 +731,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/SpeedMenu.tsx" timestamp="1542034863977">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/SpeedMenu.tsx" timestamp="1542040053369">
         <mark key="'" line="36" column="52" />
-        <mark key="[" line="32" column="92" />
-        <mark key="]" line="32" column="122" />
-        <mark key="." line="32" column="94" />
-        <mark key="^" line="32" column="94" />
+        <mark key="[" line="32" column="91" />
+        <mark key="]" line="32" column="91" />
+        <mark key="." line="32" column="91" />
+        <mark key="^" line="40" column="112" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/CourseCatalogPageEnterprise.module.scss" timestamp="1538576492447">
         <mark key="'" line="30" column="25" />
@@ -761,12 +762,12 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" timestamp="1542034897704">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" timestamp="1542040679919">
         <mark key="'" line="259" column="55" />
-        <mark key="[" line="232" column="116" />
-        <mark key="]" line="233" column="27" />
-        <mark key="." line="233" column="27" />
-        <mark key="^" line="233" column="27" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="46" />
+        <mark key="." line="157" column="43" />
+        <mark key="^" line="157" column="43" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/styles/components/doorbell.scss" timestamp="1540993492512">
         <mark key="'" line="141" column="25" />
@@ -1263,8 +1264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
-      <jump line="247" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
       <jump line="114" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/stores/SettingsMenuStore.ts" />
       <jump line="173" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
       <jump line="90" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" />
@@ -1363,13 +1362,15 @@
       <jump line="257" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
       <jump line="129" column="52" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
       <jump line="258" column="55" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
+      <jump line="160" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" />
+      <jump line="47" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>currentElement.classList.contains('player-controls-menu__item')</text>
+        <text>!isOpen</text>
       </register>
       <register name="&quot;" type="4">
-        <text>player-controls-menu__item</text>
+        <text>menuRef</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1395,16 +1396,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>player-controls-menu__item</text>
+        <text>menuRef</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkRvY3VtZW50Rm9jdXNcPg==</text>
+        <text>onControl</text>
       </register>
-      <register name="0" type="4">
-        <text>js-player-controls__menu-button</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldE9wZW5TdGF0ZSghdGhpcy5zdGF0ZS5pc09wZW4pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>!isOpen</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1419,28 +1420,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiBIYW5kbGUgbXV0ZSAvIHVubXV0ZSB1cG9uIGNsaWNraW5nIHZvbHVtZSBpY29uCiAgICAgKiAtIDEuIEZvciBtb2JpbGUsIG9wZW4gbWVudSBvbiBjbGljawogICAgICogLSAyLiBGb3IgbW9iaWxlLCBpZiBtZW51IGlzIG9wZW4sIG11dGUgLyB1bm11dGUgb24gdm9sdW1lIGJ1dHRvbiBjbGljawogICAgICogLSAzLiBGb3IgZGVza3RvcCwgbXV0ZSAvIHVubXV0ZSBvbiBjbGljayBzaW5jZSBtZW51IGlzIHNob3duIG9uIGhvdmVyCiAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlzT3BlbiwgaXNGb2N1c2VkIH0gPSB0aGlzLnN0YXRlOwo=</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBIYW5kbGUgbXV0ZSAvIHVubXV0ZSB1cG9uIGNsaWNraW5nIHZvbHVtZSBpY29uCiAgICAgKiAtIDEuIEZvciBtb2JpbGUsIG9wZW4gbWVudSBvbiBjbGljawogICAgICogLSAyLiBGb3IgbW9iaWxlLCBpZiBtZW51IGlzIG9wZW4sIG11dGUgLyB1bm11dGUgb24gdm9sdW1lIGJ1dHRvbiBjbGljawogICAgICogLSAzLiBGb3IgZGVza3RvcCwgbXV0ZSAvIHVubXV0ZSBvbiBjbGljayBzaW5jZSBtZW51IGlzIHNob3duIG9uIGhvdmVyCiAgICAgKi8K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxEb2NDbGlja0hhbmRsZSBoYW5kbGVyPXt0aGlzLm9uQ2xpY2tPdXR9Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKCghbW9iaWxlRGV2aWNlICYmICFpc09wZW4gKSAgewo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlzT3BlbiwgaXNGb2N1c2VkIH0gPSB0aGlzLnN0YXRlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlzTXV0ZWQsIG9uQnV0dG9uQ2xpY2sgfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKCghbW9iaWxlRGV2aWNlICYmICFpc09wZW4gKSAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtb2JpbGVEZXZpY2UgPSAoYm93c2VyLm1vYmlsZSB8fCBib3dzZXIudGFibGV0KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlzTXV0ZWQsIG9uQnV0dG9uQ2xpY2sgfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoKCFtb2JpbGVEZXZpY2UgJiYgIWlzT3BlbiApIHx8IChpc09wZW4gJiYgaXNGb2N1c2VkKSkgewogICAgICAgICAgICB0aGlzLnNldE9wZW5TdGF0ZSh0cnVlKTsKICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBtb2JpbGVEZXZpY2UgPSAoYm93c2VyLm1vYmlsZSB8fCBib3dzZXIudGFibGV0KTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1453,20 +1454,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiBIYW5kbGUgbXV0ZSAvIHVubXV0ZSB1cG9uIGNsaWNraW5nIHZvbHVtZSBpY29uCiAgICAgKiAtIDEuIEZvciBtb2JpbGUsIG9wZW4gbWVudSBvbiBjbGljawogICAgICogLSAyLiBGb3IgbW9iaWxlLCBpZiBtZW51IGlzIG9wZW4sIG11dGUgLyB1bm11dGUgb24gdm9sdW1lIGJ1dHRvbiBjbGljawogICAgICogLSAzLiBGb3IgZGVza3RvcCwgbXV0ZSAvIHVubXV0ZSBvbiBjbGljayBzaW5jZSBtZW51IGlzIHNob3duIG9uIGhvdmVyCiAgICAgKi8K</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZWxzZSBpZiAoKCFtb2JpbGVEZXZpY2UgJiYgIWlzT3BlbiApIHx8IChpc09wZW4gJiYgaXNGb2N1c2VkKSkgewogICAgICAgICAgICB0aGlzLnNldE9wZW5TdGF0ZSh0cnVlKTsKICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlzTXV0ZWQsIG9uQnV0dG9uQ2xpY2sgfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBIYW5kbGUgbXV0ZSAvIHVubXV0ZSB1cG9uIGNsaWNraW5nIHZvbHVtZSBpY29uCiAgICAgKiAtIDEuIEZvciBtb2JpbGUsIG9wZW4gbWVudSBvbiBjbGljawogICAgICogLSAyLiBGb3IgbW9iaWxlLCBpZiBtZW51IGlzIG9wZW4sIG11dGUgLyB1bm11dGUgb24gdm9sdW1lIGJ1dHRvbiBjbGljawogICAgICogLSAzLiBGb3IgZGVza3RvcCwgbXV0ZSAvIHVubXV0ZSBvbiBjbGljayBzaW5jZSBtZW51IGlzIHNob3duIG9uIGhvdmVyCiAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkRvY3VtZW50Rm9jdXNcPg==</last-search>
+      <last-search>onControl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkRvY3VtZW50Rm9jdXNcPg==</last-pattern>
+      <last-pattern>onControl</last-pattern>
       <last-replace>-akosov.</last-replace>
       <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1474,7 +1475,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblF1YWxpdHlDaGFuZ2VcPg==</entry>
         <entry>qual</entry>
         <entry>speed</entry>
         <entry encoding="base64">XDxvblNwZWVkQ2hhbmdlXD4=</entry>
@@ -1494,6 +1494,7 @@
         <entry>isO</entry>
         <entry encoding="base64">XDxpc0ZvY3VzZWRcPg==</entry>
         <entry encoding="base64">XDxvbkRvY3VtZW50Rm9jdXNcPg==</entry>
+        <entry>onControl</entry>
       </history-search>
       <history-cmd>
         <entry>%s/course-card/course-card-base/g</entry>
@@ -1505,7 +1506,6 @@
         <entry>%s/\.staging/-honeysha/g</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
-        <entry>reg</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>%s/-vchmuzh/.staging/g</entry>
         <entry>%s/\.staging\./-vchmuzh./g</entry>
@@ -1516,6 +1516,7 @@
         <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
