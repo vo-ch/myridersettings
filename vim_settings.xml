@@ -350,19 +350,8 @@
         <mark key="^" line="71" column="46" />
         <mark key="." line="71" column="46" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1541072180320">
-        <mark key="'" line="81" column="39" />
-        <mark key="[" line="61" column="16" />
-        <mark key="]" line="61" column="25" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="112" column="18" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1541414716577">
-        <mark key="'" line="106" column="1" />
-        <mark key="[" line="881" column="52" />
-        <mark key="]" line="881" column="58" />
-        <mark key="." line="881" column="58" />
-        <mark key="^" line="881" column="58" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542102586027">
+        <mark key="'" line="65" column="4" />
       </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/EntitiesList.cs" timestamp="1536847895654">
         <mark key="'" line="16" column="84" />
@@ -1197,9 +1186,6 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/services/CourseSearchService.ts" timestamp="1541072085864">
-        <mark key="'" line="145" column="25" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1541608718850">
         <mark key="'" line="28" column="2" />
         <mark key="[" line="17" column="33" />
@@ -1264,10 +1250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/stores/SettingsMenuStore.ts" />
-      <jump line="173" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
-      <jump line="90" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" />
-      <jump line="175" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
       <jump line="115" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/stores/SettingsMenuStore.ts" />
       <jump line="38" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/stores/SettingsMenuStore.ts" />
       <jump line="158" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
@@ -1364,6 +1346,10 @@
       <jump line="258" column="55" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
       <jump line="160" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" />
       <jump line="47" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" />
+      <jump line="64" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="502" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="65" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="513" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1399,7 +1385,7 @@
         <text>menuRef</text>
       </register>
       <register name="/" type="4">
-        <text>onControl</text>
+        <text encoding="base64">XDxjb250aW51b3VzTW9kZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnNldE9wZW5TdGF0ZSghdGhpcy5zdGF0ZS5pc09wZW4pOwo=</text>
@@ -1465,9 +1451,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onControl</last-search>
+      <last-search encoding="base64">XDxjb250aW51b3VzTW9kZVw+</last-search>
       <last-offset />
-      <last-pattern>onControl</last-pattern>
+      <last-pattern encoding="base64">XDxjb250aW51b3VzTW9kZVw+</last-pattern>
       <last-replace>-akosov.</last-replace>
       <last-substitute>\.staging\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1475,8 +1461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>qual</entry>
-        <entry>speed</entry>
         <entry encoding="base64">XDxvblNwZWVkQ2hhbmdlXD4=</entry>
         <entry encoding="base64">XDxDbGlja091dENvbXBvbmVudFw+</entry>
         <entry>mount</entry>
@@ -1495,6 +1479,8 @@
         <entry encoding="base64">XDxpc0ZvY3VzZWRcPg==</entry>
         <entry encoding="base64">XDxvbkRvY3VtZW50Rm9jdXNcPg==</entry>
         <entry>onControl</entry>
+        <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
+        <entry encoding="base64">XDxjb250aW51b3VzTW9kZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/course-card/course-card-base/g</entry>
