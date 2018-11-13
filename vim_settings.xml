@@ -820,6 +820,9 @@
         <mark key="^" line="30" column="48" />
         <mark key="." line="30" column="48" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" timestamp="1542120122357">
+        <mark key="'" line="368" column="51" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/RawLogs/BaseLogsProcessor.cs" timestamp="1536846839424">
         <mark key="'" line="9" column="48" />
         <mark key="[" line="9" column="26" />
@@ -1257,18 +1260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="36" filename="C:/projects/UI-Web/ClientApp/components/helpers/document-click/DocClickHandle.tsx" />
-      <jump line="3695" column="27" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
-      <jump line="3717" column="10" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
-      <jump line="24" column="40" filename="C:/projects/UI-Web/ClientApp/components/helpers/document-click/DocClickHandle.tsx" />
-      <jump line="8427" column="10" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
-      <jump line="26" column="36" filename="C:/projects/UI-Web/ClientApp/components/helpers/document-click/DocClickHandle.tsx" />
-      <jump line="14908" column="26" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
-      <jump line="2633" column="10" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
-      <jump line="8441" column="13" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
-      <jump line="30" column="38" filename="C:/projects/UI-Web/ClientApp/components/helpers/document-click/DocClickHandle.tsx" />
-      <jump line="8440" column="13" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
-      <jump line="27" column="72" filename="C:/projects/UI-Web/ClientApp/components/helpers/document-click/DocClickHandle.tsx" />
       <jump line="3497" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
       <jump line="32" column="107" filename="C:/projects/UI-Web/ClientApp/components/helpers/document-click/DocClickHandle.tsx" />
       <jump line="34" column="49" filename="C:/projects/UI-Web/ClientApp/components/helpers/document-click/DocClickHandle.tsx" />
@@ -1357,6 +1348,18 @@
       <jump line="69" column="17" filename="C:/projects/NewCMS/src/views/courses/components/CourseSearchComponent.jsx" />
       <jump line="112" column="38" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
       <jump line="89" column="48" filename="C:/projects/NewCMS/src/views/user-report/components/UserSearchComponent.jsx" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="19" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="46" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="50" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="51" column="10" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="70" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="71" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="97" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="218" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="179" column="73" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="373" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="368" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1392,7 +1395,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJTZWFyY2hOYXZcPg==</text>
+        <text>chap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnNldE9wZW5TdGF0ZSghdGhpcy5zdGF0ZS5pc09wZW4pOwo=</text>
@@ -1458,9 +1461,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJTZWFyY2hOYXZcPg==</last-search>
+      <last-search>chap</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJTZWFyY2hOYXZcPg==</last-pattern>
+      <last-pattern>chap</last-pattern>
       <last-replace>.staging</last-replace>
       <last-substitute>-vchmuzh</last-substitute>
       <last-dir>1</last-dir>
@@ -1468,7 +1471,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc01lbnVWaXNpYmxlXD4=</entry>
         <entry encoding="base64">XDxvbkNvbnRyb2xDbGlja1w+</entry>
         <entry encoding="base64">XDxjb250cm9sQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxvbkNsaWNrT3V0XD4=</entry>
@@ -1488,6 +1490,7 @@
         <entry>sort</entry>
         <entry encoding="base64">XDxjb2x1bW5zTGlzdFw+</entry>
         <entry encoding="base64">XDxyZW5kZXJTZWFyY2hOYXZcPg==</entry>
+        <entry>chap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/course-card/course-card-base/g</entry>
