@@ -153,6 +153,13 @@
         <mark key="." line="2" column="91" />
         <mark key="^" line="2" column="91" />
       </file>
+      <file name="C:/projects/NewCMS/src/components/SearchComponent.jsx" timestamp="1542196028710">
+        <mark key="'" line="49" column="32" />
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="49" column="26" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/views/course-basic-metadata/CourseBasicMetadata.tsx" timestamp="1541683179079">
         <mark key="'" line="255" column="17" />
         <mark key="[" line="17" column="0" />
@@ -263,6 +270,11 @@
       <file name="C:/projects/NewCMS/src/views/courses/components/CourseSearchComponent.jsx" timestamp="1542118078101">
         <mark key="'" line="69" column="17" />
       </file>
+      <file name="C:/projects/NewCMS/src/views/skills-management/components/SkillsSearchForm.jsx" timestamp="1542195112185">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="10" column="24" />
+      </file>
       <file name="C:/projects/cu-data-reporting/CuDataReporting.DataManagment/IndexDefenitions/AggregatedEntities/User/IndexDefinitions/UserEmails/CommonProcessors/UserRegistered/UserRegisteredScript.painless" timestamp="1534341947111">
         <mark key="'" line="16" column="8" />
         <mark key="[" line="16" column="27" />
@@ -339,8 +351,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/score-slide/ScoreSlide.tsx" timestamp="1540493242516">
         <mark key="'" line="81" column="35" />
       </file>
-      <file name="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" timestamp="1542128105263">
-        <mark key="'" line="246" column="42" />
+      <file name="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" timestamp="1542194545430">
+        <mark key="'" line="245" column="26" />
         <mark key="[" line="71" column="46" />
         <mark key="]" line="71" column="46" />
         <mark key="^" line="71" column="46" />
@@ -1272,11 +1284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="123" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
-      <jump line="59" column="56" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
-      <jump line="101" column="74" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
-      <jump line="157" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
       <jump line="46" column="67" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
       <jump line="86" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
       <jump line="36" column="52" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/SpeedMenu.tsx" />
@@ -1372,13 +1379,18 @@
       <jump line="125" column="10" filename="C:/projects/NewCMS/package.json" />
       <jump line="15" column="23" filename="C:/projects/NewCMS/package.json" />
       <jump line="82" column="14" filename="C:/projects/NewCMS/src/views/user-report/components/UserSearchComponent.jsx" />
+      <jump line="245" column="26" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
+      <jump line="7" column="6" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
+      <jump line="24" column="15" filename="C:/projects/NewCMS/src/views/courses/components/CourseSearchComponent.jsx" />
+      <jump line="48" column="17" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
+      <jump line="49" column="32" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>!isOpen</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBwcm9wVHlwZXMgPSB7CiAgICAJb25TdWJtaXQ6IFByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsCiAgICAJZmlsdGVyOiBQcm9wVHlwZXMuYW55LmlzUmVxdWlyZWQsCiAgICAJdmlldzogUHJvcFR5cGVzLnN0cmluZwogICAgfTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ColumnSelector</text>
+        <text>.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1404,16 +1416,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text encoding="base64">XDxzdGF0dXNMaXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldE9wZW5TdGF0ZSghdGhpcy5zdGF0ZS5pc09wZW4pOwo=</text>
+      <register name="0" type="4">
+        <text>bindField</text>
       </register>
-      <register name="1" type="4">
-        <text>!isOpen</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCXRoaXMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1428,28 +1440,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxUZXh0ZmllbGQgZmxvYXRpbmdMYWJlbCByZWY9ImNvdXJzZVRpdGxlIiBsYWJlbD0iQ291cnNlIFRpdGxlIi8+CgkJCQk8VGV4dGZpZWxkIGZsb2F0aW5nTGFiZWwgcmVmPSJpbnN0cnVjdG9yIiBsYWJlbD0iSW5zdHJ1Y3RvciBOYW1lIi8+CgkJCQk8VGV4dGZpZWxkIGZsb2F0aW5nTGFiZWwgcmVmPSJ1c2VySWRPZkluc3RydWN0b3IiIGxhYmVsPSJVc2VyIElkIE9mIEluc3RydWN0b3IiLz4KCQkJCTxUZXh0ZmllbGQgZmxvYXRpbmdMYWJlbCByZWY9ImNvdXJzZUlkIiBsYWJlbD0iQ291cnNlIElEIi8+CgkJCQk8VGV4dGZpZWxkIGZsb2F0aW5nTGFiZWwgcmVmPSJwYXJlbnRDYXRlZ29yeSIgbGFiZWw9IlBhcmVudCBDYXRlZ29yeSIvPgoJCQkJPFRleHRmaWVsZCBmbG9hdGluZ0xhYmVsIHJlZj0iY2hpbGRDYXRlZ29yeSIgbGFiZWw9IkNoaWxkIENhdGVnb3J5Ii8+CgkJCQk8TURMU2VsZWN0RmllbGQKCQkJCQlsYWJlbD0iQ291cnNlIFN0YXR1cyIKCQkJCQlyZWY9ImNvdXJzZVN0YXR1cyIKCQkJCQlhdXRvY29tcGxldGUKCQkJCQlyZXF1aXJlZAoJCQkJCWZsb2F0aW5nTGFiZWwKCQkJCQlvbkNoYW5nZT17KCkgPT4gewoJCQkJCQljb25zb2xlLmxvZyh0aGlzLnJlZnMucGFyZW50Q2F0ZWdvcnkpOwoJCQkJCX19CgkJCQkJaXRlbXM9e3N0YXR1c0xpc3QgfHwgW119CgkJCQkJa2V5RmllbGQ9ImlkIgoJCQkJCXZhbHVlRmllbGQ9Im5hbWUiCgkJCQkvPgoJCQkJPFRleHRmaWVsZCBmbG9hdGluZ0xhYmVsIHJlZj0ic2tpbGxzIiBsYWJlbD0iU2tpbGxzIi8+Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiBIYW5kbGUgbXV0ZSAvIHVubXV0ZSB1cG9uIGNsaWNraW5nIHZvbHVtZSBpY29uCiAgICAgKiAtIDEuIEZvciBtb2JpbGUsIG9wZW4gbWVudSBvbiBjbGljawogICAgICogLSAyLiBGb3IgbW9iaWxlLCBpZiBtZW51IGlzIG9wZW4sIG11dGUgLyB1bm11dGUgb24gdm9sdW1lIGJ1dHRvbiBjbGljawogICAgICogLSAzLiBGb3IgZGVza3RvcCwgbXV0ZSAvIHVubXV0ZSBvbiBjbGljayBzaW5jZSBtZW51IGlzIHNob3duIG9uIGhvdmVyCiAgICAgKi8K</text>
+      <register name="3" type="4">
+        <text encoding="base64">CQlmaWx0ZXI6IFByb3BUeXBlcy5hbnkuaXNSZXF1aXJlZCwKCQl2aWV3OiBQcm9wVHlwZXMuc3RyaW5n</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxEb2NDbGlja0hhbmRsZSBoYW5kbGVyPXt0aGlzLm9uQ2xpY2tPdXR9Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlzT3BlbiwgaXNGb2N1c2VkIH0gPSB0aGlzLnN0YXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKCghbW9iaWxlRGV2aWNlICYmICFpc09wZW4gKSAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGlzTXV0ZWQsIG9uQnV0dG9uQ2xpY2sgfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBtb2JpbGVEZXZpY2UgPSAoYm93c2VyLm1vYmlsZSB8fCBib3dzZXIudGFibGV0KTsK</text>
+        <text encoding="base64">CXZhbGlkYXRlRmllbGQoZmllbGRWYWx1ZSkgewoJCWlmIChmaWVsZFZhbHVlICYmIGZpZWxkVmFsdWUubGVuZ3RoID4gMCkgewoJCQlyZXR1cm4gdHJ1ZTsKCQl9CgoJCXJldHVybiBmYWxzZTsKCX0KCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1462,20 +1474,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoKCFtb2JpbGVEZXZpY2UgJiYgIWlzT3BlbiApIHx8IChpc09wZW4gJiYgaXNGb2N1c2VkKSkgewogICAgICAgICAgICB0aGlzLnNldE9wZW5TdGF0ZSh0cnVlKTsKICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHtNRExTZWxlY3RGaWVsZH0gZnJvbSAncmVhY3QtbWRsLXNlbGVjdCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiBIYW5kbGUgbXV0ZSAvIHVubXV0ZSB1cG9uIGNsaWNraW5nIHZvbHVtZSBpY29uCiAgICAgKiAtIDEuIEZvciBtb2JpbGUsIG9wZW4gbWVudSBvbiBjbGljawogICAgICogLSAyLiBGb3IgbW9iaWxlLCBpZiBtZW51IGlzIG9wZW4sIG11dGUgLyB1bm11dGUgb24gdm9sdW1lIGJ1dHRvbiBjbGljawogICAgICogLSAzLiBGb3IgZGVza3RvcCwgbXV0ZSAvIHVubXV0ZSBvbiBjbGljayBzaW5jZSBtZW51IGlzIHNob3duIG9uIGhvdmVyCiAgICAgKi8K</text>
+        <text encoding="base64">CWNvbnN0cnVjdG9yKHByb3BzKSB7CgkJc3VwZXIocHJvcHMpOwoJCXRoaXMuZmlsdGVyQ2FsbEJhY2sgPSB0aGlzLnByb3BzLmZpbHRlckNhbGxCYWNrOwoJCXRoaXMub25TZWFyY2hTdWJtaXQgPSB0aGlzLm9uU2VhcmNoU3VibWl0LmJpbmQodGhpcyk7Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/-vchmuzh/.staging/g</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search encoding="base64">XDxzdGF0dXNMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0dXNMaXN0XD4=</last-pattern>
       <last-replace>.staging</last-replace>
       <last-substitute>-vchmuzh</last-substitute>
       <last-dir>1</last-dir>
@@ -1483,7 +1495,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJMaXN0XD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJNb2JpbGVNZW51XD4=</entry>
         <entry encoding="base64">XDxjb250cm9sUmVmXD4=</entry>
         <entry encoding="base64">XDxjb250YWluZXJSZWZcPg==</entry>
@@ -1503,6 +1514,7 @@
         <entry encoding="base64">XDxpbnN0cnVjdG9ySWRPck5hbWVcPg==</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry>form</entry>
+        <entry encoding="base64">XDxzdGF0dXNMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/course-card/course-card-base/g</entry>
@@ -1521,10 +1533,10 @@
         <entry>%s/\.staging\./-akosov./g</entry>
         <entry>action GotoImplementation</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
         <entry>%s/-vchmuzh/.staging/g</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
