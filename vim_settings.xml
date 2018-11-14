@@ -353,12 +353,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/score-slide/ScoreSlide.tsx" timestamp="1540493242516">
         <mark key="'" line="81" column="35" />
       </file>
-      <file name="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" timestamp="1542206922551">
-        <mark key="'" line="247" column="32" />
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
+      <file name="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" timestamp="1542209025078">
+        <mark key="'" line="90" column="58" />
+        <mark key="[" line="250" column="53" />
+        <mark key="]" line="250" column="53" />
+        <mark key="." line="250" column="53" />
+        <mark key="^" line="250" column="106" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542102586027">
         <mark key="'" line="65" column="4" />
@@ -1292,9 +1292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" />
-      <jump line="19" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" />
-      <jump line="32" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" />
       <jump line="135" column="52" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/VolumeMenu.tsx" />
       <jump line="257" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
       <jump line="129" column="52" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractListMenu.tsx" />
@@ -1391,14 +1388,17 @@
       <jump line="3" column="9" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
       <jump line="4" column="13" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
       <jump line="10" column="25" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
-      <jump line="247" column="32" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
+      <jump line="248" column="26" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
+      <jump line="250" column="78" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
+      <jump line="247" column="35" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
+      <jump line="90" column="58" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>CourseFilterModel</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SearchComponent</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1424,7 +1424,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>{}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZXh0ZmllbGRcPg==</text>
