@@ -52,12 +52,12 @@
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="32" />
       </file>
-      <file name="C:/projects/NewCMS/src/stores/SearchStore.js" timestamp="1542368113959">
+      <file name="C:/projects/NewCMS/src/stores/SearchStore.js" timestamp="1542374318666">
         <mark key="'" line="21" column="28" />
-        <mark key="[" line="21" column="79" />
-        <mark key="]" line="21" column="80" />
-        <mark key="." line="21" column="80" />
-        <mark key="^" line="21" column="80" />
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="24" column="68" />
+        <mark key="." line="24" column="68" />
+        <mark key="^" line="24" column="68" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/styles/mixins/transition.scss" timestamp="1540819912848">
         <mark key="'" line="11" column="12" />
@@ -109,12 +109,12 @@
         <mark key="^" line="15" column="52" />
         <mark key="." line="15" column="52" />
       </file>
-      <file name="C:/projects/NewCMS/src/components/SearchComponent.jsx" timestamp="1542367933063">
-        <mark key="'" line="24" column="42" />
-        <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="45" />
+      <file name="C:/projects/NewCMS/src/components/SearchComponent.jsx" timestamp="1542376621336">
+        <mark key="'" line="59" column="2" />
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="18" />
+        <mark key="." line="51" column="18" />
+        <mark key="^" line="51" column="18" />
       </file>
       <file name="C:/projects/NewCMS/src/views/courses-in-review/stores/CoursesInReviewFilterModel.js" timestamp="1542125855187">
         <mark key="'" line="2" column="46" />
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="27" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
       <jump line="305" column="49" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts" />
       <jump line="148" column="9" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts" />
       <jump line="27" column="35" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
@@ -263,7 +262,6 @@
       <jump line="34" column="0" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
       <jump line="19" column="48" filename="C:/projects/NewCMS/src/stores/SearchStore.js" />
       <jump line="27" column="22" filename="C:/projects/NewCMS/src/stores/SearchStore.js" />
-      <jump line="16" column="43" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
       <jump line="175" column="34" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
       <jump line="171" column="24" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
       <jump line="32" column="36" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
@@ -283,13 +281,15 @@
       <jump line="24" column="42" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
       <jump line="21" column="28" filename="C:/projects/NewCMS/src/stores/SearchStore.js" />
       <jump line="2" column="29" filename="C:/projects/NewCMS/node_modules/qs/lib/index.js" />
+      <jump line="16" column="39" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
+      <jump line="59" column="2" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">CQljb25zdCBxdWVyeVBhcmFtcyA9IGZsYXR0ZW4odGhpcy5zdG9yZS5maWx0ZXIuZ2V0UGFyYW1zKCksIHsgZGVsaW1pdGVyOiAnXycgfSk7CgkJY29uc3QgcGFyYW1zID0gcXMuc3RyaW5naWZ5KHF1ZXJ5UGFyYW1zKTsKCQl0aGlzLnByb3BzLnJvdXRlclN0b3JlLnB1c2goYCR7dGhpcy5wcm9wcy5iYXNlVXJsfT8ke3BhcmFtc31gKTsK</text>
+        <text encoding="base64">CQlPYmplY3QuZGVmaW5lUHJvcGVydHkoZGVzY3JpcHRvciwgJ3ZhbHVlJywgeyBlbnVtZXJhYmxlOiB0cnVlLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>this.props.location.search</text>
+        <text>this</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -315,16 +315,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.location.search</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNoYW5nZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0b3JlLmZldGNoRGF0YUxpc3QobW9kZWwpOwo=</text>
+        <text encoding="base64">CQkJCQkJCXJldHVybiB0aGlzLnByb3BzLnNlYXJjaFN0b3JlLmZpbHRlcnNbbmFtZV07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0OiAoKSA9PiB7CgkJCQkJCQlyZXR1cm4gdGhpcy5wcm9wcy5zZWFyY2hTdG9yZS5maWx0ZXJzW25hbWVdOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -346,28 +346,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ2NoYW5nZTogJyk7CgkJCWNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24uc2VhcmNoKTsKCQkJY29uc29sZS5sb2cocHJldlByb3BzLmxvY2F0aW9uLnNlYXJjaCk7Cg==</text>
+        <text encoding="base64">CQkJQGNvbXB1dGVkIGdldCB2YWx1ZSgpIHsKCQkJfQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnb2xvbG8nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZWFsVmFsdWU7IAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxEb2NDbGlja0hhbmRsZSBoYW5kbGVyPXt0aGlzLm9uQ2xpY2tPdXR9Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vY29uc29sZS5sb2coIkdldCIpOyAgICBkbyBzb21ldGhpbmcuLi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvbXBvbmVudERpZE1vdW50KCkgewoJCXRoaXMucHJvcHMuc2VhcmNoU3RvcmUucGFyc2VRdWVyeVN0cmluZygpOwoJfQo=</text>
+        <text encoding="base64">CQkJCXJldHVybiBzZWxmLnByb3BzLnNlYXJjaFN0b3JlLmZpbHRlcnNbbmFtZV07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpcyBpcyB0aGUgbWlzc2luZyBsaW5lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0aGlzLnByb3BzLm9uU2VhcmNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhYmxlOiB0cnVlLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -381,13 +381,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0aGlzLnByb3BzLm9uU2VhcmNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0OiBmdW5jdGlvbih2KSB7CiAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCJTZXQiKTsgICAgZG8gc29tZXRoaW5nLi4uCiAgICAgICAgICAgICAgICByZWFsVmFsdWUgPSB2OwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCWNvbnN0IHRpdGxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -437,12 +437,12 @@
         <entry encoding="base64">JzwsJz5zJS90aGlzLi8gL2c=</entry>
         <entry>%s/\.staging\./-akosov./g</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action RenameElement</entry>
         <entry>%s/-vchmuzh/.staging/g</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
