@@ -9,12 +9,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/score-slide/ScoreSlide.tsx" timestamp="1540493242516">
         <mark key="'" line="81" column="35" />
       </file>
-      <file name="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" timestamp="1542365265495">
+      <file name="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" timestamp="1542377687077">
         <mark key="'" line="58" column="28" />
-        <mark key="[" line="232" column="34" />
-        <mark key="]" line="232" column="46" />
-        <mark key="." line="232" column="46" />
-        <mark key="^" line="232" column="46" />
+        <mark key="[" line="235" column="32" />
+        <mark key="]" line="235" column="47" />
+        <mark key="." line="235" column="62" />
+        <mark key="^" line="235" column="62" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
@@ -109,11 +109,11 @@
         <mark key="^" line="15" column="52" />
         <mark key="." line="15" column="52" />
       </file>
-      <file name="C:/projects/NewCMS/src/components/SearchComponent.jsx" timestamp="1542376621336">
+      <file name="C:/projects/NewCMS/src/components/SearchComponent.jsx" timestamp="1542377368475">
         <mark key="'" line="59" column="2" />
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="18" />
-        <mark key="." line="51" column="18" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
         <mark key="^" line="51" column="18" />
       </file>
       <file name="C:/projects/NewCMS/src/views/courses-in-review/stores/CoursesInReviewFilterModel.js" timestamp="1542125855187">
@@ -152,10 +152,10 @@
       <file name="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" timestamp="1542118188095">
         <mark key="'" line="112" column="38" />
       </file>
-      <file name="C:/projects/NewCMS/src/views/courses/components/CourseSearchComponent.jsx" timestamp="1542205039070">
-        <mark key="'" line="63" column="44" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="44" />
+      <file name="C:/projects/NewCMS/src/views/courses/components/CourseSearchComponent.jsx" timestamp="1542377753899">
+        <mark key="'" line="69" column="9" />
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="45" />
       </file>
       <file name="C:/projects/NewCMS/node_modules/mobx/lib/mobx.d.ts" timestamp="1542210375582">
         <mark key="'" line="82" column="4" />
@@ -183,7 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="49" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts" />
       <jump line="148" column="9" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts" />
       <jump line="27" column="35" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
       <jump line="5" column="7" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
@@ -283,13 +282,14 @@
       <jump line="2" column="29" filename="C:/projects/NewCMS/node_modules/qs/lib/index.js" />
       <jump line="16" column="39" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
       <jump line="59" column="2" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
+      <jump line="69" column="9" filename="C:/projects/NewCMS/src/views/courses/components/CourseSearchComponent.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">CQlPYmplY3QuZGVmaW5lUHJvcGVydHkoZGVzY3JpcHRvciwgJ3ZhbHVlJywgeyBlbnVtZXJhYmxlOiB0cnVlLAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>react-mdl-select</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -315,16 +315,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkNoYW5nZVw+</text>
+        <text encoding="base64">XDxNRExTZWxlY3RGaWVsZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCXJldHVybiB0aGlzLnByb3BzLnNlYXJjaFN0b3JlLmZpbHRlcnNbbmFtZV07Cg==</text>
+      <register name="0" type="4">
+        <text>statusDescriptor</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0OiAoKSA9PiB7CgkJCQkJCQlyZXR1cm4gdGhpcy5wcm9wcy5zZWFyY2hTdG9yZS5maWx0ZXJzW25hbWVdOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJcmVmPSJjb3Vyc2VTdGF0dXMiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -346,28 +346,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJQGNvbXB1dGVkIGdldCB2YWx1ZSgpIHsKCQkJfQo=</text>
+        <text encoding="base64">CQkvLyBpZiAodHlwZW9mIHRoaXMucHJvcHMuZmlsdGVyc1tuYW1lXSA9PT0gJ3VuZGVmaW5lZCcpIHsKCQkvLyAJdGhpcy5wcm9wcy5zZWFyY2hTdG9yZS5zZXRGaWx0ZXIobmFtZSwgbnVsbCk7CgkJLy8gfQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZWFsVmFsdWU7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0OiAoKSA9PiB7CgkJCQkJCQlyZXR1cm4gdGhpcy5wcm9wcy5zZWFyY2hTdG9yZS5maWx0ZXJzW25hbWVdOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxEb2NDbGlja0hhbmRsZSBoYW5kbGVyPXt0aGlzLm9uQ2xpY2tPdXR9Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vY29uc29sZS5sb2coIkdldCIpOyAgICBkbyBzb21ldGhpbmcuLi4K</text>
+        <text encoding="base64">CQkJQGNvbXB1dGVkIGdldCB2YWx1ZSgpIHsKCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBzZWxmLnByb3BzLnNlYXJjaFN0b3JlLmZpbHRlcnNbbmFtZV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZWFsVmFsdWU7IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpcyBpcyB0aGUgbWlzc2luZyBsaW5lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vY29uc29sZS5sb2coIkdldCIpOyAgICBkbyBzb21ldGhpbmcuLi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhYmxlOiB0cnVlLAo=</text>
+        <text encoding="base64">CQkJCXJldHVybiBzZWxmLnByb3BzLnNlYXJjaFN0b3JlLmZpbHRlcnNbbmFtZV07Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -381,27 +381,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0OiBmdW5jdGlvbih2KSB7CiAgICAgICAgICAgICAgICAvL2NvbnNvbGUubG9nKCJTZXQiKTsgICAgZG8gc29tZXRoaW5nLi4uCiAgICAgICAgICAgICAgICByZWFsVmFsdWUgPSB2OwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVGhpcyBpcyB0aGUgbWlzc2luZyBsaW5lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhYmxlOiB0cnVlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkNoYW5nZVw+</last-search>
+      <last-search encoding="base64">XDxNRExTZWxlY3RGaWVsZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkNoYW5nZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxNRExTZWxlY3RGaWVsZFw+</last-pattern>
       <last-replace>.staging</last-replace>
       <last-substitute>-vchmuzh</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJTZWFyY2hOYXZcPg==</entry>
         <entry>chap</entry>
         <entry encoding="base64">XDxpbnN0cnVjdG9ySWRPck5hbWVcPg==</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
@@ -421,6 +420,7 @@
         <entry encoding="base64">XDxyb3V0ZXJTdG9yZVw+</entry>
         <entry encoding="base64">XDxDb3Vyc2VGaWx0ZXJNb2RlbFw+</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
+        <entry encoding="base64">XDxNRExTZWxlY3RGaWVsZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/course-card/course-card-base/g</entry>
