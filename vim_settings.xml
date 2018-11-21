@@ -229,6 +229,13 @@
       <file name="C:/projects/UI-Web/ClientApp/utils/test-utils/MutableMock.ts" timestamp="1542216908231">
         <mark key="'" line="4" column="30" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" timestamp="1542813716484">
+        <mark key="'" line="197" column="17" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="175" column="28" />
+        <mark key="." line="175" column="28" />
+        <mark key="^" line="175" column="28" />
+      </file>
       <file name="C:/projects/NewCMS/src/views/course-registrations/stores/CourseRegistrationsFilterModel.js" timestamp="1542644442499">
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="47" />
@@ -260,6 +267,13 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="106" column="70" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.tsx" timestamp="1542814764546">
+        <mark key="'" line="49" column="53" />
+        <mark key="[" line="49" column="94" />
+        <mark key="]" line="49" column="94" />
+        <mark key="." line="49" column="94" />
+        <mark key="^" line="51" column="19" />
       </file>
       <file name="C:/projects/NewCMS/node_modules/mobx/lib/mobx.d.ts" timestamp="1542210375582">
         <mark key="'" line="82" column="4" />
@@ -313,10 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="54" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
-      <jump line="134" column="53" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
-      <jump line="41" column="4" filename="C:/projects/NewCMS/src/views/user-report/components/UserSearchComponent.jsx" />
-      <jump line="131" column="34" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
       <jump line="128" column="34" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
       <jump line="129" column="29" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
       <jump line="114" column="27" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
@@ -413,13 +423,17 @@
       <jump line="474" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="570" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="31" column="20" filename="C:/projects/UI-Web/ClientApp/components/spinner/Spinner.scss" />
+      <jump line="47" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.tsx" />
+      <jump line="187" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" />
+      <jump line="0" column="7" filename="C:/projects/UI-Web/ClientApp/styles/mixins/media-query-helpers.scss" />
+      <jump line="49" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB0aGlzLnByb3BzLmhhc0NsZWFyQnV0dG9uID8KICAgICAgICAgIDxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMuY2xlYXJGaWx0ZXJ9IGNsYXNzTmFtZT0iZmlsdGVyLWJ1dHRvbiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5jbGVhcjwvaT5DbGVhciBTZWFyY2g8L0J1dHRvbj4gOgogICAgICAgICAgbnVsbAogICAgICAgIH0K</text>
+        <text encoding="base64">LmFuc3dlci10b2dnbGUgewogICAgCn0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>stroke-dashoffset:</text>
+        <text encoding="base64">PHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -445,16 +459,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>!isReady || !shouldShowVideo</text>
+        <text encoding="base64">PHNwYW4gY2xhc3NOYW1lPSJhbnN3ZXItdG9nZ2xlX19sZXR0ZXIiPi48L3NwYW4+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</text>
+        <text>letter</text>
       </register>
-      <register name="0" type="4">
-        <text>stroke-dashoffset:</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -476,13 +490,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhbnN3ZXItdG9nZ2xlX190ZXh0LXdyYXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhbnN3ZXItdG9nZ2xlX190ZXh0Ij57YW5zd2VyfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LmFuc3dlci10b2dnbGUgewogICAgCn0K</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -491,17 +505,17 @@
             { value: 'Linkedin', label: 'Linkedin' }
         ]</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PwoJCQkJCQk8QnV0dG9uIHJpcHBsZSBvbkNsaWNrPXt0aGlzLmNsZWFyRmlsdGVyfSBjbGFzc05hbWU9ImZpbHRlci1idXR0b24iPgoJCQkJCQkJPGkgY2xhc3NOYW1lPSJtYXRlcmlhbC1pY29ucyI+Y2xlYXI8L2k+Q2xlYXIgU2VhcmNoPC9CdXR0b24+IDoKCQkJCQkJbnVsbA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmb3IgKGxldCBrZXkgaW4gdGhpcy5wcm9wcy5zZWFyY2hTdG9yZS5maWx0ZXJzKSB7CgkJCXRoaXMucHJvcHMuc2VhcmNoU3RvcmUuc2V0RmlsdGVyKGtleSwgbnVsbCk7CgkJfQoKICAgIHRoaXMucHJvcHMub25TZWFyY2godGhpcy5wcm9wcy5zZWFyY2hTdG9yZS5maWx0ZXJzKTsK</text>
+        <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LCBmaWx0ZXI6IChwcmVmaXgsIHZhbHVlKSA9PiB7CgkJCXJldHVybiB2YWx1ZSB8fCB1bmRlZmluZWQ7CgkJfSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -514,20 +528,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="8" type="4">
+        <text encoding="base64">PwoJCQkJCQk8QnV0dG9uIHJpcHBsZSBvbkNsaWNrPXt0aGlzLmNsZWFyRmlsdGVyfSBjbGFzc05hbWU9ImZpbHRlci1idXR0b24iPgoJCQkJCQkJPGkgY2xhc3NOYW1lPSJtYXRlcmlhbC1pY29ucyI+Y2xlYXI8L2k+Q2xlYXIgU2VhcmNoPC9CdXR0b24+IDoKCQkJCQkJbnVsbA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtIG9uU3VibWl0PXsgdGhpcy5maWx0ZXJEYXRhTGlzdC5iaW5kKHRoaXMpIH0+CiAgICAgICAgICAgICAgICAgICAgPERhdGVSYW5nZVBpY2tlciBvbkRhdGVzQ2hhbmdlPXsgdGhpcy5vbkRhdGVSYW5nZUNoYW5nZWQuYmluZCh0aGlzKSB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydERhdGU9eyB0aGlzLnN0b3JlLmZpbHRlci5mcm9tRGF0ZSB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmREYXRlPXsgdGhpcy5zdG9yZS5maWx0ZXIudG9EYXRlIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzT3V0c2lkZVJhbmdlPXsgaXNJbkZ1dHVyZSB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBudW1iZXJPZk1vbnRocz17IDIgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5pdGlhbFZpc2libGVNb250aD17IGdldEluaXRpYWxNb250aCB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaG93RGVmYXVsdElucHV0SWNvbj17IHRydWUgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9jdXNlZElucHV0PXsgdGhpcy5zdG9yZS5mb2N1c2VkSW5wdXQgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25Gb2N1c0NoYW5nZT17IChmb2N1c2VkSW5wdXQpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnN0b3JlLnNldEZvY3VzZWRJbnB1dChmb2N1c2VkSW5wdXQpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSB9CiAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICA8VGV4dGZpZWxkIGZsb2F0aW5nTGFiZWwgcmVmPSJsZWFybmVySWQiIGxhYmVsPSJMZWFybmVyIElkIi8+CiAgICAgICAgICAgICAgICAgICAgPFRleHRmaWVsZCBmbG9hdGluZ0xhYmVsIHJlZj0iY291cnNlSWQiIGxhYmVsPSJDb3Vyc2UgSWQiLz4KICAgICAgICAgICAgICAgICAgICA8VGV4dGZpZWxkIGZsb2F0aW5nTGFiZWwgcmVmPSJpbnN0cnVjdG9ySWQiIGxhYmVsPSJJbnN0cnVjdG9yIElkIi8+CiAgICAgICAgICAgICAgICAgICAgPFRleHRmaWVsZCBmbG9hdGluZ0xhYmVsIHJlZj0icHVibGlzaGVySWQiIGxhYmVsPSJQdWJsaXNoZXIgSWQiLz4KICAgICAgICAgICAgICAgICAgICA8VGV4dGZpZWxkIGZsb2F0aW5nTGFiZWwgcmVmPSJjb3Vyc2VUaXRsZSIgbGFiZWw9IkNvdXJzZSBUaXRsZSIvPgogICAgICAgICAgICAgICAgICAgIDxUZXh0ZmllbGQgZmxvYXRpbmdMYWJlbCByZWY9ImRvbWFpbiIgbGFiZWw9IkRvbWFpbiIvPgogICAgICAgICAgICAgICAgICAgIDxCdXR0b24gcmlwcGxlIGNsYXNzTmFtZT0iZmlsdGVyLWJ1dHRvbiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzTmFtZT0ibWF0ZXJpYWwtaWNvbnMiPnNlYXJjaDwvaT5TZWFyY2g8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIHJpcHBsZSBvbkNsaWNrPXsgdGhpcy5jbGVhckZpbHRlci5iaW5kKHRoaXMpIH0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3NOYW1lPSJtYXRlcmlhbC1pY29ucyI+Y2xlYXI8L2k+Q2xlYXIgU2VhcmNoPC9CdXR0b24+CiAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiByaXBwbGUgb25DbGljaz17IHRoaXMub25FeHBvcnRUb0NzdiB9IGNsYXNzTmFtZT0iZmlsdGVyLWJ1dHRvbiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzTmFtZT0ibWF0ZXJpYWwtaWNvbnMiPmZpbGVfZG93bmxvYWQ8L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIEV4cG9ydDwvQnV0dG9uPgogICAgICAgICAgICAgICAgPC9mb3JtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.staging/-honeysha/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</last-search>
+      <last-search>letter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</last-pattern>
+      <last-pattern>letter</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -535,7 +549,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHRlbmRPYnNlcnZhYmxlXD4=</entry>
         <entry encoding="base64">XDxwcm92aWRlclw+</entry>
         <entry encoding="base64">XDxUZXh0ZmllbGRcPg==</entry>
         <entry>render</entry>
@@ -555,6 +568,7 @@
         <entry>BigPlay</entry>
         <entry encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</entry>
+        <entry>letter</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.staging\./.qa./g</entry>
