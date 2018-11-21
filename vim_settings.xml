@@ -29,8 +29,12 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542102586027">
-        <mark key="'" line="65" column="4" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542808675590">
+        <mark key="'" line="570" column="14" />
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="382" column="53" />
+        <mark key="." line="551" column="56" />
+        <mark key="^" line="551" column="56" />
       </file>
       <file name="C:/projects/NewCMS/src/views/user-report/stores/UserFilterModel.js" timestamp="1542642229985">
         <mark key="[" line="21" column="24" />
@@ -116,8 +120,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/QualitySubMenu.tsx" timestamp="1541601140159">
         <mark key="'" line="38" column="20" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1541506086295">
-        <mark key="'" line="227" column="12" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1542807942042">
+        <mark key="'" line="245" column="23" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/search-box/SearchBox.tsx" timestamp="1541068927203">
         <mark key="'" line="9" column="4" />
@@ -210,11 +214,17 @@
         <mark key="^" line="35" column="37" />
         <mark key="." line="35" column="64" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1541677703409">
-        <mark key="'" line="298" column="26" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1542808477768">
+        <mark key="'" line="89" column="20" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" timestamp="1542808511987">
+        <mark key="'" line="7" column="16" />
       </file>
       <file name="C:/projects/UI-Web/Program.cs" timestamp="1540308380489">
         <mark key="'" line="19" column="70" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.tsx" timestamp="1542808058954">
+        <mark key="'" line="12" column="25" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/utils/test-utils/MutableMock.ts" timestamp="1542216908231">
         <mark key="'" line="4" column="30" />
@@ -298,30 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
-      <jump line="125" column="23" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
-      <jump line="126" column="24" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
-      <jump line="14" column="32" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="34" column="4" filename="C:/projects/NewCMS/node_modules/prop-types/factoryWithThrowingShims.js" />
-      <jump line="142" column="72" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
-      <jump line="167" column="63" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
-      <jump line="141" column="0" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
-      <jump line="46" column="28" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
-      <jump line="45" column="4" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
-      <jump line="49" column="7" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="0" column="27" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="2" column="21" filename="C:/projects/NewCMS/src/components/SearchComponent.scss" />
-      <jump line="27" column="27" filename="C:/projects/NewCMS/src/views/courses-in-review/stores/CoursesInReviewStore.js" />
-      <jump line="124" column="18" filename="C:/projects/NewCMS/node_modules/react-mdl/src/Textfield.js" />
-      <jump line="114" column="32" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
-      <jump line="120" column="33" filename="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" />
-      <jump line="50" column="36" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="57" column="0" filename="C:/projects/NewCMS/src/stores/SearchStore.js" />
-      <jump line="51" column="0" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="2" column="27" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="55" column="29" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="21" column="38" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="118" column="53" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
       <jump line="112" column="26" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
       <jump line="133" column="54" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
       <jump line="134" column="53" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
@@ -398,13 +384,37 @@
       <jump line="73" column="28" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
       <jump line="34" column="30" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
       <jump line="101" column="20" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
+      <jump line="34" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="263" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="466" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="468" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="156" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="171" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="183" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="190" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="245" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="105" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="130" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="545" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="12" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.tsx" />
+      <jump line="271" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="115" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="390" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="89" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="26" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" />
+      <jump line="7" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" />
+      <jump line="122" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="189" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="194" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="474" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="570" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB0aGlzLnByb3BzLmhhc0NsZWFyQnV0dG9uID8KICAgICAgICAgIDxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMuY2xlYXJGaWx0ZXJ9IGNsYXNzTmFtZT0iZmlsdGVyLWJ1dHRvbiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5jbGVhcjwvaT5DbGVhciBTZWFyY2g8L0J1dHRvbj4gOgogICAgICAgICAgbnVsbAogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InBsYXllci12aWRlb19fd3JhcHBlciIK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -430,13 +440,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>hasClearButton</text>
+        <text>!isReady || !shouldShowVideo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJjZW50Q29tcGxldGVcPg==</text>
+        <text encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJCQlhZGRpdGlvbmFsQnV0dG9ucz17CgkJCQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQkJCTxpIGNsYXNzTmFtZT0ibWF0ZXJpYWwtaWNvbnMiPmZpbGVfZG93bmxvYWQ8L2k+CgkJCQkJCQkJCQlFeHBvcnQ8L0J1dHRvbj4KCQkJCQkJCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InBsYXllci12aWRlb19fd3JhcHBlciIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
@@ -510,23 +520,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJjZW50Q29tcGxldGVcPg==</last-search>
+      <last-search encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJjZW50Q29tcGxldGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>value</entry>
-        <entry encoding="base64">XDxnZXRWYWx1ZVw+</entry>
-        <entry encoding="base64">XDxnZXRFbXB0eUZpbHRlclw+</entry>
-        <entry encoding="base64">XDxGaWx0ZXJNb2RlbFw+</entry>
-        <entry encoding="base64">XDx0aXRsZVw+</entry>
-        <entry encoding="base64">XDxvblNlYXJjaFw+</entry>
-        <entry>se</entry>
         <entry encoding="base64">XDxleHRlbmRPYnNlcnZhYmxlXD4=</entry>
         <entry encoding="base64">XDxwcm92aWRlclw+</entry>
         <entry encoding="base64">XDxUZXh0ZmllbGRcPg==</entry>
@@ -540,6 +543,13 @@
         <entry>moment</entry>
         <entry>.staging</entry>
         <entry encoding="base64">XDxwZXJjZW50Q29tcGxldGVcPg==</entry>
+        <entry>Load</entry>
+        <entry>load</entry>
+        <entry encoding="base64">XDxyZW5kZXJMb2FkaW5nXD4=</entry>
+        <entry>big-play</entry>
+        <entry>BigPlay</entry>
+        <entry encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</entry>
+        <entry encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.staging\./.qa./g</entry>
