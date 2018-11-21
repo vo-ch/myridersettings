@@ -293,6 +293,11 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/commerce/views/visuals/VisualsVideo.tsx" timestamp="1541414688073">
         <mark key="'" line="192" column="26" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/spinner/Spinner.scss" timestamp="1542809295801">
+        <mark key="'" line="31" column="20" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="25" />
+      </file>
       <file name="C:/projects/NewCMS/src/views/transactions/TransactionsB2CReportComponent.jsx" timestamp="1542728906820">
         <mark key="'" line="93" column="98" />
         <mark key="[" line="82" column="0" />
@@ -308,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="26" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
       <jump line="133" column="54" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
       <jump line="134" column="53" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
       <jump line="41" column="4" filename="C:/projects/NewCMS/src/views/user-report/components/UserSearchComponent.jsx" />
@@ -408,13 +412,14 @@
       <jump line="194" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="474" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="570" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="31" column="20" filename="C:/projects/UI-Web/ClientApp/components/spinner/Spinner.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB0aGlzLnByb3BzLmhhc0NsZWFyQnV0dG9uID8KICAgICAgICAgIDxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMuY2xlYXJGaWx0ZXJ9IGNsYXNzTmFtZT0iZmlsdGVyLWJ1dHRvbiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5jbGVhcjwvaT5DbGVhciBTZWFyY2g8L0J1dHRvbj4gOgogICAgICAgICAgbnVsbAogICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9InBsYXllci12aWRlb19fd3JhcHBlciIK</text>
+      <register name="&quot;" type="4">
+        <text>stroke-dashoffset:</text>
       </register>
       <register name="d" type="4">
         <keys>
