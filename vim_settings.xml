@@ -192,6 +192,13 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.module.scss" timestamp="1542883098287">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="90" column="29" />
+        <mark key="." line="111" column="0" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
       </file>
@@ -330,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="33" filename="C:/projects/NewCMS/src/views/user-report/stores/UserReportStore.js" />
       <jump line="346" column="29" filename="C:/projects/NewCMS/src/views/user-report/stores/UserReportStore.js" />
       <jump line="4" column="0" filename="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" />
       <jump line="114" column="30" filename="C:/projects/NewCMS/src/views/user-report/stores/UserReportStore.js" />
@@ -430,13 +436,14 @@
       <jump line="22" column="72" filename="C:/projects/cu-data-reporting/CuDataReporting.GoogleAnalytics/Services/GoogleAnalyticsService.cs" />
       <jump line="82" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" />
       <jump line="178" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.module.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LmFuc3dlci10b2dnbGUgewogICAgCn0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -465,13 +472,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>1rem</text>
+        <text>pagina</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -492,14 +499,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGVkIHsKICAgICAgICAgICAgICAgIHBhZGRpbmc6IDA7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhbnN3ZXItdG9nZ2xlX190ZXh0LXdyYXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhbnN3ZXItdG9nZ2xlX190ZXh0Ij57YW5zd2VyfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -508,17 +515,17 @@
             { value: 'Linkedin', label: 'Linkedin' }
         ]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LmFuc3dlci10b2dnbGUgewogICAgCn0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">PHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhbnN3ZXItdG9nZ2xlX190ZXh0LXdyYXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJhbnN3ZXItdG9nZ2xlX190ZXh0Ij57YW5zd2VyfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">LmFuc3dlci10b2dnbGUgewogICAgCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,19 +539,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PwoJCQkJCQk8QnV0dG9uIHJpcHBsZSBvbkNsaWNrPXt0aGlzLmNsZWFyRmlsdGVyfSBjbGFzc05hbWU9ImZpbHRlci1idXR0b24iPgoJCQkJCQkJPGkgY2xhc3NOYW1lPSJtYXRlcmlhbC1pY29ucyI+Y2xlYXI8L2k+Q2xlYXIgU2VhcmNoPC9CdXR0b24+IDoKCQkJCQkJbnVsbA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJCTxCdXR0b24gcmlwcGxlIG9uQ2xpY2s9e3RoaXMub25FeHBvcnRUb0Nzdn0gY2xhc3NOYW1lPSJmaWx0ZXItYnV0dG9uIj4KCQkJCQkJCQk8aSBjbGFzc05hbWU9Im1hdGVyaWFsLWljb25zIj5maWxlX2Rvd25sb2FkPC9pPgoJCQkJCQkJCUV4cG9ydDwvQnV0dG9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/.staging/-honeysha/g</text>
       </register>
     </registers>
     <search>
-      <last-search>1rem</last-search>
+      <last-search>pagina</last-search>
       <last-offset />
-      <last-pattern>1rem</last-pattern>
+      <last-pattern>pagina</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +559,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUZXh0ZmllbGRcPg==</entry>
         <entry>render</entry>
         <entry encoding="base64">XDxhcHBseVNlYXJjaFw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJEYXRhTGlzdFw+</entry>
@@ -572,6 +578,7 @@
         <entry encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</entry>
         <entry>letter</entry>
         <entry>1rem</entry>
+        <entry>pagina</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.staging\./.qa./g</entry>
