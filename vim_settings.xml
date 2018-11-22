@@ -188,12 +188,11 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/projects/NewCMS/src/components/SelectField.jsx" timestamp="1542896979797">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="46" column="32" />
-        <mark key="^" line="43" column="30" />
+      <file name="C:/projects/NewCMS/src/components/SelectField.jsx" timestamp="1542898852361">
+        <mark key="'" line="26" column="16" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.module.scss" timestamp="1542883098287">
         <mark key="'" line="0" column="0" />
@@ -259,7 +258,7 @@
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1542718228680">
         <mark key="'" line="58" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542886411101">
+      <file name="/Dummy.txt" timestamp="1542898754682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/NewCMS/node_modules/react/lib/React.js" timestamp="1542895930357">
@@ -433,18 +432,18 @@
       <jump line="268" column="29" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
       <jump line="3" column="9" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
       <jump line="249" column="29" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
-      <jump line="21" column="43" filename="C:/projects/NewCMS/src/components/SelectField.jsx" />
       <jump line="0" column="20" filename="C:/projects/NewCMS/src/components/SelectField.jsx" />
       <jump line="32" column="52" filename="C:/projects/NewCMS/src/components/SelectField.jsx" />
       <jump line="35" column="19" filename="C:/projects/NewCMS/src/components/SelectField.jsx" />
       <jump line="47" column="8" filename="C:/projects/NewCMS/src/components/SelectField.jsx" />
+      <jump line="21" column="16" filename="C:/projects/NewCMS/src/components/SelectField.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>mdl-textfield--no-default-autocomplete</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_this5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -470,16 +469,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>_this5</text>
+        <text>in original component value was not updated when `value` prop was changed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghX3RoaXM1LnN0YXRlLnRlbXBsYXRlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGl0ZW1bX3RoaXM1LnN0YXRlLnZhbHVlRmllbGRdOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIF90aGlzNS5zdGF0ZS50ZW1wbGF0ZShpdGVtKTsK</text>
+        <text encoding="base64">CS8qKgoJICogQG92ZXJyaWRlCgkgKiBpbiBvcmlnaW5hbCBjb21wb25lbnQgdmFsdWUgd2FzIG5vdCB1cGRhdGVkIHdoZW4gYHZhbHVlYCBwcm9wIHdhcyBjaGFuZ2VkCgkgKgoJICogQHBhcmFtIG5leHRQcm9wcwoJICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -494,13 +493,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfX0K</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBuZXh0UHJvcHMK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJeygpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -510,16 +509,16 @@
         ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJeygpID0+IHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGVkIHsKICAgICAgICAgICAgICAgIHBhZGRpbmc6IDA7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,10 +532,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nLXJpZ2h0OiAxcmVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHNwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGVkIHsKICAgICAgICAgICAgICAgIHBhZGRpbmc6IDA7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
