@@ -22,8 +22,8 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542975999469">
-        <mark key="'" line="390" column="34" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542978261833">
+        <mark key="'" line="554" column="21" />
         <mark key="[" line="551" column="53" />
         <mark key="]" line="551" column="56" />
         <mark key="." line="551" column="56" />
@@ -339,14 +339,13 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/commerce/views/visuals/VisualsVideo.tsx" timestamp="1541414688073">
         <mark key="'" line="192" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/spinner/Spinner.scss" timestamp="1542810665133">
+      <file name="C:/projects/UI-Web/ClientApp/components/spinner/Spinner.scss" timestamp="1542978386440">
         <mark key="'" line="31" column="20" />
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="29" column="25" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="120" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="4" filename="C:/projects/NewCMS/src/views/transactions/TransactionsB2CReportComponent.jsx" />
       <jump line="12" column="60" filename="C:/projects/NewCMS/src/views/transactions/stores/TransactionsB2BStore.js" />
       <jump line="74" column="38" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
       <jump line="43" column="20" filename="C:/projects/NewCMS/src/views/transactions/stores/TransactionsFilterModel.js" />
@@ -446,13 +445,14 @@
       <jump line="146" column="56" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="77" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" />
       <jump line="390" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="554" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>mdl-textfield--no-default-autocomplete</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>!isReady || !shouldShowVideo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QC13ZWJraXQta2V5ZnJhbWVzIGRhc2ggewogICAgMCUgewogICAgICAgIHN0cm9rZS1kYXNob2Zmc2V0OiAxODc7CiAgICB9CiAgICA1MCUgewogICAgICAgIHN0cm9rZS1kYXNob2Zmc2V0OiA0Ni43NTsKICAgICAgICB0cmFuc2Zvcm06IHJvdGF0ZSgxMzVkZWcpOwogICAgfQogICAgMTAwJSB7CiAgICAgICAgc3Ryb2tlLWRhc2hvZmZzZXQ6IDE4NzsKICAgICAgICB0cmFuc2Zvcm06IHJvdGF0ZSg0NTBkZWcpOwogICAgfQp9CkBrZXlmcmFtZXMgZGFzaCB7CiAgICAwJSB7CiAgICAgICAgc3Ryb2tlLWRhc2hvZmZzZXQ6IDE4NzsKICAgIH0KICAgIDUwJSB7CiAgICAgICAgc3Ryb2tlLWRhc2hvZmZzZXQ6IDQ2Ljc1OwogICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDEzNWRlZyk7CiAgICB9CiAgICAxMDAlIHsKICAgICAgICBzdHJva2UtZGFzaG9mZnNldDogMTg3OwogICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDQ1MGRlZyk7CiAgICB9Cn0K</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -484,7 +484,7 @@
         <text>body</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8qKgoJICogQG92ZXJyaWRlCgkgKiBpbiBvcmlnaW5hbCBjb21wb25lbnQgdmFsdWUgd2FzIG5vdCB1cGRhdGVkIHdoZW4gYHZhbHVlYCBwcm9wIHdhcyBjaGFuZ2VkCgkgKgoJICogQHBhcmFtIG5leHRQcm9wcwoJICovCg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJva2UtZGFzaGFycmF5OiAxODc7CiAgICAgICAgc3Ryb2tlLWRhc2hvZmZzZXQ6IDA7CiAgICAgICAgdHJhbnNmb3JtLW9yaWdpbjogY2VudGVyOwogICAgICAgIGFuaW1hdGlvbjogZGFzaCAxLjRzIGVhc2UtaW4tb3V0IGluZmluaXRlLCBjb2xvcnMgNS42cyBlYXNlLWluLW91dCBpbmZpbml0ZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSAqCg==</text>
