@@ -22,12 +22,11 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542984464675">
-        <mark key="'" line="977" column="50" />
-        <mark key="[" line="551" column="53" />
-        <mark key="]" line="551" column="56" />
-        <mark key="." line="551" column="56" />
-        <mark key="^" line="551" column="56" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542986406261">
+        <mark key="'" line="551" column="53" />
+        <mark key="[" line="721" column="0" />
+        <mark key="]" line="721" column="0" />
+        <mark key="." line="721" column="0" />
       </file>
       <file name="C:/projects/NewCMS/src/views/user-report/stores/UserFilterModel.js" timestamp="1542642229985">
         <mark key="[" line="21" column="24" />
@@ -346,14 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="35" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
-      <jump line="165" column="33" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
-      <jump line="60" column="0" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
-      <jump line="99" column="34" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
-      <jump line="13" column="16" filename="C:/projects/NewCMS/src/views/transactions/TransactionsB2CReportComponent.jsx" />
-      <jump line="134" column="14" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
-      <jump line="140" column="12" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
-      <jump line="135" column="21" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
       <jump line="90" column="34" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
       <jump line="88" column="63" filename="C:/projects/NewCMS/src/views/transactions/TransactionsB2CReportComponent.jsx" />
       <jump line="20" column="18" filename="C:/projects/NewCMS/package.json" />
@@ -446,13 +437,21 @@
       <jump line="976" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="854" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="977" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="668" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="725" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="726" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="727" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="963" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="964" column="88" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="724" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="551" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>mdl-textfield--no-default-autocomplete</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QC13ZWJraXQta2V5ZnJhbWVzIGNvbG9ycyB7CiAgICAwJSB7CiAgICAgICAgc3Ryb2tlOiAjNDI4NUY0OwogICAgfQogICAgMjUlIHsKICAgICAgICBzdHJva2U6ICNERTNFMzU7CiAgICB9CiAgICA1MCUgewogICAgICAgIHN0cm9rZTogI0Y3QzIyMzsKICAgIH0KICAgIDc1JSB7CiAgICAgICAgc3Ryb2tlOiAjMUI5QTU5OwogICAgfQogICAgMTAwJSB7CiAgICAgICAgc3Ryb2tlOiAjNDI4NUY0OwogICAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -478,16 +477,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>!isReady || !shouldShowVideo</text>
+        <text>seClick() : onPlayClick();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</text>
+        <text encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJva2UtZGFzaGFycmF5OiAxODc7CiAgICAgICAgc3Ryb2tlLWRhc2hvZmZzZXQ6IDA7CiAgICAgICAgdHJhbnNmb3JtLW9yaWdpbjogY2VudGVyOwogICAgICAgIGFuaW1hdGlvbjogZGFzaCAxLjRzIGVhc2UtaW4tb3V0IGluZmluaXRlLCBjb2xvcnMgNS42cyBlYXNlLWluLW91dCBpbmZpbml0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50b2dnbGVQbGF5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -502,7 +501,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBuZXh0UHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7ICBvblBsYXlDbGljaywgb25QYXVzZUNsaWNrLCBpc1BsYXlpbmcgfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
@@ -518,16 +517,16 @@
         ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNQbGF5aW5nID8gb25QYXVzZUNsaWNrKCkgOiBvblBsYXlDbGljaygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJeygpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIEBwYXJhbSBuZXh0UHJvcHMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -544,16 +543,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRpc2FibGVkIHsKICAgICAgICAgICAgICAgIHBhZGRpbmc6IDA7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CQkJfX0K</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</last-search>
+      <last-search encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -561,7 +560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry encoding="base64">XDxyZW5kZXJMb2FkaW5nXD4=</entry>
         <entry>big-play</entry>
         <entry>BigPlay</entry>
@@ -581,6 +579,7 @@
         <entry>body</entry>
         <entry encoding="base64">XDxvbktleXByZXNzXD4=</entry>
         <entry encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</entry>
+        <entry encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
