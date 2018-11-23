@@ -22,10 +22,10 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542808675590">
-        <mark key="'" line="570" column="14" />
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="382" column="53" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542975999469">
+        <mark key="'" line="390" column="34" />
+        <mark key="[" line="551" column="53" />
+        <mark key="]" line="551" column="56" />
         <mark key="." line="551" column="56" />
         <mark key="^" line="551" column="56" />
       </file>
@@ -396,7 +396,6 @@
       <jump line="12" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/big-play-button/BigPlayButton.tsx" />
       <jump line="271" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="115" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
-      <jump line="390" column="26" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="89" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
       <jump line="26" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" />
       <jump line="7" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" />
@@ -446,13 +445,14 @@
       <jump line="95" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="146" column="56" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.tsx" />
       <jump line="77" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" />
+      <jump line="390" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>mdl-textfield--no-default-autocomplete</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAqCg==</text>
+      <register name="&quot;" type="4">
+        <text>!isReady || !shouldShowVideo</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -478,7 +478,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>in original component value was not updated when `value` prop was changed</text>
+        <text>!isReady || !shouldShowVideo</text>
       </register>
       <register name="/" type="4">
         <text>body</text>
