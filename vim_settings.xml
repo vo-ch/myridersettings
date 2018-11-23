@@ -22,8 +22,8 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542981479001">
-        <mark key="'" line="554" column="21" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542984464675">
+        <mark key="'" line="977" column="50" />
         <mark key="[" line="551" column="53" />
         <mark key="]" line="551" column="56" />
         <mark key="." line="551" column="56" />
@@ -346,10 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="60" filename="C:/projects/NewCMS/src/views/transactions/stores/TransactionsB2BStore.js" />
-      <jump line="74" column="38" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
-      <jump line="43" column="20" filename="C:/projects/NewCMS/src/views/transactions/stores/TransactionsFilterModel.js" />
-      <jump line="46" column="7" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
       <jump line="48" column="35" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
       <jump line="165" column="33" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
       <jump line="60" column="0" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
@@ -446,6 +442,10 @@
       <jump line="77" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" />
       <jump line="390" column="34" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="554" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="658" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="976" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="854" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="977" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -481,7 +481,7 @@
         <text>!isReady || !shouldShowVideo</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdHJva2UtZGFzaGFycmF5OiAxODc7CiAgICAgICAgc3Ryb2tlLWRhc2hvZmZzZXQ6IDA7CiAgICAgICAgdHJhbnNmb3JtLW9yaWdpbjogY2VudGVyOwogICAgICAgIGFuaW1hdGlvbjogZGFzaCAxLjRzIGVhc2UtaW4tb3V0IGluZmluaXRlLCBjb2xvcnMgNS42cyBlYXNlLWluLW91dCBpbmZpbml0ZTsK</text>
@@ -551,9 +551,9 @@
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -561,8 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwZXJjZW50Q29tcGxldGVcPg==</entry>
-        <entry>Load</entry>
         <entry>load</entry>
         <entry encoding="base64">XDxyZW5kZXJMb2FkaW5nXD4=</entry>
         <entry>big-play</entry>
@@ -581,6 +579,8 @@
         <entry>details</entry>
         <entry>component</entry>
         <entry>body</entry>
+        <entry encoding="base64">XDxvbktleXByZXNzXD4=</entry>
+        <entry encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
