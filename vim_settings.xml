@@ -118,6 +118,9 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/QualitySubMenu.tsx" timestamp="1541601140159">
         <mark key="'" line="38" column="20" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/gateway/GatewayCoursesService.ts" timestamp="1543312663197">
+        <mark key="'" line="9" column="29" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1542807942042">
         <mark key="'" line="245" column="23" />
       </file>
@@ -151,6 +154,9 @@
         <mark key="]" line="57" column="0" />
         <mark key="^" line="57" column="0" />
         <mark key="." line="57" column="0" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" timestamp="1543312767878">
+        <mark key="'" line="10" column="6" />
       </file>
       <file name="C:/projects/NewCMS/src/views/user-report/stores/UserReportStore.js" timestamp="1542642779773">
         <mark key="'" line="110" column="35" />
@@ -345,10 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="34" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
-      <jump line="88" column="63" filename="C:/projects/NewCMS/src/views/transactions/TransactionsB2CReportComponent.jsx" />
-      <jump line="20" column="18" filename="C:/projects/NewCMS/package.json" />
-      <jump line="42" column="72" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
       <jump line="43" column="68" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
       <jump line="130" column="31" filename="C:/projects/NewCMS/src/views/transactions/TransactionsB2CReportComponent.jsx" />
       <jump line="92" column="96" filename="C:/projects/NewCMS/src/views/transactions/TransactionsB2CReportComponent.jsx" />
@@ -445,6 +447,10 @@
       <jump line="964" column="88" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="724" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="551" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="9" column="29" filename="C:/projects/UI-Web/ClientApp/services/http/gateway/GatewayCoursesService.ts" />
+      <jump line="18" column="35" filename="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" />
+      <jump line="17" column="95" filename="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" />
+      <jump line="10" column="6" filename="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -480,7 +486,7 @@
         <text>seClick() : onPlayClick();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</text>
+        <text encoding="base64">XDxjb3Vyc2VzU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy50b2dnbGVQbGF5KCk7Cg==</text>
@@ -550,9 +556,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</last-search>
+      <last-search encoding="base64">XDxjb3Vyc2VzU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb3Vyc2VzU2VydmljZVw+</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -560,7 +566,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJMb2FkaW5nXD4=</entry>
         <entry>big-play</entry>
         <entry>BigPlay</entry>
         <entry encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</entry>
@@ -580,6 +585,7 @@
         <entry encoding="base64">XDxvbktleXByZXNzXD4=</entry>
         <entry encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</entry>
+        <entry encoding="base64">XDxjb3Vyc2VzU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
