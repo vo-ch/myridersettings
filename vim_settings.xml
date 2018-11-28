@@ -247,11 +247,19 @@
       <file name="C:/projects/NewCMS/node_modules/react/lib/React.js" timestamp="1542895930357">
         <mark key="'" line="26" column="40" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1543402722957">
+        <mark key="'" line="432" column="19" />
+        <mark key="[" line="398" column="17" />
+        <mark key="]" line="398" column="27" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseForm.ts" timestamp="1540563104170">
         <mark key="'" line="13" column="17" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" timestamp="1543399940548">
         <mark key="'" line="264" column="28" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1543402266132">
+        <mark key="'" line="78" column="21" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1542722361814">
         <mark key="'" line="163" column="17" />
@@ -288,8 +296,8 @@
       <file name="C:/projects/NewCMS/node_modules/mobx/lib/mobx.d.ts" timestamp="1542210375582">
         <mark key="'" line="82" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1543399682917">
-        <mark key="'" line="65" column="34" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1543402742909">
+        <mark key="'" line="57" column="13" />
         <mark key="[" line="65" column="28" />
         <mark key="]" line="65" column="52" />
         <mark key="^" line="65" column="3" />
@@ -325,14 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="263" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="466" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="468" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="156" column="41" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="171" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="183" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="190" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="245" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="105" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="130" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -413,7 +413,6 @@
       <jump line="14" column="29" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu-item/DropdownMenuItem.tsx" />
       <jump line="55" column="35" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-dropdown-menu/CategoriesDropdownMenu.tsx" />
       <jump line="53" column="63" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu/DropdownMenu.tsx" />
-      <jump line="40" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="79" column="26" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="111" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="203" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
@@ -425,13 +424,22 @@
       <jump line="65" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="264" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="103" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="78" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
+      <jump line="19" column="13" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
+      <jump line="58" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="85" column="21" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="40" column="16" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="432" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="39" column="16" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="45" column="41" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="57" column="13" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>mdl-textfield--no-default-autocomplete</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.catch(</text>
+        <text>errorStatus</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -460,10 +468,10 @@
         <text>seClick() : onPlayClick();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</text>
+        <text encoding="base64">XDx1bmF1dGhvcml6ZWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy50b2dnbGVQbGF5KCk7Cg==</text>
+      <register name="0" type="4">
+        <text>errorStatus</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -530,9 +538,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</last-search>
+      <last-search encoding="base64">XDx1bmF1dGhvcml6ZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</last-pattern>
+      <last-pattern encoding="base64">XDx1bmF1dGhvcml6ZWRcPg==</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -540,7 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>BigPlay</entry>
         <entry encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</entry>
         <entry>letter</entry>
@@ -560,6 +567,7 @@
         <entry encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</entry>
         <entry encoding="base64">XDxjb3Vyc2VzU2VydmljZVw+</entry>
         <entry encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</entry>
+        <entry encoding="base64">XDx1bmF1dGhvcml6ZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
