@@ -241,6 +241,12 @@
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1542718228680">
         <mark key="'" line="58" column="12" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" timestamp="1543411475135">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="37" />
+        <mark key="^" line="11" column="37" />
+        <mark key="." line="11" column="37" />
+      </file>
       <file name="/Dummy.txt" timestamp="1543396889590">
         <mark key="[" line="0" column="0" />
       </file>
@@ -439,7 +445,7 @@
         <text>mdl-textfield--no-default-autocomplete</text>
       </register>
       <register name="&quot;" type="4">
-        <text>errorStatus</text>
+        <text>IAppNotificationSystemStore</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -465,13 +471,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>seClick() : onPlayClick();</text>
+        <text>IAppNotificationSystemStore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bmF1dGhvcml6ZWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>errorStatus</text>
+        <text>IAppErrorStore</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -489,13 +495,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7ICBvblBsYXlDbGljaywgb25QYXVzZUNsaWNrLCBpc1BsYXlpbmcgfSA9IHRoaXMucHJvcHM7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQXBwTm90aWZpZXIgewogICAgbm90aWZ5KG1lc3NhZ2U6IHN0cmluZywgbGV2ZWw/OiBOb3RpZmljYXRpb25MZXZlbCwgdGl0bGU/OiBzdHJpbmcpOiB2b2lkOwp9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHR5cGUgTm90aWZpY2F0aW9uTGV2ZWwgPSAnZXJyb3InIHwgJ3dhcm5pbmcnIHwgJ2luZm8nIHwgJ3N1Y2Nlc3MnOwo=</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -505,16 +511,16 @@
         ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNQbGF5aW5nID8gb25QYXVzZUNsaWNrKCkgOiBvblBsYXlDbGljaygpOwo=</text>
+        <text encoding="base64">ICAgIGluaXQobm90aWZpY2F0aW9uRWxlbWVudDogQXBwTm90aWZpY2F0aW9uU3lzdGVtKTogdm9pZDsKICAgIHVuSW5pdChub3RpZmljYXRpb25FbGVtZW50OiBBcHBOb3RpZmljYXRpb25TeXN0ZW0pOiB2b2lkOwogICAgbm90aWZ5RXJyb3IobWVzc2FnZTogc3RyaW5nLCB0aXRsZT86IHN0cmluZyk6IHZvaWQ7CiAgICBzZXRTdWJtaXNzaW9uRGlhbG9nT3Blbih2YWw6IGJvb2xlYW4pOiB2b2lkOwogICAgcmVxdWlyZUZlZWRiYWNrRnJvbU5vdGlmeShlcnJvcjogRXJyb3IgfCBzdHJpbmcsIHRpdGxlPzogc3RyaW5nLCBtZXNzYWdlPzogc3RyaW5nKTogdm9pZDsKICAgIG9uQXV0b1NhdmU6ICgpID0+IHZvaWQ7CiAgICBvbkF1dG9TYXZlRXJyb3I6ICgpID0+IHZvaWQ7CiAgICBpc1N1Ym1pc3Npb25EaWFsb2dPcGVuOiBib29sZWFuOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbm90aWZpY2F0aW9uRWxlbWVudDogQXBwTm90aWZpY2F0aW9uU3lzdGVtID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBuZXh0UHJvcHMK</text>
+        <text encoding="base64">ICAgIEBvYnNlcnZhYmxlIGlzU3VibWlzc2lvbkRpYWxvZ09wZW46IGJvb2xlYW4gPSBmYWxzZTsKCiAgICBAYWN0aW9uIGluaXQobm90aWZpY2F0aW9uRWxlbWVudDogQXBwTm90aWZpY2F0aW9uU3lzdGVtKTogdm9pZCB7CiAgICAgICAgaWYgKHRoaXMubm90aWZpY2F0aW9uRWxlbWVudCkgTG9nZ2VyLndhcm4oJ01vcmUgdGhhbiBvbmUgbm90aWZpY2F0aW9uIHN5c3RlbXMgd2VyZSBpbml0aWFsaXplZCcpOwogICAgICAgIHRoaXMuaXNTdWJtaXNzaW9uRGlhbG9nT3BlbiA9IGZhbHNlOwogICAgICAgIHRoaXMubm90aWZpY2F0aW9uRWxlbWVudCA9IG5vdGlmaWNhdGlvbkVsZW1lbnQ7CiAgICB9CgogICAgdW5Jbml0KG5vdGlmaWNhdGlvbkVsZW1lbnQ6IEFwcE5vdGlmaWNhdGlvblN5c3RlbSk6IHZvaWQgewogICAgICAgIGlmICh0aGlzLm5vdGlmaWNhdGlvbkVsZW1lbnQgPT09IG5vdGlmaWNhdGlvbkVsZW1lbnQpIHRoaXMubm90aWZpY2F0aW9uRWxlbWVudCA9IG51bGw7CiAgICB9CgogICAgbm90aWZ5KG1lc3NhZ2U6IHN0cmluZywgbGV2ZWw6IE5vdGlmaWNhdGlvbkxldmVsID0gJ3N1Y2Nlc3MnLCB0aXRsZSA9ICcnKTogdm9pZCB7CiAgICAgICAgdGhpcy5ub3RpZmljYXRpb25FbGVtZW50Lm5vdGlmeShtZXNzYWdlLCBsZXZlbCwgdGl0bGUpOwogICAgfQoKICAgIG5vdGlmeUVycm9yKG1lc3NhZ2U6IHN0cmluZywgdGl0bGUgPSAnJyk6IHZvaWQgewogICAgICAgIHRoaXMubm90aWZpY2F0aW9uRWxlbWVudC5ub3RpZnkobWVzc2FnZSwgJ2Vycm9yJywgdGl0bGUpOwogICAgfQoKICAgIG9uQXV0b1NhdmUgPSAoKTogdm9pZCA9PiB7CiAgICAgICAgdGhpcy5ub3RpZnkoJ0F1dG9zYXZlZC4nKTsKICAgIH07CgogICAgb25BdXRvU2F2ZUVycm9yID0gKCk6IHZvaWQgPT4gewogICAgICAgIHRoaXMubm90aWZ5RXJyb3IoJ0F1dG9zYXZlIGZhaWxlZC4nKTsKICAgIH07CgogICAgcmVxdWlyZUZlZWRiYWNrRnJvbU5vdGlmeShlcnJvcjogRXJyb3IgfCBzdHJpbmcsIHRpdGxlOiBzdHJpbmcgPSAnT29wcyEnLCBtZXNzYWdlPzogc3RyaW5nKTogdm9pZCB7CiAgICAgICAgdGhpcy5ub3RpZmljYXRpb25FbGVtZW50LnJlcXVpcmVGZWVkYmFja0Zyb21Ob3RpZnkoZXJyb3IsIHRpdGxlLCBtZXNzYWdlKTsKICAgIH0KCiAgICBAYWN0aW9uIHNldFN1Ym1pc3Npb25EaWFsb2dPcGVuKHZhbDogYm9vbGVhbikgewogICAgICAgIHRoaXMuaXNTdWJtaXNzaW9uRGlhbG9nT3BlbiA9IHZhbDsKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -531,7 +537,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJfX0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7ICBvblBsYXlDbGljaywgb25QYXVzZUNsaWNrLCBpc1BsYXlpbmcgfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
