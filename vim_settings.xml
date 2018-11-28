@@ -16,6 +16,9 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1543399615485">
+        <mark key="'" line="203" column="16" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1542986406261">
         <mark key="'" line="551" column="53" />
         <mark key="[" line="721" column="0" />
@@ -111,6 +114,11 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" timestamp="1542033739487">
         <mark key="'" line="32" column="12" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" timestamp="1543399850791">
+        <mark key="'" line="45" column="26" />
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="18" />
       </file>
       <file name="C:/projects/UI-Web/Configuration/Loggly.cs" timestamp="1540308343225">
         <mark key="'" line="5" column="22" />
@@ -242,6 +250,9 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseForm.ts" timestamp="1540563104170">
         <mark key="'" line="13" column="17" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" timestamp="1543399940548">
+        <mark key="'" line="264" column="28" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1542722361814">
         <mark key="'" line="163" column="17" />
         <mark key="[" line="195" column="90" />
@@ -277,6 +288,13 @@
       <file name="C:/projects/NewCMS/node_modules/mobx/lib/mobx.d.ts" timestamp="1542210375582">
         <mark key="'" line="82" column="4" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1543399682917">
+        <mark key="'" line="65" column="34" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="52" />
+        <mark key="^" line="65" column="3" />
+        <mark key="." line="65" column="28" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu-item/DropdownMenuItem.tsx" timestamp="1543336502391">
         <mark key="'" line="14" column="29" />
       </file>
@@ -307,18 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="73" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="368" column="53" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="388" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="391" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="390" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
-      <jump line="163" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="378" column="10" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="89" column="60" filename="C:/projects/NewCMS/src/views/transactions/TransactionsB2CReportComponent.jsx" />
-      <jump line="93" column="98" filename="C:/projects/NewCMS/src/views/transactions/TransactionsB2CReportComponent.jsx" />
-      <jump line="73" column="28" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="34" column="30" filename="C:/projects/NewCMS/src/components/SearchComponent.jsx" />
-      <jump line="101" column="20" filename="C:/projects/NewCMS/src/views/transactions/stores/AbstractTransactionStore.js" />
       <jump line="34" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="263" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="466" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -407,13 +413,25 @@
       <jump line="14" column="29" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu-item/DropdownMenuItem.tsx" />
       <jump line="55" column="35" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-dropdown-menu/CategoriesDropdownMenu.tsx" />
       <jump line="53" column="63" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu/DropdownMenu.tsx" />
+      <jump line="40" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="79" column="26" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="111" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="203" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
+      <jump line="114" column="40" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="108" column="40" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="17" column="4" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
+      <jump line="55" column="15" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
+      <jump line="45" column="26" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
+      <jump line="65" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="264" column="28" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
+      <jump line="103" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>mdl-textfield--no-default-autocomplete</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SectionContent</text>
+        <text>.catch(</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -442,7 +460,7 @@
         <text>seClick() : onPlayClick();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3Vyc2VzU2VydmljZVw+</text>
+        <text encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy50b2dnbGVQbGF5KCk7Cg==</text>
@@ -508,13 +526,13 @@
         <text encoding="base64">CQkJfX0K</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3Vyc2VzU2VydmljZVw+</last-search>
+      <last-search encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3Vyc2VzU2VydmljZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -522,7 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry>big-play</entry>
         <entry>BigPlay</entry>
         <entry encoding="base64">XDxyZW5kZXJCaWdQbGF5QnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxhcmVDb250cm9sc1Nob3duXD4=</entry>
@@ -542,6 +559,7 @@
         <entry encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</entry>
         <entry encoding="base64">XDxjb3Vyc2VzU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
@@ -552,7 +570,6 @@
         <entry encoding="base64">JzwsJz5zJS90aGlzXC4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zJS90aGlzLi8gL2c=</entry>
         <entry>%s/\.staging\./-akosov./g</entry>
-        <entry>action GotoImplementation</entry>
         <entry>%s/-vchmuzh/.staging/g</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
@@ -564,6 +581,7 @@
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
         <entry encoding="base64">JzwsJz4lUy86Lz0vZw==</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
