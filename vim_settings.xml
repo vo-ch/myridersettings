@@ -19,8 +19,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1543399615485">
         <mark key="'" line="203" column="16" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1543594060261">
-        <mark key="'" line="821" column="23" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1543596782912">
+        <mark key="'" line="819" column="12" />
         <mark key="[" line="721" column="0" />
         <mark key="]" line="721" column="0" />
         <mark key="." line="721" column="0" />
@@ -111,8 +111,8 @@
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="28" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1543595805764">
-        <mark key="'" line="267" column="45" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1543596494582">
+        <mark key="'" line="267" column="27" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/search-box/SearchBox.tsx" timestamp="1541068927203">
         <mark key="'" line="9" column="4" />
@@ -361,16 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="18" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="227" column="12" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="255" column="54" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="257" column="14" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="261" column="32" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="264" column="16" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="268" column="33" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="271" column="125" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="274" column="28" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="282" column="33" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="287" column="15" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="290" column="9" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="300" column="42" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
@@ -456,11 +446,21 @@
       <jump line="777" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="786" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="795" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="819" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="460" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="821" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="454" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="267" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="454" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="267" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="743" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="829" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="830" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="832" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="907" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="934" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="81" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="505" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="535" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="734" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="460" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="819" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -496,7 +496,7 @@
         <text>descriptor</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</text>
+        <text>onVideoError</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRlc2NyaXB0b3IpOwo=</text>
@@ -568,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</last-search>
+      <last-search>onVideoError</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</last-pattern>
+      <last-pattern>onVideoError</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -578,8 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUZXh0ZmllbGRcPg==</entry>
-        <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry>details</entry>
         <entry>component</entry>
         <entry>body</entry>
@@ -598,6 +596,8 @@
         <entry encoding="base64">XDxyZXBvcnRQbGF5ZXJFcnJvclw+</entry>
         <entry encoding="base64">XDxyZXBvcnRWaWRlb0V2ZW50XD4=</entry>
         <entry encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</entry>
+        <entry encoding="base64">XDxvblBhdXNlQ2xpY2tcPg==</entry>
+        <entry>onVideoError</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
