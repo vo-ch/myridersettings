@@ -338,6 +338,11 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu-item/DropdownMenuItem.tsx" timestamp="1543336502391">
         <mark key="'" line="14" column="29" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1543599554613">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="226" column="72" />
+        <mark key="]" line="226" column="80" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/stores/SettingsMenuStore.ts" timestamp="1541687973394">
         <mark key="'" line="38" column="16" />
       </file>
@@ -361,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="15" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="290" column="9" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="300" column="42" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="305" column="14" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
@@ -461,13 +465,14 @@
       <jump line="734" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="460" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="819" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>typeof target === 'function'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>descriptor</text>
+        <text>FORCE_MP4</text>
       </register>
       <register name="d" type="4">
         <keys>
