@@ -19,8 +19,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1543399615485">
         <mark key="'" line="203" column="16" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1543591861574">
-        <mark key="'" line="144" column="5" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1543594060261">
+        <mark key="'" line="821" column="23" />
         <mark key="[" line="721" column="0" />
         <mark key="]" line="721" column="0" />
         <mark key="." line="721" column="0" />
@@ -361,16 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="22" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="181" column="46" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="182" column="47" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="183" column="63" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="186" column="29" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="188" column="14" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="191" column="23" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="192" column="30" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="197" column="11" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="200" column="21" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="201" column="40" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="211" column="19" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="212" column="18" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
@@ -461,6 +451,16 @@
       <jump line="257" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="49" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="144" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="292" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="820" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="238" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="757" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="777" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="786" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="795" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="819" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="460" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="821" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -496,7 +496,7 @@
         <text>descriptor</text>
       </register>
       <register name="/" type="4">
-        <text>isReady</text>
+        <text encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRlc2NyaXB0b3IpOwo=</text>
@@ -568,9 +568,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isReady</last-search>
+      <last-search encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</last-search>
       <last-offset />
-      <last-pattern>isReady</last-pattern>
+      <last-pattern encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -578,9 +578,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdGhlclByb3BzXD4=</entry>
-        <entry>react-mdl-se</entry>
-        <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry encoding="base64">XDxUZXh0ZmllbGRcPg==</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry>details</entry>
@@ -598,6 +595,9 @@
         <entry encoding="base64">XDxvbkVuZFw+</entry>
         <entry encoding="base64">XDxpc1JlYWR5XD4=</entry>
         <entry>isReady</entry>
+        <entry encoding="base64">XDxyZXBvcnRQbGF5ZXJFcnJvclw+</entry>
+        <entry encoding="base64">XDxyZXBvcnRWaWRlb0V2ZW50XD4=</entry>
+        <entry encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
