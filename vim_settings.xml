@@ -19,11 +19,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1543399615485">
         <mark key="'" line="203" column="16" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1543847551614">
-        <mark key="'" line="81" column="4" />
-        <mark key="[" line="721" column="0" />
-        <mark key="]" line="721" column="0" />
-        <mark key="." line="721" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1543850498500">
+        <mark key="'" line="460" column="30" />
+        <mark key="[" line="824" column="20" />
+        <mark key="]" line="824" column="30" />
+        <mark key="." line="824" column="30" />
+        <mark key="^" line="824" column="30" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/services/__mocks__/createDataTableHttpService.mock.ts" timestamp="1542217180167">
         <mark key="'" line="21" column="6" />
@@ -43,20 +44,8 @@
       <file name="C:/projects/NewCMS/node_modules/react-mdl-select/es/index.js" timestamp="1542895277376">
         <mark key="'" line="7" column="30" />
       </file>
-      <file name="C:/projects/NewCMS/node_modules/react-mdl-select/es/SelectField/index.js" timestamp="1542896967795">
-        <mark key="'" line="166" column="42" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="195" column="75" />
-        <mark key="." line="56" column="51" />
-      </file>
       <file name="C:/projects/NewCMS/node_modules/react-mdl/src/Textfield.js" timestamp="1542895356436">
         <mark key="'" line="87" column="15" />
-      </file>
-      <file name="C:/projects/NewCMS/package.json" timestamp="1542895422182">
-        <mark key="'" line="60" column="5" />
-        <mark key="[" line="43" column="13" />
-        <mark key="]" line="43" column="13" />
-        <mark key="." line="43" column="13" />
       </file>
       <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1542642819820">
         <mark key="'" line="186" column="0" />
@@ -197,18 +186,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="22" column="47" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="C:/projects/NewCMS/src/components/SelectField.jsx" timestamp="1542898852361">
-        <mark key="'" line="26" column="16" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.module.scss" timestamp="1542883098287">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" timestamp="1543420563390">
         <mark key="'" line="343" column="21" />
@@ -362,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="305" column="14" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="307" column="19" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="312" column="32" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="313" column="24" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
@@ -445,7 +421,6 @@
       <jump line="786" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="795" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="821" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="460" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="819" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="454" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -460,15 +435,17 @@
       <jump line="829" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="830" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="832" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="81" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="267" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="81" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="293" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="460" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>typeof target === 'function'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>FORCE_MP4</text>
+        <text>data</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -494,13 +471,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>descriptor</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblBhdXNlQ2xpY2tcPg==</text>
+        <text>onVideoError</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRlc2NyaXB0b3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gZGVzY3JpcHRvcjsK</text>
@@ -569,9 +546,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvblBhdXNlQ2xpY2tcPg==</last-search>
+      <last-search>onVideoError</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblBhdXNlQ2xpY2tcPg==</last-pattern>
+      <last-pattern>onVideoError</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -579,7 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>component</entry>
         <entry>body</entry>
         <entry encoding="base64">XDxvbktleXByZXNzXD4=</entry>
         <entry encoding="base64">XDxiaW5kS2V5Ym9hcmRFdmVudHNcPg==</entry>
@@ -596,9 +572,10 @@
         <entry encoding="base64">XDxyZXBvcnRQbGF5ZXJFcnJvclw+</entry>
         <entry encoding="base64">XDxyZXBvcnRWaWRlb0V2ZW50XD4=</entry>
         <entry encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</entry>
-        <entry>onVideoError</entry>
         <entry encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NoYW5nZVw+</entry>
         <entry encoding="base64">XDxvblBhdXNlQ2xpY2tcPg==</entry>
+        <entry>onErro</entry>
+        <entry>onVideoError</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
