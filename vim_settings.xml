@@ -19,12 +19,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1543399615485">
         <mark key="'" line="203" column="16" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1543852993816">
-        <mark key="'" line="795" column="31" />
-        <mark key="[" line="831" column="24" />
-        <mark key="]" line="831" column="30" />
-        <mark key="." line="831" column="30" />
-        <mark key="^" line="831" column="30" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" timestamp="1543856494916">
+        <mark key="'" line="548" column="37" />
+        <mark key="[" line="830" column="0" />
+        <mark key="]" line="830" column="0" />
+        <mark key="^" line="822" column="7" />
+        <mark key="." line="830" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/services/__mocks__/createDataTableHttpService.mock.ts" timestamp="1542217180167">
         <mark key="'" line="21" column="6" />
@@ -78,6 +78,10 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" timestamp="1542722315623">
         <mark key="'" line="390" column="36" />
+      </file>
+      <file name="/PlayerVideo.tsx" timestamp="1543856482634">
+        <mark key="[" line="821" column="0" />
+        <mark key="]" line="821" column="40" />
       </file>
       <file name="C:/projects/NewCMS/src/views/courses-per-category/CoursesPerCategoryComponent.jsx" timestamp="1542645909679">
         <mark key="'" line="56" column="44" />
@@ -256,6 +260,9 @@
         <mark key="^" line="22" column="43" />
         <mark key="." line="22" column="43" />
       </file>
+      <file name="/Dummy.txt" timestamp="1543856533541">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/projects/NewCMS/node_modules/react/lib/React.js" timestamp="1542895930357">
         <mark key="'" line="26" column="40" />
       </file>
@@ -339,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="35" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="329" column="23" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="337" column="22" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="338" column="7" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="340" column="51" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
@@ -429,7 +434,6 @@
       <jump line="267" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="81" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="293" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="826" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="116" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="148" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="454" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -439,13 +443,16 @@
       <jump line="463" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="794" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="795" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="826" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="860" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
+      <jump line="548" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>typeof target === 'function'</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>total</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -471,16 +478,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>total</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkVuZGVkXD4=</text>
+        <text encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NvbXBsZXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG90YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlcG9ydFBsYXllckVycm9yKGUsIGRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXllclZpZGVvCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -495,13 +502,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVzY3JpcHRvcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBIb21lUGFnZSA9IChIb21lUGFnZVdyYXBwZWQgYXMgYW55IGFzIElXcmFwcGVkQ29tcG9uZW50PGFueT4pLndyYXBwZWRDb21wb25lbnQgYXMgdHlwZW9mIEhvbWVQYWdlV3JhcHBlZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -511,18 +518,16 @@
         ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2hhbGxvd1JlbmRlcmVyIH0gZnJvbSAncmVhY3QtdGVzdC1yZW5kZXJlci9zaGFsbG93JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyb3JkIGRhdGEnKTsKICAgICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLScpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2F0aW9uOiAnJywKICAgICAgICAgICAgICAgIHBhcmFtczoge30sCiAgICAgICAgICAgICAgICBwYXRoOiAnJywKICAgICAgICAgICAgICAgIGlzRXhhY3Q6IGZhbHNlLAogICAgICAgICAgICAgICAgdXJsOiAnc2ZzZmRzLmNvbSc=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG90YWwpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhjdXJyZW50KTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ09OIEVORERERCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPERhdGFUYWJsZQogICAgICAgICAgICAgICAgc3RvcmU9e3N0b3JlfQogICAgICAgICAgICAgICAgY29sdW1ucz17Y29sdW1uc30KICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -536,19 +541,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBsZXQgc3RvcmU6IE11dGFibGU8SURhdGFUYWJsZVN0b3JlPElSb3dNb2RlbCwgSUZpbHRlcnNNb2RlbD4+OwoKICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICAgIHN0b3JlID0gY3JlYXRlRGF0YVRhYmxlU3RvcmUoKTsKICAgIH0pOwoKICAgIHRlc3QoJ1NuYXBzaG90IGRlZmF1bHQnLCAoKSA9PiB7CiAgICAgICAgY29uc3QgcmVuZGVyZXIgPSBTaGFsbG93UmVuZGVyZXIuY3JlYXRlUmVuZGVyZXIoKTsKCiAgICAgICAgY29uc3QgY29tcCA9IHJlbmRlcmVyLnJlbmRlcigKICAgICAgICAgICAgPERhdGFUYWJsZQogICAgICAgICAgICAgICAgc3RvcmU9e3tzdG9yZX0KICAgICAgICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgKTsKCiAgICAgICAgZXhwZWN0KGNvbXApLnRvTWF0Y2hTbmFwc2hvdCgpOwogICAgICAgICAgICAgICAgfSk7CgogICAgdGVzdCgnU25hcHNob3Qgd2l0aCBkYXRhJywgKCkgPT4gewogICAgICAgIGNvbnN0IHJlbmRlcmVyID0gU2hhbGxvd1JlbmRlcmVyLmNyZWF0ZVJlbmRlcmVyKCk7CgogICAgICAgIHN0b3JlLmRhdGEgPSBkYXRhUGFnZXNbMF07CgogICAgICAgIGNvbnN0IGNvbXAgPSByZW5kZXJlci5yZW5kZXIoCiAgICAgICAgICAgIDxEYXRhVGFibGUKICAgICAgICAgICAgICAgIHN0b3JlPXtzdG9yZX0KICAgICAgICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICAgIC8+CiAgICAgICAgKTsKCiAgICAgICAgZXhwZWN0KGNvbXApLnRvTWF0Y2hTbmFwc2hvdCgpOwogICAgfSk7CgogICAgdGVzdCgnU25hcHNob3QgbG9hZGluZycsICgpID0+IHsKICAgICAgICBjb25zdCByZW5kZXJlciA9IFNoYWxsb3dSZW5kZXJlci5jcmVhdGVSZW5kZXJlcigpOwoKICAgICAgICBzdG9yZS5kYXRhID0gZGF0YVBhZ2VzWzBdOwogICAgICAgIHN0b3JlLmlzTG9hZGluZyA9IHRydWU7CgogICAgICAgIGNvbnN0IGNvbXAgPSByZW5kZXJlci5yZW5kZXIoCiAgICAgICAgICAgIDxEYXRhVGFibGUKICAgICAgICAgICAgICAgIHN0b3JlPXtzdG9yZX0KICAgICAgICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICAgIC8+CiAgICAgICAgKTsKCiAgICAgICAgZXhwZWN0KGNvbXApLnRvTWF0Y2hTbmFwc2hvdCgpOwogICAgfSk7CgogICAgdGVzdCgnU25hcHNob3QgbGFzdCBwYWdlJywgKCkgPT4gewogICAgICAgIGNvbnN0IHJlbmRlcmVyID0gU2hhbGxvd1JlbmRlcmVyLmNyZWF0ZVJlbmRlcmVyKCk7CgogICAgICAgIHN0b3JlLmRhdGEgPSBkYXRhUGFnZXNbMl07CiAgICAgICAgc3RvcmUucGFnaW5nLnBhZ2UgPSAzOwoKICAgICAgICBjb25zdCBjb21wID0gcmVuZGVyZXIucmVuZGVyKAogICAgICAgICAgICA8RGF0YVRhYmxlCiAgICAgICAgICAgICAgICBzdG9yZT17c3RvcmV9CiAgICAgICAgICAgICAgICBjb2x1bW5zPXtjb2x1bW5zfQogICAgICAgICAgICAvPgogICAgICAgICk7CgogICAgICAgIGV4cGVjdChjb21wKS50b01hdGNoU25hcHNob3QoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KSl9fSldKX0pKSkpfX0pXSl9KSkpKX19KV0pfSl9KX0pfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkVuZGVkXD4=</last-search>
+      <last-search encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NvbXBsZXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkVuZGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NvbXBsZXRlXD4=</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -556,8 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</entry>
-        <entry encoding="base64">XDx1bmF1dGhvcml6ZWRcPg==</entry>
         <entry encoding="base64">XDxuZXdFcnJvckNvbnRleHRcPg==</entry>
         <entry>action</entry>
         <entry encoding="base64">XDx3cmFwcGVkQ29tcG9uZW50XD4=</entry>
@@ -576,6 +579,8 @@
         <entry>onError</entry>
         <entry>onVideoErro</entry>
         <entry encoding="base64">XDxvbkVuZGVkXD4=</entry>
+        <entry>onCont</entry>
+        <entry encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NvbXBsZXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
