@@ -243,8 +243,12 @@
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1543420482542">
         <mark key="'" line="20" column="31" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1542718228680">
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1543919536377">
         <mark key="'" line="58" column="12" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
+        <mark key="^" line="135" column="5" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" timestamp="1543510499793">
         <mark key="'" line="12" column="96" />
@@ -445,7 +449,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -480,7 +484,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnJlcG9ydFBsYXllckVycm9yKGUsIGRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -495,7 +499,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
@@ -514,13 +518,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyb3JkIGRhdGEnKTsKICAgICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG90YWwpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhjdXJyZW50KTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ09OIEVORERERCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyb3JkIGRhdGEnKTsKICAgICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG90YWwpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhjdXJyZW50KTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ09OIEVORERERCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -534,10 +538,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
