@@ -263,6 +263,11 @@
       <file name="C:/projects/NewCMS/node_modules/react/lib/React.js" timestamp="1542895930357">
         <mark key="'" line="26" column="40" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1543920395514">
+        <mark key="[" line="172" column="21" />
+        <mark key="]" line="172" column="21" />
+        <mark key="." line="172" column="21" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseForm.ts" timestamp="1540563104170">
         <mark key="'" line="13" column="17" />
       </file>
@@ -448,8 +453,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy5wcm9ncmVzc1N0b3JlLmlzSGxzU3VwcG9ydGVkICYmIA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -475,10 +480,10 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dGhpcy5wcm9ncmVzc1N0b3JlLmlzSGxzU3VwcG9ydGVkICYmIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NvbXBsZXRlXD4=</text>
+        <text>quality</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnJlcG9ydFBsYXllckVycm9yKGUsIGRhdGEpOwo=</text>
@@ -548,17 +553,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NvbXBsZXRlXD4=</last-search>
+      <last-search>quality</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NvbXBsZXRlXD4=</last-pattern>
+      <last-pattern>quality</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXdFcnJvckNvbnRleHRcPg==</entry>
         <entry>action</entry>
         <entry encoding="base64">XDx3cmFwcGVkQ29tcG9uZW50XD4=</entry>
         <entry encoding="base64">XDxvbkVuZFw+</entry>
@@ -578,6 +582,7 @@
         <entry encoding="base64">XDxvbkVuZGVkXD4=</entry>
         <entry>onCont</entry>
         <entry encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NvbXBsZXRlXD4=</entry>
+        <entry>quality</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
