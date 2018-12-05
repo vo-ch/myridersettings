@@ -95,11 +95,6 @@
       <file name="C:/projects/UI-Web/ClientApp/services/http/gateway/GatewayCoursesService.ts" timestamp="1543312663197">
         <mark key="'" line="9" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/node_modules/mobx-react/index.d.ts" timestamp="1543502951982">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="28" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" timestamp="1543851806457">
         <mark key="'" line="454" column="33" />
         <mark key="[" line="456" column="22" />
@@ -233,12 +228,12 @@
       <file name="C:/projects/UI-Web/ClientApp/utils/test-utils/MutableMock.ts" timestamp="1542216908231">
         <mark key="'" line="4" column="30" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" timestamp="1544006436105">
-        <mark key="'" line="47" column="33" />
-        <mark key="[" line="169" column="23" />
-        <mark key="]" line="169" column="26" />
-        <mark key="^" line="169" column="26" />
-        <mark key="." line="169" column="26" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" timestamp="1544009112680">
+        <mark key="'" line="174" column="11" />
+        <mark key="[" line="181" column="20" />
+        <mark key="]" line="181" column="23" />
+        <mark key="." line="181" column="23" />
+        <mark key="^" line="181" column="23" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1543420482542">
         <mark key="'" line="20" column="31" />
@@ -301,17 +296,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="106" column="70" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.tsx" timestamp="1542814764546">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.tsx" timestamp="1544008272794">
         <mark key="'" line="49" column="53" />
-        <mark key="[" line="49" column="94" />
-        <mark key="]" line="49" column="94" />
-        <mark key="." line="49" column="94" />
-        <mark key="^" line="51" column="19" />
-      </file>
-      <file name="C:/projects/NewCMS/src/views/courses/components/CourseSearchComponent.jsx" timestamp="1542894736428">
-        <mark key="'" line="69" column="9" />
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="45" />
+        <mark key="[" line="52" column="50" />
+        <mark key="]" line="52" column="65" />
+        <mark key="." line="52" column="65" />
+        <mark key="^" line="52" column="65" />
       </file>
       <file name="C:/projects/NewCMS/node_modules/mobx/lib/mobx.d.ts" timestamp="1542210375582">
         <mark key="'" line="82" column="4" />
@@ -345,14 +335,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/commerce/views/visuals/VisualsVideo.tsx" timestamp="1541414688073">
         <mark key="'" line="192" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/spinner/Spinner.scss" timestamp="1542979463617">
-        <mark key="'" line="31" column="20" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="75" column="1" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="90" filename="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" />
       <jump line="14" column="32" filename="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" />
       <jump line="49" column="6" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
       <jump line="13" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" />
@@ -452,13 +436,14 @@
       <jump line="27" column="80" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="112" column="26" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
       <jump line="47" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" />
+      <jump line="174" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
+      <register name="&quot;" type="4">
+        <text>start</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -484,16 +469,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>CU-4458 IE 11. PlayerVideo Unable to get property 'tagName' of undefined</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmVmZXJhYmxlVmlkZW9RdWFsaXR5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlcG9ydFBsYXllckVycm9yKGUsIGRhdGEpOwo=</text>
+      <register name="0" type="4">
+        <text>__text-container</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZS1jYXB0aW9uOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,13 +493,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTBweDsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -524,13 +509,13 @@
         ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -547,13 +532,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyb3JkIGRhdGEnKTsKICAgICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG90YWwpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhjdXJyZW50KTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ09OIEVORERERCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -606,9 +591,9 @@
         <entry encoding="base64">JzwsJz4lUy86Lz0vZw==</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action RenameElement</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
