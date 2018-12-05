@@ -233,12 +233,12 @@
       <file name="C:/projects/UI-Web/ClientApp/utils/test-utils/MutableMock.ts" timestamp="1542216908231">
         <mark key="'" line="4" column="30" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" timestamp="1542817052961">
-        <mark key="'" line="178" column="23" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
-        <mark key="^" line="171" column="7" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" timestamp="1544006436105">
+        <mark key="'" line="47" column="33" />
+        <mark key="[" line="169" column="23" />
+        <mark key="]" line="169" column="26" />
+        <mark key="^" line="169" column="26" />
+        <mark key="." line="169" column="26" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1543420482542">
         <mark key="'" line="20" column="31" />
@@ -352,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="21" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="11" column="90" filename="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" />
       <jump line="14" column="32" filename="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" />
       <jump line="49" column="6" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
@@ -452,13 +451,14 @@
       <jump line="21" column="69" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="27" column="80" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="112" column="26" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
+      <jump line="47" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>CU-4458 IE 11. PlayerVideo Unable to get property 'tagName' of undefined</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -493,7 +493,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnJlcG9ydFBsYXllckVycm9yKGUsIGRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,13 +508,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -524,16 +524,16 @@
         ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyb3JkIGRhdGEnKTsKICAgICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG90YWwpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhjdXJyZW50KTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ09OIEVORERERCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -547,10 +547,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyb3JkIGRhdGEnKTsKICAgICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codG90YWwpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhjdXJyZW50KTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ09OIEVORERERCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
