@@ -209,12 +209,12 @@
         <mark key="^" line="35" column="37" />
         <mark key="." line="35" column="64" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" timestamp="1542971984238">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="17" />
-        <mark key="^" line="65" column="17" />
-        <mark key="." line="65" column="17" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" timestamp="1544024444717">
+        <mark key="'" line="127" column="18" />
+        <mark key="[" line="64" column="15" />
+        <mark key="]" line="65" column="3" />
+        <mark key="." line="65" column="3" />
+        <mark key="^" line="65" column="3" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/PlayerVideoStore.ts" timestamp="1543591567997">
         <mark key="'" line="24" column="16" />
@@ -248,10 +248,8 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="14" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544010600930">
+      <file name="/Dummy.txt" timestamp="1544024896503">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/projects/NewCMS/node_modules/react/lib/React.js" timestamp="1542895930357">
         <mark key="'" line="26" column="40" />
@@ -292,10 +290,6 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.tsx" timestamp="1544008272794">
         <mark key="'" line="49" column="53" />
-        <mark key="[" line="52" column="50" />
-        <mark key="]" line="52" column="65" />
-        <mark key="." line="52" column="65" />
-        <mark key="^" line="52" column="65" />
       </file>
       <file name="C:/projects/NewCMS/node_modules/mobx/lib/mobx.d.ts" timestamp="1542210375582">
         <mark key="'" line="82" column="4" />
@@ -331,9 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="32" filename="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" />
-      <jump line="49" column="6" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
-      <jump line="13" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" />
       <jump line="48" column="19" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
       <jump line="47" column="19" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.test.tsx" />
       <jump line="116" column="13" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.tsx" />
@@ -431,13 +422,16 @@
       <jump line="112" column="26" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
       <jump line="47" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" />
       <jump line="174" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" />
+      <jump line="65" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" />
+      <jump line="123" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" />
+      <jump line="126" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyZmxvdy13cmFwOiBicmVhay13b3JkOwogICAgICAgIHdvcmQtYnJlYWs6IGJyZWFrLXdvcmQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>auto</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -463,16 +457,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>auto</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmVmZXJhYmxlVmlkZW9RdWFsaXR5XD4=</text>
+        <text>prop-body</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdmVyZmxvdy13cmFwOiBicmVhay13b3JkOwogICAgICAgIHdvcmQtYnJlYWs6IGJyZWFrLXdvcmQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZS1jYXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgIG1heC13aWR0aDogOTAlOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -487,13 +481,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTBweDsK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZS1jYXB0aW9uOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTBweDsK</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -506,13 +500,13 @@
         <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -536,9 +530,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmVmZXJhYmxlVmlkZW9RdWFsaXR5XD4=</last-search>
+      <last-search>prop-body</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmVmZXJhYmxlVmlkZW9RdWFsaXR5XD4=</last-pattern>
+      <last-pattern>prop-body</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -546,10 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cmFwcGVkQ29tcG9uZW50XD4=</entry>
-        <entry encoding="base64">XDxvbkVuZFw+</entry>
-        <entry encoding="base64">XDxpc1JlYWR5XD4=</entry>
-        <entry>isReady</entry>
         <entry encoding="base64">XDxyZXBvcnRQbGF5ZXJFcnJvclw+</entry>
         <entry encoding="base64">XDxyZXBvcnRWaWRlb0V2ZW50XD4=</entry>
         <entry encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</entry>
@@ -566,6 +556,10 @@
         <entry encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NvbXBsZXRlXD4=</entry>
         <entry>quality</entry>
         <entry encoding="base64">XDxwcmVmZXJhYmxlVmlkZW9RdWFsaXR5XD4=</entry>
+        <entry>components-</entry>
+        <entry>90%</entry>
+        <entry>duration</entry>
+        <entry>prop-body</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
