@@ -211,19 +211,18 @@
       <file name="C:/projects/UI-Web/ClientApp/utils/test-utils/MutableMock.ts" timestamp="1542216908231">
         <mark key="'" line="4" column="30" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/answer-toggle/AnswerToggle.scss" timestamp="1544009899844" />
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1543420482542">
         <mark key="'" line="20" column="31" />
       </file>
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1543933108059">
         <mark key="'" line="58" column="12" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" timestamp="1544107018315">
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" timestamp="1544109258108">
         <mark key="'" line="12" column="96" />
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="40" column="33" />
-        <mark key="." line="42" column="32" />
-        <mark key="^" line="40" column="33" />
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="11" />
+        <mark key="." line="45" column="11" />
+        <mark key="^" line="45" column="11" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1543932110021">
         <mark key="'" line="27" column="80" />
@@ -420,8 +419,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -447,7 +446,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>shouldA</text>
@@ -516,7 +515,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -526,7 +525,7 @@
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -568,10 +567,10 @@
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
         <entry encoding="base64">JzwsJz4lUy86Lz0vZw==</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action RenameElement</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
