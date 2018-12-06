@@ -218,12 +218,12 @@
       <file name="C:/projects/UI-Web/appsettings.json" timestamp="1543933108059">
         <mark key="'" line="58" column="12" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" timestamp="1543510499793">
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" timestamp="1544107018315">
         <mark key="'" line="12" column="96" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="43" />
-        <mark key="^" line="22" column="43" />
-        <mark key="." line="22" column="43" />
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="40" column="33" />
+        <mark key="." line="42" column="32" />
+        <mark key="^" line="40" column="33" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1543932110021">
         <mark key="'" line="27" column="80" />
@@ -420,8 +420,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>auto</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -447,16 +447,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>shouldA</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyZmxvdy13cmFwOiBicmVhay13b3JkOwogICAgICAgIHdvcmQtYnJlYWs6IGJyZWFrLXdvcmQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBfX18gJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1heC13aWR0aDogOTAlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -471,13 +471,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZS1jYXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgIG1heC13aWR0aDogOTAlOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTBweDsK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiB0YWJsZS1jYXB0aW9uOwo=</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -487,16 +487,16 @@
         ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTBweDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJOZXR3b3JrVGVzdCI6IHsKICAgICAgICAiRG93bmxvYWRTaXplQnl0ZXMiOiAxMDkzOTU3LAogICAgICAgICJUZXN0SW1hZ2VVcmwiOiAiL25ldHdvcmtfdGVzdC5qcGciLAogICAgICAgICJDdXRPZmZzS2JwUyI6IHsKICAgICAgICAgICAgIkN1dE9mZjQ4MHAiOiAwLAogICAgICAgICAgICAiQ3V0T2ZmMTA4MHAiOiAzMDAwCiAgICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -510,7 +510,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
