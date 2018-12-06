@@ -199,6 +199,9 @@
         <mark key="^" line="35" column="37" />
         <mark key="." line="35" column="64" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" timestamp="1544103354171">
+        <mark key="'" line="403" column="27" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" timestamp="1544024444717">
         <mark key="'" line="64" column="18" />
         <mark key="[" line="64" column="15" />
@@ -241,16 +244,23 @@
       <file name="C:/projects/NewCMS/node_modules/react/lib/React.js" timestamp="1542895930357">
         <mark key="'" line="26" column="40" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1543920395514">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1544103666841">
+        <mark key="'" line="49" column="57" />
         <mark key="[" line="172" column="21" />
         <mark key="]" line="172" column="21" />
         <mark key="." line="172" column="21" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/ToggleSubMenu.tsx" timestamp="1544103561330">
+        <mark key="'" line="22" column="29" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/forms/BaseForm.ts" timestamp="1540563104170">
         <mark key="'" line="13" column="17" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" timestamp="1543399940548">
         <mark key="'" line="264" column="28" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" timestamp="1544103636855">
+        <mark key="'" line="55" column="43" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1543402266132">
         <mark key="'" line="78" column="21" />
@@ -310,30 +320,11 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/commerce/views/visuals/VisualsVideo.tsx" timestamp="1541414688073">
         <mark key="'" line="192" column="26" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/StartSubMenu.tsx" timestamp="1544103620100">
+        <mark key="'" line="25" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="19" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
-      <jump line="47" column="19" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.test.tsx" />
-      <jump line="116" column="13" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.tsx" />
-      <jump line="10" column="23" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.test.tsx" />
-      <jump line="36" column="0" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.test.tsx" />
-      <jump line="43" column="0" filename="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.test.tsx" />
-      <jump line="44" column="59" filename="C:/projects/UI-Web/node_modules/mobx-react/index.d.ts" />
-      <jump line="13" column="66" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.test.tsx" />
-      <jump line="45" column="4" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
-      <jump line="55" column="4" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
-      <jump line="3" column="14" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.test.tsx" />
-      <jump line="31" column="4" filename="C:/projects/UI-Web/node_modules/mobx-react/index.d.ts" />
-      <jump line="60" column="2" filename="C:/projects/UI-Web/node_modules/@types/react-router/index.d.ts" />
-      <jump line="26" column="61" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.test.tsx" />
-      <jump line="32" column="4" filename="C:/projects/UI-Web/node_modules/mobx-react/index.d.ts" />
-      <jump line="15" column="18" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.test.tsx" />
-      <jump line="18" column="38" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.test.tsx" />
-      <jump line="59" column="2" filename="C:/projects/UI-Web/node_modules/@types/react-router/index.d.ts" />
-      <jump line="16" column="33" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.test.tsx" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.test.tsx" />
-      <jump line="61" column="2" filename="C:/projects/UI-Web/node_modules/@types/react-router/index.d.ts" />
-      <jump line="17" column="13" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.test.tsx" />
       <jump line="14" column="38" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.test.tsx" />
       <jump line="53" column="21" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
       <jump line="12" column="96" filename="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" />
@@ -412,6 +403,28 @@
       <jump line="123" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" />
       <jump line="126" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/details/components/curriculum/Curriculum.module.scss" />
       <jump line="293" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="84" column="10" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="50" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="330" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="331" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="403" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-controls/PlayerControls.tsx" />
+      <jump line="21" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/StartSubMenu.tsx" />
+      <jump line="69" column="93" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="10" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="68" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="56" column="55" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="512" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="121" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="132" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="152" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="151" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="22" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/ToggleSubMenu.tsx" />
+      <jump line="52" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/StartSubMenu.tsx" />
+      <jump line="38" column="71" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/StartSubMenu.tsx" />
+      <jump line="25" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/StartSubMenu.tsx" />
+      <jump line="55" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
+      <jump line="843" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="49" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -447,7 +460,7 @@
         <text>auto</text>
       </register>
       <register name="/" type="4">
-        <text>prop-body</text>
+        <text>shouldA</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBvdmVyZmxvdy13cmFwOiBicmVhay13b3JkOwogICAgICAgIHdvcmQtYnJlYWs6IGJyZWFrLXdvcmQ7Cg==</text>
@@ -513,13 +526,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>prop-body</last-search>
+      <last-search>shouldA</last-search>
       <last-offset />
-      <last-pattern>prop-body</last-pattern>
+      <last-pattern>shouldA</last-pattern>
       <last-replace>-honeysha</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -527,9 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBvcnRQbGF5ZXJFcnJvclw+</entry>
-        <entry encoding="base64">XDxyZXBvcnRWaWRlb0V2ZW50XD4=</entry>
-        <entry encoding="base64">XDxvblZpZGVvRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxvbkNvbnRyb2xzU2Vla0NoYW5nZVw+</entry>
         <entry encoding="base64">XDxvblBhdXNlQ2xpY2tcPg==</entry>
         <entry>onErro</entry>
@@ -547,6 +557,9 @@
         <entry>90%</entry>
         <entry>duration</entry>
         <entry>prop-body</entry>
+        <entry encoding="base64">XDxzaG91bGRBdXRvcGxheVw+</entry>
+        <entry encoding="base64">XDxTdGFydFR5cGVcPg==</entry>
+        <entry>shouldA</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2action CommentByLineComment</entry>
@@ -567,8 +580,8 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
