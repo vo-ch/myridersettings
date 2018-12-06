@@ -19,6 +19,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1543399615485">
         <mark key="'" line="203" column="16" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544110722802">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="14" column="37" />
+        <mark key="^" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/services/__mocks__/createDataTableHttpService.mock.ts" timestamp="1542217180167">
         <mark key="'" line="21" column="6" />
       </file>
@@ -420,7 +426,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdvbiBTRUVLS0snKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>AppErrorStore.instance</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -451,8 +457,8 @@
       <register name="/" type="4">
         <text>shouldA</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBfX18gJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>AppErrorStore.instance</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
