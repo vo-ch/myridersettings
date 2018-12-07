@@ -26,12 +26,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1543399615485">
         <mark key="'" line="203" column="16" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544114909414">
-        <mark key="'" line="34" column="33" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="13" column="33" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544175802198">
+        <mark key="'" line="35" column="33" />
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="^" line="7" column="55" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/services/__mocks__/createDataTableHttpService.mock.ts" timestamp="1542217180167">
         <mark key="'" line="21" column="6" />
@@ -89,10 +89,12 @@
       <file name="C:/projects/NewCMS/node_modules/qs/lib/index.js" timestamp="1542368044400">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544112240216">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544175811806">
+        <mark key="'" line="16" column="25" />
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
       </file>
       <file name="C:/projects/NewCMS/src/components/SearchNav.jsx" timestamp="1542118033272">
         <mark key="'" line="0" column="0" />
@@ -129,8 +131,11 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" timestamp="1542033739487">
         <mark key="'" line="32" column="12" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" timestamp="1544105912426">
-        <mark key="'" line="42" column="8" />
+      <file name="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" timestamp="1544175554362">
+        <mark key="'" line="33" column="10" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/projects/UI-Web/Configuration/Loggly.cs" timestamp="1540308343225">
         <mark key="'" line="5" column="22" />
@@ -308,8 +313,8 @@
       <file name="C:/projects/NewCMS/node_modules/mobx/lib/mobx.d.ts" timestamp="1542210375582">
         <mark key="'" line="82" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1543402742909">
-        <mark key="'" line="57" column="13" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1544175192589">
+        <mark key="'" line="65" column="48" />
         <mark key="[" line="65" column="28" />
         <mark key="]" line="65" column="52" />
         <mark key="^" line="65" column="3" />
@@ -342,9 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AppErrorStore.ts" />
-      <jump line="33" column="13" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
-      <jump line="368" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="383" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="371" column="38" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="380" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
@@ -442,13 +444,16 @@
       <jump line="35" column="33" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="129" column="12" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
       <jump line="114" column="37" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
+      <jump line="65" column="48" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="33" column="10" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
+      <jump line="16" column="25" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5ld0Vycm9yQ29udGV4dDxUPih0YXJnZXQ6IFQpOiBUOwpleHBvcnQgZnVuY3Rpb24gbmV3RXJyb3JDb250ZXh0PFQ+KAogICAgdGFyZ2V0OiBULAogICAgcHJvcGVydHlLZXk/OiBzdHJpbmcgfCBzeW1ib2wsCiAgICBkZXNjcmlwdG9yPzogVHlwZWRQcm9wZXJ0eURlc2NyaXB0b3I8KCkgPT4gYW55PgopOiB2b2lkOwpleHBvcnQgZnVuY3Rpb24gbmV3RXJyb3JDb250ZXh0PFQ+KHRhcmdldDogVCwgcHJvcGVydHlLZXk/OiBhbnksIGRlc2NyaXB0b3I/OiBhbnkpOiBhbnkgewogICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwogICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgIGNvbnNvbGUubG9nKGRlc2NyaXB0b3IpOwogICAgY29uc29sZS5sb2codHlwZW9mIHRhcmdldCA9PT0gJ2Z1bmN0aW9uJyk7CiAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CgogICAgbGV0IG9yaWdpbmFsTWV0aG9kOiAoKSA9PiBhbnk7CgogICAgaWYgKGRlc2NyaXB0b3IgJiYgZGVzY3JpcHRvci52YWx1ZSkgewogICAgICAgIG9yaWdpbmFsTWV0aG9kID0gZGVzY3JpcHRvci52YWx1ZTsKCiAgICAgICAgZGVzY3JpcHRvci52YWx1ZSA9IGZ1bmN0aW9uICgpIHsKCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gb3JpZ2luYWxNZXRob2QuYXBwbHkodGhpcywgYXJndW1lbnRzKTsKCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlbmQgX19fICcpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH07CiAgICB9IGVsc2UgaWYgKHR5cGVvZiB0YXJnZXQgPT09ICdmdW5jdGlvbicpIHsKICAgICAgICBsZXQgcmVzdWx0ID0gbnVsbDsKCiAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0IF9fIGZ1bmMnKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQgPSB0YXJnZXQoKTsKICAgICAgICB9IGNhdGNoIChlKSB7CgogICAgICAgIH0KICAgICAgICBjb25zb2xlLmxvZygnZW5kIF9fXyBmdW5jJyk7CgogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cn0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTm90aWZpY2F0aW9uU3lzdGVtIH0gZnJvbSAnLi4vdmlld3MvbGF5b3V0L25vdGlmaWNhdGlvbi1zeXN0ZW0vQXBwTm90aWZpY2F0aW9uU3lzdGVtJzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmV3Q29udGV4dChuYW1lPzogRXJyb3JDb250ZXh0TmFtZXMpOiBJRXJyb3JDb250ZXh0IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -479,11 +484,11 @@
       <register name="/" type="4">
         <text>shouldA</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdsb2JhbENvbnRleHQgPSBuZXcgRXJyb3JDb250ZXh0KCdfX0dMT0JBTF9fJyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">bmV3Q29udGV4dChuYW1lPzogRXJyb3JDb250ZXh0TmFtZXMpOiBJRXJyb3JDb250ZXh0IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTm90aWZpY2F0aW9uU3lzdGVtIH0gZnJvbSAnLi4vdmlld3MvbGF5b3V0L25vdGlmaWNhdGlvbi1zeXN0ZW0vQXBwTm90aWZpY2F0aW9uU3lzdGVtJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgbmV3RXJyb3JDb250ZXh0IH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBFcnJvclN0b3JlJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -498,13 +503,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2dlciBmcm9tICcuLi91dGlscy9sb2cvTG9nZ2VyJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwTm90aWZpY2F0aW9uU3lzdGVtIH0gZnJvbSAnLi4vdmlld3MvbGF5b3V0L25vdGlmaWNhdGlvbi1zeXN0ZW0vQXBwTm90aWZpY2F0aW9uU3lzdGVtJzsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExvZ2dlciBmcm9tICcuLi91dGlscy9sb2cvTG9nZ2VyJzsK</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -517,13 +522,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBFcnJvckNvbnRleHROYW1lcyA9ICdob21lc3RvcmUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5ld0Vycm9yQ29udGV4dDxUPih0YXJnZXQ6IFQpOiBUOwpleHBvcnQgZnVuY3Rpb24gbmV3RXJyb3JDb250ZXh0PFQ+KAogICAgdGFyZ2V0OiBULAogICAgcHJvcGVydHlLZXk/OiBzdHJpbmcgfCBzeW1ib2wsCiAgICBkZXNjcmlwdG9yPzogVHlwZWRQcm9wZXJ0eURlc2NyaXB0b3I8KCkgPT4gYW55PgopOiB2b2lkOwpleHBvcnQgZnVuY3Rpb24gbmV3RXJyb3JDb250ZXh0PFQ+KHRhcmdldDogVCwgcHJvcGVydHlLZXk/OiBhbnksIGRlc2NyaXB0b3I/OiBhbnkpOiBhbnkgewogICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwogICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgIGNvbnNvbGUubG9nKGRlc2NyaXB0b3IpOwogICAgY29uc29sZS5sb2codHlwZW9mIHRhcmdldCA9PT0gJ2Z1bmN0aW9uJyk7CiAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CgogICAgbGV0IG9yaWdpbmFsTWV0aG9kOiAoKSA9PiBhbnk7CgogICAgaWYgKGRlc2NyaXB0b3IgJiYgZGVzY3JpcHRvci52YWx1ZSkgewogICAgICAgIG9yaWdpbmFsTWV0aG9kID0gZGVzY3JpcHRvci52YWx1ZTsKCiAgICAgICAgZGVzY3JpcHRvci52YWx1ZSA9IGZ1bmN0aW9uICgpIHsKCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gb3JpZ2luYWxNZXRob2QuYXBwbHkodGhpcywgYXJndW1lbnRzKTsKCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlbmQgX19fICcpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH07CiAgICB9IGVsc2UgaWYgKHR5cGVvZiB0YXJnZXQgPT09ICdmdW5jdGlvbicpIHsKICAgICAgICBsZXQgcmVzdWx0ID0gbnVsbDsKCiAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0IF9fIGZ1bmMnKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQgPSB0YXJnZXQoKTsKICAgICAgICB9IGNhdGNoIChlKSB7CgogICAgICAgIH0KICAgICAgICBjb25zb2xlLmxvZygnZW5kIF9fXyBmdW5jJyk7CgogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cn0K</text>
+        <text encoding="base64">dHlwZSBFcnJvckNvbnRleHROYW1lcyA9ICdob21lc3RvcmUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIG5ld0Vycm9yQ29udGV4dDxUPih0YXJnZXQ6IFQpOiBUOwpleHBvcnQgZnVuY3Rpb24gbmV3RXJyb3JDb250ZXh0PFQ+KAogICAgdGFyZ2V0OiBULAogICAgcHJvcGVydHlLZXk/OiBzdHJpbmcgfCBzeW1ib2wsCiAgICBkZXNjcmlwdG9yPzogVHlwZWRQcm9wZXJ0eURlc2NyaXB0b3I8KCkgPT4gYW55PgopOiB2b2lkOwpleHBvcnQgZnVuY3Rpb24gbmV3RXJyb3JDb250ZXh0PFQ+KHRhcmdldDogVCwgcHJvcGVydHlLZXk/OiBhbnksIGRlc2NyaXB0b3I/OiBhbnkpOiBhbnkgewogICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwogICAgY29uc29sZS5sb2codGFyZ2V0KTsKICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgIGNvbnNvbGUubG9nKGRlc2NyaXB0b3IpOwogICAgY29uc29sZS5sb2codHlwZW9mIHRhcmdldCA9PT0gJ2Z1bmN0aW9uJyk7CiAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CgogICAgbGV0IG9yaWdpbmFsTWV0aG9kOiAoKSA9PiBhbnk7CgogICAgaWYgKGRlc2NyaXB0b3IgJiYgZGVzY3JpcHRvci52YWx1ZSkgewogICAgICAgIG9yaWdpbmFsTWV0aG9kID0gZGVzY3JpcHRvci52YWx1ZTsKCiAgICAgICAgZGVzY3JpcHRvci52YWx1ZSA9IGZ1bmN0aW9uICgpIHsKCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgY29uc3QgcmVzdWx0ID0gb3JpZ2luYWxNZXRob2QuYXBwbHkodGhpcywgYXJndW1lbnRzKTsKCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdlbmQgX19fICcpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgIH07CiAgICB9IGVsc2UgaWYgKHR5cGVvZiB0YXJnZXQgPT09ICdmdW5jdGlvbicpIHsKICAgICAgICBsZXQgcmVzdWx0ID0gbnVsbDsKCiAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0IF9fIGZ1bmMnKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQgPSB0YXJnZXQoKTsKICAgICAgICB9IGNhdGNoIChlKSB7CgogICAgICAgIH0KICAgICAgICBjb25zb2xlLmxvZygnZW5kIF9fXyBmdW5jJyk7CgogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cn0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -537,13 +542,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUFwcEVycm9yU3RvcmUuaW5zdGFuY2UpIHsKICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZSA9IG5ldyBBcHBFcnJvclN0b3JlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -597,8 +602,8 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
