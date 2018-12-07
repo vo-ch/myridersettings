@@ -29,12 +29,11 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1544190470593">
         <mark key="'" line="407" column="70" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544198008155">
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544201656026">
         <mark key="'" line="57" column="37" />
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="84" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/services/__mocks__/createDataTableHttpService.mock.ts" timestamp="1542217180167">
         <mark key="'" line="21" column="6" />
@@ -95,12 +94,12 @@
       <file name="C:/projects/NewCMS/node_modules/qs/lib/index.js" timestamp="1542368044400">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544200376080">
-        <mark key="'" line="99" column="3" />
-        <mark key="[" line="70" column="71" />
-        <mark key="]" line="70" column="79" />
-        <mark key="^" line="70" column="79" />
-        <mark key="." line="70" column="79" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544201711481">
+        <mark key="'" line="37" column="37" />
+        <mark key="[" line="71" column="63" />
+        <mark key="]" line="71" column="63" />
+        <mark key="^" line="71" column="80" />
+        <mark key="." line="71" column="63" />
       </file>
       <file name="C:/projects/NewCMS/src/components/SearchNav.jsx" timestamp="1542118033272">
         <mark key="'" line="0" column="0" />
@@ -352,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="821" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="819" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="828" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -452,13 +450,14 @@
       <jump line="90" column="16" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="24" column="8" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="94" column="3" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
+      <jump line="37" column="37" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgICAgICBuYW1lPzogRXJyb3JDb250ZXh0TmFtZXMsCiAgICAgICAgdGFyZ2V0T2JqPzogVCwKICAgICAgICBwaWNrRXJyb3I/OiAoZXJyb3JzOiBFcnJvcltdLCBjb250ZXh0OiBFcnJvckNvbnRleHQ8VD4sIHN0b3JlPzogVCkgPT4gRXJyb3I=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>target.pickError</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -484,16 +483,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>target.pickError</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVWYWxpZGF0aW9uRXJyb3JzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>errorHandlerObj</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGlja0Vycm9yID0gZXJyb3JIYW5kbGVyT2JqID8gZXJyb3JIYW5kbGVyT2JqLnBpY2tFcnJvciA6IHRhcmdldC5waWNrRXJyb3I7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaWNrRXJyb3I/OiAoZXJyb3JzOiBFcnJvcltdLCBjb250ZXh0OiBFcnJvckNvbnRleHQ8VD4sIHN0b3JlPzogVCkgPT4gRXJyb3IsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,13 +507,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWxNZXRob2QgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwaWNrRXJyb3I/OiAoZXJyb3JzOiBFcnJvcltdLCBjb250ZXh0OiBFcnJvckNvbnRleHQ8VD4sIHN0b3JlPzogVCkgPT4gRXJyb3IsCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHROYW1lID0gdHlwZW9mIG5hbWUgPT09ICdzdHJpbmcnID8gbmFtZSBhcyBFcnJvckNvbnRleHROYW1lcyA6IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -524,13 +523,13 @@
         ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWxNZXRob2QgPSA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHROYW1lID0gdHlwZW9mIG5hbWUgPT09ICdzdHJpbmcnID8gbmFtZSBhcyBFcnJvckNvbnRleHROYW1lcyA6IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBlcnJvckhhbmRsZXJPYmo6IElFcnJvckhhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -547,10 +546,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG5hbWUK</text>
+        <text encoding="base64">ICAgIGxldCBlcnJvckhhbmRsZXJPYmo6IElFcnJvckhhbmRsZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQXBwRXJyb3JTdG9yZSB7CiAgICBuZXdDb250ZXh0KG5hbWU/OiBFcnJvckNvbnRleHROYW1lcyk6IElFcnJvckNvbnRleHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
