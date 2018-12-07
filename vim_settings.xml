@@ -29,12 +29,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1544190470593">
         <mark key="'" line="407" column="70" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544194387384">
-        <mark key="'" line="15" column="37" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="66" column="29" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544198008155">
+        <mark key="'" line="57" column="37" />
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/services/__mocks__/createDataTableHttpService.mock.ts" timestamp="1542217180167">
         <mark key="'" line="21" column="6" />
@@ -64,11 +64,11 @@
         <mark key="." line="181" column="88" />
         <mark key="^" line="181" column="88" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/ErrorContext.ts" timestamp="1544197060442">
-        <mark key="[" line="14" column="91" />
-        <mark key="]" line="14" column="91" />
-        <mark key="." line="14" column="91" />
-        <mark key="^" line="14" column="91" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/ErrorContext.ts" timestamp="1544197825194">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="100" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu/DropdownMenu.tsx" timestamp="1543336719151">
         <mark key="'" line="53" column="63" />
@@ -95,12 +95,12 @@
       <file name="C:/projects/NewCMS/node_modules/qs/lib/index.js" timestamp="1542368044400">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544196966727">
-        <mark key="'" line="36" column="37" />
-        <mark key="[" line="63" column="63" />
-        <mark key="]" line="64" column="15" />
-        <mark key="^" line="64" column="15" />
-        <mark key="." line="64" column="15" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544197924650">
+        <mark key="'" line="63" column="47" />
+        <mark key="[" line="63" column="61" />
+        <mark key="]" line="63" column="62" />
+        <mark key="^" line="63" column="62" />
+        <mark key="." line="63" column="62" />
       </file>
       <file name="C:/projects/NewCMS/src/components/SearchNav.jsx" timestamp="1542118033272">
         <mark key="'" line="0" column="0" />
@@ -352,10 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="292" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="820" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="238" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="757" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="777" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="786" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -452,13 +448,17 @@
       <jump line="179" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/content/stores/CourseBuilderContentStore.ts" />
       <jump line="31" column="37" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="15" column="37" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
+      <jump line="37" column="38" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
+      <jump line="11" column="4" filename="C:/projects/UI-Web/ClientApp/stores/error/ErrorContext.ts" />
+      <jump line="47" column="37" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
+      <jump line="63" column="47" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uICgKICAgICAgICB0YXJnZXQ6IFQsCiAgICAgICAgcHJvcGVydHlLZXk/OiBzdHJpbmcgfCBzeW1ib2wsCiAgICAgICAgZGVzY3JpcHRvcj86IFR5cGVkUHJvcGVydHlEZXNjcmlwdG9yPCgpID0+IGFueT4KICAgICk6IHZvaWQgewogICAgICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsKICAgICAgICBjb25zb2xlLmxvZyh0YXJnZXQpOwogICAgICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgICAgICBjb25zb2xlLmxvZyhkZXNjcmlwdG9yKTsKICAgICAgICBjb25zb2xlLmxvZyh0eXBlb2YgdGFyZ2V0ID09PSAnZnVuY3Rpb24nKTsKICAgICAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CgogICAgICAgIEFwcEVycm9yU3RvcmUuaW5zdGFuY2UubmV3Q29udGV4dCgpOwoKICAgICAgICBsZXQgb3JpZ2luYWxNZXRob2Q6ICgpID0+IGFueTsKCiAgICAgICAgaWYgKGRlc2NyaXB0b3IgJiYgZGVzY3JpcHRvci52YWx1ZSkgewogICAgICAgICAgICBvcmlnaW5hbE1ldGhvZCA9IGRlc2NyaXB0b3IudmFsdWU7CgogICAgICAgICAgICBkZXNjcmlwdG9yLnZhbHVlID0gZnVuY3Rpb24gKCkgewoKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IG9yaWdpbmFsTWV0aG9kLmFwcGx5KHRoaXMsIGFyZ3VtZW50cyk7CgogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBfX18gJyk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgICAgICB9OwogICAgICAgIH0gZWxzZSBpZiAodHlwZW9mIHRhcmdldCA9PT0gJ2Z1bmN0aW9uJykgewogICAgICAgIH0KICAgIH0K</text>
+      <register name="a" type="4">
+        <text encoding="base64">ICAgICAgICBuYW1lPzogRXJyb3JDb250ZXh0TmFtZXMsCiAgICAgICAgdGFyZ2V0T2JqPzogVCwKICAgICAgICBwaWNrRXJyb3I/OiAoZXJyb3JzOiBFcnJvcltdLCBjb250ZXh0OiBFcnJvckNvbnRleHQ8VD4sIHN0b3JlPzogVCkgPT4gRXJyb3I=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, this</text>
+        <text>name?: ErrorContextNames</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -484,16 +484,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>, this</text>
+        <text>name?: ErrorContextNames</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVWYWxpZGF0aW9uRXJyb3JzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5wdXNoKGUpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KGVycm9yczogRXJyb3JbXSwgY29udGV4dDogRXJyb3JDb250ZXh0PFQ+LCBzdG9yZT86IFQpID0+IEVycm9yLA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJQXBwRXJyb3JTdG9yZSB7CiAgICBuZXdDb250ZXh0KG5hbWU/OiBFcnJvckNvbnRleHROYW1lcyk6IElFcnJvckNvbnRleHQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,14 +508,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlc2NyaXB0b3IgJiYgZGVzY3JpcHRvci52YWx1ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text>else if (typeof target === 'function') {
-            }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRlc2NyaXB0b3IgJiYgZGVzY3JpcHRvci52YWx1ZSkgewo=</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -524,17 +523,18 @@
             { value: 'Linkedin', label: 'Linkedin' }
         ]</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>else if (typeof target === 'function') {
+            }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1c2gobmFtZT86IEVycm9yQ29udGV4dE5hbWVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1c2gobmFtZT86IEVycm9yQ29udGV4dE5hbWVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -548,10 +548,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5uZXdDb250ZXh0KGNvbnRleHROYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5uZXdDb250ZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5uZXdDb250ZXh0KGNvbnRleHROYW1lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
