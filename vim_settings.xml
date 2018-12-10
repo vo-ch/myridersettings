@@ -29,12 +29,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1544190470593">
         <mark key="'" line="407" column="70" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544446385422">
-        <mark key="'" line="57" column="37" />
-        <mark key="[" line="71" column="13" />
-        <mark key="]" line="71" column="8" />
-        <mark key="." line="71" column="8" />
-        <mark key="^" line="71" column="8" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544450291007">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="86" column="9" />
+        <mark key="]" line="85" column="62" />
+        <mark key="." line="85" column="62" />
+        <mark key="^" line="85" column="62" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/services/__mocks__/createDataTableHttpService.mock.ts" timestamp="1542217180167">
         <mark key="'" line="21" column="6" />
@@ -92,8 +92,8 @@
       <file name="C:/projects/NewCMS/node_modules/qs/lib/index.js" timestamp="1542368044400">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544448951623">
-        <mark key="'" line="34" column="15" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544449845214">
+        <mark key="'" line="93" column="33" />
         <mark key="[" line="39" column="96" />
         <mark key="]" line="39" column="96" />
         <mark key="." line="39" column="102" />
@@ -352,9 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
-      <jump line="149" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="460" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="829" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="463" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="794" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -427,7 +424,6 @@
       <jump line="31" column="37" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="15" column="37" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="37" column="38" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="11" column="4" filename="C:/projects/UI-Web/ClientApp/stores/error/ErrorContext.ts" />
       <jump line="47" column="37" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="63" column="88" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="90" column="16" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
@@ -452,13 +448,17 @@
       <jump line="54" column="28" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="100" column="9" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="34" column="15" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
+      <jump line="93" column="33" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
+      <jump line="62" column="48" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
+      <jump line="11" column="4" filename="C:/projects/UI-Web/ClientApp/stores/error/ErrorContext.ts" />
+      <jump line="85" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ErrorPicker</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Handler</text>
+        <text>contextName</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -484,13 +484,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>Handler</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVWYWxpZGF0aW9uRXJyb3JzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>beforeInvoke</text>
+        <text>contextName</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
