@@ -64,11 +64,11 @@
         <mark key="." line="181" column="88" />
         <mark key="^" line="181" column="88" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/ErrorContext.ts" timestamp="1544456644185">
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/ErrorContext.ts" timestamp="1544457119239">
         <mark key="[" line="32" column="0" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="^" line="23" column="10" />
+        <mark key="]" line="34" column="25" />
+        <mark key="." line="34" column="25" />
+        <mark key="^" line="34" column="25" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu/DropdownMenu.tsx" timestamp="1543336719151">
         <mark key="'" line="53" column="63" />
@@ -92,12 +92,12 @@
       <file name="C:/projects/NewCMS/node_modules/qs/lib/index.js" timestamp="1542368044400">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544456283221">
-        <mark key="'" line="65" column="21" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="58" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="58" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544457836745">
+        <mark key="'" line="74" column="21" />
+        <mark key="[" line="166" column="76" />
+        <mark key="]" line="166" column="81" />
+        <mark key="." line="166" column="81" />
+        <mark key="^" line="166" column="81" />
       </file>
       <file name="C:/projects/NewCMS/src/components/SearchNav.jsx" timestamp="1542118033272">
         <mark key="'" line="0" column="0" />
@@ -133,12 +133,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/AbstractMenu.tsx" timestamp="1542033739487">
         <mark key="'" line="32" column="12" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" timestamp="1544454582883">
-        <mark key="'" line="47" column="33" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="43" column="24" />
+      <file name="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" timestamp="1544457333246">
+        <mark key="'" line="48" column="30" />
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="C:/projects/UI-Web/Configuration/Loggly.cs" timestamp="1540308343225">
         <mark key="'" line="5" column="22" />
@@ -216,8 +216,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" timestamp="1544456515030">
-        <mark key="'" line="6" column="10" />
+      <file name="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" timestamp="1544457358342">
+        <mark key="'" line="491" column="15" />
         <mark key="[" line="6" column="92" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -359,10 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/ToggleSubMenu.tsx" />
-      <jump line="52" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/StartSubMenu.tsx" />
-      <jump line="38" column="71" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/StartSubMenu.tsx" />
-      <jump line="25" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/StartSubMenu.tsx" />
       <jump line="55" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/SettingsMenu.tsx" />
       <jump line="843" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="49" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -459,13 +455,17 @@
       <jump line="65" column="21" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="490" column="22" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
       <jump line="6" column="10" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
+      <jump line="116" column="25" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
+      <jump line="19" column="13" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
+      <jump line="47" column="30" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
+      <jump line="491" column="15" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgIHRhcmdldD86IFQsCiAgICBwcm9wZXJ0eUtleT86IHN0cmluZyB8IHN5bWJvbCwKICAgIGRlc2NyaXB0b3I/OiBUeXBlZFByb3BlcnR5RGVzY3JpcHRvcjwoKSA9PiBhbnk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcEVycm9yU3RvcmUuaW5zdGFuY2UucmVzZXRDb250ZXh0KG5hbWUpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbmV3RXJyb3JDb250ZXh0LCByZXNldEVycm9yQ29udGV4dCB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvZXJyb3IvbmV3RXJyb3JDb250ZXh0JzsK</text>
+      <register name="&quot;" type="4">
+        <text>Handler</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -491,16 +491,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>invokeTarget(originalMethod, contextName, this, arguments)</text>
+        <text>Handler</text>
       </register>
       <register name="/" type="4">
         <text>ErrorContextNames</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5yZXNldENvbnRleHQobmFtZSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBJRXJyb3JIYW5kbGVyIGV4dGVuZHMgSUVycm9yQ2F0Y2hlciB7CiAgICBwaWNrRXJyb3I/OiBFcnJvclBpY2tlcjsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbmV3RXJyb3JDb250ZXh0LCByZXNldEVycm9yQ29udGV4dCB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvZXJyb3IvbmV3RXJyb3JDb250ZXh0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -515,7 +515,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
@@ -527,16 +527,16 @@
         <text>ErrorCatcher</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChiZWZvcmVJbnZva2UpIGJlZm9yZUludm9rZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHJlc3VsdCA9IG9yaWdpbmFsTWV0aG9kLmFwcGx5KHRoaXMsIGFyZ3VtZW50cyk7CiAgICAgICAgICAgICAgICBBcHBFcnJvclN0b3JlLmluc3RhbmNlLnJlc2V0Q29udGV4dChuYW1lKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcEVycm9yU3RvcmUuaW5zdGFuY2UucmVzZXRDb250ZXh0KG5hbWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghdGFyZ2V0KSB7CiAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5uZXdDb250ZXh0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -550,10 +550,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhcmdldD86IFQsCiAgICBwcm9wZXJ0eUtleT86IHN0cmluZyB8IHN5bWJvbCwKICAgIGRlc2NyaXB0b3I/OiBUeXBlZFByb3BlcnR5RGVzY3JpcHRvcjwoKSA9PiBhbnk+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbmV3RXJyb3JDb250ZXh0LCByZXNldEVycm9yQ29udGV4dCB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvZXJyb3IvbmV3RXJyb3JDb250ZXh0JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b2oK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ErrorContextNames/ErrorContextName/g</text>
