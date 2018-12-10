@@ -91,12 +91,12 @@
       <file name="C:/projects/NewCMS/node_modules/qs/lib/index.js" timestamp="1542368044400">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544436269598">
-        <mark key="'" line="145" column="70" />
-        <mark key="[" line="164" column="34" />
-        <mark key="]" line="164" column="47" />
-        <mark key="^" line="164" column="47" />
-        <mark key="." line="164" column="47" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544437047855">
+        <mark key="'" line="125" column="70" />
+        <mark key="[" line="149" column="14" />
+        <mark key="]" line="149" column="14" />
+        <mark key="^" line="147" column="46" />
+        <mark key="." line="149" column="14" />
       </file>
       <file name="C:/projects/NewCMS/src/components/SearchNav.jsx" timestamp="1542118033272">
         <mark key="'" line="0" column="0" />
@@ -456,8 +456,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICAgICAgICBuYW1lPzogRXJyb3JDb250ZXh0TmFtZXMsCiAgICAgICAgdGFyZ2V0T2JqPzogVCwKICAgICAgICBwaWNrRXJyb3I/OiAoZXJyb3JzOiBFcnJvcltdLCBjb250ZXh0OiBFcnJvckNvbnRleHQ8VD4sIHN0b3JlPzogVCkgPT4gRXJyb3I=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBlcnJvckhhbmRsZXJPYmo6IElFcnJvckNhdGNoZXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -483,7 +483,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">ID0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVWYWxpZGF0aW9uRXJyb3JzXD4=</text>
@@ -492,7 +492,7 @@
         <text>onCatchError</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBlcnJvckhhbmRsZXJPYmo6IElFcnJvckNhdGNoZXIK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0ID0gbnVsbDsKCiAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0IF9fIGZ1bmMnKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQgPSB0YXJnZXRGbigpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5wdXNoKGUpOwogICAgICAgIH0KICAgICAgICBjb25zb2xlLmxvZygnZW5kIF9fXyBmdW5jJyk7CgogICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -507,13 +507,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBpZiAoaW5zdGFuY2VPZklFcnJvQ2F0Y2hlcihpbmxpbmVUYXJnZXQpKSB7CiAgICAgICAgZXJyb3JIYW5kbGVyT2JqID0gaW5saW5lVGFyZ2V0OwogICAgfSBlbHNlIGlmIChpbnN0YW5jZU9mSUVycm9DYXRjaGVyKGVycm9ySGFuZGxlcikpIHsKICAgICAgICBlcnJvckhhbmRsZXJPYmogPSBlcnJvckhhbmRsZXI7CiAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcEVycm9yU3RvcmUuaW5zdGFuY2UubmV3Q29udGV4dChjb250ZXh0TmFtZSwgcGlja0Vycm9yLCB0YXJnZXQpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBlcnJvckhhbmRsZXJPYmo6IElFcnJvckNhdGNoZXI7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>[
@@ -523,16 +523,16 @@
         ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcEVycm9yU3RvcmUuaW5zdGFuY2UubmV3Q29udGV4dChjb250ZXh0TmFtZSwgcGlja0Vycm9yLCB0YXJnZXQpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGlja0Vycm9yID0gZXJyb3JIYW5kbGVyT2JqID8gZXJyb3JIYW5kbGVyT2JqLnBpY2tFcnJvciA6IHRhcmdldC5waWNrRXJyb3I7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBwaWNrRXJyb3IgPSBlcnJvckhhbmRsZXJPYmogPyBlcnJvckhhbmRsZXJPYmoucGlja0Vycm9yIDogbnVsbDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxldCBlcnJvckhhbmRsZXJPYmo6IElFcnJvckhhbmRsZXI7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlb2YgaGFuZGxlci5waWNrRXJyb3IgPT09ICdmdW5jdGlvbic7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBlcnJvckhhbmRsZXJPYmo6IElFcnJvckNhdGNoZXIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -546,10 +546,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9uQ2F0Y2hFcnJvcj86ICgpID0+IHZvaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBpY2tFcnJvcj86ICgpID0+IGFueTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcEVycm9yU3RvcmUuaW5zdGFuY2UubmV3Q29udGV4dChjb250ZXh0TmFtZSwgcGlja0Vycm9yLCB0YXJnZXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
