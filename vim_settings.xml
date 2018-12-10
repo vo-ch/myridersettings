@@ -92,12 +92,12 @@
       <file name="C:/projects/NewCMS/node_modules/qs/lib/index.js" timestamp="1542368044400">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544447198233">
-        <mark key="'" line="29" column="25" />
-        <mark key="[" line="125" column="16" />
-        <mark key="]" line="125" column="27" />
-        <mark key="." line="125" column="16" />
-        <mark key="^" line="128" column="36" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544448951623">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="39" column="96" />
+        <mark key="]" line="39" column="96" />
+        <mark key="." line="39" column="102" />
+        <mark key="^" line="38" column="91" />
       </file>
       <file name="C:/projects/NewCMS/src/components/SearchNav.jsx" timestamp="1542118033272">
         <mark key="'" line="0" column="0" />
@@ -352,8 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
-      <jump line="148" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="454" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="149" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
       <jump line="460" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-video/PlayerVideo.tsx" />
@@ -406,7 +404,6 @@
       <jump line="65" column="48" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="16" column="25" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="2" column="15" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
-      <jump line="54" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="33" column="9" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
       <jump line="3" column="16" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="44" column="19" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
@@ -448,17 +445,20 @@
       <jump line="13" column="4" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="136" column="9" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="139" column="29" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
-      <jump line="79" column="9" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="14" column="35" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="76" column="36" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
-      <jump line="29" column="25" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
+      <jump line="29" column="16" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
+      <jump line="79" column="9" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
+      <jump line="54" column="28" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
+      <jump line="100" column="9" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
+      <jump line="34" column="15" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ErrorPicker</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">KCkgPT4gYW55</text>
+        <text>Handler</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -484,16 +484,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCkgPT4gYW55</text>
+        <text>Handler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYW5kbGVWYWxpZGF0aW9uRXJyb3JzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgRXJyb3JQaWNrZXIgPSAoKSA9PiBhbnk7Cg==</text>
+      <register name="0" type="4">
+        <text>beforeInvoke</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gZnVuY3Rpb24gKAogICAgICAgICAgICB0YXJnZXQ6IFQsCiAgICAgICAgICAgIHByb3BlcnR5S2V5Pzogc3RyaW5nIHwgc3ltYm9sLAogICAgICAgICAgICBkZXNjcmlwdG9yPzogVHlwZWRQcm9wZXJ0eURlc2NyaXB0b3I8KCkgPT4gYW55PgogICAgICAgICk6IHZvaWQgewogICAgICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgICAgICAgICAgY29uc29sZS5sb2coZGVzY3JpcHRvcik7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHR5cGVvZiB0YXJnZXQgPT09ICdmdW5jdGlvbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CgogICAgICAgICAgICBjb25zdCBvcmlnaW5hbE1ldGhvZDogKCkgPT4gYW55ID0gZGVzY3JpcHRvci52YWx1ZTsKCiAgICAgICAgICAgIGRlc2NyaXB0b3IudmFsdWUgPSBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICBBcHBFcnJvclN0b3JlLmluc3RhbmNlLm5ld0NvbnRleHQoY29udGV4dE5hbWUsIHBpY2tFcnJvciwgdGFyZ2V0KTsKCiAgICAgICAgICAgICAgICBsZXQgcmVzdWx0OwoKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gb3JpZ2luYWxNZXRob2QuYXBwbHkodGhpcywgYXJndW1lbnRzKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgICAgICBBcHBFcnJvclN0b3JlLmluc3RhbmNlLnB1c2goZSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBfX18gJyk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgICAgICB9OwogICAgICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,28 +508,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3VsdDsKCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHJlc3VsdCA9IG9yaWdpbmFsTWV0aG9kLmFwcGx5KHRoaXMsIGFyZ3VtZW50cyk7CiAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgIEFwcEVycm9yU3RvcmUuaW5zdGFuY2UucHVzaChlKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBfX18gJyk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gZnVuY3Rpb24gKAogICAgICAgICAgICB0YXJnZXQ6IFQsCiAgICAgICAgICAgIHByb3BlcnR5S2V5Pzogc3RyaW5nIHwgc3ltYm9sLAogICAgICAgICAgICBkZXNjcmlwdG9yPzogVHlwZWRQcm9wZXJ0eURlc2NyaXB0b3I8KCkgPT4gYW55PgogICAgICAgICk6IHZvaWQgewogICAgICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgICAgICAgICAgY29uc29sZS5sb2coZGVzY3JpcHRvcik7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHR5cGVvZiB0YXJnZXQgPT09ICdmdW5jdGlvbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CgogICAgICAgICAgICBjb25zdCBvcmlnaW5hbE1ldGhvZDogKCkgPT4gYW55ID0gZGVzY3JpcHRvci52YWx1ZTsKCiAgICAgICAgICAgIGRlc2NyaXB0b3IudmFsdWUgPSBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICBBcHBFcnJvclN0b3JlLmluc3RhbmNlLm5ld0NvbnRleHQoY29udGV4dE5hbWUsIHBpY2tFcnJvciwgdGFyZ2V0KTsKCiAgICAgICAgICAgICAgICBsZXQgcmVzdWx0OwoKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gb3JpZ2luYWxNZXRob2QuYXBwbHkodGhpcywgYXJndW1lbnRzKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgICAgICBBcHBFcnJvclN0b3JlLmluc3RhbmNlLnB1c2goZSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBfX18gJyk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgICAgICB9OwogICAgICAgIH07Cg==</text>
       </register>
       <register name="s" type="4">
         <text>ErrorCatcher</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJlc3VsdDsKCiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHJlc3VsdCA9IG9yaWdpbmFsTWV0aG9kLmFwcGx5KHRoaXMsIGFyZ3VtZW50cyk7CiAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgIEFwcEVycm9yU3RvcmUuaW5zdGFuY2UucHVzaChlKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBfX18gJyk7CiAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZnVuY3Rpb24gKAogICAgICAgICAgICB0YXJnZXQ6IFQsCiAgICAgICAgICAgIHByb3BlcnR5S2V5Pzogc3RyaW5nIHwgc3ltYm9sLAogICAgICAgICAgICBkZXNjcmlwdG9yPzogVHlwZWRQcm9wZXJ0eURlc2NyaXB0b3I8KCkgPT4gYW55PgogICAgICAgICk6IHZvaWQgewogICAgICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgICAgICAgICAgY29uc29sZS5sb2coZGVzY3JpcHRvcik7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHR5cGVvZiB0YXJnZXQgPT09ICdmdW5jdGlvbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CgogICAgICAgICAgICBjb25zdCBvcmlnaW5hbE1ldGhvZDogKCkgPT4gYW55ID0gZGVzY3JpcHRvci52YWx1ZTsKCiAgICAgICAgICAgIGRlc2NyaXB0b3IudmFsdWUgPSBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICBsZXQgcmVzdWx0OwoKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gb3JpZ2luYWxNZXRob2QuYXBwbHkodGhpcywgYXJndW1lbnRzKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgICAgICBBcHBFcnJvclN0b3JlLmluc3RhbmNlLnB1c2goZSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBfX18gJyk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgICAgICB9OwogICAgICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0ID0gbnVsbDsKCiAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0IF9fIGZ1bmMnKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQgPSB0YXJnZXRGbigpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5wdXNoKGUpOwogICAgICAgIH0KICAgICAgICBjb25zb2xlLmxvZygnZW5kIF9fXyBmdW5jJyk7CgogICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0ID0gbnVsbDsKCiAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0IF9fIGZ1bmMnKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQgPSB0YXJnZXRGbigpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5wdXNoKGUpOwogICAgICAgIH0KICAgICAgICBjb25zb2xlLmxvZygnZW5kIF9fXyBmdW5jJyk7CgogICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZnVuY3Rpb24gKAogICAgICAgICAgICB0YXJnZXQ6IFQsCiAgICAgICAgICAgIHByb3BlcnR5S2V5Pzogc3RyaW5nIHwgc3ltYm9sLAogICAgICAgICAgICBkZXNjcmlwdG9yPzogVHlwZWRQcm9wZXJ0eURlc2NyaXB0b3I8KCkgPT4gYW55PgogICAgICAgICk6IHZvaWQgewogICAgICAgICAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldCk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb3BlcnR5S2V5KTsKICAgICAgICAgICAgY29uc29sZS5sb2coZGVzY3JpcHRvcik7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHR5cGVvZiB0YXJnZXQgPT09ICdmdW5jdGlvbicpOwogICAgICAgICAgICBjb25zb2xlLmxvZygnPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Jyk7CgogICAgICAgICAgICBjb25zdCBvcmlnaW5hbE1ldGhvZDogKCkgPT4gYW55ID0gZGVzY3JpcHRvci52YWx1ZTsKCiAgICAgICAgICAgIGRlc2NyaXB0b3IudmFsdWUgPSBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICBsZXQgcmVzdWx0OwoKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFydCBfXyAnKTsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gb3JpZ2luYWxNZXRob2QuYXBwbHkodGhpcywgYXJndW1lbnRzKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgICAgICAgICBBcHBFcnJvclN0b3JlLmluc3RhbmNlLnB1c2goZSk7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuZCBfX18gJyk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgICAgICB9OwogICAgICAgIH07Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -543,10 +543,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBpZiAoaW5zdGFuY2VPZklFcnJvQ2F0Y2hlcihpbmxpbmVUYXJnZXQpKSB7CiAgICAgICAgZXJyb3JIYW5kbGVyT2JqID0gaW5saW5lVGFyZ2V0OwogICAgfSBlbHNlIGlmIChpbnN0YW5jZU9mSUVycm9DYXRjaGVyKGVycm9ySGFuZGxlcikpIHsKICAgICAgICBlcnJvckhhbmRsZXJPYmogPSBlcnJvckhhbmRsZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0ID0gbnVsbDsKCiAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0IF9fIGZ1bmMnKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQgPSB0YXJnZXRGbigpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5wdXNoKGUpOwogICAgICAgIH0KICAgICAgICBjb25zb2xlLmxvZygnZW5kIF9fXyBmdW5jJyk7CgogICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBlcnJvckhhbmRsZXJPYmo6IElFcnJvckNhdGNoZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0ID0gbnVsbDsKCiAgICAgICAgY29uc29sZS5sb2coJ3N0YXJ0IF9fIGZ1bmMnKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZXN1bHQgPSB0YXJnZXRGbigpOwogICAgICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgICAgICAgQXBwRXJyb3JTdG9yZS5pbnN0YW5jZS5wdXNoKGUpOwogICAgICAgIH0KICAgICAgICBjb25zb2xlLmxvZygnZW5kIF9fXyBmdW5jJyk7CgogICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
