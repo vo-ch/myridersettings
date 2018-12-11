@@ -10,10 +10,10 @@
         <mark key="^" line="114" column="13" />
         <mark key="." line="114" column="13" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" timestamp="1544540511922">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="24" />
+      <file name="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" timestamp="1544542047571">
+        <mark key="'" line="35" column="28" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="52" column="13" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/components/score-slide/ScoreSlide.tsx" timestamp="1540493242516">
         <mark key="'" line="81" column="35" />
@@ -233,12 +233,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" timestamp="1544539607504">
-        <mark key="'" line="18" column="61" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="53" column="9" />
+      <file name="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" timestamp="1544542693218">
+        <mark key="'" line="116" column="25" />
+        <mark key="[" line="116" column="32" />
+        <mark key="]" line="116" column="32" />
         <mark key="^" line="35" column="48" />
-        <mark key="." line="35" column="48" />
+        <mark key="." line="116" column="32" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1544458713431">
         <mark key="'" line="90" column="34" />
@@ -257,12 +257,12 @@
         <mark key="^" line="58" column="3" />
         <mark key="." line="58" column="3" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorPage.tsx" timestamp="1544540240627">
-        <mark key="'" line="15" column="28" />
-        <mark key="[" line="36" column="37" />
-        <mark key="]" line="36" column="37" />
-        <mark key="." line="36" column="37" />
-        <mark key="^" line="36" column="37" />
+      <file name="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorPage.tsx" timestamp="1544543156562">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="50" column="12" />
+        <mark key="]" line="50" column="12" />
+        <mark key="." line="50" column="29" />
+        <mark key="^" line="36" column="29" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/content/views/lesson/activity-preview/ActivityPreview.tsx" timestamp="1541414460910">
         <mark key="'" line="88" column="26" />
@@ -382,8 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="46" filename="C:/projects/UI-Web/ClientApp/stores/error/ErrorContext.ts" />
-      <jump line="47" column="25" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="8" column="4" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="159" column="23" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="494" column="27" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
@@ -445,9 +443,7 @@
       <jump line="56" column="32" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
       <jump line="32" column="11" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
       <jump line="19" column="13" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
-      <jump line="116" column="17" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
       <jump line="7" column="14" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
-      <jump line="35" column="30" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
       <jump line="21" column="0" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
       <jump line="41" column="37" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorPage.tsx" />
@@ -482,13 +478,17 @@
       <jump line="13" column="13" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="85" column="26" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="394" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="35" column="28" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
+      <jump line="2" column="14" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorPage.tsx" />
+      <jump line="62" column="15" filename="C:/projects/UI-Web/ClientApp/components/errors/not-found/NotFoundError.tsx" />
+      <jump line="116" column="25" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">UHJvbWlzZTx2b2lkPg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>unauthorizedComponent</text>
+        <text>checkAuth</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -514,16 +514,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>checkAuth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2l0Y2hFcnJvclBhZ2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>notAuthenticatedComponent</text>
+        <text>checkAuthenticated</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiTm90IEF1dGhlbnRpY2F0ZWQiIHN0YXRlIGlzIG5vdCBhY3R1YWxseSBlcnJvciBidXQgZm9yIHNvbWUgcGFnZXMgd2UgbmVlZCB0byBjaGVjayBpdCBhbmQgc2hvdyBlcnJvciBwYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -538,28 +538,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGNvbnRlbnQgPSAoPFJlYWN0LkZyYWdtZW50PnsgY2hpbGRyZW4gfTwvUmVhY3QuRnJhZ21lbnQ+KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0b3JlOiBwcm92aWRlci5zdG9yZXMuaG9tZVBhZ2UsCiAgICBjb25maWc6IHByb3ZpZGVyLnN0b3Jlcy5jb25maWd1cmF0aW9uLAogICAgcmVzcG9uc2l2ZTogcHJvdmlkZXIuc3RvcmVzLnJlc3BvbnNpdmVTY3JlZW5TaXplLAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoY3VycmVudEVycm9yKSB7CiAgICAgICAgICAgIHJldHVybiA8VW5rbm93bkVycm9yLz47CiAgICAgICAgfQoKICAgICAgICAgICAgY29udGVudCA9ICg8UmVhY3QuRnJhZ21lbnQ+eyBjaGlsZHJlbiB9PC9SZWFjdC5GcmFnbWVudD4pOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvclBpY2tlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGluamVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobm90Rm91bmQpIHsKICAgICAgICAgICAgY29udGVudCA9ICg8Tm90Rm91bmRFcnJvciAvPik7CiAgICAgICAgfSBlbHNlIGlmIChub3RBdXRoZW50aWNhdGVkKSB7CgogICAgICAgICAgICBpZiAobm90QXV0aGVudGljYXRlZENvbXBvbmVudCkgewogICAgICAgICAgICAgICAgY29udGVudCA9IG5vdEF1dGhlbnRpY2F0ZWRDb21wb25lbnQ7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjb250ZW50ID0gKDxOb3RBdXRoZW50aWNhdGVkRXJyb3IgLz4pOwogICAgICAgICAgICB9CgogICAgICAgIH0gZWxzZSBpZiAodW5rbm93bkVycm9yKSB7CiAgICAgICAgICAgIGNvbnRlbnQgPSAoPFVua25vd25FcnJvci8+KTsKICAgICAgICB9IGVsc2UgaWYgKHVuYXV0aG9yaXplZCkgewogICAgICAgICAgICBpZiAodW5hdXRob3JpemVkQ29tcG9uZW50KSB7CgogICAgICAgICAgICAgICAgY29udGVudCA9IHVuYXV0aG9yaXplZENvbXBvbmVudDsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNvbnRlbnQgPSAoPFVuYXV0aG9yaXplZEVycm9yIC8+KTsKICAgICAgICAgICAgfQoKICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgSVN3aXRjaEVycm9yQmxvY2tzUHJvcHMgIHsKfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -573,13 +573,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVycm9yOiBFcnJvcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSA0MDQK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -632,9 +632,9 @@
         <entry>action CommentByLineComment</entry>
         <entry>%s/ErrorContextNames/ErrorContextName/g</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
