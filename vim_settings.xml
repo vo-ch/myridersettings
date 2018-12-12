@@ -28,8 +28,8 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1544600130136">
-        <mark key="'" line="119" column="11" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1544606242431">
+        <mark key="'" line="159" column="29" />
         <mark key="[" line="15" column="53" />
         <mark key="]" line="15" column="53" />
         <mark key="." line="15" column="56" />
@@ -156,8 +156,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/submenus/QualitySubMenu.tsx" timestamp="1541601140159">
         <mark key="'" line="38" column="20" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/services/http/gateway/GatewayCoursesService.ts" timestamp="1543312663197">
+      <file name="C:/projects/UI-Web/ClientApp/services/http/gateway/GatewayCoursesService.ts" timestamp="1544606282576">
         <mark key="'" line="9" column="29" />
+        <mark key="[" line="23" column="54" />
+        <mark key="]" line="23" column="54" />
+        <mark key="^" line="23" column="54" />
+        <mark key="." line="23" column="54" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/search-box/SearchBox.tsx" timestamp="1541068927203">
         <mark key="'" line="9" column="4" />
@@ -251,12 +255,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544600954226">
-        <mark key="'" line="80" column="6" />
-        <mark key="[" line="23" column="92" />
-        <mark key="]" line="23" column="92" />
-        <mark key="." line="23" column="95" />
-        <mark key="^" line="106" column="3" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544606615787">
+        <mark key="'" line="116" column="31" />
+        <mark key="[" line="125" column="10" />
+        <mark key="]" line="125" column="10" />
+        <mark key="." line="125" column="10" />
+        <mark key="^" line="125" column="10" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" timestamp="1544551906299">
         <mark key="'" line="111" column="25" />
@@ -310,6 +314,9 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/utils/test-utils/MutableMock.ts" timestamp="1542216908231">
         <mark key="'" line="4" column="30" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/services/CourseSearchService.ts" timestamp="1544606274221">
+        <mark key="'" line="39" column="95" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1543420482542">
         <mark key="'" line="20" column="31" />
@@ -407,11 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
-      <jump line="7" column="14" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
-      <jump line="21" column="0" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
-      <jump line="41" column="37" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorPage.tsx" />
       <jump line="51" column="34" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorPage.tsx" />
       <jump line="23" column="10" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorPage.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorPage.tsx" />
@@ -467,7 +469,6 @@
       <jump line="86" column="65" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="65" column="0" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="203" column="19" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="63" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="201" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="54" column="12" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="200" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
@@ -480,7 +481,6 @@
       <jump line="189" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="109" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="122" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="116" column="54" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="89" column="60" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="195" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="119" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
@@ -507,13 +507,20 @@
       <jump line="76" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
       <jump line="86" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
       <jump line="88" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
+      <jump line="118" column="50" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="63" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="151" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
+      <jump line="116" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="159" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
+      <jump line="40" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/services/CourseSearchService.ts" />
+      <jump line="39" column="95" filename="C:/projects/UI-Web/ClientApp/views/course/services/CourseSearchService.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">UHJvbWlzZTx2b2lkPg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'Werror:'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -539,16 +546,18 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'Werror:'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRMb2NhbExvYWRpbmdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGN1cnJlbnQgbW9zdCByZWxldmFudCBnbG9iYWwgZXJyb3IKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1dlcnJvcjonKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvckhhbmRsZXIK</text>
+      <register name="1" type="4">
+        <text>this.loadData()
+            .then(this.loadPrimaryCategories)
+            .then(this.resetLoadingStatus)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -569,28 +578,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0b3JlLCBjb25maWcgfSA9IHRoaXMucHJvcHM7Cgo=</text>
+        <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvckhhbmRsZXIK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7CiAgICAgICAgY29uc3QgeyBhc3NldHNDbG91ZFVybCB9ID0gY29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0b3JlLCBjb25maWcgfSA9IHRoaXMucHJvcHM7Cgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvclBpY2tlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUFwcGxpY2F0aW9uU3RvcmVzIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBsaWNhdGlvblN0b3Jlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7CiAgICAgICAgY29uc3QgeyBhc3NldHNDbG91ZFVybCB9ID0gY29uZmlnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3dpdGNoRXJyb3JCbG9ja3MgfSBmcm9tICdDbGllbnRBcHAvY29tcG9uZW50cy9lcnJvcnMvU3dpdGNoRXJyb3JCbG9ja3MnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSUFwcGxpY2F0aW9uU3RvcmVzIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBsaWNhdGlvblN0b3Jlcyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gdGhpcy5wcm9wcy5zdG9yZTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgU3dpdGNoRXJyb3JCbG9ja3MgfSBmcm9tICdDbGllbnRBcHAvY29tcG9uZW50cy9lcnJvcnMvU3dpdGNoRXJyb3JCbG9ja3MnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBoYW5kbGUgZXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gdGhpcy5wcm9wcy5zdG9yZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -604,13 +613,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ2F1Z2h0IEVSUk9SISEhJyk7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICBjb25zb2xlLmxvZyhzdG9yZSk7CiAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBoYW5kbGUgZXJyb3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uTG9hZERhdGFGYWlsKGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ2F1Z2h0IEVSUk9SISEhJyk7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICBjb25zb2xlLmxvZyhzdG9yZSk7CiAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -664,8 +673,8 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
