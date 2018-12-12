@@ -109,12 +109,12 @@
       <file name="C:/projects/NewCMS/node_modules/qs/lib/index.js" timestamp="1542368044400">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544551699206">
-        <mark key="'" line="121" column="50" />
-        <mark key="[" line="80" column="42" />
-        <mark key="]" line="80" column="86" />
-        <mark key="." line="80" column="86" />
-        <mark key="^" line="80" column="86" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544599149920">
+        <mark key="'" line="120" column="50" />
+        <mark key="[" line="89" column="17" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="89" column="17" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="C:/projects/NewCMS/src/components/SearchNav.jsx" timestamp="1542118033272">
         <mark key="'" line="0" column="0" />
@@ -244,8 +244,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544551401203">
-        <mark key="'" line="89" column="60" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544598778426">
+        <mark key="'" line="107" column="14" />
         <mark key="[" line="110" column="4" />
         <mark key="]" line="110" column="4" />
         <mark key="." line="110" column="4" />
@@ -400,7 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="92" column="21" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
       <jump line="37" column="16" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
       <jump line="28" column="56" filename="C:/projects/UI-Web/ClientApp/stores/error/ErrorContext.ts" />
@@ -500,13 +499,14 @@
       <jump line="119" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="96" column="10" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
       <jump line="121" column="50" filename="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" />
+      <jump line="107" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">UHJvbWlzZTx2b2lkPg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0b3JlLCBjb25maWcgfSA9IHRoaXMucHJvcHM7Cgo=</text>
+        <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvckhhbmRsZXIK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -541,7 +541,7 @@
         <text encoding="base64">ICAgIEBlcnJvckNvbnRleHQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0b3JlLCBjb25maWcgfSA9IHRoaXMucHJvcHM7Cgo=</text>
+        <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvckhhbmRsZXIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -562,28 +562,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7CiAgICAgICAgY29uc3QgeyBhc3NldHNDbG91ZFVybCB9ID0gY29uZmlnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0b3JlLCBjb25maWcgfSA9IHRoaXMucHJvcHM7Cgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUFwcGxpY2F0aW9uU3RvcmVzIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBsaWNhdGlvblN0b3Jlcyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7CiAgICAgICAgY29uc3QgeyBhc3NldHNDbG91ZFVybCB9ID0gY29uZmlnOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvclBpY2tlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3dpdGNoRXJyb3JCbG9ja3MgfSBmcm9tICdDbGllbnRBcHAvY29tcG9uZW50cy9lcnJvcnMvU3dpdGNoRXJyb3JCbG9ja3MnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSUFwcGxpY2F0aW9uU3RvcmVzIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBsaWNhdGlvblN0b3Jlcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gdGhpcy5wcm9wcy5zdG9yZTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgU3dpdGNoRXJyb3JCbG9ja3MgfSBmcm9tICdDbGllbnRBcHAvY29tcG9uZW50cy9lcnJvcnMvU3dpdGNoRXJyb3JCbG9ja3MnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBoYW5kbGUgZXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gdGhpcy5wcm9wcy5zdG9yZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ2F1Z2h0IEVSUk9SISEhJyk7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICBjb25zb2xlLmxvZyhzdG9yZSk7CiAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBoYW5kbGUgZXJyb3IK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -597,10 +597,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uTG9hZERhdGFGYWlsKGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ2F1Z2h0IEVSUk9SISEhJyk7CiAgICAgICAgY29uc29sZS5sb2coZXJyKTsKICAgICAgICBjb25zb2xlLmxvZyhzdG9yZSk7CiAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLj0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9uTG9hZERhdGFGYWlsKGVycik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
@@ -613,7 +613,7 @@
       <last-replace>ErrorContextName</last-replace>
       <last-substitute>ErrorContextNames</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
