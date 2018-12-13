@@ -23,12 +23,12 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1544629766474">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="94" column="12" />
-        <mark key="]" line="95" column="3" />
-        <mark key="." line="95" column="3" />
-        <mark key="^" line="95" column="3" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1544698336549">
+        <mark key="'" line="101" column="21" />
+        <mark key="[" line="121" column="12" />
+        <mark key="]" line="122" column="3" />
+        <mark key="." line="122" column="3" />
+        <mark key="^" line="122" column="3" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1544190470593">
         <mark key="'" line="407" column="70" />
@@ -270,12 +270,12 @@
         <mark key="[" line="2713" column="0" />
         <mark key="]" line="2718" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544631552318">
-        <mark key="'" line="114" column="23" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="124" column="10" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544698327746">
+        <mark key="'" line="51" column="66" />
+        <mark key="[" line="70" column="12" />
+        <mark key="]" line="71" column="3" />
+        <mark key="." line="71" column="3" />
+        <mark key="^" line="71" column="3" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
@@ -433,8 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="109" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="122" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="89" column="60" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="195" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
@@ -506,7 +504,6 @@
       <jump line="69" column="12" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
       <jump line="21" column="16" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
       <jump line="67" column="16" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
-      <jump line="51" column="55" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="177" column="9" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
       <jump line="115" column="23" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="37" column="16" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
@@ -533,6 +530,9 @@
       <jump line="5" column="4" filename="C:/projects/UI-Web/webpack.config.js" />
       <jump line="16" column="40" filename="C:/projects/UI-Web/webpack.config.js" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/UIWeb.csproj" />
+      <jump line="51" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="59" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
+      <jump line="101" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -568,7 +568,7 @@
         <text>New error handling applied to HomePage and CourseSearch</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0RldkJ1aWxkXD4=</text>
+        <text>setSort</text>
       </register>
       <register name="0" type="4">
         <text>UseWebpackDevMiddleware</text>
@@ -625,17 +625,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0RldkJ1aWxkXD4=</last-search>
+      <last-search>setSort</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0RldkJ1aWxkXD4=</last-pattern>
+      <last-pattern>setSort</last-pattern>
       <last-replace>ErrorContextName</last-replace>
       <last-substitute>ErrorContextNames</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJRXJyb3JDYXRjaGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRQYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDx1dGlsc1w+</entry>
         <entry>Switch</entry>
@@ -655,6 +654,7 @@
         <entry>switch</entry>
         <entry encoding="base64">XDxTd2l0Y2hFcnJvclBhZ2VcPg==</entry>
         <entry encoding="base64">XDxpc0RldkJ1aWxkXD4=</entry>
+        <entry>setSort</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging/-honeysha/g</entry>
