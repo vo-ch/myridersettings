@@ -29,6 +29,12 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/layout/SectionContent.tsx" timestamp="1543336394479">
         <mark key="'" line="11" column="21" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" timestamp="1544795752578">
+        <mark key="[" line="20" column="59" />
+        <mark key="]" line="20" column="85" />
+        <mark key="^" line="20" column="60" />
+        <mark key="." line="20" column="60" />
+      </file>
       <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1543938024096">
         <mark key="'" line="186" column="0" />
         <mark key="[" line="181" column="86" />
@@ -61,8 +67,10 @@
       <file name="C:/projects/NewCMS/node_modules/qs/lib/index.js" timestamp="1542368044400">
         <mark key="'" line="2" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" timestamp="1542722315623">
-        <mark key="'" line="390" column="36" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" timestamp="1544795737691">
+        <mark key="'" line="58" column="40" />
+        <mark key="[" line="360" column="0" />
+        <mark key="]" line="360" column="139" />
       </file>
       <file name="C:/projects/UI-Web/webpack.shared.js" timestamp="1544536581747">
         <mark key="'" line="429" column="13" />
@@ -150,12 +158,17 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544711951108">
-        <mark key="'" line="51" column="66" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="20" />
-        <mark key="." line="70" column="11" />
-        <mark key="^" line="70" column="3" />
+      <file name="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" timestamp="1544630225426">
+        <mark key="'" line="300" column="25" />
+        <mark key="[" line="2713" column="0" />
+        <mark key="]" line="2718" column="7" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544795835181">
+        <mark key="'" line="107" column="43" />
+        <mark key="[" line="143" column="77" />
+        <mark key="]" line="143" column="77" />
+        <mark key="." line="143" column="77" />
+        <mark key="^" line="143" column="77" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" timestamp="1544634169258">
         <mark key="'" line="111" column="27" />
@@ -379,8 +392,8 @@
       <file name="C:/projects/NewCMS/src/stores/CatalogStore.js" timestamp="1541076383597">
         <mark key="'" line="6" column="28" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" timestamp="1544723632261">
-        <mark key="'" line="124" column="47" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" timestamp="1544795719218">
+        <mark key="'" line="229" column="11" />
         <mark key="[" line="120" column="31" />
         <mark key="]" line="120" column="32" />
         <mark key="^" line="120" column="32" />
@@ -452,13 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="19" filename="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" />
-      <jump line="93" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="101" column="28" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
-      <jump line="201" column="43" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
-      <jump line="151" column="9" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
-      <jump line="95" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="53" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="300" column="25" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="2712" column="9" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
       <jump line="166" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
@@ -552,13 +558,20 @@
       <jump line="139" column="59" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="297" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="303" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
+      <jump line="107" column="43" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="54" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
+      <jump line="215" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
+      <jump line="229" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
+      <jump line="25" column="9" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="38" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="58" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYSA9IG51bGw7CiAgICAgICAgICAgIGEub2xvKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5ub3RpZmljYXRpb25zU3RvcmUubm90aWZ5RXJyb3IoJ0ZlZWRiYWNrIHN5c3RlbSBoYXMgbm90IGxvYWRlZCB5ZXQuIFRyeSBhZ2FpbiBtb21lbnRhcmlseScsICdGZWVkYmFjayB1bmF2YWlsYWJsZScpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBvID0gbnVsbDsKICAgICAgICBvLmFsYSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>'Re'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -584,13 +597,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVua25vd25FcnJvcj17dW5rbm93bkVycm9yfQ==</text>
+        <text>'Re'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJRdWl6XD4=</text>
+        <text encoding="base64">XDxub3RpZmljYXRpb25zU3RvcmVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBlcnJvckJvdW5kYXJ5KCkK</text>
+      <register name="0" type="4">
+        <text>IAppNotificationSystemStore</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBvID0gbnVsbDsKICAgICAgICBvLmFsYSgpOwo=</text>
@@ -644,9 +657,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJRdWl6XD4=</last-search>
+      <last-search encoding="base64">XDxub3RpZmljYXRpb25zU3RvcmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJRdWl6XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxub3RpZmljYXRpb25zU3RvcmVcPg==</last-pattern>
       <last-replace>ErrorContextName</last-replace>
       <last-substitute>ErrorContextNames</last-substitute>
       <last-dir>1</last-dir>
@@ -654,8 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry>searchPar</entry>
-        <entry>setSearch</entry>
         <entry encoding="base64">XDxhY3Rpb25GaWVsZERlY29yYXRvclw+</entry>
         <entry encoding="base64">XDx3cmFwcGVyXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVEZWNvcmF0b3JcPg==</entry>
@@ -674,6 +685,8 @@
         <entry encoding="base64">XDxRdWl6XD4=</entry>
         <entry encoding="base64">PFF1aXo=</entry>
         <entry encoding="base64">XDxyZW5kZXJRdWl6XD4=</entry>
+        <entry encoding="base64">XDxJQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmVcPg==</entry>
+        <entry encoding="base64">XDxub3RpZmljYXRpb25zU3RvcmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging/-honeysha/g</entry>
