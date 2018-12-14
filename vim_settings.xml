@@ -55,12 +55,6 @@
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" timestamp="1544711541300">
-        <mark key="[" line="199" column="34" />
-        <mark key="]" line="199" column="42" />
-        <mark key="^" line="199" column="42" />
-        <mark key="." line="199" column="42" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/styles/mixins/transition.scss" timestamp="1540819912848">
         <mark key="'" line="11" column="12" />
       </file>
@@ -163,8 +157,8 @@
         <mark key="[" line="2713" column="0" />
         <mark key="]" line="2718" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544795835181">
-        <mark key="'" line="107" column="43" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544796527714">
+        <mark key="'" line="74" column="24" />
         <mark key="[" line="143" column="77" />
         <mark key="]" line="143" column="77" />
         <mark key="." line="143" column="77" />
@@ -209,12 +203,6 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/utils/test-utils/MutableMock.ts" timestamp="1542216908231">
         <mark key="'" line="4" column="30" />
-      </file>
-      <file name="C:/projects/UI-Web/tslint.json" timestamp="1544711502275">
-        <mark key="[" line="18" column="9" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1543420482542">
         <mark key="'" line="20" column="31" />
@@ -289,8 +277,8 @@
         <mark key="^" line="258" column="66" />
         <mark key="." line="258" column="66" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1544723357618">
-        <mark key="'" line="59" column="22" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1544796539987">
+        <mark key="'" line="161" column="31" />
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
@@ -320,8 +308,8 @@
         <mark key="." line="39" column="34" />
         <mark key="^" line="39" column="68" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1544633895707">
-        <mark key="'" line="64" column="21" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1544796505834">
+        <mark key="'" line="173" column="36" />
         <mark key="[" line="64" column="21" />
         <mark key="]" line="64" column="33" />
         <mark key="." line="64" column="33" />
@@ -375,6 +363,9 @@
         <mark key="." line="26" column="93" />
         <mark key="^" line="26" column="93" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" timestamp="1544796498178">
+        <mark key="'" line="8" column="8" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.test.tsx" timestamp="1543486516853">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="1" column="0" />
@@ -421,8 +412,14 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/services/CourseSearchService.ts" timestamp="1544606274221">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/services/CourseSearchService.ts" timestamp="1544796569340">
         <mark key="'" line="39" column="95" />
+        <mark key="[" line="105" column="5" />
+        <mark key="]" line="105" column="9" />
+        <mark key="." line="105" column="5" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" timestamp="1544796738875">
+        <mark key="'" line="203" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1544723660563">
         <mark key="[" line="0" column="0" />
@@ -465,12 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="25" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="2712" column="9" filename="C:/projects/UI-Web/node_modules/mobx/lib/mobx.js" />
-      <jump line="166" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
-      <jump line="63" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
-      <jump line="28" column="18" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
-      <jump line="40" column="11" filename="C:/projects/UI-Web/ClientApp/utils/log/Logger.ts" />
       <jump line="116" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="30" column="61" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
       <jump line="64" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
@@ -565,6 +556,12 @@
       <jump line="25" column="9" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
       <jump line="38" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
       <jump line="58" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-side-nav/CoursePlayerSideNav.tsx" />
+      <jump line="8" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" />
+      <jump line="173" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="44" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="74" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="161" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
+      <jump line="203" column="27" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -600,7 +597,7 @@
         <text>'Re'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RpZmljYXRpb25zU3RvcmVcPg==</text>
+        <text encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>IAppNotificationSystemStore</text>
@@ -653,13 +650,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrQXV0aGVudGljYXRlZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RpZmljYXRpb25zU3RvcmVcPg==</last-search>
+      <last-search encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RpZmljYXRpb25zU3RvcmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</last-pattern>
       <last-replace>ErrorContextName</last-replace>
       <last-substitute>ErrorContextNames</last-substitute>
       <last-dir>1</last-dir>
@@ -681,12 +678,12 @@
         <entry encoding="base64">XDxzeW5jQ3VycmVudFNsaWRlXD4=</entry>
         <entry encoding="base64">XDxhbGxUYWJTdG9yZVw+</entry>
         <entry encoding="base64">XDxBbGxUYWJTdG9yZVw+</entry>
-        <entry encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</entry>
         <entry encoding="base64">XDxRdWl6XD4=</entry>
         <entry encoding="base64">PFF1aXo=</entry>
         <entry encoding="base64">XDxyZW5kZXJRdWl6XD4=</entry>
         <entry encoding="base64">XDxJQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmVcPg==</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25zU3RvcmVcPg==</entry>
+        <entry encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging/-honeysha/g</entry>
@@ -707,8 +704,8 @@
         <entry>reg</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
