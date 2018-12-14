@@ -55,6 +55,12 @@
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" timestamp="1544711541300">
+        <mark key="[" line="199" column="34" />
+        <mark key="]" line="199" column="42" />
+        <mark key="^" line="199" column="42" />
+        <mark key="." line="199" column="42" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/styles/mixins/transition.scss" timestamp="1540819912848">
         <mark key="'" line="11" column="12" />
       </file>
@@ -157,12 +163,12 @@
         <mark key="[" line="2713" column="0" />
         <mark key="]" line="2718" column="7" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544796527714">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1544800240046">
         <mark key="'" line="74" column="24" />
-        <mark key="[" line="143" column="77" />
-        <mark key="]" line="143" column="77" />
-        <mark key="." line="143" column="77" />
-        <mark key="^" line="143" column="77" />
+        <mark key="[" line="144" column="58" />
+        <mark key="]" line="144" column="74" />
+        <mark key="." line="145" column="11" />
+        <mark key="^" line="145" column="11" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" timestamp="1544634169258">
         <mark key="'" line="111" column="27" />
@@ -203,6 +209,12 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/utils/test-utils/MutableMock.ts" timestamp="1542216908231">
         <mark key="'" line="4" column="30" />
+      </file>
+      <file name="C:/projects/UI-Web/tslint.json" timestamp="1544711502275">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/mobx/lib/api/action.d.ts" timestamp="1543420482542">
         <mark key="'" line="20" column="31" />
@@ -390,6 +402,12 @@
         <mark key="^" line="120" column="32" />
         <mark key="." line="120" column="32" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" timestamp="1544800100130">
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="52" />
+        <mark key="." line="54" column="52" />
+        <mark key="^" line="54" column="52" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
       </file>
@@ -418,8 +436,8 @@
         <mark key="]" line="105" column="9" />
         <mark key="." line="105" column="5" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" timestamp="1544796738875">
-        <mark key="'" line="203" column="27" />
+      <file name="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" timestamp="1544799916154">
+        <mark key="'" line="203" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1544723660563">
         <mark key="[" line="0" column="0" />
@@ -561,14 +579,14 @@
       <jump line="44" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="74" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="161" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="203" column="27" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
+      <jump line="203" column="23" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5ub3RpZmljYXRpb25zU3RvcmUubm90aWZ5RXJyb3IoJ0ZlZWRiYWNrIHN5c3RlbSBoYXMgbm90IGxvYWRlZCB5ZXQuIFRyeSBhZ2FpbiBtb21lbnRhcmlseScsICdGZWVkYmFjayB1bmF2YWlsYWJsZScpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'Re'</text>
+        <text>'Failed to fetch'</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -594,43 +612,43 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>'Re'</text>
+        <text>'Failed to fetch'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>IAppNotificationSystemStore</text>
+        <text encoding="base64">KGVyci5zdGF0dXMgPT09IDQwMCAmJiBlcnIuc3RhdHVzVGV4dCA9PT0gJ0ZhaWxlZCB0byBmZXRjaCcp</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBvID0gbnVsbDsKICAgICAgICBvLmFsYSgpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZWxzZSBpZiAoZXJyICYmIGVyci5tZXNzYWdlID09PSAnRmFpbGVkIHRvIGZldGNoJykgewogICAgICAgICAgICB0aGlzLmFwcFN0b3Jlcy5ub3RpZmljYXRpb25zU3RvcmUubm90aWZ5RXJyb3IoJ0ZhaWxlZCB0byBmZXRjaCcpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9</text>
       </register>
       <register name="q" type="4">
         <text>dWWP</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVyci5zdGF0dXMgPT09IDQwMCAmJiBlcnIuc3RhdHVzVGV4dCA9PT0gJ0ZhaWxlZCB0byBmZXRjaCcpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBlcnJvckJvdW5kYXJ5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvclBpY2tlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBlcnJvckJvdW5kYXJ5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKHRoaXMub25SZXF1ZXN0RXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvID0gbnVsbDsKICAgICAgICBvLmFsYSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBlcnJvckJvdW5kYXJ5KCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -644,10 +662,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAvKgogICAgICogSGFuZGxlIHVzZXIgYXV0aCBlcnJvcgogICAgICovCiAgICBAYWN0aW9uIHByb3RlY3RlZCBvbkF1dGhFcnJvcihlcnI6IEh0dHBFcnJvcjxhbnk+KTogdm9pZCB7CiAgICAgICAgaWYgKCF0aGlzLmFwcFN0b3Jlcy5hdXRoLmlzQWRtaW4pIHsKICAgICAgICAgICAgTG9nZ2VyLmVycm9yKGVycik7CiAgICAgICAgICAgIHRoaXMudW5hdXRob3JpemVkID0gdHJ1ZTsKICAgICAgICAgICAgdGhpcy5lcnJvclN0YXR1cyA9IGVyci5zdGF0dXNUZXh0OwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIEBlcnJvckJvdW5kYXJ5KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNoZWNrQXV0aGVudGljYXRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKHRoaXMub25SZXF1ZXN0RXJyb3IpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
