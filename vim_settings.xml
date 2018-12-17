@@ -394,12 +394,12 @@
         <mark key="^" line="120" column="32" />
         <mark key="." line="120" column="32" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" timestamp="1545057295619">
-        <mark key="'" line="24" column="61" />
-        <mark key="[" line="23" column="102" />
-        <mark key="]" line="23" column="110" />
-        <mark key="." line="23" column="110" />
-        <mark key="^" line="23" column="110" />
+      <file name="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" timestamp="1545063416461">
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="36" column="39" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
@@ -477,9 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="52" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="225" column="54" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="386" column="54" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="356" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="144" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="129" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
@@ -577,6 +574,9 @@
       <jump line="1" column="24" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
       <jump line="24" column="61" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
       <jump line="0" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/errors/HttpError.ts" />
+      <jump line="35" column="23" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
+      <jump line="878" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es5.d.ts" />
+      <jump line="29" column="36" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -590,8 +590,8 @@
 				subcategory: filter.subcategory
 			}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>in CMS shows Autofill data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -617,16 +617,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>in CMS shows Autofill data</text>
+        <text>Json API</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodW1wc1w+</text>
+        <text>}</text>
       </register>
       <register name="0" type="4">
-        <text>currentFilters.instructorName</text>
+        <text>JsonApiHttpError</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudEZpbHRlcnMuaW5zdHJ1Y3Rvck5hbWUpIGZpbHRlcnMuaW5zdHJ1Y3RvcnMubmFtZSA9IGN1cnJlbnRGaWx0ZXJzLmluc3RydWN0b3JOYW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -658,28 +658,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3VycmVudEZpbHRlcnMuaW5zdHJ1Y3RvcklkKSBmaWx0ZXJzLmluc3RydWN0b3JzLmlkID0gY3VycmVudEZpbHRlcnMuaW5zdHJ1Y3RvcklkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKG9yaWdpbmFsRXJyb3IpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSBmaWx0ZXJzLmluc3RydWN0b3JfaWRzID0gY3VycmVudEZpbHRlcnMuaW5zdHJ1Y3RvcklkOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvclBpY2tlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWlmIChjdXJyZW50RmlsdGVycy5pbnN0cnVjdG9yTmFtZSkgZmlsdGVycy5pbnN0cnVjdG9ycy5uYW1lID0gY3VycmVudEZpbHRlcnMuaW5zdHJ1Y3Rvck5hbWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGluc3RydWN0b3JzOiAgZmlsdGVyV3JhcHBlci5maWx0ZXIuaW5zdHJ1Y3RvcnMgPyB7CiAgICAgICAgICAJaWQ6IGZpbHRlcldyYXBwZXIuZmlsdGVyLmluc3RydWN0b3JfaWRzLAoJCQkJCQluYW1lOiBmaWx0ZXJXcmFwcGVyLmZpbHRlci5pbnN0cnVjdG9ycy5uYW1lCgkJCQkJfSwK</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbEVycm9yLnJlc3BvbnNlID0gaHVtcHMuY2FtZWxpemVLZXlzKG9yaWdpbmFsRXJyb3IucmVzcG9uc2UpIGFzIElKc29uQXBpRXJyb3JSZXNwb25zZTxURGV0YWlsPjsKICAgICAgICBzdXBlcihvcmlnaW5hbEVycm9yLnN0YXR1cywgb3JpZ2luYWxFcnJvci5zdGF0dXNUZXh0LCBvcmlnaW5hbEVycm9yLnVybCwgb3JpZ2luYWxFcnJvci5yZXNwb25zZSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgKGZpbHRlcldyYXBwZXIuZmlsdGVyLmluc3RydWN0b3JfaWRzKSBleHBvcnRGaWx0ZXJzLmZpbHRlci5pbnN0cnVjdG9ycy5pZCA9IGZpbHRlcldyYXBwZXIuZmlsdGVyLmluc3RydWN0b3JfaWRzLmluOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ewogICAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogVGhlIHNhbWUgZXJyb3IgcmVzcG9uc2UgYm9keSBmb3JtYXQgc3VwcG9zZWQgdG8gYmUgdXNlZCBieSBhbGwgc2VydmljZXMgd2hpY2ggc3VwcG9ydCBKc29uIEFQSSBTcGVjIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWxFcnJvci5yZXNwb25zZSA9IGh1bXBzLmNhbWVsaXplS2V5cyhvcmlnaW5hbEVycm9yLnJlc3BvbnNlKSBhcyBJSnNvbkFwaUVycm9yUmVzcG9uc2U8VERldGFpbD47CiAgICAgICAgICAgIHN1cGVyKG9yaWdpbmFsRXJyb3Iuc3RhdHVzLCBvcmlnaW5hbEVycm9yLnN0YXR1c1RleHQsIG9yaWdpbmFsRXJyb3IudXJsLCBvcmlnaW5hbEVycm9yLnJlc3BvbnNlKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -693,27 +693,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogVE9ETzogVGhpcyBpcyBjb25mdXNpbmcuIEhvdyBjYW4gd2UgcmVmYWN0b3IgdGhpcyB0byBtYWtlIGVycm9ycyBlYXNpZXIgdG8gd29yayB3aXRoPwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IE5vUmVmcmVzaFRva2VuRXJyb3IgZnJvbSAnLi9Ob1JlZnJlc2hUb2tlbkVycm9yJzsK</text>
+        <text encoding="base64">fSBlbHNlIGlmIChvcmlnaW5hbEVycm9yIGluc3RhbmNlb2YgRXJyb3IpIHsKICAgICAgICAgICAgdGhpcy5uYW1lID0gb3JpZ2luYWxFcnJvci5uYW1lOwogICAgICAgICAgICB0aGlzLm1lc3NhZ2UgPSBvcmlnaW5hbEVycm9yLm1lc3NhZ2U7CiAgICAgICAgICAgIHRoaXMuc3RhY2sgPSBvcmlnaW5hbEVycm9yLnN0YWNrOwogICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodW1wc1w+</last-search>
+      <last-search>}</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodW1wc1w+</last-pattern>
+      <last-pattern>}</last-pattern>
       <last-replace>ErrorContextName</last-replace>
       <last-substitute>ErrorContextNames</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnZva2VUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxzZXRTZWFyY2hcPg==</entry>
         <entry>olo</entry>
         <entry>switch</entry>
@@ -733,6 +732,7 @@
         <entry encoding="base64">XDxpbnN0cnVjdG9yTmFtZVw+</entry>
         <entry encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</entry>
         <entry encoding="base64">XDxodW1wc1w+</entry>
+        <entry>}</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging/-honeysha/g</entry>
