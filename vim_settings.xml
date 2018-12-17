@@ -35,12 +35,12 @@
         <mark key="^" line="20" column="60" />
         <mark key="." line="20" column="60" />
       </file>
-      <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1545053305636">
+      <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1545061075262">
         <mark key="'" line="212" column="28" />
-        <mark key="[" line="222" column="27" />
-        <mark key="]" line="222" column="27" />
-        <mark key="." line="222" column="27" />
-        <mark key="^" line="222" column="27" />
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="124" />
+        <mark key="." line="230" column="0" />
+        <mark key="^" line="229" column="86" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu/DropdownMenu.tsx" timestamp="1543336719151">
         <mark key="'" line="53" column="63" />
@@ -595,8 +595,8 @@
 				subcategory: filter.subcategory
 			}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>IJsonApiErrorResponse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJaWYgKGZpbHRlcldyYXBwZXIuZmlsdGVyLmluc3RydWN0b3JfaWRzKSBleHBvcnRGaWx0ZXJzLmZpbHRlci5pbnN0cnVjdG9ycy5pZCA9IGZpbHRlcldyYXBwZXIuZmlsdGVyLmluc3RydWN0b3JfaWRzLmluOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -622,13 +622,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">ICYmIGZpbHRlcldyYXBwZXIuZmlsdGVyLmluc3RydWN0b3JfaWRzLmlu</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodW1wc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>IJsonApiErrorResponse</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJaWYgKGZpbHRlcldyYXBwZXIuZmlsdGVyLmluc3RydWN0b3JfaWRzKSBleHBvcnRGaWx0ZXJzLmZpbHRlci5pbnN0cnVjdG9ycy5pZCA9IGZpbHRlcldyYXBwZXIuZmlsdGVyLmluc3RydWN0b3JfaWRzLmluOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICogVGhlIHNhbWUgZXJyb3IgcmVzcG9uc2UgYm9keSBmb3JtYXQgc3VwcG9zZWQgdG8gYmUgdXNlZCBieSBhbGwgc2VydmljZXMgd2hpY2ggc3VwcG9ydCBKc29uIEFQSSBTcGVjIAo=</text>
@@ -712,7 +712,7 @@
         <text encoding="base64">ICAgIAkJCWlmICh0aGlzLmNvdXJzZUlkICYmIHRoaXMuY291cnNlSWQudHJpbSgpKSBmaWx0ZXIuaWQgPSB0aGlzLmNvdXJzZUlkLnRyaW0oKTsKCQlpZiAodGhpcy5jb3Vyc2VUaXRsZSkgZmlsdGVyLnRpdGxlID0gdGhpcy5jb3Vyc2VUaXRsZTsKCQlpZiAodGhpcy5jb3Vyc2VTdGF0dXMpIGZpbHRlci5zdGF0dXMgPSB0aGlzLmNvdXJzZVN0YXR1cy50b0xvd2VyQ2FzZSgpOwoJCWlmICh0aGlzLnVzZXJJZE9mSW5zdHJ1Y3RvciB8fCB0aGlzLmluc3RydWN0b3IpIHsKCQkgICAgZmlsdGVyLmluc3RydWN0b3JzID0ge307CgkJICAgIGlmICh0aGlzLnVzZXJJZE9mSW5zdHJ1Y3RvcikgZmlsdGVyLmluc3RydWN0b3JzLmlkID0gdGhpcy51c2VySWRPZkluc3RydWN0b3I7CgkJICAgIGlmICh0aGlzLmluc3RydWN0b3IpIGZpbHRlci5pbnN0cnVjdG9ycy5uYW1lID0gdGhpcy5pbnN0cnVjdG9yOwogICAgICAgIH0KICAgICAgICBpZiAodGhpcy5za2lsbHMpIGZpbHRlci5za2lsbHMgPSB7IGxhYmVsOiB0aGlzLnNraWxscyB9OwoJCWlmICh0aGlzLnBhcmVudENhdGVnb3J5KSBmaWx0ZXIuY2F0ZWdvcnkgPSB7IGxhYmVsOiB0aGlzLnBhcmVudENhdGVnb3J5IH07CgkJaWYgKHRoaXMuY2hpbGRDYXRlZ29yeSkgZmlsdGVyLnN1YmNhdGVnb3J5ID0geyBsYWJlbDogdGhpcy5jaGlsZENhdGVnb3J5IH07Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoSuperMethod</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -762,12 +762,12 @@
         <entry>%s/ErrorContextNames/ErrorContextName/g</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action RenameElement</entry>
-        <entry>reg</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
         <entry>action GotoSuperMethod</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
