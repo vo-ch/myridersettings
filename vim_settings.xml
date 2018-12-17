@@ -35,12 +35,12 @@
         <mark key="^" line="20" column="60" />
         <mark key="." line="20" column="60" />
       </file>
-      <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1543938024096">
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="181" column="86" />
-        <mark key="]" line="181" column="88" />
-        <mark key="." line="181" column="88" />
-        <mark key="^" line="181" column="88" />
+      <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1545046266097">
+        <mark key="'" line="182" column="68" />
+        <mark key="[" line="182" column="83" />
+        <mark key="]" line="182" column="83" />
+        <mark key="." line="182" column="83" />
+        <mark key="^" line="182" column="57" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu/DropdownMenu.tsx" timestamp="1543336719151">
         <mark key="'" line="53" column="63" />
@@ -474,10 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="11" filename="C:/projects/UI-Web/webpack.config.js" />
-      <jump line="5" column="4" filename="C:/projects/UI-Web/webpack.config.js" />
-      <jump line="16" column="40" filename="C:/projects/UI-Web/webpack.config.js" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/UIWeb.csproj" />
       <jump line="51" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="101" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="70" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
@@ -574,13 +570,17 @@
       <jump line="46" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/lms/ActivitiesService.ts" />
       <jump line="46" column="10" filename="C:/projects/UI-Web/ClientApp/services/http/lms/CoursesService.ts" />
       <jump line="14" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lms/CoursesService.ts" />
+      <jump line="184" column="90" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
+      <jump line="186" column="56" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
+      <jump line="189" column="85" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
+      <jump line="182" column="68" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5ub3RpZmljYXRpb25zU3RvcmUubm90aWZ5RXJyb3IoJ0ZlZWRiYWNrIHN5c3RlbSBoYXMgbm90IGxvYWRlZCB5ZXQuIFRyeSBhZ2FpbiBtb21lbnRhcmlseScsICdGZWVkYmFjayB1bmF2YWlsYWJsZScpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/api/v1/courses/${courseId}/assets`</text>
+        <text>|| ''</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -606,13 +606,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>'Failed to fetch'</text>
+        <text>|| ''</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</text>
+        <text encoding="base64">XDxpbnN0cnVjdG9yTmFtZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>o</text>
+        <text>currentFilters.skills</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGdldEFzc2V0cyhjb3Vyc2VJZDogc3RyaW5nKTogUHJvbWlzZTxhbnk+IHsKICAgICAgICByZXR1cm4gdGhpcy5qc29uR2V0KGAke3RoaXMubG1zVXJsfS9hcGkvdjEvY291cnNlcy8ke2NvdXJzZUlkfS9hc3NldHNgLCB7Cg==</text>
@@ -666,18 +666,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</last-search>
+      <last-search encoding="base64">XDxpbnN0cnVjdG9yTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbnN0cnVjdG9yTmFtZVw+</last-pattern>
       <last-replace>ErrorContextName</last-replace>
       <last-substitute>ErrorContextNames</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3Rpb25GaWVsZERlY29yYXRvclw+</entry>
-        <entry encoding="base64">XDx3cmFwcGVyXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVEZWNvcmF0b3JcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVFcnJvckNvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxpbnZva2VUYXJnZXRcPg==</entry>
@@ -696,6 +694,8 @@
         <entry encoding="base64">XDxJQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmVcPg==</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25zU3RvcmVcPg==</entry>
         <entry encoding="base64">XDxzZXRDYXRlZ29yaWVzXD4=</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxpbnN0cnVjdG9yTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging/-honeysha/g</entry>
