@@ -289,6 +289,9 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts" timestamp="1542202826382">
         <mark key="'" line="305" column="49" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/lms/ActivitiesService.ts" timestamp="1545041479407">
+        <mark key="'" line="46" column="21" />
+      </file>
       <file name="C:/projects/NewCMS/src/stores/CategoryStore.js" timestamp="1540915022579">
         <mark key="'" line="34" column="31" />
       </file>
@@ -376,6 +379,12 @@
       <file name="C:/projects/NewCMS/src/stores/CatalogStore.js" timestamp="1541076383597">
         <mark key="'" line="6" column="28" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/lms/CoursesService.ts" timestamp="1545041679596">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="47" column="43" />
+        <mark key="]" line="47" column="77" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/quiz/Quiz.scss" timestamp="1544804371341">
         <mark key="[" line="38" column="18" />
       </file>
@@ -421,6 +430,9 @@
         <mark key="[" line="63" column="14" />
         <mark key="]" line="63" column="14" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1545041469143">
+        <mark key="'" line="415" column="44" />
+      </file>
       <file name="/Dummy.txt" timestamp="1544805387681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -462,11 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
-      <jump line="30" column="61" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
-      <jump line="64" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
-      <jump line="31" column="13" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
-      <jump line="111" column="27" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
       <jump line="66" column="11" filename="C:/projects/UI-Web/webpack.config.js" />
       <jump line="5" column="4" filename="C:/projects/UI-Web/webpack.config.js" />
       <jump line="16" column="40" filename="C:/projects/UI-Web/webpack.config.js" />
@@ -562,13 +569,18 @@
       <jump line="74" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="161" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="203" column="23" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
+      <jump line="512" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="415" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
+      <jump line="46" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/lms/ActivitiesService.ts" />
+      <jump line="46" column="10" filename="C:/projects/UI-Web/ClientApp/services/http/lms/CoursesService.ts" />
+      <jump line="14" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/lms/CoursesService.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5ub3RpZmljYXRpb25zU3RvcmUubm90aWZ5RXJyb3IoJ0ZlZWRiYWNrIHN5c3RlbSBoYXMgbm90IGxvYWRlZCB5ZXQuIFRyeSBhZ2FpbiBtb21lbnRhcmlseScsICdGZWVkYmFjayB1bmF2YWlsYWJsZScpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>/api/v1/courses/${courseId}/assets`</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -602,35 +614,35 @@
       <register name="0" type="4">
         <text>o</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoZXJyICYmIGVyci5tZXNzYWdlID09PSAnRmFpbGVkIHRvIGZldGNoJykgewogICAgICAgICAgICB0aGlzLmFwcFN0b3Jlcy5ub3RpZmljYXRpb25zU3RvcmUubm90aWZ5RXJyb3IoJ0ZhaWxlZCB0byBmZXRjaCcpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGdldEFzc2V0cyhjb3Vyc2VJZDogc3RyaW5nKTogUHJvbWlzZTxhbnk+IHsKICAgICAgICByZXR1cm4gdGhpcy5qc29uR2V0KGAke3RoaXMubG1zVXJsfS9hcGkvdjEvY291cnNlcy8ke2NvdXJzZUlkfS9hc3NldHNgLCB7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>dWWP</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVyci5zdGF0dXMgPT09IDQwMCAmJiBlcnIuc3RhdHVzVGV4dCA9PT0gJ0ZhaWxlZCB0byBmZXRjaCcpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZWxzZSBpZiAoZXJyICYmIGVyci5tZXNzYWdlID09PSAnRmFpbGVkIHRvIGZldGNoJykgewogICAgICAgICAgICB0aGlzLmFwcFN0b3Jlcy5ub3RpZmljYXRpb25zU3RvcmUubm90aWZ5RXJyb3IoJ0ZhaWxlZCB0byBmZXRjaCcpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVyci5zdGF0dXMgPT09IDQwMCAmJiBlcnIuc3RhdHVzVGV4dCA9PT0gJ0ZhaWxlZCB0byBmZXRjaCcpCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvclBpY2tlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBvID0gbnVsbDsKICAgICAgICBvLmFsYSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBvID0gbnVsbDsKICAgICAgICBvLmFsYSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBlcnJvckJvdW5kYXJ5KCkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -647,7 +659,7 @@
         <text encoding="base64">ICAgIEBlcnJvckJvdW5kYXJ5KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKHRoaXMub25SZXF1ZXN0RXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgIEBlcnJvckJvdW5kYXJ5KCkK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
@@ -698,13 +710,13 @@
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
         <entry encoding="base64">JzwsJz4lUy86Lz0vZw==</entry>
         <entry>%s/ErrorContextNames/ErrorContextName/g</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
