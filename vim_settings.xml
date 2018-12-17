@@ -35,12 +35,12 @@
         <mark key="^" line="20" column="60" />
         <mark key="." line="20" column="60" />
       </file>
-      <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1545046266097">
-        <mark key="'" line="182" column="68" />
-        <mark key="[" line="182" column="83" />
-        <mark key="]" line="182" column="83" />
-        <mark key="." line="182" column="83" />
-        <mark key="^" line="182" column="57" />
+      <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1545050904482">
+        <mark key="'" line="173" column="36" />
+        <mark key="[" line="230" column="39" />
+        <mark key="]" line="230" column="44" />
+        <mark key="." line="230" column="44" />
+        <mark key="^" line="230" column="44" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/dropdown-menu/DropdownMenu.tsx" timestamp="1543336719151">
         <mark key="'" line="53" column="63" />
@@ -289,6 +289,10 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts" timestamp="1542202826382">
         <mark key="'" line="305" column="49" />
       </file>
+      <file name="/CourseFilterModel.js" timestamp="1545050577160">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="33" column="83" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/lms/ActivitiesService.ts" timestamp="1545041479407">
         <mark key="'" line="46" column="21" />
       </file>
@@ -474,7 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="66" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="101" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
       <jump line="70" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
       <jump line="14" column="20" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
@@ -574,13 +577,14 @@
       <jump line="186" column="56" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
       <jump line="189" column="85" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
       <jump line="182" column="68" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
+      <jump line="173" column="36" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5ub3RpZmljYXRpb25zU3RvcmUubm90aWZ5RXJyb3IoJ0ZlZWRiYWNrIHN5c3RlbSBoYXMgbm90IGxvYWRlZCB5ZXQuIFRyeSBhZ2FpbiBtb21lbnRhcmlseScsICdGZWVkYmFjayB1bmF2YWlsYWJsZScpOwo=</text>
+        <text encoding="base64">CQlpZiAodGhpcy5jb3Vyc2VJZCAmJiB0aGlzLmNvdXJzZUlkLnRyaW0oKSkgZmlsdGVyLmlkID0gdGhpcy5jb3Vyc2VJZC50cmltKCk7CgkJaWYgKHRoaXMuY291cnNlVGl0bGUpIGZpbHRlci50aXRsZSA9IHRoaXMuY291cnNlVGl0bGU7CgkJaWYgKHRoaXMuY291cnNlU3RhdHVzKSBmaWx0ZXIuc3RhdHVzID0gdGhpcy5jb3Vyc2VTdGF0dXMudG9Mb3dlckNhc2UoKTsKCQlpZiAodGhpcy51c2VySWRPZkluc3RydWN0b3IgfHwgdGhpcy5pbnN0cnVjdG9yKSB7CgkJICAgIGZpbHRlci5pbnN0cnVjdG9ycyA9IHt9OwoJCSAgICBpZiAodGhpcy51c2VySWRPZkluc3RydWN0b3IpIGZpbHRlci5pbnN0cnVjdG9ycy5pZCA9IHRoaXMudXNlcklkT2ZJbnN0cnVjdG9yOwoJCSAgICBpZiAodGhpcy5pbnN0cnVjdG9yKSBmaWx0ZXIuaW5zdHJ1Y3RvcnMubmFtZSA9IHRoaXMuaW5zdHJ1Y3RvcjsKICAgICAgICB9CiAgICAgICAgaWYgKHRoaXMuc2tpbGxzKSBmaWx0ZXIuc2tpbGxzID0geyBsYWJlbDogdGhpcy5za2lsbHMgfTsKCQlpZiAodGhpcy5wYXJlbnRDYXRlZ29yeSkgZmlsdGVyLmNhdGVnb3J5ID0geyBsYWJlbDogdGhpcy5wYXJlbnRDYXRlZ29yeSB9OwoJCWlmICh0aGlzLmNoaWxkQ2F0ZWdvcnkpIGZpbHRlci5zdWJjYXRlZ29yeSA9IHsgbGFiZWw6IHRoaXMuY2hpbGRDYXRlZ29yeSB9Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>|| ''</text>
+        <text>courseId</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -606,13 +610,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>|| ''</text>
+        <text>courseId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnN0cnVjdG9yTmFtZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>currentFilters.skills</text>
+        <text>filter.skills.labe</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGdldEFzc2V0cyhjb3Vyc2VJZDogc3RyaW5nKTogUHJvbWlzZTxhbnk+IHsKICAgICAgICByZXR1cm4gdGhpcy5qc29uR2V0KGAke3RoaXMubG1zVXJsfS9hcGkvdjEvY291cnNlcy8ke2NvdXJzZUlkfS9hc3NldHNgLCB7Cg==</text>
