@@ -399,6 +399,13 @@
         <mark key="^" line="120" column="32" />
         <mark key="." line="120" column="32" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" timestamp="1545057295619">
+        <mark key="'" line="24" column="61" />
+        <mark key="[" line="23" column="102" />
+        <mark key="]" line="23" column="110" />
+        <mark key="." line="23" column="110" />
+        <mark key="^" line="23" column="110" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/menus/settings-menu/components/SubMenuList.tsx" timestamp="1541601165414">
         <mark key="'" line="19" column="56" />
       </file>
@@ -475,13 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="22" filename="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" />
-      <jump line="67" column="57" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="68" column="8" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="273" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
-      <jump line="248" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
-      <jump line="271" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
-      <jump line="135" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="232" column="52" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="225" column="54" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="386" column="54" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -575,6 +575,13 @@
       <jump line="71" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="120" column="40" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="114" column="40" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="89" column="8" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
+      <jump line="33" column="20" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
+      <jump line="874" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es5.d.ts" />
+      <jump line="27" column="37" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
+      <jump line="1" column="24" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
+      <jump line="24" column="61" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
+      <jump line="0" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/errors/HttpError.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -589,7 +596,7 @@
 			}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.filter.</text>
+        <text>IJsonApiErrorResponse</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -615,24 +622,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>.filter.</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</text>
+        <text encoding="base64">XDxodW1wc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>filterWrapper</text>
+        <text>IJsonApiErrorResponse</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-				id: filter.id,
-				title: filter.title,
-				status: filter.status === 'all' ? '' : filter.status,
-				instructors: filter.instructors,
-				skills: filter.skills,
-				category: filter.category,
-				subcategory: filter.subcategory
-			}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICogVGhlIHNhbWUgZXJyb3IgcmVzcG9uc2UgYm9keSBmb3JtYXQgc3VwcG9zZWQgdG8gYmUgdXNlZCBieSBhbGwgc2VydmljZXMgd2hpY2ggc3VwcG9ydCBKc29uIEFQSSBTcGVjIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -664,28 +663,36 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaWYgKGZpbHRlci5pZCkgZXhwb3J0RmlsdGVycy5pZCA9IGZpbHRlci5pZDsKCQkJaWYgKGZpbHRlci50aXRsZSkgZXhwb3J0RmlsdGVycy50aXRsZSA9IGZpbHRlci50aXRsZTsKCQkJaWYgKGZpbHRlci5zdGF0dXMpIGV4cG9ydEZpbHRlcnMuc3RhdHVzID0gZmlsdGVyLnN0YXR1czsKCQkJaWYgKGZpbHRlci5pbnN0cnVjdG9ycykgZXhwb3J0RmlsdGVycy5pbnN0cnVjdG9ycyA9IGZpbHRlci5pbnN0cnVjdG9yczsKCQkJaWYgKGZpbHRlci5za2lsbHMpIGV4cG9ydEZpbHRlcnMuc2tpbGxzID0gZmlsdGVyLnNraWxsczsKCQkJaWYgKGZpbHRlci5jYXRlZ29yeSkgZXhwb3J0RmlsdGVycy5jYXRlZ29yeSA9IGZpbHRlci5jYXRlZ29yeTsKCQkJaWYgKGZpbHRlci5zdWJjYXRlZ29yeSkgZXhwb3J0RmlsdGVycy5zdWJjYXRlZ29yeSA9IGZpbHRlci5zdWJjYXRlZ29yeTsKCgo=</text>
+        <text encoding="base64">ICogVE9ETzogVGhpcyBpcyBjb25mdXNpbmcuIEhvdyBjYW4gd2UgcmVmYWN0b3IgdGhpcyB0byBtYWtlIGVycm9ycyBlYXNpZXIgdG8gd29yayB3aXRoPwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWlkOiBmaWx0ZXIuaWQsCg==</text>
+        <text encoding="base64">aW1wb3J0IE5vUmVmcmVzaFRva2VuRXJyb3IgZnJvbSAnLi9Ob1JlZnJlc2hUb2tlbkVycm9yJzsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvclBpY2tlcgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICBsZXQgZXJyOiB7CiAgICAgICAgICAgICAgICBzdGF0dXM6IG51bWJlcjsKICAgICAgICAgICAgICAgIHN0YXR1c1RleHQ6IHN0cmluZzsKICAgICAgICAgICAgICAgIHVybDogc3RyaW5nOwogICAgICAgICAgICAgICAgcmVzcG9uc2U6IElKc29uQXBpRXJyb3JSZXNwb25zZTxzdHJpbmc+OwogICAgICAgICAgICB9OwoKICAgICAgICAgICAgaWYgKG9yaWdpbmFsRXJyb3IgaW5zdGFuY2VvZiBOb1JlZnJlc2hUb2tlbkVycm9yKSB7CiAgICAgICAgICAgICAgICBlcnIgPSB7CiAgICAgICAgICAgICAgICAgICAgc3RhdHVzOiA0MDEsCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzVGV4dDogJ05vUmVmcmVzaFRva2VuRXJyb3InLAogICAgICAgICAgICAgICAgICAgIHVybDogJycsCiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2U6IHsKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzOiBbewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6IG9yaWdpbmFsRXJyb3IubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbDogb3JpZ2luYWxFcnJvci5tZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgICAgIH1dCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIH0gZWxzZSBpZiAob3JpZ2luYWxFcnJvciAmJiBvcmlnaW5hbEVycm9yLm1lc3NhZ2UgPT09ICdGYWlsZWQgdG8gZmV0Y2gnKSB7CiAgICAgICAgICAgICAgICBlcnIgPSB7CiAgICAgICAgICAgICAgICAgICAgc3RhdHVzOiA0MDAsCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzVGV4dDogb3JpZ2luYWxFcnJvci5tZXNzYWdlLAogICAgICAgICAgICAgICAgICAgIHVybDogJycsCiAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2U6IHsKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JzOiBbewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6IG9yaWdpbmFsRXJyb3IubmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRldGFpbDogb3JpZ2luYWxFcnJvci5tZXNzYWdlCiAgICAgICAgICAgICAgICAgICAgICAgIH1dCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIH0gZWxzZSBpZiAob3JpZ2luYWxFcnJvcikgewogICAgICAgICAgICAgICAgZXJyID0gewogICAgICAgICAgICAgICAgICAgIHN0YXR1czogNTAwLAogICAgICAgICAgICAgICAgICAgIHN0YXR1c1RleHQ6ICdFcnJvcicsCiAgICAgICAgICAgICAgICAgICAgdXJsOiAnJywKICAgICAgICAgICAgICAgICAgICByZXNwb25zZTogewogICAgICAgICAgICAgICAgICAgICAgICBlcnJvcnM6IFt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogb3JpZ2luYWxFcnJvci5uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGV0YWlsOiBvcmlnaW5hbEVycm9yLm1lc3NhZ2UKICAgICAgICAgICAgICAgICAgICAgICAgfV0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9OwoKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGVyciA9IHsKICAgICAgICAgICAgICAgICAgICBzdGF0dXM6IDUwMCwKICAgICAgICAgICAgICAgICAgICBzdGF0dXNUZXh0OiAnVW5rbm93biBFcnJvcicsCiAgICAgICAgICAgICAgICAgICAgdXJsOiAnJywKICAgICAgICAgICAgICAgICAgICByZXNwb25zZTogewogICAgICAgICAgICAgICAgICAgICAgICBlcnJvcnM6IFtdCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgc3VwZXIoZXJyLnN0YXR1cywgZXJyLnN0YXR1c1RleHQsIGVyci51cmwsIGVyci5yZXNwb25zZSk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAkJCWlmICh0aGlzLmNvdXJzZUlkICYmIHRoaXMuY291cnNlSWQudHJpbSgpKSBmaWx0ZXIuaWQgPSB0aGlzLmNvdXJzZUlkLnRyaW0oKTsKCQlpZiAodGhpcy5jb3Vyc2VUaXRsZSkgZmlsdGVyLnRpdGxlID0gdGhpcy5jb3Vyc2VUaXRsZTsKCQlpZiAodGhpcy5jb3Vyc2VTdGF0dXMpIGZpbHRlci5zdGF0dXMgPSB0aGlzLmNvdXJzZVN0YXR1cy50b0xvd2VyQ2FzZSgpOwoJCWlmICh0aGlzLnVzZXJJZE9mSW5zdHJ1Y3RvciB8fCB0aGlzLmluc3RydWN0b3IpIHsKCQkgICAgZmlsdGVyLmluc3RydWN0b3JzID0ge307CgkJICAgIGlmICh0aGlzLnVzZXJJZE9mSW5zdHJ1Y3RvcikgZmlsdGVyLmluc3RydWN0b3JzLmlkID0gdGhpcy51c2VySWRPZkluc3RydWN0b3I7CgkJICAgIGlmICh0aGlzLmluc3RydWN0b3IpIGZpbHRlci5pbnN0cnVjdG9ycy5uYW1lID0gdGhpcy5pbnN0cnVjdG9yOwogICAgICAgIH0KICAgICAgICBpZiAodGhpcy5za2lsbHMpIGZpbHRlci5za2lsbHMgPSB7IGxhYmVsOiB0aGlzLnNraWxscyB9OwoJCWlmICh0aGlzLnBhcmVudENhdGVnb3J5KSBmaWx0ZXIuY2F0ZWdvcnkgPSB7IGxhYmVsOiB0aGlzLnBhcmVudENhdGVnb3J5IH07CgkJaWYgKHRoaXMuY2hpbGRDYXRlZ29yeSkgZmlsdGVyLnN1YmNhdGVnb3J5ID0geyBsYWJlbDogdGhpcy5jaGlsZENhdGVnb3J5IH07Cg==</text>
+      <register name="5" type="4">
+        <text>{
+				id: filter.id,
+				title: filter.title,
+				status: filter.status === 'all' ? '' : filter.status,
+				instructors: filter.instructors,
+				skills: filter.skills,
+				category: filter.category,
+				subcategory: filter.subcategory
+			}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldEFzc2V0cyhjb3Vyc2VJZDogc3RyaW5nKTogUHJvbWlzZTxhbnk+IHsKICAgICAgICByZXR1cm4gdGhpcy5qc29uR2V0KGAke3RoaXMubG1zVXJsfS9hcGkvdjEvY291cnNlcy8ke2NvdXJzZUlkfS9hc3NldHNgLCB7Cg==</text>
+        <text encoding="base64">CQkJaWYgKGZpbHRlci5pZCkgZXhwb3J0RmlsdGVycy5pZCA9IGZpbHRlci5pZDsKCQkJaWYgKGZpbHRlci50aXRsZSkgZXhwb3J0RmlsdGVycy50aXRsZSA9IGZpbHRlci50aXRsZTsKCQkJaWYgKGZpbHRlci5zdGF0dXMpIGV4cG9ydEZpbHRlcnMuc3RhdHVzID0gZmlsdGVyLnN0YXR1czsKCQkJaWYgKGZpbHRlci5pbnN0cnVjdG9ycykgZXhwb3J0RmlsdGVycy5pbnN0cnVjdG9ycyA9IGZpbHRlci5pbnN0cnVjdG9yczsKCQkJaWYgKGZpbHRlci5za2lsbHMpIGV4cG9ydEZpbHRlcnMuc2tpbGxzID0gZmlsdGVyLnNraWxsczsKCQkJaWYgKGZpbHRlci5jYXRlZ29yeSkgZXhwb3J0RmlsdGVycy5jYXRlZ29yeSA9IGZpbHRlci5jYXRlZ29yeTsKCQkJaWYgKGZpbHRlci5zdWJjYXRlZ29yeSkgZXhwb3J0RmlsdGVycy5zdWJjYXRlZ29yeSA9IGZpbHRlci5zdWJjYXRlZ29yeTsKCgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZWxzZSBpZiAoZXJyICYmIGVyci5tZXNzYWdlID09PSAnRmFpbGVkIHRvIGZldGNoJykgewogICAgICAgICAgICB0aGlzLmFwcFN0b3Jlcy5ub3RpZmljYXRpb25zU3RvcmUubm90aWZ5RXJyb3IoJ0ZhaWxlZCB0byBmZXRjaCcpOwogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWlkOiBmaWx0ZXIuaWQsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -699,27 +706,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVyci5zdGF0dXMgPT09IDQwMCAmJiBlcnIuc3RhdHVzVGV4dCA9PT0gJ0ZhaWxlZCB0byBmZXRjaCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgIAkJCWlmICh0aGlzLmNvdXJzZUlkICYmIHRoaXMuY291cnNlSWQudHJpbSgpKSBmaWx0ZXIuaWQgPSB0aGlzLmNvdXJzZUlkLnRyaW0oKTsKCQlpZiAodGhpcy5jb3Vyc2VUaXRsZSkgZmlsdGVyLnRpdGxlID0gdGhpcy5jb3Vyc2VUaXRsZTsKCQlpZiAodGhpcy5jb3Vyc2VTdGF0dXMpIGZpbHRlci5zdGF0dXMgPSB0aGlzLmNvdXJzZVN0YXR1cy50b0xvd2VyQ2FzZSgpOwoJCWlmICh0aGlzLnVzZXJJZE9mSW5zdHJ1Y3RvciB8fCB0aGlzLmluc3RydWN0b3IpIHsKCQkgICAgZmlsdGVyLmluc3RydWN0b3JzID0ge307CgkJICAgIGlmICh0aGlzLnVzZXJJZE9mSW5zdHJ1Y3RvcikgZmlsdGVyLmluc3RydWN0b3JzLmlkID0gdGhpcy51c2VySWRPZkluc3RydWN0b3I7CgkJICAgIGlmICh0aGlzLmluc3RydWN0b3IpIGZpbHRlci5pbnN0cnVjdG9ycy5uYW1lID0gdGhpcy5pbnN0cnVjdG9yOwogICAgICAgIH0KICAgICAgICBpZiAodGhpcy5za2lsbHMpIGZpbHRlci5za2lsbHMgPSB7IGxhYmVsOiB0aGlzLnNraWxscyB9OwoJCWlmICh0aGlzLnBhcmVudENhdGVnb3J5KSBmaWx0ZXIuY2F0ZWdvcnkgPSB7IGxhYmVsOiB0aGlzLnBhcmVudENhdGVnb3J5IH07CgkJaWYgKHRoaXMuY2hpbGRDYXRlZ29yeSkgZmlsdGVyLnN1YmNhdGVnb3J5ID0geyBsYWJlbDogdGhpcy5jaGlsZENhdGVnb3J5IH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</last-search>
+      <last-search encoding="base64">XDxodW1wc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxodW1wc1w+</last-pattern>
       <last-replace>ErrorContextName</last-replace>
       <last-substitute>ErrorContextNames</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVFcnJvckNvbnRleHRcPg==</entry>
         <entry encoding="base64">XDxpbnZva2VUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxzZXRTZWFyY2hcPg==</entry>
         <entry>olo</entry>
@@ -739,6 +745,7 @@
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxpbnN0cnVjdG9yTmFtZVw+</entry>
         <entry encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</entry>
+        <entry encoding="base64">XDxodW1wc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging/-honeysha/g</entry>
