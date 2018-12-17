@@ -13,12 +13,12 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1541780753165">
         <mark key="'" line="14908" column="26" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1544718157100">
-        <mark key="'" line="70" column="57" />
-        <mark key="[" line="70" column="63" />
-        <mark key="]" line="70" column="63" />
-        <mark key="." line="70" column="63" />
-        <mark key="^" line="70" column="63" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545064661630">
+        <mark key="'" line="71" column="57" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="71" column="63" />
+        <mark key="." line="71" column="63" />
+        <mark key="^" line="71" column="63" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/services/__mocks__/createDataTableHttpService.mock.ts" timestamp="1542217180167">
         <mark key="'" line="21" column="6" />
@@ -429,8 +429,11 @@
         <mark key="]" line="105" column="9" />
         <mark key="." line="105" column="5" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" timestamp="1544799916154">
-        <mark key="'" line="203" column="23" />
+      <file name="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" timestamp="1545064192021">
+        <mark key="'" line="161" column="22" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="44" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="/HomeStore.ts" timestamp="1544806950281">
         <mark key="[" line="63" column="14" />
@@ -477,11 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="144" column="16" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="129" column="47" filename="C:/projects/UI-Web/ClientApp/views/course/player/CoursePlayer.tsx" />
-      <jump line="269" column="8" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="379" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="72" column="5" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
       <jump line="406" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/player-container/CoursePlayerContainer.tsx" />
       <jump line="264" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
@@ -577,6 +575,11 @@
       <jump line="35" column="23" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
       <jump line="878" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es5.d.ts" />
       <jump line="29" column="36" filename="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" />
+      <jump line="199" column="12" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
+      <jump line="86" column="22" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
+      <jump line="108" column="22" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
+      <jump line="142" column="47" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
+      <jump line="161" column="22" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiService.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -591,7 +594,7 @@
 			}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSnNvbkFwaUh0dHBFcnJvcihlcnIpOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -617,16 +620,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>Json API</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>}</text>
+        <text encoding="base64">XDxvblJlcXVlc3RGYWlsZWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>JsonApiHttpError</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSnNvbkFwaUh0dHBFcnJvcihlcnIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -658,28 +661,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKG9yaWdpbmFsRXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKGVycik7CiAgICAgICAgICAgIHRocm93IGVycjsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICogQ2xhc3Mgd2hpY2gncyBtZXRob2QgZGVjb3JhdGVkIHdpdGggbmV3RXJyb3JDb250ZXh0LCBtYXkgaW1wbGVtZW50IElFcnJvclBpY2tlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKG9yaWdpbmFsRXJyb3IpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcmlnaW5hbEVycm9yLnJlc3BvbnNlID0gaHVtcHMuY2FtZWxpemVLZXlzKG9yaWdpbmFsRXJyb3IucmVzcG9uc2UpIGFzIElKc29uQXBpRXJyb3JSZXNwb25zZTxURGV0YWlsPjsKICAgICAgICBzdXBlcihvcmlnaW5hbEVycm9yLnN0YXR1cywgb3JpZ2luYWxFcnJvci5zdGF0dXNUZXh0LCBvcmlnaW5hbEVycm9yLnVybCwgb3JpZ2luYWxFcnJvci5yZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ewogICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWxFcnJvci5yZXNwb25zZSA9IGh1bXBzLmNhbWVsaXplS2V5cyhvcmlnaW5hbEVycm9yLnJlc3BvbnNlKSBhcyBJSnNvbkFwaUVycm9yUmVzcG9uc2U8VERldGFpbD47CiAgICAgICAgICAgIHN1cGVyKG9yaWdpbmFsRXJyb3Iuc3RhdHVzLCBvcmlnaW5hbEVycm9yLnN0YXR1c1RleHQsIG9yaWdpbmFsRXJyb3IudXJsLCBvcmlnaW5hbEVycm9yLnJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBvcmlnaW5hbEVycm9yLnJlc3BvbnNlID0gaHVtcHMuY2FtZWxpemVLZXlzKG9yaWdpbmFsRXJyb3IucmVzcG9uc2UpIGFzIElKc29uQXBpRXJyb3JSZXNwb25zZTxURGV0YWlsPjsKICAgICAgICBzdXBlcihvcmlnaW5hbEVycm9yLnN0YXR1cywgb3JpZ2luYWxFcnJvci5zdGF0dXNUZXh0LCBvcmlnaW5hbEVycm9yLnVybCwgb3JpZ2luYWxFcnJvci5yZXNwb25zZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -692,28 +695,27 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAgICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSBlbHNlIGlmIChvcmlnaW5hbEVycm9yIGluc3RhbmNlb2YgRXJyb3IpIHsKICAgICAgICAgICAgdGhpcy5uYW1lID0gb3JpZ2luYWxFcnJvci5uYW1lOwogICAgICAgICAgICB0aGlzLm1lc3NhZ2UgPSBvcmlnaW5hbEVycm9yLm1lc3NhZ2U7CiAgICAgICAgICAgIHRoaXMuc3RhY2sgPSBvcmlnaW5hbEVycm9yLnN0YWNrOwogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JpZ2luYWxFcnJvci5yZXNwb25zZSA9IGh1bXBzLmNhbWVsaXplS2V5cyhvcmlnaW5hbEVycm9yLnJlc3BvbnNlKSBhcyBJSnNvbkFwaUVycm9yUmVzcG9uc2U8VERldGFpbD47CiAgICAgICAgICAgIHN1cGVyKG9yaWdpbmFsRXJyb3Iuc3RhdHVzLCBvcmlnaW5hbEVycm9yLnN0YXR1c1RleHQsIG9yaWdpbmFsRXJyb3IudXJsLCBvcmlnaW5hbEVycm9yLnJlc3BvbnNlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search>}</last-search>
+      <last-search encoding="base64">XDxvblJlcXVlc3RGYWlsZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>}</last-pattern>
+      <last-pattern encoding="base64">XDxvblJlcXVlc3RGYWlsZWRcPg==</last-pattern>
       <last-replace>ErrorContextName</last-replace>
       <last-substitute>ErrorContextNames</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRTZWFyY2hcPg==</entry>
         <entry>olo</entry>
         <entry>switch</entry>
         <entry encoding="base64">XDxTd2l0Y2hFcnJvclBhZ2VcPg==</entry>
@@ -733,6 +735,7 @@
         <entry encoding="base64">XDxvbkxvYWREYXRhRmFpbFw+</entry>
         <entry encoding="base64">XDxodW1wc1w+</entry>
         <entry>}</entry>
+        <entry encoding="base64">XDxvblJlcXVlc3RGYWlsZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging/-honeysha/g</entry>
