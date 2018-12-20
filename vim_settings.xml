@@ -323,12 +323,12 @@
         <mark key="]" line="391" column="0" />
         <mark key="." line="391" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" timestamp="1545305828647">
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" timestamp="1545311964029">
         <mark key="'" line="30" column="25" />
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="44" />
-        <mark key="^" line="51" column="110" />
-        <mark key="." line="51" column="110" />
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="39" column="50" />
+        <mark key="." line="39" column="50" />
+        <mark key="^" line="39" column="50" />
       </file>
       <file name="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" timestamp="1542646345494">
         <mark key="'" line="92" column="4" />
@@ -452,7 +452,7 @@
         <text encoding="base64">Y29uc3QgQXV0aFN0b3JlTW9jayA9IGplc3QuZ2VuTW9ja0Zyb21Nb2R1bGU8dHlwZW9mIGF1dGhNb2R1bGU+KCdDbGllbnRBcHAvc3RvcmVzL0F1dGhTdG9yZScpLmRlZmF1bHQ7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>errStoreMock.createContext</text>
+        <text>resolve</text>
       </register>
       <register name="d" type="4">
         <text>unknownErr</text>
@@ -467,13 +467,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>AppErrorStoreMock</text>
+        <text>resolve</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50U3RhdGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">amVzdC5nZW5Nb2NrRnJvbU1vZHVsZTx0eXBlb2YgYXBwRXJyb3JTdG9yZU1vZHVsZT4oCiAgICAnQ2xpZW50QXBwL3N0b3Jlcy9lcnJvci9BcHBFcnJvclN0b3JlJwop</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBjcmVhdGVFcnJvckNvbnRleHQoKQogICAgICAgICAgICAgICAgbG9hZCgpOiBQcm9taXNlPHZvaWQ+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCk7CiAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -549,7 +549,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIG5vdCBmb3VuZCBlcnJvciBwdXNoZWQnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgbGV0IG5vdEZvdW5kRXJyOiBIdHRwRXJyb3I8e30+OwoKICAgICAgICAgICAgICAgICAgICBiZWZvcmVFYWNoKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgbm90Rm91bmRFcnIgPSBuZXcgSHR0cEVycm9yKDQwNCwgJ05vdCBmb3VuZCcsICcnKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JTdG9yZS5wdXNoKG5vdEZvdW5kRXJyKTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaXQoJ3Nob3VsZCBub3QgaWdub3JlICJub3QgZm91bmQiIGVycm9yJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5lcnJvcikudG9CZShub3RGb3VuZEVycik7CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -603,8 +603,8 @@
         <entry>action CommentByBlockComment</entry>
         <entry>nohl</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
