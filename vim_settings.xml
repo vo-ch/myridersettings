@@ -323,12 +323,12 @@
         <mark key="]" line="391" column="0" />
         <mark key="." line="391" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" timestamp="1545311964029">
-        <mark key="'" line="30" column="25" />
-        <mark key="[" line="39" column="42" />
-        <mark key="]" line="39" column="50" />
-        <mark key="." line="39" column="50" />
-        <mark key="^" line="39" column="50" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" timestamp="1545313992177">
+        <mark key="'" line="59" column="36" />
+        <mark key="[" line="59" column="96" />
+        <mark key="]" line="59" column="117" />
+        <mark key="." line="59" column="117" />
+        <mark key="^" line="59" column="117" />
       </file>
       <file name="C:/projects/NewCMS/src/views/courses-in-review/CoursesInReviewComponent.jsx" timestamp="1542646345494">
         <mark key="'" line="92" column="4" />
@@ -346,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="36" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
-      <jump line="42" column="15" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="10" column="22" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
       <jump line="12" column="26" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
       <jump line="111" column="41" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
@@ -446,13 +444,15 @@
       <jump line="30" column="25" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="101" column="24" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
       <jump line="225" column="31" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
+      <jump line="22" column="12" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
+      <jump line="59" column="36" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgQXV0aFN0b3JlTW9jayA9IGplc3QuZ2VuTW9ja0Zyb21Nb2R1bGU8dHlwZW9mIGF1dGhNb2R1bGU+KCdDbGllbnRBcHAvc3RvcmVzL0F1dGhTdG9yZScpLmRlZmF1bHQ7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>resolve</text>
+        <text>TestTarget</text>
       </register>
       <register name="d" type="4">
         <text>unknownErr</text>
@@ -467,13 +467,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>resolve</text>
+        <text>TestTarget</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50U3RhdGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBjcmVhdGVFcnJvckNvbnRleHQoKQogICAgICAgICAgICAgICAgbG9hZCgpOiBQcm9taXNlPHZvaWQ+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCk7CiAgICAgICAgICAgICAgICB9Cgo=</text>
+      <register name="0" type="4">
+        <text>TestTarget</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -549,7 +549,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIG5vdCBmb3VuZCBlcnJvciBwdXNoZWQnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgbGV0IG5vdEZvdW5kRXJyOiBIdHRwRXJyb3I8e30+OwoKICAgICAgICAgICAgICAgICAgICBiZWZvcmVFYWNoKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgbm90Rm91bmRFcnIgPSBuZXcgSHR0cEVycm9yKDQwNCwgJ05vdCBmb3VuZCcsICcnKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JTdG9yZS5wdXNoKG5vdEZvdW5kRXJyKTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaXQoJ3Nob3VsZCBub3QgaWdub3JlICJub3QgZm91bmQiIGVycm9yJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5lcnJvcikudG9CZShub3RGb3VuZEVycik7CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -603,8 +603,8 @@
         <entry>action CommentByBlockComment</entry>
         <entry>nohl</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
