@@ -26,10 +26,10 @@
       <file name="/fragment.js" timestamp="1545322326121">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545402515092">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="30" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545407948708">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="95" />
         <mark key="^" line="129" column="56" />
         <mark key="." line="50" column="49" />
       </file>
@@ -63,12 +63,12 @@
       <file name="/Dummy.cs" timestamp="1545225999662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" timestamp="1545404104644">
-        <mark key="'" line="67" column="21" />
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="53" />
-        <mark key="^" line="112" column="52" />
-        <mark key="." line="10" column="53" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" timestamp="1545407944276">
+        <mark key="'" line="66" column="36" />
+        <mark key="[" line="10" column="92" />
+        <mark key="]" line="11" column="2" />
+        <mark key="^" line="11" column="2" />
+        <mark key="." line="11" column="2" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/stores/TeachingStore.ts" timestamp="1545140286938">
         <mark key="'" line="128" column="35" />
@@ -299,7 +299,7 @@
         <mark key="." line="45" column="11" />
         <mark key="^" line="45" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545317908652">
+      <file name="/Dummy.txt" timestamp="1545407261897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -317,10 +317,10 @@
         <mark key="^" line="430" column="18" />
         <mark key="." line="430" column="18" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" timestamp="1545404785596">
-        <mark key="'" line="469" column="30" />
-        <mark key="[" line="469" column="31" />
-        <mark key="]" line="469" column="31" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" timestamp="1545407369329">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="77" column="17" />
         <mark key="." line="469" column="31" />
         <mark key="^" line="31" column="45" />
       </file>
@@ -354,9 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="65" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
-      <jump line="352" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
-      <jump line="157" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="243" column="18" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="147" column="26" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="148" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
@@ -403,7 +400,6 @@
       <jump line="523" column="12" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="27" column="12" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="71" column="16" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
-      <jump line="12" column="4" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="99" column="20" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="287" column="28" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="367" column="28" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
@@ -454,13 +450,17 @@
       <jump line="228" column="7" filename="C:/projects/UI-Web/package.json" />
       <jump line="200" column="3" filename="C:/projects/UI-Web/package.json" />
       <jump line="173" column="8" filename="C:/projects/UI-Web/package.json" />
+      <jump line="24" column="12" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
+      <jump line="40" column="22" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
+      <jump line="66" column="36" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
+      <jump line="12" column="4" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>loadWithErrorLambdaNamed</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>20.0.4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIElmICdjYXRjaEVycm9yJyBjYWxsYmFjayB3aWxsIHJldHVybiBudWxsIHRoZW4gZXJyb3Igd29uJ3QgYmUgYWRkZWQgdG8gdGhlIGxpc3Qgb2YgZXJyb3IK</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -475,13 +475,13 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>20.0.4</text>
+        <text>(not required)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqZXN0XD4=</text>
+        <text encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZFdpdGhQcm9taXNlRXJyb3JBbmRQYXJhbXNOYW1lZChhOiB7fSk6IFByb21pc2U8dm9pZD47Cg==</text>
+        <text encoding="base64">ICAgICAqIElmICdjYXRjaEVycm9yJyBjYWxsYmFjayB3aWxsIHJldHVybiBudWxsIHRoZW4gZXJyb3Igd29uJ3QgYmUgYWRkZWQgdG8gdGhlIGxpc3Qgb2YgZXJyb3IK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtb2NrRm4ubW9ja0NsZWFyKCk7Cg==</text>
@@ -540,18 +540,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</last-pattern>
       <last-replace>@createErrorContext</last-replace>
       <last-substitute>@createContext</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>/@createContext/@createErrorContext/g</entry>
-        <entry>/\@createContext/@createErrorContext/g</entry>
         <entry>\@createContext</entry>
         <entry>@createContext</entry>
         <entry encoding="base64">XDxkaXNwb3NlTmFtZWRcPg==</entry>
@@ -570,6 +568,8 @@
         <entry>ts-jes</entry>
         <entry>propr</entry>
         <entry encoding="base64">XDxqZXN0XD4=</entry>
+        <entry encoding="base64">XDxsb2FkV2l0aEVycm9yXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging\./-akosov./g</entry>
