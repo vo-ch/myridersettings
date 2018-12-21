@@ -310,12 +310,12 @@
         <mark key="^" line="430" column="18" />
         <mark key="." line="430" column="18" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" timestamp="1545392071973">
-        <mark key="'" line="594" column="0" />
-        <mark key="[" line="618" column="63" />
-        <mark key="]" line="618" column="63" />
-        <mark key="." line="618" column="79" />
-        <mark key="^" line="608" column="89" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" timestamp="1545400778961">
+        <mark key="'" line="639" column="34" />
+        <mark key="[" line="639" column="50" />
+        <mark key="]" line="639" column="49" />
+        <mark key="." line="639" column="49" />
+        <mark key="^" line="639" column="49" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1542722361814">
         <mark key="'" line="163" column="17" />
@@ -347,9 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="55" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
-      <jump line="2" column="25" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="15" column="27" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="16" column="24" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="27" column="13" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
@@ -447,13 +444,16 @@
       <jump line="584" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="589" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="594" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
+      <jump line="630" column="19" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
+      <jump line="639" column="34" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
+      <jump line="523" column="12" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXQoJ3Nob3VsZCBjcmVhdGUgbmV3IGNvbnRleHQnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICBleHBlY3QoZXJyU3RvcmVNb2NrLmNyZWF0ZUNvbnRleHQpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsKICAgICAgICAgICAgICAgIGV4cGVjdChlcnJTdG9yZU1vY2suY3JlYXRlQ29udGV4dCkudG9IYXZlQmVlbkNhbGxlZFdpdGgobnVsbCwgdW5kZWZpbmVkLCB1bmRlZmluZWQsIHRhcmdldENsYXNzWydfX3Byb3RvX18nXSk7CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgaXQoJ3Nob3VsZCBjYWxsIG9yaWdpbmFsIG1ldGhvZCB3aXRoIHBhc3NlZCBhcmcnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICBleHBlY3QobW9ja0ZuKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7CiAgICAgICAgICAgICAgICBleHBlY3QobW9ja0ZuKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh0ZXN0QXJnKTsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBpdCgnc2hvdWxkIHB1c2ggZXJyb3IgdG8gc3RvcmUnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICBleHBlY3QoZXJyU3RvcmVNb2NrLnB1c2gpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsKICAgICAgICAgICAgICAgIGV4cGVjdChlcnJTdG9yZU1vY2sucHVzaCkudG9IYXZlQmVlbkNhbGxlZFdpdGgobnVsbCwgbG9hZEVycm9yKTsKICAgICAgICAgICAgfSk7Cgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBvbkNhdGNoRXJyb3JNZXRob2QgPSAoKSA9PiB7fTsKICAgICAgICBjb25zdCBvbkNhdGNoRXJyb3JNb2NrID0gamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShvbkNhdGNoRXJyb3JNZXRob2QpOwoKICAgICAgICBjb25zdCBvblBpY2tFcnJvck1ldGhvZCA9ICgpID0+IHt9OwogICAgICAgIGNvbnN0IG9uUGlja0Vycm9yTW9jayA9IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUob25QaWNrRXJyb3JNZXRob2QpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>unknownErr</text>
@@ -471,10 +471,10 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkRXJyb3JcPg==</text>
+        <text encoding="base64">XDxvbkNhdGNoRXJyb3JNb2NrXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>'namedtestcontext'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBvbkNhdGNoRXJyb3JNZXRob2QgPSAoKSA9PiB7fTsKICAgICAgICBjb25zdCBvbkNhdGNoRXJyb3JNb2NrID0gamVzdC5mbigpLm1vY2tSZXR1cm5WYWx1ZShvbkNhdGNoRXJyb3JNZXRob2QpOwoKICAgICAgICBjb25zdCBvblBpY2tFcnJvck1ldGhvZCA9ICgpID0+IHt9OwogICAgICAgIGNvbnN0IG9uUGlja0Vycm9yTW9jayA9IGplc3QuZm4oKS5tb2NrUmV0dXJuVmFsdWUob25QaWNrRXJyb3JNZXRob2QpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobG9hZEVycm9yKTsK</text>
@@ -533,12 +533,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkRXJyb3JcPg==</last-search>
+      <last-search encoding="base64">XDxvbkNhdGNoRXJyb3JNb2NrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkRXJyb3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNhdGNoRXJyb3JNb2NrXD4=</last-pattern>
       <last-replace>@createErrorContext</last-replace>
       <last-substitute>@createContext</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -552,7 +552,6 @@
         <entry encoding="base64">XDxyZXNldEVycm9yQ29udGV4dFw+</entry>
         <entry encoding="base64">XDx3cmFwcGVyXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVEZWNvcmF0b3JcPg==</entry>
-        <entry encoding="base64">XDxvbkNhdGNoRXJyb3JNb2NrXD4=</entry>
         <entry encoding="base64">XDxsb2FkV2l0aEVycm9yQW5kUGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxsb2FkV2l0aEVycm9yXD4=</entry>
         <entry encoding="base64">XDxuYW1lZHRlc3Rjb250ZXh0XD4=</entry>
@@ -563,6 +562,7 @@
         <entry>@createContext</entry>
         <entry encoding="base64">XDxkaXNwb3NlTmFtZWRcPg==</entry>
         <entry encoding="base64">XDxsb2FkRXJyb3JcPg==</entry>
+        <entry encoding="base64">XDxvbkNhdGNoRXJyb3JNb2NrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging\./-akosov./g</entry>
