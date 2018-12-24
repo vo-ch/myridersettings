@@ -63,12 +63,11 @@
       <file name="/Dummy.cs" timestamp="1545225999662">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" timestamp="1545648159126">
-        <mark key="'" line="64" column="14" />
-        <mark key="[" line="157" column="117" />
-        <mark key="]" line="158" column="2" />
-        <mark key="^" line="158" column="2" />
-        <mark key="." line="158" column="2" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" timestamp="1545649777418">
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="15" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/teaching-section/stores/TeachingStore.ts" timestamp="1545140286938">
         <mark key="'" line="128" column="35" />
@@ -299,7 +298,7 @@
         <mark key="." line="45" column="11" />
         <mark key="^" line="45" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545407261897">
+      <file name="/Dummy.txt" timestamp="1545649809083">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -459,8 +458,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICogICAgICAgICAgICAgIEBjcmVhdGVFcnJvckNvbnRleHQoewogKiAgICAgICAgICAgICAgICAgIC8vICBJZiAnb25DYXRjaEVycm9yJyBjYWxsYmFjayByZXR1cm5zIG51bGwgdGhlbiBlcnJvciB3b24ndCBiZSBhZGRlZCB0byB0aGUgbGlzdCBvZiBlcnJvcnMgaW4gZXJyU3RvcmUKICogICAgICAgICAgICAgICAgICBvbkNhdGNoRXJyb3I6IHRhcmdldE9iaiA9PiB0YXJnZXRPYmoub25DYXRjaCwKICogICAgICAgICAgICAgICAgICBvblBpY2tFcnJvcjogdGFyZ2V0T2JqID0+IHRhcmdldE9iai5vblBpY2ssCiAqICAgICAgICAgICAgICB9KQogKiAgICAgICAgICAgICAgbG9hZFdpdGhFcnJvckFuZFBhcmFtcyhhOiB7fSk6IFByb21pc2U8dm9pZD4gewogKiAgICAgICAgICAgICAgICAgIG1vY2tGbihhKTsKICogICAgICAgICAgICAgICAgICBsb2FkRXJyb3IgPSBuZXcgRXJyb3IoJ3Rlc3QnKTsKICogICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobG9hZEVycm9yKTsKICogICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogSW4gb3JkZXIgdG8gaGFuZGxlIGFzeW5jIChwcm9taXNlKSBlcnJvcnMgbWV0aG9kIG1hcmtlZCB3aXRoICdjcmVhdGVFcnJvckNvbnRleHQnIGRlY29yYXRvciBzaG91bGQgcmV0dXJuIFByb21pc2UuCiAqIElmIG1ldGhvZCBkb2Vzbid0IHJldHVybiBQcm9taXNlIHRoZW4gYXN5bmMgZXJyb3JzIG9jY3VyZWQgaW4gc2NvcGUgb2YgdGhhdCBwcm9taXNlIGNoYWluIHdpbGwgYmUganVzdCBpZ25vcmVkLAogKiBhbmQgaW4gdGhpcyBjYXNlIGRldmVsb3BlciBzaG91bGQgY29uc2lkZXIgdG8gaGFuZGxlIGVycm9ycyBtYW51YWxseSAoZS5nLiBjYWxsIGBlcnJTdG9yZS5wdXNoKGVycilgICkKICoKICogVGhpcyBmdW5jdGlvbiBjYW4gYmUgdXNlZCBhcyBtZXRob2QgZGVjb3JhdG9yOgo=</text>
+      <register name="&quot;" type="4">
+        <text>AndParams</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -475,16 +474,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>ERror</text>
+        <text>AndParams</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICogSW4gb3JkZXIgdG8gaGFuZGxlIGFzeW5jIChwcm9taXNlKSBlcnJvcnMgbWV0aG9kIG1hcmtlZCB3aXRoICdjcmVhdGVFcnJvckNvbnRleHQnIGRlY29yYXRvciBzaG91bGQgcmV0dXJuIFByb21pc2UuCiAqIElmIG1ldGhvZCBkb2Vzbid0IHJldHVybiBQcm9taXNlIHRoZW4gYXN5bmMgZXJyb3JzIG9jY3VyZWQgaW4gc2NvcGUgb2YgdGhhdCBwcm9taXNlIGNoYWluIHdpbGwgYmUganVzdCBpZ25vcmVkLAogKiBhbmQgaW4gdGhpcyBjYXNlIGRldmVsb3BlciBzaG91bGQgY29uc2lkZXIgdG8gaGFuZGxlIGVycm9ycyBtYW51YWxseSAoZS5nLiBjYWxsIGBlcnJTdG9yZS5wdXNoKGVycilgICkKICoKICogVGhpcyBmdW5jdGlvbiBjYW4gYmUgdXNlZCBhcyBtZXRob2QgZGVjb3JhdG9yOgo=</text>
+      <register name="0" type="4">
+        <text>errorBoundary</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogd3JhcHMgbWV0aG9kIGFuZCBjYXRjaGVzIGFsbCBpdHMgZXJyb3JzIGFuZCBwdXNoIHRoZW0gdG8gZXJyb3IgY29udGV4dCBhdXRvbWF0aWNhbGx5Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LHsKICogICAgICAgICAgICAgICAvLyAgSWYgJ29uQ2F0Y2hFcnJvcicgY2FsbGJhY2sgcmV0dXJucyBudWxsIHRoZW4gZXJyb3Igd29uJ3QgYmUgYWRkZWQgdG8gdGhlIGxpc3Qgb2YgZXJyb3JzIGluIGVyclN0b3JlCiAqICAgICAgICAgICAgICAgb25DYXRjaEVycm9yOiB0YXJnZXRPYmogPT4gdGFyZ2V0T2JqLm9uQ2F0Y2gsCiAqICAgICAgICAgICAgICAgb25QaWNrRXJyb3I6IHRhcmdldE9iaiA9PiB0YXJnZXRPYmoub25QaWNrLAogKiAgICAgICAgICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -494,29 +493,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogQ2FuIGJlIHVzZWQgaW5saW5lOgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">LHsKICogICAgICAgICAgICAgICAvLyAgSWYgJ29uQ2F0Y2hFcnJvcicgY2FsbGJhY2sgcmV0dXJucyBudWxsIHRoZW4gZXJyb3Igd29uJ3QgYmUgYWRkZWQgdG8gdGhlIGxpc3Qgb2YgZXJyb3JzIGluIGVyclN0b3JlCiAqICAgICAgICAgICAgICAgb25DYXRjaEVycm9yOiB0YXJnZXRPYmogPT4gdGFyZ2V0T2JqLm9uQ2F0Y2gsCiAqICAgICAgICAgICAgICAgb25QaWNrRXJyb3I6IHRhcmdldE9iaiA9PiB0YXJnZXRPYmoub25QaWNrLAogKiAgICAgICAgICAgfQ==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogICAgICAK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="s" type="4">
         <text>loadWithErrorLambdaNamedWithParams</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGlubGluZVRhcmdldAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICoK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQ2FuIGJlIHVzZWQgaW5saW5lOgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobG9hZEVycm9yKTsK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIGxvYWRXaXRoRXJyb3JBbmRQYXJhbXMoYToge30pOiBQcm9taXNlPHZvaWQ+IHsKICogICAgICAgICAgICAgICBtb2NrRm4oYSk7CiAqICAgICAgICAgICAgICAgbG9hZEVycm9yID0gbmV3IEVycm9yKCd0ZXN0Jyk7CiAqICAgICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGxvYWRFcnJvcik7CiAqICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIG5hbWUKICogQHBhcmFtIGlubGluZVRhcmdldAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -530,10 +529,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogICAgICAgICAgIGxvYWRXaXRoRXJyb3JBbmRQYXJhbXMoYToge30pOiBQcm9taXNlPHZvaWQ+IHsKICogICAgICAgICAgICAgICBtb2NrRm4oYSk7CiAqICAgICAgICAgICAgICAgbG9hZEVycm9yID0gbmV3IEVycm9yKCd0ZXN0Jyk7CiAqICAgICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KGxvYWRFcnJvcik7CiAqICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgICAgICBtb2NrRm4oYSk7Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIG5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
