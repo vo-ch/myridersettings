@@ -163,11 +163,12 @@
         <mark key="." line="229" column="75" />
         <mark key="^" line="229" column="75" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" timestamp="1545658458805">
-        <mark key="'" line="71" column="25" />
-        <mark key="[" line="66" column="11" />
-        <mark key="]" line="66" column="24" />
-        <mark key="." line="83" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" timestamp="1545660302269">
+        <mark key="'" line="69" column="16" />
+        <mark key="[" line="74" column="21" />
+        <mark key="]" line="74" column="21" />
+        <mark key="." line="74" column="21" />
+        <mark key="^" line="74" column="21" />
       </file>
       <file name="C:/projects/NewCMS/src/components/SearchComponent.jsx" timestamp="1542728870001">
         <mark key="'" line="35" column="30" />
@@ -332,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="42" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="93" column="20" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="94" column="42" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
       <jump line="103" column="20" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.test.tsx" />
@@ -421,7 +421,6 @@
       <jump line="114" column="40" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="83" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="23" column="21" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
-      <jump line="66" column="11" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="33" column="21" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-accordion-menu/CategoriesAccordionMenu.tsx" />
       <jump line="41" column="26" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-dropdown-menu/CategoriesDropdownMenu.tsx" />
       <jump line="11" column="50" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/index.ts" />
@@ -432,13 +431,15 @@
       <jump line="20" column="4" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="71" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="71" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="66" column="38" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
+      <jump line="69" column="16" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICogICAgICAgICAgICAgIEBjcmVhdGVFcnJvckNvbnRleHQoewogKiAgICAgICAgICAgICAgICAgIC8vICBJZiAnb25DYXRjaEVycm9yJyBjYWxsYmFjayByZXR1cm5zIG51bGwgdGhlbiBlcnJvciB3b24ndCBiZSBhZGRlZCB0byB0aGUgbGlzdCBvZiBlcnJvcnMgaW4gZXJyU3RvcmUKICogICAgICAgICAgICAgICAgICBvbkNhdGNoRXJyb3I6IHRhcmdldE9iaiA9PiB0YXJnZXRPYmoub25DYXRjaCwKICogICAgICAgICAgICAgICAgICBvblBpY2tFcnJvcjogdGFyZ2V0T2JqID0+IHRhcmdldE9iai5vblBpY2ssCiAqICAgICAgICAgICAgICB9KQogKiAgICAgICAgICAgICAgbG9hZFdpdGhFcnJvckFuZFBhcmFtcyhhOiB7fSk6IFByb21pc2U8dm9pZD4gewogKiAgICAgICAgICAgICAgICAgIG1vY2tGbihhKTsKICogICAgICAgICAgICAgICAgICBsb2FkRXJyb3IgPSBuZXcgRXJyb3IoJ3Rlc3QnKTsKICogICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobG9hZEVycm9yKTsKICogICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>loadCategories</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -453,7 +454,7 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>AndParams</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkQ2F0ZWdvcmllc1w+</text>
@@ -462,7 +463,7 @@
         <text>loadCategories</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -473,28 +474,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBhY3Rpb24gb25DYXRlZ29yaWVzTG9hZEZhaWwgPSAoZXJyOiBhbnkpOiB2b2lkID0+IHsKICAgICAgICB0aGlzLm9uTG9hZERhdGFGYWlsKGVycik7CiAgICAgICAgdGhpcy5zZXRMb2FkaW5nKGZhbHNlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNhdGNoKHRoaXMub25Mb2FkRGF0YUZhaWwpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LHsKICogICAgICAgICAgICAgICAvLyAgSWYgJ29uQ2F0Y2hFcnJvcicgY2FsbGJhY2sgcmV0dXJucyBudWxsIHRoZW4gZXJyb3Igd29uJ3QgYmUgYWRkZWQgdG8gdGhlIGxpc3Qgb2YgZXJyb3JzIGluIGVyclN0b3JlCiAqICAgICAgICAgICAgICAgb25DYXRjaEVycm9yOiB0YXJnZXRPYmogPT4gdGFyZ2V0T2JqLm9uQ2F0Y2gsCiAqICAgICAgICAgICAgICAgb25QaWNrRXJyb3I6IHRhcmdldE9iaiA9PiB0YXJnZXRPYmoub25QaWNrLAogKiAgICAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>loadWithErrorLambdaNamedWithParams</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBhY3Rpb24gb25DYXRlZ29yaWVzTG9hZEZhaWwgPSAoZXJyOiBhbnkpOiB2b2lkID0+IHsKICAgICAgICB0aGlzLm9uTG9hZERhdGFGYWlsKGVycik7CiAgICAgICAgdGhpcy5zZXRMb2FkaW5nKGZhbHNlKTsKICAgIH0K</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">LHsKICogICAgICAgICAgICAgICAvLyAgSWYgJ29uQ2F0Y2hFcnJvcicgY2FsbGJhY2sgcmV0dXJucyBudWxsIHRoZW4gZXJyb3Igd29uJ3QgYmUgYWRkZWQgdG8gdGhlIGxpc3Qgb2YgZXJyb3JzIGluIGVyclN0b3JlCiAqICAgICAgICAgICAgICAgb25DYXRjaEVycm9yOiB0YXJnZXRPYmogPT4gdGFyZ2V0T2JqLm9uQ2F0Y2gsCiAqICAgICAgICAgICAgICAgb25QaWNrRXJyb3I6IHRhcmdldE9iaiA9PiB0YXJnZXRPYmoub25QaWNrLAogKiAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
+      <register name="6" type="4">
+        <text encoding="base64">LHsKICogICAgICAgICAgICAgICAvLyAgSWYgJ29uQ2F0Y2hFcnJvcicgY2FsbGJhY2sgcmV0dXJucyBudWxsIHRoZW4gZXJyb3Igd29uJ3QgYmUgYWRkZWQgdG8gdGhlIGxpc3Qgb2YgZXJyb3JzIGluIGVyclN0b3JlCiAqICAgICAgICAgICAgICAgb25DYXRjaEVycm9yOiB0YXJnZXRPYmogPT4gdGFyZ2V0T2JqLm9uQ2F0Y2gsCiAqICAgICAgICAgICAgICAgb25QaWNrRXJyb3I6IHRhcmdldE9iaiA9PiB0YXJnZXRPYmoub25QaWNrLAogKiAgICAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQ2FuIGJlIHVzZWQgaW5saW5lOgo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -511,10 +512,10 @@
         <text encoding="base64">ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG5hbWUKICogQHBhcmFtIGlubGluZVRhcmdldAo=</text>
+        <text encoding="base64">ICogQ2FuIGJlIHVzZWQgaW5saW5lOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -562,7 +563,6 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>nohl</entry>
-        <entry>action RenameElement</entry>
         <entry>s%/@createContext/@createErrorContext/g</entry>
         <entry>s%/\@createContext/@createErrorContext/g</entry>
         <entry>%s/\@createContext/@createErrorContext/g</entry>
@@ -570,6 +570,7 @@
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
