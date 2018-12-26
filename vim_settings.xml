@@ -225,12 +225,12 @@
         <mark key="^" line="15" column="52" />
         <mark key="." line="15" column="52" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" timestamp="1545837805528">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="115" column="37" />
-        <mark key="]" line="115" column="42" />
-        <mark key="^" line="115" column="42" />
-        <mark key="." line="115" column="42" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" timestamp="1545838461200">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+        <mark key="^" line="129" column="57" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" timestamp="1545660302269">
         <mark key="'" line="69" column="16" />
@@ -465,7 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="0" filename="C:/projects/UI-Web/ClientApp/views/profiles/instructor/InstructorProfile.tsx" />
       <jump line="42" column="39" filename="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" />
       <jump line="363" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="69" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
@@ -565,13 +564,14 @@
       <jump line="122" column="37" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
       <jump line="140" column="41" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
       <jump line="105" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
+      <jump line="81" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">Ci8qKgogKiBUaGlzIGVudW0gZGVmaW5lcyBhbGwgdHlwZXMgb2YgZXJyb3JzCiAqCiAqIEFsbCBlcnJvciB0eXBlcyBhcmUgc29ydGVkIGJ5IHdlaWdodAogKiBmaXJzdCBlcnJvciBoYXMgc21hbGxlciB3ZWlnaHQKICogbGFzdCBlcnJvciBoYXMgYmlnZ2VyIHdlaWdodAogKi8KZW51bSBFcnJvclR5cGUgIHsKICAgIHVua25vd24sCiAgICBodHRwNTAwLAogICAgaHR0cDQwNCwKICAgIGh0dHA0MDEsCiAgICBodHRwNDAzLAp9OwoKY29uc3QgaHR0cEVycm9yc01hcCA9IHsKICAgIDQwMTogRXJyb3JUeXBlLmh0dHA0MDEsCiAgICA0MDM6IEVycm9yVHlwZS5odHRwNDAzLAogICAgNDA0OiBFcnJvclR5cGUuaHR0cDQwNCwKICAgIDUwMDogRXJyb3JUeXBlLmh0dHA1MDAsCn07CgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcgJiBuZXcgZXJyb3IgcHVzaGVkIHRvIG5hbWVkIGNvbnRleHQnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgbGV0IG5hbWVkQ29udGV4dEVycm9yOiBFcnJvcjsKCiAgICAgICAgICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWVkQ29udGV4dEVycm9yID0gbmV3IEVycm9yKCd0ZXN0IG5hbWVkIGVycm9yJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yU3RvcmUucHVzaCgndGVzdCcsIG5hbWVkQ29udGV4dEVycm9yKTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaXQoJ3Nob3VsZCByZXR1cm4gZ2xvYmFsIGVycm9yIGJ5IGRlZmF1bHQnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChlcnJvclN0b3JlLmVycm9yKS50b0JlKGVycm9yKTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaXQoJ3Nob3VsZCBub3QgYmUgcmVjb2duaXplZCBhcyBodHRwIG9yIGF1dGggZXJyb3InLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChlcnJvclN0b3JlLmh0dHBFcnJvcikudG9CZU51bGwoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yU3RvcmUuYXV0aEVycm9yKS50b0JlTnVsbCgpOwogICAgICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIHJldHVybiBlcnJvciBmcm9tIG5hbWVkIGNvbnRleHQgaWYgcmVxdWVzdGVkIGJ5IGNvbnRleHQgbmFtZScsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yU3RvcmUuZ2V0RXJyb3IoJ3Rlc3QnKSkudG9CZShuYW1lZENvbnRleHRFcnJvcik7CiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIHdoZW4gbmFtZWQgY29udGV4dCBpcyByZXNldCcsICgpID0+IHsKCiAgICAgICAgICAgICAgICAgICAgICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JTdG9yZS5yZXNldENvbnRleHQoJ3Rlc3QnKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIG5vdCBoYXZlIGVycm9ycycsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChlcnJvclN0b3JlLmdldEVycm9yKCd0ZXN0JykpLm5vdC50b0JlRGVmaW5lZCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>errorStore.error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIHdoZW4gbmFtZWQgY29udGV4dCBpcyByZXNldCcsICgpID0+IHsKCiAgICAgICAgICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yU3RvcmUucmVzZXRDb250ZXh0KCd0ZXN0Jyk7CiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIGl0KCdzaG91bGQgbm90IGhhdmUgZXJyb3JzJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5nZXRFcnJvcigndGVzdCcpKS5ub3QudG9CZURlZmluZWQoKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pOwoK</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -595,7 +595,7 @@
         <text>errorStore.getError('test')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIHdoZW4gbmFtZWQgY29udGV4dCBpcyByZXNldCcsICgpID0+IHsKCiAgICAgICAgICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yU3RvcmUucmVzZXRDb250ZXh0KCd0ZXN0Jyk7CiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIGl0KCdzaG91bGQgbm90IGhhdmUgZXJyb3JzJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5nZXRFcnJvcigndGVzdCcpKS5ub3QudG9CZURlZmluZWQoKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pOwoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -606,28 +606,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0KCcgc2hvdWxkIHJlY29nbml6ZSBlcnJvciBhcyBhdXRoIGVycm9yJywgKCkgPT4gewo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIG5vdCBiZSByZWNvZ25pemVkIGFzIGh0dHAgb3IgYXV0aCBlcnJvcicsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5odHRwRXJyb3IpLnRvQmVOdWxsKCk7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yU3RvcmUuYXV0aEVycm9yKS50b0JlTnVsbCgpOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IHVua25vd25FcnJvcjogRXJyb3IgfCBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>loadWithErrorLambdaNamedWithParams</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIElmIGN1cnJlbnQgbW9zdCByZWxldmFudCBlcnJvciBpcyBvZiB1bmtub3duIHR5cGUgdGhlbiBpdCB3aWxsIGJlIHJldHVybmVkLCBvdGhlcndpc2UgLSBudWxsCiAgICAgKiBUaGlzIGlzIHNob3J0IHdheSB0byBjaGVjayBpZiBjdXJyZW50IGVycm9yIGlzIHVua25vd24KICAgICAqLwogICAgQGNvbXB1dGVkCiAgICBnZXQgdW5rbm93bkVycm9yKCk6IEVycm9yIHwgbnVsbCB7CiAgICAgICAgcmV0dXJuIHRoaXMuZXJyb3IgJiYgQXBwRXJyb3JTdG9yZS5nZXRFcnJvclR5cGUodGhpcy5lcnJvcikgPT09IEVycm9yVHlwZS51bmtub3duID8gdGhpcy5lcnJvciA6IG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0KCcgc2hvdWxkIHJlY29nbml6ZSBlcnJvciBhcyBhdXRoIGVycm9yJywgKCkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXJyb3JCb3VuZGFyeSB9IGZyb20gJ0NsaWVudEFwcC9jb21wb25lbnRzL2Vycm9ycy9FcnJvckJvdW5kYXJ5JzsK</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IHVua25vd25FcnJvcjogRXJyb3IgfCBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIElmIGN1cnJlbnQgbW9zdCByZWxldmFudCBlcnJvciBpcyBvZiB1bmtub3duIHR5cGUgdGhlbiBpdCB3aWxsIGJlIHJldHVybmVkLCBvdGhlcndpc2UgLSBudWxsCiAgICAgKiBUaGlzIGlzIHNob3J0IHdheSB0byBjaGVjayBpZiBjdXJyZW50IGVycm9yIGlzIHVua25vd24KICAgICAqLwogICAgQGNvbXB1dGVkCiAgICBnZXQgdW5rbm93bkVycm9yKCk6IEVycm9yIHwgbnVsbCB7CiAgICAgICAgcmV0dXJuIHRoaXMuZXJyb3IgJiYgQXBwRXJyb3JTdG9yZS5nZXRFcnJvclR5cGUodGhpcy5lcnJvcikgPT09IEVycm9yVHlwZS51bmtub3duID8gdGhpcy5lcnJvciA6IG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRXJyb3JCb3VuZGFyeSB9IGZyb20gJ0NsaWVudEFwcC9jb21wb25lbnRzL2Vycm9ycy9FcnJvckJvdW5kYXJ5JzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -641,10 +641,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCEoCiAgICAgICAgICAgICAgICAocmVhc29uIGluc3RhbmNlb2YgSHR0cEVycm9yKSAmJgogICAgICAgICAgICAgICAgKHJlYXNvbi5zdGF0dXMgPT09IDQwMSB8fCByZWFzb24uc3RhdHVzID09PSA0MDMpCiAgICAgICAgICAgICkpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXJyb3JCb3VuZGFyeSB9IGZyb20gJ0NsaWVudEFwcC9jb21wb25lbnRzL2Vycm9ycy9FcnJvckJvdW5kYXJ5JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
