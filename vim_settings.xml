@@ -40,8 +40,8 @@
         <mark key="." line="244" column="51" />
         <mark key="^" line="244" column="51" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545835196781">
-        <mark key="'" line="19" column="4" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545839187354">
+        <mark key="'" line="128" column="41" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -225,8 +225,8 @@
         <mark key="^" line="15" column="52" />
         <mark key="." line="15" column="52" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" timestamp="1545838461200">
-        <mark key="'" line="81" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" timestamp="1545839132107">
+        <mark key="'" line="199" column="31" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
@@ -465,12 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="39" filename="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" />
-      <jump line="363" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="69" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
-      <jump line="96" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/CourseBuilder.tsx" />
-      <jump line="33" column="33" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
-      <jump line="17" column="4" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
       <jump line="80" column="36" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
       <jump line="97" column="124" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/CourseBuilder.tsx" />
       <jump line="79" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
@@ -565,6 +559,12 @@
       <jump line="140" column="41" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
       <jump line="105" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
       <jump line="81" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
+      <jump line="254" column="31" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
+      <jump line="72" column="31" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
+      <jump line="83" column="31" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
+      <jump line="199" column="31" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.test.ts" />
+      <jump line="12" column="4" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
+      <jump line="128" column="41" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -589,7 +589,7 @@
         <text>errorStore.error</text>
       </register>
       <register name="/" type="4">
-        <text>resetCo</text>
+        <text encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>errorStore.getError('test')</text>
@@ -651,9 +651,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resetCo</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern>resetCo</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</last-pattern>
       <last-replace>@createErrorContext</last-replace>
       <last-substitute>createErr</last-substitute>
       <last-dir>1</last-dir>
@@ -661,7 +661,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodHRwRXJyb3JzTWFwXD4=</entry>
         <entry encoding="base64">XDx1bmtub3duRXJyb3JcPg==</entry>
         <entry>previ</entry>
         <entry encoding="base64">XDxsb2FkUHJldmlld0RhdGFcPg==</entry>
@@ -681,6 +680,7 @@
         <entry>http</entry>
         <entry>\.http</entry>
         <entry>resetCo</entry>
+        <entry encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging\./-akosov./g</entry>
