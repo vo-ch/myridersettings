@@ -31,8 +31,8 @@
         <mark key="." line="253" column="22" />
         <mark key="^" line="253" column="22" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545407948708">
-        <mark key="'" line="12" column="4" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545815874340">
+        <mark key="'" line="67" column="5" />
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="95" />
         <mark key="^" line="129" column="56" />
@@ -90,6 +90,12 @@
         <mark key="." line="215" column="18" />
         <mark key="^" line="215" column="18" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" timestamp="1545649777418">
+        <mark key="[" line="68" column="15" />
+        <mark key="]" line="68" column="15" />
+        <mark key="." line="68" column="15" />
+        <mark key="^" line="68" column="15" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/error/newErrorContext.ts" timestamp="1544599924392">
         <mark key="'" line="120" column="50" />
         <mark key="[" line="11" column="19" />
@@ -128,12 +134,12 @@
         <mark key="." line="151" column="22" />
         <mark key="^" line="151" column="22" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" timestamp="1545660975884">
+      <file name="C:/projects/UI-Web/ClientApp/views/home/stores/HomeStore.ts" timestamp="1545816073070">
         <mark key="'" line="33" column="41" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="42" column="11" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
         <mark key="^" line="11" column="99" />
-        <mark key="." line="11" column="99" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" timestamp="1545666877575">
         <mark key="'" line="166" column="41" />
@@ -156,10 +162,12 @@
         <mark key="." line="26" column="93" />
         <mark key="^" line="26" column="93" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/CourseBuilder.tsx" timestamp="1545669693576">
-        <mark key="[" line="77" column="16" />
-        <mark key="]" line="77" column="16" />
-        <mark key="." line="77" column="16" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/CourseBuilder.tsx" timestamp="1545813331488">
+        <mark key="'" line="94" column="124" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="78" column="28" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/DataTable.test.tsx" timestamp="1543486516853">
         <mark key="'" line="43" column="0" />
@@ -171,8 +179,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/stores/AllTabStore.ts" timestamp="1545666899348">
         <mark key="'" line="52" column="94" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" timestamp="1545133273241">
-        <mark key="'" line="29" column="18" />
+      <file name="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" timestamp="1545813239231">
+        <mark key="'" line="17" column="4" />
         <mark key="[" line="20" column="10" />
         <mark key="]" line="20" column="15" />
         <mark key="." line="92" column="38" />
@@ -191,12 +199,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" timestamp="1545669067301">
         <mark key="'" line="32" column="58" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" timestamp="1545668150260">
-        <mark key="'" line="207" column="17" />
-        <mark key="[" line="210" column="17" />
-        <mark key="]" line="210" column="18" />
-        <mark key="." line="210" column="18" />
-        <mark key="^" line="210" column="18" />
+      <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" timestamp="1545815154511">
+        <mark key="'" line="205" column="17" />
+        <mark key="[" line="93" column="34" />
+        <mark key="]" line="93" column="34" />
+        <mark key="^" line="93" column="33" />
+        <mark key="." line="93" column="34" />
       </file>
       <file name="C:/projects/NewCMS/src/views/courses/stores/CourseFilterModel.js" timestamp="1542626425931">
         <mark key="'" line="15" column="46" />
@@ -240,6 +248,9 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/layout/Layout.tsx" timestamp="1545815789337">
+        <mark key="'" line="25" column="4" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/errors/JsonApiHttpError.ts" timestamp="1545063416461">
         <mark key="'" line="29" column="36" />
         <mark key="[" line="40" column="0" />
@@ -247,15 +258,31 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="36" column="39" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/preview-modal/CoursePlayerPreviewModal.tsx" timestamp="1545664874420">
-        <mark key="'" line="75" column="24" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search-category/CourseSearchCategory.tsx" timestamp="1545815108757">
+        <mark key="[" line="69" column="34" />
+        <mark key="]" line="69" column="34" />
+        <mark key="." line="69" column="34" />
+        <mark key="^" line="69" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" timestamp="1544634169258">
-        <mark key="'" line="111" column="27" />
-        <mark key="[" line="121" column="18" />
-        <mark key="]" line="121" column="18" />
-        <mark key="^" line="17" column="21" />
-        <mark key="." line="121" column="30" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/components/preview-modal/CoursePlayerPreviewModal.tsx" timestamp="1545814236937">
+        <mark key="'" line="60" column="27" />
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="60" column="30" />
+        <mark key="." line="60" column="30" />
+        <mark key="^" line="60" column="29" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/builder/new/InitCourseBuilder.tsx" timestamp="1545813631167">
+        <mark key="[" line="41" column="123" />
+        <mark key="]" line="41" column="123" />
+        <mark key="." line="41" column="123" />
+        <mark key="^" line="41" column="123" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" timestamp="1545815904893">
+        <mark key="'" line="113" column="55" />
+        <mark key="[" line="114" column="62" />
+        <mark key="]" line="114" column="62" />
+        <mark key="." line="114" column="67" />
+        <mark key="^" line="113" column="55" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1544458713431">
         <mark key="'" line="90" column="34" />
@@ -324,12 +351,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1545665329531">
-        <mark key="'" line="368" column="35" />
-        <mark key="[" line="348" column="39" />
-        <mark key="]" line="348" column="45" />
-        <mark key="." line="348" column="45" />
-        <mark key="^" line="348" column="45" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" timestamp="1545814865143">
+        <mark key="[" line="649" column="0" />
+        <mark key="]" line="649" column="0" />
+        <mark key="." line="649" column="0" />
+        <mark key="^" line="208" column="57" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-accordion-menu/CategoriesAccordionMenu.tsx" timestamp="1545658164890">
         <mark key="'" line="33" column="21" />
@@ -348,8 +374,12 @@
         <mark key="." line="469" column="31" />
         <mark key="^" line="31" column="45" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1545662359700">
-        <mark key="'" line="432" column="38" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" timestamp="1545814158538">
+        <mark key="'" line="81" column="22" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="74" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="79" column="33" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" timestamp="1542722361814">
         <mark key="'" line="163" column="17" />
@@ -357,6 +387,12 @@
         <mark key="]" line="195" column="91" />
         <mark key="." line="195" column="91" />
         <mark key="^" line="195" column="91" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/builder/new/stores/InitCourseBuilderStore.ts" timestamp="1545814093856">
+        <mark key="[" line="36" column="25" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="36" column="31" />
       </file>
       <file name="C:/projects/NewCMS/src/views/user-report/UserReportComponent.jsx" timestamp="1542643476476">
         <mark key="'" line="52" column="24" />
@@ -401,23 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
-      <jump line="258" column="48" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
-      <jump line="306" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
-      <jump line="249" column="13" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
-      <jump line="255" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
-      <jump line="348" column="45" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="368" column="35" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="75" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="109" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
-      <jump line="307" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="500" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="161" column="25" filename="C:/projects/UI-Web/ClientApp/views/course/search-category/stores/CourseSearchCategoryStore.ts" />
-      <jump line="136" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
-      <jump line="81" column="11" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
-      <jump line="93" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
-      <jump line="127" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/CourseSearchSubcategory.tsx" />
-      <jump line="41" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
       <jump line="116" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/CourseSearchSubcategory.tsx" />
       <jump line="137" column="9" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
       <jump line="40" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
@@ -501,13 +520,30 @@
       <jump line="42" column="39" filename="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" />
       <jump line="363" column="57" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="69" column="14" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="96" column="30" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/CourseBuilder.tsx" />
+      <jump line="33" column="33" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
+      <jump line="17" column="4" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
+      <jump line="80" column="36" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
+      <jump line="97" column="124" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/CourseBuilder.tsx" />
+      <jump line="79" column="21" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
+      <jump line="81" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/details/CourseDetails.tsx" />
+      <jump line="60" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/preview-modal/CoursePlayerPreviewModal.tsx" />
+      <jump line="652" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
+      <jump line="48" column="0" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
+      <jump line="33" column="4" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
+      <jump line="25" column="4" filename="C:/projects/UI-Web/ClientApp/views/layout/Layout.tsx" />
+      <jump line="35" column="40" filename="C:/projects/UI-Web/ClientApp/views/layout/Layout.tsx" />
+      <jump line="113" column="55" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
+      <jump line="9" column="13" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
+      <jump line="68" column="5" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
+      <jump line="67" column="5" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXJ2aWNlLmdldFByb2ZpbGUocHJvZmlsZUlkKQogICAgICAgICAgICAgICAgLnRoZW4odGhpcy5vbkRhdGFMb2FkU3VjY2VzcywgdGhpcy5vbkRhdGFMb2FkRXJyb3Ip</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dW5rbm93bkVycm9yLCBub3RGb3VuZCwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -522,16 +558,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dW5rbm93bkVycm9yLCBub3RGb3VuZCwg</text>
+        <text>unknownError</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</text>
+        <text encoding="base64">XDxodHRwRXJyb3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBjb21wb25lbnRXaWxsTW91bnQoKTogdm9pZCB7CiAgICAgICAgY29uc3QgeyBjYXRhbG9nVHlwZSwgc3RvcmUgfSA9IHRoaXMucHJvcHM7CiAgICAgICAgc3RvcmUubG9hZChjYXRhbG9nVHlwZSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEh0dHBFcnJvciBmcm9tICcuLi9zZXJ2aWNlcy9odHRwL2Vycm9ycy9IdHRwRXJyb3InOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -542,28 +578,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IE5vUmVmcmVzaFRva2VuRXJyb3IgZnJvbSAnLi4vc2VydmljZXMvaHR0cC9lcnJvcnMvTm9SZWZyZXNoVG9rZW5FcnJvcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVua25vd25FcnJvciA9IGZhbHNlOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IG5vdEZvdW5kPzogYm9vbGVhbjsKICAgIHJlYWRvbmx5IHVua25vd25FcnJvcj86IGJvb2xlYW47CiAgICByZWFkb25seSB1bmF1dGhvcml6ZWQ/OiBib29sZWFuOyAvLyB0aGlzIHdpbGwgYmUgc2V0IHRvIHRydWUgaWYgdGhlIGF1dGggcmV0dXJucyBhIDQwMyBlcnJvci4gVXNlZCBmb3IgYWljYyBhY2Nlc3MgaXNzdWVzLgogICAgcmVhZG9ubHkgZXJyb3JTdGF0dXM/OiBzdHJpbmcgfCBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>loadWithErrorLambdaNamedWithParams</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5vdEZvdW5kID0gaW5pdGlhbFN0YXRlLm5vdEZvdW5kOwogICAgICAgIHRoaXMudW5rbm93bkVycm9yID0gaW5pdGlhbFN0YXRlLnVua25vd25FcnJvcjsKICAgICAgICB0aGlzLnVuYXV0aG9yaXplZCA9IGluaXRpYWxTdGF0ZS51bmF1dGhvcml6ZWQ7CiAgICAgICAgdGhpcy5lcnJvclN0YXR1cyA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBvYnNlcnZhYmxlIG5vdEZvdW5kOiBib29sZWFuOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0b3JlIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBvYnNlcnZhYmxlIHVua25vd25FcnJvcjogYm9vbGVhbjsKICAgIEBvYnNlcnZhYmxlIHVuYXV0aG9yaXplZDogYm9vbGVhbjsKICAgIEBvYnNlcnZhYmxlIGVycm9yU3RhdHVzOiBzdHJpbmcgfCBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGZpbHRlclN0b3JlIH0gPSBzdG9yZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90Rm91bmQ6IHRoaXMubm90Rm91bmQsCiAgICAgICAgICAgIHVua25vd25FcnJvcjogdGhpcy51bmtub3duRXJyb3IsCiAgICAgICAgICAgIHVuYXV0aG9yaXplZDogdGhpcy51bmF1dGhvcml6ZWQK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -577,19 +613,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogIFRoaXMgbWV0aG9kIHdpbGwgYmUgY2FsbGVkIHdoZW4gb25Mb2FkRGF0YUZhaWwgbWV0aG9kCiAgICAgKiAgY2F0Y2hlcyBlcnJvciByZWxhdGVkIHRvIGV4cGlyZWQgYXV0aCB0b2tlbiBhbmQgbWlzc2VkIHJlZnJlc2ggdG9rZW4KICAgICAqICBDYW4gYmUgb3ZlcnJpZGVuIGluIHBhcmVudCBjbGFzc2VzIHdpdGggc3BlY2lmaWMgbG9naWMKICAgICAqICAqLwogICAgcHJvdGVjdGVkIG9uTm9SZWZyZXNoVG9rZW5FcnJvcihlcnI6IE5vUmVmcmVzaFRva2VuRXJyb3IpOiB2b2lkIHt9Cgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBNYW5hZ2UgdW5hdXRob3JpemVkIHVzZXIKICAgICAqLwogICAgQGFjdGlvbiBzZXRVbmF1dGhvcml6ZWQodmFsOiBib29sZWFuID0gdHJ1ZSk6IHZvaWQgewogICAgICAgIHRoaXMudW5hdXRob3JpemVkID0gdmFsOwogICAgfQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</last-search>
+      <last-search encoding="base64">XDxodHRwRXJyb3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxodHRwRXJyb3JcPg==</last-pattern>
       <last-replace>@createErrorContext</last-replace>
       <last-substitute>@createContext</last-substitute>
       <last-dir>1</last-dir>
@@ -597,12 +633,6 @@
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
-        <entry encoding="base64">XDxsb2FkQWNjZXNzb3J5RGF0YVw+</entry>
-        <entry encoding="base64">XDxpbml0TmV3UXVpelw+</entry>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
-        <entry encoding="base64">XDxsb2FkUHJldmlld0RhdGFcPg==</entry>
-        <entry encoding="base64">XDxsb2FkRGF0YVw+</entry>
         <entry encoding="base64">XDxvbkRhdGFMb2FkRmFpbFw+</entry>
         <entry>alltab</entry>
         <entry encoding="base64">XDxpc0xvYWRpbmdcPg==</entry>
@@ -617,6 +647,12 @@
         <entry encoding="base64">XDxzZXRDYXRhbG9nVHlwZVw+</entry>
         <entry>globallo</entry>
         <entry encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</entry>
+        <entry encoding="base64">XDxub3RBdXRoZW50aWNhdGVkXD4=</entry>
+        <entry encoding="base64">XDxFcnJvckJvdW5kYXJ5XD4=</entry>
+        <entry encoding="base64">XDxzZXRVbmF1dGhvcml6ZWRcPg==</entry>
+        <entry encoding="base64">XDxlcnJvclN0b3JlXD4=</entry>
+        <entry encoding="base64">XDx0cmFuc3BhcmVudEZsaXBIZWFkZXJcPg==</entry>
+        <entry encoding="base64">XDxodHRwRXJyb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging\./-akosov./g</entry>
@@ -636,9 +672,9 @@
         <entry>%s/\@createContext/@createErrorContext/g</entry>
         <entry>%s/@createContext/@createErrorContext/g</entry>
         <entry>reg</entry>
-        <entry>action ShowErrorDescription</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
