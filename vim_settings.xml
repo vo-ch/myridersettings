@@ -10,6 +10,9 @@
         <mark key="^" line="114" column="13" />
         <mark key="." line="114" column="13" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/stores/LearningStore.ts" timestamp="1545821203431">
+        <mark key="'" line="63" column="32" />
+      </file>
       <file name="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" timestamp="1542896578843">
         <mark key="'" line="249" column="29" />
         <mark key="[" line="0" column="0" />
@@ -185,6 +188,9 @@
         <mark key="]" line="20" column="15" />
         <mark key="." line="92" column="38" />
         <mark key="^" line="92" column="38" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/stores/UserProfileStore.ts" timestamp="1545821215045">
+        <mark key="'" line="40" column="13" />
       </file>
       <file name="C:/projects/NewCMS/src/views/user-report/stores/UserReportStore.js" timestamp="1542642779773">
         <mark key="'" line="110" column="35" />
@@ -401,6 +407,13 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="106" column="70" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" timestamp="1545821466317">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="28" />
+        <mark key="." line="52" column="28" />
+        <mark key="^" line="52" column="28" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1545669658086">
         <mark key="'" line="54" column="15" />
         <mark key="[" line="1" column="0" />
@@ -437,17 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="14" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/CourseSearchSubcategory.tsx" />
-      <jump line="137" column="9" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
-      <jump line="40" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
-      <jump line="85" column="37" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
-      <jump line="207" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="54" column="12" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
-      <jump line="209" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="208" column="32" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="59" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="33" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/stores/AllTabStore.ts" />
-      <jump line="103" column="59" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
       <jump line="100" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
       <jump line="101" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
       <jump line="127" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/stores/CourseSearchSubcategoryStore.ts" />
@@ -537,6 +539,17 @@
       <jump line="9" column="13" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="68" column="5" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="67" column="5" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
+      <jump line="48" column="29" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
+      <jump line="165" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
+      <jump line="39" column="22" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
+      <jump line="194" column="19" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
+      <jump line="21" column="25" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
+      <jump line="26" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/stores/LearningStore.ts" />
+      <jump line="124" column="12" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/stores/LearningStore.ts" />
+      <jump line="63" column="32" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/stores/LearningStore.ts" />
+      <jump line="40" column="13" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/stores/UserProfileStore.ts" />
+      <jump line="47" column="31" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
+      <jump line="34" column="0" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -558,10 +571,10 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>unknownError</text>
+        <text>inProgressCourses</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwRXJyb3JcPg==</text>
+        <text encoding="base64">XDxsb2FkRGF0YVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICBjb21wb25lbnRXaWxsTW91bnQoKTogdm9pZCB7CiAgICAgICAgY29uc3QgeyBjYXRhbG9nVHlwZSwgc3RvcmUgfSA9IHRoaXMucHJvcHM7CiAgICAgICAgc3RvcmUubG9hZChjYXRhbG9nVHlwZSk7CiAgICB9Cg==</text>
@@ -578,13 +591,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVua25vd25FcnJvciA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGVycm9yU3RvcmUgfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5rbm93bkVycm9yLAo=</text>
       </register>
       <register name="s" type="4">
         <text>loadWithErrorLambdaNamedWithParams</text>
@@ -593,13 +606,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0b3JlIH0gPSB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVua25vd25FcnJvciA9IGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IGZpbHRlclN0b3JlIH0gPSBzdG9yZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7IHVua25vd25FcnJvciB9ID0gc3RvcmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -613,19 +626,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IHN0b3JlIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qCiAgICAgKiBNYW5hZ2UgdW5hdXRob3JpemVkIHVzZXIKICAgICAqLwogICAgQGFjdGlvbiBzZXRVbmF1dGhvcml6ZWQodmFsOiBib29sZWFuID0gdHJ1ZSk6IHZvaWQgewogICAgICAgIHRoaXMudW5hdXRob3JpemVkID0gdmFsOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7IGZpbHRlclN0b3JlIH0gPSBzdG9yZTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodHRwRXJyb3JcPg==</last-search>
+      <last-search encoding="base64">XDxsb2FkRGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwRXJyb3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkRGF0YVw+</last-pattern>
       <last-replace>@createErrorContext</last-replace>
       <last-substitute>@createContext</last-substitute>
       <last-dir>1</last-dir>
@@ -633,8 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkRhdGFMb2FkRmFpbFw+</entry>
-        <entry>alltab</entry>
         <entry encoding="base64">XDxpc0xvYWRpbmdcPg==</entry>
         <entry>loadAll</entry>
         <entry>will</entry>
@@ -653,6 +664,8 @@
         <entry encoding="base64">XDxlcnJvclN0b3JlXD4=</entry>
         <entry encoding="base64">XDx0cmFuc3BhcmVudEZsaXBIZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxodHRwRXJyb3JcPg==</entry>
+        <entry>Mount</entry>
+        <entry encoding="base64">XDxsb2FkRGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging\./-akosov./g</entry>
