@@ -33,12 +33,12 @@
         <mark key="." line="210" column="3" />
         <mark key="^" line="210" column="3" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1545830899514">
-        <mark key="'" line="211" column="36" />
-        <mark key="[" line="244" column="51" />
-        <mark key="]" line="244" column="51" />
-        <mark key="." line="244" column="51" />
-        <mark key="^" line="244" column="51" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" timestamp="1545908854236">
+        <mark key="'" line="211" column="46" />
+        <mark key="[" line="242" column="92" />
+        <mark key="]" line="242" column="92" />
+        <mark key="." line="242" column="92" />
+        <mark key="^" line="214" column="51" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545839676597">
         <mark key="'" line="128" column="43" />
@@ -479,11 +479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="4" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
-      <jump line="25" column="4" filename="C:/projects/UI-Web/ClientApp/views/layout/Layout.tsx" />
-      <jump line="35" column="40" filename="C:/projects/UI-Web/ClientApp/views/layout/Layout.tsx" />
-      <jump line="113" column="55" filename="C:/projects/UI-Web/ClientApp/views/home/HomePage.tsx" />
-      <jump line="67" column="5" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
       <jump line="48" column="29" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
       <jump line="165" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
       <jump line="39" column="22" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
@@ -579,13 +574,18 @@
       <jump line="20" column="54" filename="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" />
       <jump line="43" column="60" filename="C:/projects/UI-Web/ClientApp/routing/helpers/asyncBundleComponent.tsx" />
       <jump line="17" column="20" filename="C:/projects/UI-Web/ClientApp/routing/helpers/asyncBundleComponent.tsx" />
+      <jump line="243" column="33" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
+      <jump line="132" column="18" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
+      <jump line="242" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
+      <jump line="210" column="15" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
+      <jump line="211" column="46" filename="C:/projects/UI-Web/ClientApp/views/course/builder/manage/stores/CourseBuilderStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcgJiBuZXcgZXJyb3IgcHVzaGVkIHRvIG5hbWVkIGNvbnRleHQnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgbGV0IG5hbWVkQ29udGV4dEVycm9yOiBFcnJvcjsKCiAgICAgICAgICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWVkQ29udGV4dEVycm9yID0gbmV3IEVycm9yKCd0ZXN0IG5hbWVkIGVycm9yJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yU3RvcmUucHVzaCgndGVzdCcsIG5hbWVkQ29udGV4dEVycm9yKTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaXQoJ3Nob3VsZCByZXR1cm4gZ2xvYmFsIGVycm9yIGJ5IGRlZmF1bHQnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChlcnJvclN0b3JlLmVycm9yKS50b0JlKGVycm9yKTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaXQoJ3Nob3VsZCBub3QgYmUgcmVjb2duaXplZCBhcyBodHRwIG9yIGF1dGggZXJyb3InLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChlcnJvclN0b3JlLmh0dHBFcnJvcikudG9CZU51bGwoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yU3RvcmUuYXV0aEVycm9yKS50b0JlTnVsbCgpOwogICAgICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIHJldHVybiBlcnJvciBmcm9tIG5hbWVkIGNvbnRleHQgaWYgcmVxdWVzdGVkIGJ5IGNvbnRleHQgbmFtZScsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yU3RvcmUuZ2V0RXJyb3IoJ3Rlc3QnKSkudG9CZShuYW1lZENvbnRleHRFcnJvcik7CiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIHdoZW4gbmFtZWQgY29udGV4dCBpcyByZXNldCcsICgpID0+IHsKCiAgICAgICAgICAgICAgICAgICAgICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JTdG9yZS5yZXNldENvbnRleHQoJ3Rlc3QnKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIG5vdCBoYXZlIGVycm9ycycsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChlcnJvclN0b3JlLmdldEVycm9yKCd0ZXN0JykpLm5vdC50b0JlRGVmaW5lZCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>wrappedComponent</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -600,10 +600,10 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>leanup BaseStore from legacy error handling</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cmFwcGVkQ29tcG9uZW50XD4=</text>
+        <text encoding="base64">XDxvblBpY2tFcnJvclw+</text>
       </register>
       <register name="0" type="4">
         <text>wrappedComponent</text>
@@ -665,9 +665,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cmFwcGVkQ29tcG9uZW50XD4=</last-search>
+      <last-search encoding="base64">XDxvblBpY2tFcnJvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cmFwcGVkQ29tcG9uZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvblBpY2tFcnJvclw+</last-pattern>
       <last-replace>@createErrorContext</last-replace>
       <last-substitute>createErr</last-substitute>
       <last-dir>1</last-dir>
@@ -684,10 +684,8 @@
         <entry encoding="base64">XDxkaXNwb3NlUHJldmlld1w+</entry>
         <entry encoding="base64">XDxpbml0UHJldmlld0RhdGFcPg==</entry>
         <entry>isAuth</entry>
-        <entry encoding="base64">XDxpc0F1dGhvcml6ZWRUb0VkaXRcPg==</entry>
         <entry>createErr</entry>
         <entry encoding="base64">XDxjcmVhdGVFcnJvckNvbnRleHRcPg==</entry>
-        <entry encoding="base64">XDxvblBpY2tFcnJvclw+</entry>
         <entry encoding="base64">XDxyZXNldENvbnRleHRcPg==</entry>
         <entry>getErr</entry>
         <entry>http</entry>
@@ -695,6 +693,8 @@
         <entry>resetCo</entry>
         <entry encoding="base64">XDxjcmVhdGVDb250ZXh0XD4=</entry>
         <entry encoding="base64">XDx3cmFwcGVkQ29tcG9uZW50XD4=</entry>
+        <entry encoding="base64">XDxpc0F1dGhvcml6ZWRUb0VkaXRcPg==</entry>
+        <entry encoding="base64">XDxvblBpY2tFcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging\./-akosov./g</entry>
