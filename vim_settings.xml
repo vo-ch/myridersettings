@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" timestamp="1545925079171">
+        <mark key="'" line="114" column="40" />
+        <mark key="[" line="106" column="24" />
+        <mark key="]" line="106" column="32" />
+        <mark key="^" line="103" column="38" />
+        <mark key="." line="103" column="38" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/stores/LearningStore.ts" timestamp="1545821946916">
         <mark key="'" line="6" column="87" />
         <mark key="[" line="6" column="9" />
@@ -212,6 +219,13 @@
         <mark key="^" line="176" column="33" />
         <mark key="." line="176" column="33" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1545925137539">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" timestamp="1545303304282">
         <mark key="'" line="85" column="36" />
         <mark key="[" line="5" column="0" />
@@ -317,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="27" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/stores/LearningStore.ts" />
       <jump line="192" column="0" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/stores/LearningStore.ts" />
       <jump line="123" column="5" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/stores/LearningStore.ts" />
       <jump line="5" column="3" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/stores/LearningStore.ts" />
@@ -417,13 +430,14 @@
       <jump line="142" column="19" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
       <jump line="56" column="13" filename="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" />
       <jump line="64" column="0" filename="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" />
+      <jump line="5" column="28" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcgJiBuZXcgZXJyb3IgcHVzaGVkIHRvIG5hbWVkIGNvbnRleHQnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgbGV0IG5hbWVkQ29udGV4dEVycm9yOiBFcnJvcjsKCiAgICAgICAgICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWVkQ29udGV4dEVycm9yID0gbmV3IEVycm9yKCd0ZXN0IG5hbWVkIGVycm9yJyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yU3RvcmUucHVzaCgndGVzdCcsIG5hbWVkQ29udGV4dEVycm9yKTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaXQoJ3Nob3VsZCByZXR1cm4gZ2xvYmFsIGVycm9yIGJ5IGRlZmF1bHQnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChlcnJvclN0b3JlLmVycm9yKS50b0JlKGVycm9yKTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICAgICAgaXQoJ3Nob3VsZCBub3QgYmUgcmVjb2duaXplZCBhcyBodHRwIG9yIGF1dGggZXJyb3InLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChlcnJvclN0b3JlLmh0dHBFcnJvcikudG9CZU51bGwoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yU3RvcmUuYXV0aEVycm9yKS50b0JlTnVsbCgpOwogICAgICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIHJldHVybiBlcnJvciBmcm9tIG5hbWVkIGNvbnRleHQgaWYgcmVxdWVzdGVkIGJ5IGNvbnRleHQgbmFtZScsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yU3RvcmUuZ2V0RXJyb3IoJ3Rlc3QnKSkudG9CZShuYW1lZENvbnRleHRFcnJvcik7CiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIHdoZW4gbmFtZWQgY29udGV4dCBpcyByZXNldCcsICgpID0+IHsKCiAgICAgICAgICAgICAgICAgICAgICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JTdG9yZS5yZXNldENvbnRleHQoJ3Rlc3QnKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIG5vdCBoYXZlIGVycm9ycycsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChlcnJvclN0b3JlLmdldEVycm9yKCd0ZXN0JykpLm5vdC50b0JlRGVmaW5lZCgpOwogICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICB9KTsKCiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">amVzdC5tb2NrKCdDbGllbnRBcHAvc3RvcmVzL0FwcFJvdXRlclN0b3JlJyk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fix this context issue</text>
+        <text>ClientApp/stores/AppRouterStore</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -438,16 +452,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>fix this context issue</text>
+        <text>ClientApp/stores/AppRouterStore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXJnZXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>'createErrorContext'</text>
+        <text>ClientApp/stores/AuthStore</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIHdoZW4gbmFtZWQgY29udGV4dCBpcyByZXNldCcsICgpID0+IHsKCiAgICAgICAgICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yU3RvcmUucmVzZXRDb250ZXh0KCd0ZXN0Jyk7CiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIGl0KCdzaG91bGQgbm90IGhhdmUgZXJyb3JzJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5nZXRFcnJvcigndGVzdCcpKS5ub3QudG9CZURlZmluZWQoKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pOwoK</text>
+        <text encoding="base64">aW1wb3J0IHsgYXNNb2NrIH0gZnJvbSAnQ2xpZW50QXBwL3Rlc3RpbmcvdXRpbHMvYXNNb2NrJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -458,28 +472,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIG5vdCBiZSByZWNvZ25pemVkIGFzIGh0dHAgb3IgYXV0aCBlcnJvcicsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5odHRwRXJyb3IpLnRvQmVOdWxsKCk7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yU3RvcmUuYXV0aEVycm9yKS50b0JlTnVsbCgpOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIHdoZW4gbmFtZWQgY29udGV4dCBpcyByZXNldCcsICgpID0+IHsKCiAgICAgICAgICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yU3RvcmUucmVzZXRDb250ZXh0KCd0ZXN0Jyk7CiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIGl0KCdzaG91bGQgbm90IGhhdmUgZXJyb3JzJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5nZXRFcnJvcigndGVzdCcpKS5ub3QudG9CZURlZmluZWQoKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pOwoK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIG5vdCBiZSByZWNvZ25pemVkIGFzIGh0dHAgb3IgYXV0aCBlcnJvcicsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5odHRwRXJyb3IpLnRvQmVOdWxsKCk7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yU3RvcmUuYXV0aEVycm9yKS50b0JlTnVsbCgpOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>loadWithErrorLambdaNamedWithParams</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0KCcgc2hvdWxkIHJlY29nbml6ZSBlcnJvciBhcyBhdXRoIGVycm9yJywgKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5IHVua25vd25FcnJvcjogRXJyb3IgfCBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0KCcgc2hvdWxkIHJlY29nbml6ZSBlcnJvciBhcyBhdXRoIGVycm9yJywgKCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIElmIGN1cnJlbnQgbW9zdCByZWxldmFudCBlcnJvciBpcyBvZiB1bmtub3duIHR5cGUgdGhlbiBpdCB3aWxsIGJlIHJldHVybmVkLCBvdGhlcndpc2UgLSBudWxsCiAgICAgKiBUaGlzIGlzIHNob3J0IHdheSB0byBjaGVjayBpZiBjdXJyZW50IGVycm9yIGlzIHVua25vd24KICAgICAqLwogICAgQGNvbXB1dGVkCiAgICBnZXQgdW5rbm93bkVycm9yKCk6IEVycm9yIHwgbnVsbCB7CiAgICAgICAgcmV0dXJuIHRoaXMuZXJyb3IgJiYgQXBwRXJyb3JTdG9yZS5nZXRFcnJvclR5cGUodGhpcy5lcnJvcikgPT09IEVycm9yVHlwZS51bmtub3duID8gdGhpcy5lcnJvciA6IG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5IHVua25vd25FcnJvcjogRXJyb3IgfCBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRXJyb3JCb3VuZGFyeSB9IGZyb20gJ0NsaWVudEFwcC9jb21wb25lbnRzL2Vycm9ycy9FcnJvckJvdW5kYXJ5JzsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIElmIGN1cnJlbnQgbW9zdCByZWxldmFudCBlcnJvciBpcyBvZiB1bmtub3duIHR5cGUgdGhlbiBpdCB3aWxsIGJlIHJldHVybmVkLCBvdGhlcndpc2UgLSBudWxsCiAgICAgKiBUaGlzIGlzIHNob3J0IHdheSB0byBjaGVjayBpZiBjdXJyZW50IGVycm9yIGlzIHVua25vd24KICAgICAqLwogICAgQGNvbXB1dGVkCiAgICBnZXQgdW5rbm93bkVycm9yKCk6IEVycm9yIHwgbnVsbCB7CiAgICAgICAgcmV0dXJuIHRoaXMuZXJyb3IgJiYgQXBwRXJyb3JTdG9yZS5nZXRFcnJvclR5cGUodGhpcy5lcnJvcikgPT09IEVycm9yVHlwZS51bmtub3duID8gdGhpcy5lcnJvciA6IG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -493,10 +507,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRXJyb3JCb3VuZGFyeSB9IGZyb20gJ0NsaWVudEFwcC9jb21wb25lbnRzL2Vycm9ycy9FcnJvckJvdW5kYXJ5JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
