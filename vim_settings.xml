@@ -39,11 +39,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" timestamp="1546428713938">
-        <mark key="'" line="5" column="95" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" timestamp="1546429545913">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545839676597">
         <mark key="'" line="128" column="43" />
@@ -338,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="648" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="728" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="742" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="40" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -438,13 +438,14 @@
       <jump line="13" column="21" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
       <jump line="9" column="4" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
       <jump line="61" column="16" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
+      <jump line="12" column="24" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">amVzdC5tb2NrKCdDbGllbnRBcHAvc3RvcmVzL0FwcFJvdXRlclN0b3JlJyk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>createFeatureStore</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -459,16 +460,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>paging</text>
+        <text>DataTable</text>
       </register>
       <register name="/" type="4">
         <text>new app</text>
       </register>
       <register name="0" type="4">
-        <text>FeatureStoreMock</text>
+        <text>createFeatureStore</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -498,22 +499,22 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vY2suaXNMb2FkaW5nID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>appInitialState</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vY2suID0gewogICAgICAgIHRvdGFsUGFnZXM6IDMsCiAgICAgICAgcGFnZTogMSwKICAgICAgICBzaXplOiAyMCwKICAgICAgICB0b3RhbEl0ZW1zOiA1MAogICAgfTsK</text>
+        <text encoding="base64">ICAgIG1vY2suaXNMb2FkaW5nID0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmlsdGVyc1NldCB9IGZyb20gJy4uLy4uL21vZGVscy9maWx0ZXJzL0ZpbHRlcnNDb250YWluZXInOwo=</text>
+        <text encoding="base64">ICAgIG1vY2suID0gewogICAgICAgIHRvdGFsUGFnZXM6IDMsCiAgICAgICAgcGFnZTogMSwKICAgICAgICBzaXplOiAyMCwKICAgICAgICB0b3RhbEl0ZW1zOiA1MAogICAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSURhdGFUYWJsZVN0b3JlIH0gZnJvbSAnLi4vRGF0YVRhYmxlU3RvcmUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRmlsdGVyc1NldCB9IGZyb20gJy4uLy4uL21vZGVscy9maWx0ZXJzL0ZpbHRlcnNDb250YWluZXInOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc01vY2soQ29uZmlndXJhdGlvblN0b3JlKS5tb2NrUmV0dXJuVmFsdWUoKS5tb2NrQ2xlYXIoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSURhdGFUYWJsZVN0b3JlIH0gZnJvbSAnLi4vRGF0YVRhYmxlU3RvcmUnOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -526,12 +527,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc01vY2soQ29uZmlndXJhdGlvblN0b3JlKS5tb2NrUmV0dXJuVmFsdWUoKS5tb2NrQ2xlYXIoKTsK</text>
+      </register>
+      <register name="9" type="4">
         <text>{
         }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbmZpZ3VyYXRpb246IElDb25maWd1cmF0aW9uID0gY3JlYXRlQ29uZmlndXJhdGlvblN0b3JlKCk7CiAgICBjb25zdCBhdXRoOiBJQXV0aFN0YXRlID0gY3JlYXRlQXV0aFN0b3JlKCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
