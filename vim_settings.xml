@@ -226,12 +226,12 @@
         <mark key="^" line="176" column="33" />
         <mark key="." line="176" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546428356042">
-        <mark key="'" line="50" column="19" />
-        <mark key="[" line="49" column="51" />
-        <mark key="]" line="49" column="76" />
-        <mark key="." line="49" column="76" />
-        <mark key="^" line="49" column="76" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546434469711">
+        <mark key="'" line="51" column="61" />
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="64" />
+        <mark key="." line="51" column="64" />
+        <mark key="^" line="51" column="64" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" timestamp="1546423251254">
         <mark key="'" line="10" column="23" />
@@ -339,8 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="728" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="742" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="40" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="32" column="44" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
       <jump line="344" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -439,6 +437,8 @@
       <jump line="9" column="4" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
       <jump line="61" column="16" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
       <jump line="12" column="24" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" />
+      <jump line="31" column="21" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
+      <jump line="51" column="61" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -535,7 +535,7 @@
         }</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -587,10 +587,10 @@
         <entry>%s/@createContext/@createErrorContext/g</entry>
         <entry>action GotoImplementation</entry>
         <entry>reg</entry>
-        <entry>action RenameElement</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>nohl</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
