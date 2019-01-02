@@ -39,12 +39,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" timestamp="1546429545913">
-        <mark key="'" line="11" column="24" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
+      <file name="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" timestamp="1546435662936">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="49" />
+        <mark key="^" line="8" column="88" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545839676597">
         <mark key="'" line="128" column="43" />
@@ -209,8 +209,8 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/site-nav-link-menu/SiteNavLinkMenu.tsx" timestamp="1545658362058">
         <mark key="'" line="24" column="21" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" timestamp="1546423347654">
-        <mark key="'" line="12" column="44" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" timestamp="1546435182613">
+        <mark key="'" line="12" column="26" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" timestamp="1545669356531">
         <mark key="'" line="42" column="39" />
@@ -226,12 +226,19 @@
         <mark key="^" line="176" column="33" />
         <mark key="." line="176" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546434469711">
-        <mark key="'" line="51" column="61" />
-        <mark key="[" line="51" column="28" />
-        <mark key="]" line="51" column="64" />
-        <mark key="." line="51" column="64" />
-        <mark key="^" line="51" column="64" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546435736720">
+        <mark key="'" line="56" column="84" />
+        <mark key="[" line="56" column="58" />
+        <mark key="]" line="56" column="87" />
+        <mark key="." line="56" column="87" />
+        <mark key="^" line="56" column="87" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" timestamp="1546435725358">
+        <mark key="'" line="14" column="18" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" timestamp="1546423251254">
         <mark key="'" line="10" column="23" />
@@ -339,15 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="32" column="44" filename="C:/projects/UI-Web/ClientApp/stores/error/errorContextDecorators.ts" />
-      <jump line="344" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="289" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
-      <jump line="59" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/preview-modal/CoursePlayerPreviewModal.tsx" />
-      <jump line="65" column="12" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
-      <jump line="77" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/preview-modal/CoursePlayerPreviewModal.tsx" />
-      <jump line="15" column="4" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
-      <jump line="828" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="72" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="70" column="24" filename="C:/projects/UI-Web/ClientApp/views/course/player/components/preview-modal/CoursePlayerPreviewModal.tsx" />
       <jump line="45" column="4" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -424,8 +422,6 @@
       <jump line="37" column="17" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="107" column="97" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
       <jump line="54" column="36" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
-      <jump line="12" column="44" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
-      <jump line="6" column="20" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="59" column="31" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="108" column="55" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
       <jump line="30" column="30" filename="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" />
@@ -438,14 +434,25 @@
       <jump line="61" column="16" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
       <jump line="12" column="24" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" />
       <jump line="31" column="21" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
-      <jump line="51" column="61" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="20" column="85" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="51" column="45" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="8" column="13" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" />
+      <jump line="4" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" />
+      <jump line="13" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" />
+      <jump line="16" column="18" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" />
+      <jump line="12" column="26" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
+      <jump line="6" column="20" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="55" column="78" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="56" column="84" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="7" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">amVzdC5tb2NrKCdDbGllbnRBcHAvc3RvcmVzL0FwcFJvdXRlclN0b3JlJyk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>createFeatureStore</text>
+        <text>createFeatureStoreMock</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -460,16 +467,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>DataTable</text>
+        <text>createFeatureStoreMock</text>
       </register>
       <register name="/" type="4">
-        <text>new app</text>
+        <text encoding="base64">XDxjcmVhdGVGZWF0dXJlU3RvcmVNb2NrXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>createFeatureStore</text>
+        <text>createResponsiveScreenSizeMock</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgSUZlYXR1cmVTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9jb21wb25lbnRzL2ZlYXR1cmUtZmxhZ3MvRmVhdHVyZVN0b3JlJzsKaW1wb3J0IHsgYXNNb2NrIH0gZnJvbSAnQ2xpZW50QXBwL3Rlc3RpbmcvdXRpbHMvYXNNb2NrJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -493,28 +500,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzTW9jayhtb2NrLikubW9ja1JldHVyblZhbHVlKGZhbHNlKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>appInitialState</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vY2suaXNMb2FkaW5nID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vY2suID0gewogICAgICAgIHRvdGFsUGFnZXM6IDMsCiAgICAgICAgcGFnZTogMSwKICAgICAgICBzaXplOiAyMCwKICAgICAgICB0b3RhbEl0ZW1zOiA1MAogICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmlsdGVyc1NldCB9IGZyb20gJy4uLy4uL21vZGVscy9maWx0ZXJzL0ZpbHRlcnNDb250YWluZXInOwo=</text>
+        <text encoding="base64">ICAgIG1vY2suaXNMb2FkaW5nID0gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSURhdGFUYWJsZVN0b3JlIH0gZnJvbSAnLi4vRGF0YVRhYmxlU3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgIG1vY2suID0gewogICAgICAgIHRvdGFsUGFnZXM6IDMsCiAgICAgICAgcGFnZTogMSwKICAgICAgICBzaXplOiAyMCwKICAgICAgICB0b3RhbEl0ZW1zOiA1MAogICAgfTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -528,29 +535,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc01vY2soQ29uZmlndXJhdGlvblN0b3JlKS5tb2NrUmV0dXJuVmFsdWUoKS5tb2NrQ2xlYXIoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgRmlsdGVyc1NldCB9IGZyb20gJy4uLy4uL21vZGVscy9maWx0ZXJzL0ZpbHRlcnNDb250YWluZXInOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSURhdGFUYWJsZVN0b3JlIH0gZnJvbSAnLi4vRGF0YVRhYmxlU3RvcmUnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
       </register>
     </registers>
     <search>
-      <last-search>new app</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVGZWF0dXJlU3RvcmVNb2NrXD4=</last-search>
       <last-offset />
-      <last-pattern>new app</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVGZWF0dXJlU3RvcmVNb2NrXD4=</last-pattern>
       <last-replace>@createErrorContext</last-replace>
       <last-substitute>createErr</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXNwb3NlXD4=</entry>
-        <entry encoding="base64">XDxkaXNwb3NlUHJldmlld1w+</entry>
         <entry encoding="base64">XDxpbml0UHJldmlld0RhdGFcPg==</entry>
         <entry>isAuth</entry>
         <entry>createErr</entry>
@@ -569,6 +573,8 @@
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
         <entry encoding="base64">XDxDbGllbnRBcHBcPg==</entry>
         <entry>new app</entry>
+        <entry encoding="base64">XDxjcmVhdGVGZWF0dXJlU3RvcmVcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVGZWF0dXJlU3RvcmVNb2NrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.staging\./-akosov./g</entry>
