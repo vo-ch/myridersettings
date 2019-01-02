@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" timestamp="1546423341199">
-        <mark key="'" line="54" column="36" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" timestamp="1546427175528">
+        <mark key="'" line="108" column="55" />
         <mark key="[" line="117" column="45" />
         <mark key="]" line="117" column="70" />
         <mark key="^" line="108" column="7" />
@@ -38,6 +38,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" timestamp="1546428713938">
+        <mark key="'" line="5" column="95" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" timestamp="1545839676597">
         <mark key="'" line="128" column="43" />
@@ -153,8 +159,8 @@
         <mark key="]" line="47" column="77" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" timestamp="1545669067301">
-        <mark key="'" line="32" column="58" />
+      <file name="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" timestamp="1546427180152">
+        <mark key="'" line="30" column="30" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/CourseCatalog.tsx" timestamp="1545831340443">
         <mark key="'" line="204" column="17" />
@@ -219,12 +225,12 @@
         <mark key="^" line="176" column="33" />
         <mark key="." line="176" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546423591474">
-        <mark key="'" line="64" column="31" />
-        <mark key="[" line="69" column="71" />
-        <mark key="]" line="69" column="71" />
-        <mark key="." line="69" column="71" />
-        <mark key="^" line="69" column="71" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546428356042">
+        <mark key="'" line="50" column="19" />
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="49" column="76" />
+        <mark key="." line="49" column="76" />
+        <mark key="^" line="49" column="76" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" timestamp="1546423251254">
         <mark key="'" line="10" column="23" />
@@ -245,6 +251,10 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1545669553445">
         <mark key="'" line="363" column="57" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/data-table/stores/__mocks__/createDataTableStore.mock.ts" timestamp="1546428507675">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1545910623186">
         <mark key="[" line="0" column="0" />
@@ -287,6 +297,9 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="78" column="33" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" timestamp="1546428765400">
+        <mark key="'" line="61" column="16" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/routing/helpers/bundleComponent.tsx" timestamp="1545847348189">
         <mark key="'" line="0" column="0" />
       </file>
@@ -325,15 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="16" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="70" column="63" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="198" column="6" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="9" column="13" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="68" column="8" filename="C:/projects/UI-Web/ClientApp/stores/error/AppErrorStore.ts" />
-      <jump line="53" column="41" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
-      <jump line="170" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/learning-section/LearningSection.tsx" />
-      <jump line="19" column="25" filename="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" />
       <jump line="648" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="728" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
       <jump line="742" column="22" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CoursePlayerStore.ts" />
@@ -425,13 +429,22 @@
       <jump line="12" column="44" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
       <jump line="6" column="20" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="59" column="31" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="108" column="55" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
+      <jump line="30" column="30" filename="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" />
+      <jump line="12" column="17" filename="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" />
+      <jump line="50" column="19" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="2" column="52" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" />
+      <jump line="4" column="95" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" />
+      <jump line="13" column="21" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
+      <jump line="9" column="4" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
+      <jump line="61" column="16" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">amVzdC5tb2NrKCdDbGllbnRBcHAvc3RvcmVzL0FwcFJvdXRlclN0b3JlJyk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>appInitialState</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>loadWithErrorLambdaWithParams</text>
@@ -446,16 +459,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>configuration</text>
+        <text>paging</text>
       </register>
       <register name="/" type="4">
         <text>new app</text>
       </register>
       <register name="0" type="4">
-        <text>createConfigurationStore()</text>
+        <text>FeatureStoreMock</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbmZpZ3VyYXRpb246IElDb25maWd1cmF0aW9uID0gY3JlYXRlQ29uZmlndXJhdGlvblN0b3JlKCk7CiAgICBjb25zdCBhdXRoOiBJQXV0aFN0YXRlID0gY3JlYXRlQXV0aFN0b3JlKCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -485,24 +498,22 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlndXJhdGlvbiwKICAgICAgICAgICAgYXV0aCwKICAgICAgICAgICAgcmVzcG9uc2l2ZVNjcmVlblNpemU6IHsKICAgICAgICAgICAgICAgIGJyZWFrcG9pbnQ6ICd4bCcKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIG1vY2suaXNMb2FkaW5nID0gZmFsc2U7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>appInitialState</text>
       </register>
-      <register name="4" type="4">
-        <text>: {
-                
-            }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1vY2suID0gewogICAgICAgIHRvdGFsUGFnZXM6IDMsCiAgICAgICAgcGFnZTogMSwKICAgICAgICBzaXplOiAyMCwKICAgICAgICB0b3RhbEl0ZW1zOiA1MAogICAgfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwbGljYXRpb25TdG9yZXMsIElBcHBsaWNhdGlvblN0b3JlcyB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQXBwbGljYXRpb25TdG9yZXMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRmlsdGVyc1NldCB9IGZyb20gJy4uLy4uL21vZGVscy9maWx0ZXJzL0ZpbHRlcnNDb250YWluZXInOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXNNb2NrIH0gZnJvbSAnQ2xpZW50QXBwL3Rlc3RpbmcvdXRpbHMvYXNNb2NrJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSURhdGFUYWJsZVN0b3JlIH0gZnJvbSAnLi4vRGF0YVRhYmxlU3RvcmUnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">amVzdC5tb2NrKCdDbGllbnRBcHAvc3RvcmVzL0F1dGhTdG9yZScpOwpqZXN0Lm1vY2soJ0NsaWVudEFwcC9zdG9yZXMvQXV0aFN0b3JlJyk7Cmplc3QubW9jaygnQ2xpZW50QXBwL3N0b3Jlcy9BdXRoU3RvcmUnKTsKamVzdC5tb2NrKCdDbGllbnRBcHAvc3RvcmVzL0F1dGhTdG9yZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc01vY2soQ29uZmlndXJhdGlvblN0b3JlKS5tb2NrUmV0dXJuVmFsdWUoKS5tb2NrQ2xlYXIoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -515,14 +526,15 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXNNb2NrIH0gZnJvbSAnQ2xpZW50QXBwL3Rlc3RpbmcvdXRpbHMvYXNNb2NrJzsK</text>
+      <register name="8" type="4">
+        <text>{
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaWJlKCcmIHdoZW4gbmFtZWQgY29udGV4dCBpcyByZXNldCcsICgpID0+IHsKCiAgICAgICAgICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yU3RvcmUucmVzZXRDb250ZXh0KCd0ZXN0Jyk7CiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIGl0KCdzaG91bGQgbm90IGhhdmUgZXJyb3JzJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyb3JTdG9yZS5nZXRFcnJvcigndGVzdCcpKS5ub3QudG9CZURlZmluZWQoKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbmZpZ3VyYXRpb246IElDb25maWd1cmF0aW9uID0gY3JlYXRlQ29uZmlndXJhdGlvblN0b3JlKCk7CiAgICBjb25zdCBhdXRoOiBJQXV0aFN0YXRlID0gY3JlYXRlQXV0aFN0b3JlKCk7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -576,8 +588,8 @@
         <entry>reg</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>nohl</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
