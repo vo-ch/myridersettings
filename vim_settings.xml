@@ -39,12 +39,6 @@
         <mark key="[" line="764" column="0" />
         <mark key="]" line="767" column="5" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/data-table/services/__mocks__/createDataTableHttpService.mock.ts" timestamp="1546442063853">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="4" column="56" />
-        <mark key="." line="4" column="56" />
-        <mark key="^" line="4" column="56" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.test.ts" timestamp="1546442192543">
         <mark key="'" line="2" column="64" />
         <mark key="[" line="8" column="48" />
@@ -103,11 +97,12 @@
         <mark key="." line="8" column="58" />
         <mark key="^" line="8" column="58" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/FeedbackStore.test.ts" timestamp="1546443330290">
-        <mark key="'" line="3" column="9" />
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="3" column="48" />
-        <mark key="." line="3" column="51" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createMailStore.mock.ts" timestamp="1546513570212">
+        <mark key="'" line="1" column="56" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" timestamp="1546445253243">
         <mark key="'" line="6" column="43" />
@@ -242,12 +237,12 @@
         <mark key="^" line="176" column="33" />
         <mark key="." line="176" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546512385432">
-        <mark key="'" line="60" column="65" />
-        <mark key="[" line="60" column="37" />
-        <mark key="]" line="60" column="68" />
-        <mark key="." line="60" column="68" />
-        <mark key="^" line="60" column="68" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546513602454">
+        <mark key="'" line="62" column="17" />
+        <mark key="[" line="62" column="49" />
+        <mark key="]" line="62" column="50" />
+        <mark key="." line="62" column="50" />
+        <mark key="^" line="62" column="50" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" timestamp="1546439997643">
         <mark key="'" line="0" column="0" />
@@ -276,10 +271,10 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1545669553445">
         <mark key="'" line="363" column="57" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createLoadingStatusStore.mock.ts" timestamp="1546512388604">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createLoadingStatusStore.mock.ts" timestamp="1546512876441">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="2" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="31" />
       </file>
@@ -357,14 +352,12 @@
         <mark key="." line="99" column="18" />
         <mark key="^" line="99" column="18" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" timestamp="1546513400985">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="15" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" timestamp="1545922092081">
         <mark key="'" line="64" column="0" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/components/feedback/__mocks__/ZendeskAdapter.ts" timestamp="1546443269420">
-        <mark key="[" line="9" column="48" />
-        <mark key="]" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-        <mark key="^" line="9" column="56" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/index.ts" timestamp="1545658360450">
         <mark key="'" line="38" column="4" />
@@ -388,13 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="85" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
-      <jump line="51" column="45" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
-      <jump line="8" column="13" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/__mocks__/createFeatureStore.mock.ts" />
-      <jump line="4" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" />
-      <jump line="13" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" />
-      <jump line="16" column="18" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" />
       <jump line="12" column="26" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
       <jump line="6" column="20" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="56" column="84" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
@@ -488,19 +474,29 @@
       <jump line="8" column="8" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createLoadingStatusStore.mock.ts" />
       <jump line="13" column="21" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.ts" />
       <jump line="60" column="65" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="61" column="17" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="1" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createLoadingStatusStore.mock.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createLoadingStatusStore.mock.ts" />
+      <jump line="24" column="21" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" />
+      <jump line="10" column="42" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createMailStore.mock.ts" />
+      <jump line="1" column="56" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createMailStore.mock.ts" />
+      <jump line="14" column="4" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">ZnVuYzogKHkxOlQxLCB5MjogVDIsIHkzOiBUMykgPT4gVFJldHVybiwgcmV0dXJuVmFsOiBUUmV0dXJu</text>
+        <text>createMailStoreMock</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXNNb2NrLCBtb2NrUmV0dXJuIH0gZnJvbSAnQ2xpZW50QXBwL3Rlc3RpbmcvdXRpbHMvbW9ja1V0aWxzJzsK</text>
+      <register name="&quot;" type="4">
+        <text>asMock</text>
       </register>
       <register name="d" type="4">
-        <text>loadWithErrorLambdaWithParams</text>
+        <text>isContactOpen</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9vbHRpcCAmJiB0b29sdGlwSWQgPwogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJlYWN0VG9vbHRpcCBpZD17dG9vbHRpcElkfSBwbGFjZT0idG9wIiB0eXBlPSJkYXJrIiBlZmZlY3Q9InNvbGlkIiA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3Rvb2x0aXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1JlYWN0VG9vbHRpcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogbnVsbAogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="f" type="4">
+        <text>isValidEmail</text>
       </register>
       <register name="*" type="4">
         <text>CourseCatalogEnterpriseTableStore</text>
@@ -509,16 +505,16 @@
         <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>GlobalNavigation</text>
+        <text>asMock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50U3RhdGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>createLoadingStatusStoreMock</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1vY2suc3Vic2NyaXB0aW9uVGV4dCA9ICcnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXNNb2NrLCBtb2NrUmV0dXJuIH0gZnJvbSAnQ2xpZW50QXBwL3Rlc3RpbmcvdXRpbHMvbW9ja1V0aWxzJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSUxvYWRpbmdTdGF0dXNTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvTG9hZGluZ1N0YXR1c1N0b3JlJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -554,28 +550,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vY2tSZXR1cm4obW9jay5nZXRTdGF0ZSwgewogICAgICAgIGJyb3dzZUNhdGVnb3J5OiB7fSwKICAgICAgICBmaW5kQ291cnNlSGVhZGVyOiB7fSwKICAgICAgICBhcmVBY2NvdW50T3B0aW9uc1Nob3duOiBmYWxzZSwKICAgIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYXNNb2NrLCBtb2NrUmV0dXJuIH0gZnJvbSAnQ2xpZW50QXBwL3Rlc3RpbmcvdXRpbHMvbW9ja1V0aWxzJzsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vY2suID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIG1vY2tSZXR1cm4obW9jay5nZXRTdGF0ZSwgewogICAgICAgIGJyb3dzZUNhdGVnb3J5OiB7fSwKICAgICAgICBmaW5kQ291cnNlSGVhZGVyOiB7fSwKICAgICAgICBhcmVBY2NvdW50T3B0aW9uc1Nob3duOiBmYWxzZSwKICAgIH0pOwo=</text>
       </register>
       <register name="s" type="4">
-        <text>appInitialState</text>
+        <text>isBeingSubscribed</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICAgIElHbG9iYWxOYXZpZ2F0aW9uU3RhdGUsCiAgICBJR2xvYmFsTmF2aWdhdGlvblN0b3JlCn0gZnJvbSAnQ2xpZW50QXBwL3ZpZXdzL2xheW91dC9nbG9iYWwtbmF2aWdhdGlvbi9zdG9yZXMvR2xvYmFsTmF2aWdhdGlvblN0b3JlJzsK</text>
+        <text encoding="base64">ICAgIG1vY2suID0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICguLi5hcmdzOiBhbnlbXSk6IFQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsKICAgIElHbG9iYWxOYXZpZ2F0aW9uU3RhdGUsCiAgICBJR2xvYmFsTmF2aWdhdGlvblN0b3JlCn0gZnJvbSAnQ2xpZW50QXBwL3ZpZXdzL2xheW91dC9nbG9iYWwtbmF2aWdhdGlvbi9zdG9yZXMvR2xvYmFsTmF2aWdhdGlvblN0b3JlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyAoLi4uYXJnczogYW55W10pOiBUOwo=</text>
+        <text encoding="base64">ICAgICguLi5hcmdzOiBhbnlbXSk6IFQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICguLi5hcmdzOiBhbnlbXSk6IFQ7Cg==</text>
+        <text encoding="base64">ICAgIG5ldyAoLi4uYXJnczogYW55W10pOiBUOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -589,10 +585,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICguLi5hcmdzOiBhbnlbXSk6IFQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTXV0YWJsZSB9IGZyb20gJ0NsaWVudEFwcC90ZXN0aW5nL3V0aWxzL011dGFibGVNb2NrJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
