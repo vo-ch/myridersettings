@@ -267,12 +267,12 @@
         <mark key="^" line="176" column="33" />
         <mark key="." line="176" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546534582707">
-        <mark key="'" line="142" column="34" />
-        <mark key="[" line="142" column="34" />
-        <mark key="]" line="142" column="34" />
-        <mark key="^" line="72" column="16" />
-        <mark key="." line="142" column="34" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546535325586">
+        <mark key="'" line="100" column="14" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" timestamp="1546439997643">
         <mark key="'" line="0" column="0" />
@@ -427,7 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="24" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
       <jump line="116" column="13" filename="C:/projects/UI-Web/node_modules/@types/jest/index.d.ts" />
       <jump line="133" column="5" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
       <jump line="125" column="16" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
@@ -527,13 +526,14 @@
       <jump line="170" column="11" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
       <jump line="142" column="34" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="76" column="8" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="97" column="14" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>createMailStoreMock</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>CourseCardsImageQueueStore</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -1090,16 +1090,31 @@
         <text encoding="base64">XDxBdXRoU3RvcmVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>TestStore</text>
+        <text>CourseCardsImageQueueStore</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QoYXBwU3RvcmVzLmdldFN0YXRlKCkpLnRvRXF1YWwoYXBwSW5pdGlhbFN0YXRlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
