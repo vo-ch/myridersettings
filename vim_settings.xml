@@ -34,7 +34,7 @@
         <mark key="." line="242" column="92" />
         <mark key="^" line="214" column="51" />
       </file>
-      <file name="/fragment.js" timestamp="1546523167871">
+      <file name="/fragment.js" timestamp="1546528323162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -262,12 +262,10 @@
         <mark key="^" line="176" column="33" />
         <mark key="." line="176" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546524129318">
-        <mark key="'" line="80" column="14" />
-        <mark key="[" line="66" column="36" />
-        <mark key="]" line="66" column="39" />
-        <mark key="^" line="66" column="39" />
-        <mark key="." line="66" column="39" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546528481630">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" timestamp="1546439997643">
         <mark key="'" line="0" column="0" />
@@ -297,7 +295,7 @@
         <mark key="." line="93" column="58" />
         <mark key="^" line="93" column="58" />
       </file>
-      <file name="/JavaScript Console" timestamp="1546522996779">
+      <file name="/JavaScript Console" timestamp="1546527473156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1545669553445">
@@ -416,8 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
-      <jump line="54" column="25" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="13" column="21" filename="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" />
       <jump line="39" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="9" column="33" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppRouterStore.mock.ts" />
@@ -455,7 +451,6 @@
       <jump line="12" column="64" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
       <jump line="110" column="24" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
       <jump line="116" column="13" filename="C:/projects/UI-Web/node_modules/@types/jest/index.d.ts" />
-      <jump line="13" column="38" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
       <jump line="133" column="5" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
       <jump line="125" column="16" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="10" column="16" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
@@ -464,7 +459,6 @@
       <jump line="294" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es2015.core.d.ts" />
       <jump line="72" column="31" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" />
       <jump line="43" column="17" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="350" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="103" column="50" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createCategoryStore.ts" />
       <jump line="3" column="33" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createFeedbackStore.ts" />
       <jump line="4" column="34" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createFullscreenStore.ts" />
@@ -516,13 +510,17 @@
       <jump line="10" column="31" filename="C:/projects/UI-Web/ClientApp/testing/utils/mockUtils.ts" />
       <jump line="80" column="14" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="9" column="16" filename="C:/projects/UI-Web/ClientApp/testing/utils/mockUtils.ts" />
+      <jump line="350" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="3" column="73" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="52" column="45" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="13" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>createMailStoreMock</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IENvbmZpZ3VyYXRpb25TdG9yZSwgeyBJQ29uZmlndXJhdGlvbiwgSUNvbmZpZ3VyYXRpb25TdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQ29uZmlndXJhdGlvblN0b3JlJzsKaW1wb3J0IEZlYXR1cmVTdG9yZSwgeyBJRmVhdHVyZVN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL2NvbXBvbmVudHMvZmVhdHVyZS1mbGFncy9GZWF0dXJlU3RvcmUnOwppbXBvcnQgQXBwUm91dGVyU3RvcmUsIHsgSUFwcFJvdXRlclN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBSb3V0ZXJTdG9yZSc7CmltcG9ydCBBdXRoU3RvcmUsIHsgSUF1dGhTdGF0ZSwgSUF1dGhTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQXV0aFN0b3JlJzsKaW1wb3J0IFJlc3BvbnNpdmVTY3JlZW5TaXplU3RvcmUsIHsgSVJlc3BvbnNpdmVTY3JlZW5TaXplU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL1Jlc3BvbnNpdmVTY3JlZW5TaXplU3RvcmUnOwppbXBvcnQgR2xvYmFsTmF2aWdhdGlvblN0b3JlLCB7IElHbG9iYWxOYXZpZ2F0aW9uU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvdmlld3MvbGF5b3V0L2dsb2JhbC1uYXZpZ2F0aW9uL3N0b3Jlcy9HbG9iYWxOYXZpZ2F0aW9uU3RvcmUnOwppbXBvcnQgTG9hZGluZ1N0YXR1c1N0b3JlLCB7IElMb2FkaW5nU3RhdHVzU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL0xvYWRpbmdTdGF0dXNTdG9yZSc7CmltcG9ydCBNYWlsU3RvcmUgZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9NYWlsU3RvcmUnOwppbXBvcnQgQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmUgZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBOb3RpZmljYXRpb25TeXN0ZW1TdG9yZSc7CmltcG9ydCBGdWxsc2NyZWVuU3RvcmUgZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9GdWxsc2NyZWVuU3RvcmUnOwppbXBvcnQgeyBEYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9kYXRhLWFuYWx5dGljcy9EYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlJzsKaW1wb3J0IEZlZWRiYWNrU3RvcmUgZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9GZWVkYmFja1N0b3JlJzsKaW1wb3J0IE5ldHdvcmtTcGVlZFN0b3JlIGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvTmV0d29ya1NwZWVkU3RvcmUnOwppbXBvcnQgQ2F0ZWdvcnlTdG9yZSwgeyBJQ2F0ZWdvcnlTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQ2F0ZWdvcnlTdG9yZSc7CmltcG9ydCBDb3Vyc2VDYXJkc0ltYWdlUXVldWVTdG9yZSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL0NvdXJzZUNhcmRzSW1hZ2VRdWV1ZVN0b3JlJzsKCmltcG9ydCB7IGFzTW9jaywgbW9ja1JldHVybiB9IGZyb20gJ0NsaWVudEFwcC90ZXN0aW5nL3V0aWxzL21vY2tVdGlscyc7CmltcG9ydCB7IEFwcGxpY2F0aW9uU3RvcmVzLCBJQXBwbGljYXRpb25TdGF0ZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQXBwbGljYXRpb25TdG9yZXMnOwppbXBvcnQgeyBjcmVhdGVDb25maWd1cmF0aW9uU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVDb25maWd1cmF0aW9uU3RvcmUubW9jayc7CmltcG9ydCB7IGNyZWF0ZUF1dGhTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUF1dGhTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlRmVhdHVyZVN0b3JlTW9jayB9IGZyb20gJ0NsaWVudEFwcC9jb21wb25lbnRzL2ZlYXR1cmUtZmxhZ3MvX19tb2Nrc19fL2NyZWF0ZUZlYXR1cmVTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlQXBwUm91dGVyU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVBcHBSb3V0ZXJTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlUmVzcG9uc2l2ZVNjcmVlblNpemVNb2NrIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9fX21vY2tzX18vY3JlYXRlUmVzcG9uc2l2ZVNjcmVlblNpemVTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlR2xvYmFsTmF2aWdhdGlvblN0b3JlTW9jayB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUdsb2JhbE5hdmlnYXRpb25TdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlTG9hZGluZ1N0YXR1c1N0b3JlTW9jayB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUxvYWRpbmdTdGF0dXNTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlTWFpbFN0b3JlTW9jayB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZU1haWxTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVBcHBOb3RpZmljYXRpb25TeXN0ZW1TdG9yZSc7CmltcG9ydCB7IGNyZWF0ZUZ1bGxzY3JlZW5TdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUZ1bGxzY3JlZW5TdG9yZSc7CmltcG9ydCB7IGNyZWF0ZURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmVNb2NrIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9fX21vY2tzX18vY3JlYXRlRGF0YUFuYWx5dGljc0NvbGxlY3Rpb25TdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlRmVlZGJhY2tTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUZlZWRiYWNrU3RvcmUnOwppbXBvcnQgeyBjcmVhdGVOZXR3b3JrU3BlZWRTdG9yZU1vY2sgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVOZXR3b3JrU3BlZWRTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlQ2F0ZWdvcnlTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUNhdGVnb3J5U3RvcmUnOwppbXBvcnQgeyBjcmVhdGVDb3Vyc2VDYXJkc0ltYWdlUXVldWVTdG9yZU1vY2sgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVDb3Vyc2VDYXJkc0ltYWdlUXVldWVTdG9yZS5tb2NrJzsKCmNvbnN0IGNvbmZpZ3VyYXRpb25TdG9yZU1vY2sgPSBjcmVhdGVDb25maWd1cmF0aW9uU3RvcmUoKTsKY29uc3QgZmVhdHVyZVN0b3JlTW9jayA9IGNyZWF0ZUZlYXR1cmVTdG9yZU1vY2soKTsKY29uc3QgYXBwUm91dGVyU3RvcmVNb2NrID0gY3JlYXRlQXBwUm91dGVyU3RvcmUoKTsKY29uc3QgYXV0aFN0b3JlTW9jayA9IGNyZWF0ZUF1dGhTdG9yZSgpOwpjb25zdCByZXNwb25zaXZlU2NyZWVuU2l6ZU1vY2sgPSBjcmVhdGVSZXNwb25zaXZlU2NyZWVuU2l6ZU1vY2soKTsKY29uc3QgZ2xvYmFsTmF2aWdhdGlvblN0b3JlTW9jayA9IGNyZWF0ZUdsb2JhbE5hdmlnYXRpb25TdG9yZU1vY2soKTsKY29uc3QgbG9hZGluZ1N0YXR1c1N0b3JlTW9jayA9IGNyZWF0ZUxvYWRpbmdTdGF0dXNTdG9yZU1vY2soKTsKY29uc3QgbWFpbFN0b3JlTW9jayA9IGNyZWF0ZU1haWxTdG9yZU1vY2soKTsKY29uc3QgYXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmVNb2NrID0gY3JlYXRlQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmUoKTsKY29uc3QgZnVsbHNjcmVlblN0b3JlTW9jayA9IGNyZWF0ZUZ1bGxzY3JlZW5TdG9yZSgpOwpjb25zdCBkYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlTW9jayA9IGNyZWF0ZURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmVNb2NrKCk7CmNvbnN0IGZlZWRiYWNrU3RvcmVNb2NrID0gY3JlYXRlRmVlZGJhY2tTdG9yZSgpOwpjb25zdCBuZXR3b3JrU3BlZWRTdG9yZU1vY2sgPSBjcmVhdGVOZXR3b3JrU3BlZWRTdG9yZU1vY2soKTsKY29uc3QgY2F0ZWdvcnlTdG9yZU1vY2sgPSBjcmVhdGVDYXRlZ29yeVN0b3JlKCk7CmNvbnN0IGNvdXJzZUNhcmRzSW1hZ2VRdWV1ZVN0b3JlTW9jayA9IGNyZWF0ZUNvdXJzZUNhcmRzSW1hZ2VRdWV1ZVN0b3JlTW9jaygpOwoKCmplc3QubW9jaygnQ2xpZW50QXBwL3N0b3Jlcy9Db25maWd1cmF0aW9uU3RvcmUnKTsK</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -1081,10 +1079,8 @@
       <register name="0" type="4">
         <text encoding="base64">OwoKICAgICAgICA=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-            breakpoint: 'xl'
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IENvbmZpZ3VyYXRpb25TdG9yZSwgeyBJQ29uZmlndXJhdGlvbiwgSUNvbmZpZ3VyYXRpb25TdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQ29uZmlndXJhdGlvblN0b3JlJzsKaW1wb3J0IEZlYXR1cmVTdG9yZSwgeyBJRmVhdHVyZVN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL2NvbXBvbmVudHMvZmVhdHVyZS1mbGFncy9GZWF0dXJlU3RvcmUnOwppbXBvcnQgQXBwUm91dGVyU3RvcmUsIHsgSUFwcFJvdXRlclN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBSb3V0ZXJTdG9yZSc7CmltcG9ydCBBdXRoU3RvcmUsIHsgSUF1dGhTdGF0ZSwgSUF1dGhTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQXV0aFN0b3JlJzsKaW1wb3J0IFJlc3BvbnNpdmVTY3JlZW5TaXplU3RvcmUsIHsgSVJlc3BvbnNpdmVTY3JlZW5TaXplU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL1Jlc3BvbnNpdmVTY3JlZW5TaXplU3RvcmUnOwppbXBvcnQgR2xvYmFsTmF2aWdhdGlvblN0b3JlLCB7IElHbG9iYWxOYXZpZ2F0aW9uU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvdmlld3MvbGF5b3V0L2dsb2JhbC1uYXZpZ2F0aW9uL3N0b3Jlcy9HbG9iYWxOYXZpZ2F0aW9uU3RvcmUnOwppbXBvcnQgTG9hZGluZ1N0YXR1c1N0b3JlLCB7IElMb2FkaW5nU3RhdHVzU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL0xvYWRpbmdTdGF0dXNTdG9yZSc7CmltcG9ydCBNYWlsU3RvcmUgZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9NYWlsU3RvcmUnOwppbXBvcnQgQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmUgZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9BcHBOb3RpZmljYXRpb25TeXN0ZW1TdG9yZSc7CmltcG9ydCBGdWxsc2NyZWVuU3RvcmUgZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9GdWxsc2NyZWVuU3RvcmUnOwppbXBvcnQgeyBEYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9kYXRhLWFuYWx5dGljcy9EYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlJzsKaW1wb3J0IEZlZWRiYWNrU3RvcmUgZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9GZWVkYmFja1N0b3JlJzsKaW1wb3J0IE5ldHdvcmtTcGVlZFN0b3JlIGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvTmV0d29ya1NwZWVkU3RvcmUnOwppbXBvcnQgQ2F0ZWdvcnlTdG9yZSwgeyBJQ2F0ZWdvcnlTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQ2F0ZWdvcnlTdG9yZSc7CmltcG9ydCBDb3Vyc2VDYXJkc0ltYWdlUXVldWVTdG9yZSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL0NvdXJzZUNhcmRzSW1hZ2VRdWV1ZVN0b3JlJzsKCmltcG9ydCB7IGFzTW9jaywgbW9ja1JldHVybiB9IGZyb20gJ0NsaWVudEFwcC90ZXN0aW5nL3V0aWxzL21vY2tVdGlscyc7CmltcG9ydCB7IEFwcGxpY2F0aW9uU3RvcmVzLCBJQXBwbGljYXRpb25TdGF0ZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvQXBwbGljYXRpb25TdG9yZXMnOwppbXBvcnQgeyBjcmVhdGVDb25maWd1cmF0aW9uU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVDb25maWd1cmF0aW9uU3RvcmUubW9jayc7CmltcG9ydCB7IGNyZWF0ZUF1dGhTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUF1dGhTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlRmVhdHVyZVN0b3JlTW9jayB9IGZyb20gJ0NsaWVudEFwcC9jb21wb25lbnRzL2ZlYXR1cmUtZmxhZ3MvX19tb2Nrc19fL2NyZWF0ZUZlYXR1cmVTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlQXBwUm91dGVyU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVBcHBSb3V0ZXJTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlUmVzcG9uc2l2ZVNjcmVlblNpemVNb2NrIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9fX21vY2tzX18vY3JlYXRlUmVzcG9uc2l2ZVNjcmVlblNpemVTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlR2xvYmFsTmF2aWdhdGlvblN0b3JlTW9jayB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUdsb2JhbE5hdmlnYXRpb25TdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlTG9hZGluZ1N0YXR1c1N0b3JlTW9jayB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUxvYWRpbmdTdGF0dXNTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlTWFpbFN0b3JlTW9jayB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZU1haWxTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVBcHBOb3RpZmljYXRpb25TeXN0ZW1TdG9yZSc7CmltcG9ydCB7IGNyZWF0ZUZ1bGxzY3JlZW5TdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUZ1bGxzY3JlZW5TdG9yZSc7CmltcG9ydCB7IGNyZWF0ZURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmVNb2NrIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9fX21vY2tzX18vY3JlYXRlRGF0YUFuYWx5dGljc0NvbGxlY3Rpb25TdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlRmVlZGJhY2tTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUZlZWRiYWNrU3RvcmUnOwppbXBvcnQgeyBjcmVhdGVOZXR3b3JrU3BlZWRTdG9yZU1vY2sgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVOZXR3b3JrU3BlZWRTdG9yZS5tb2NrJzsKaW1wb3J0IHsgY3JlYXRlQ2F0ZWdvcnlTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUNhdGVnb3J5U3RvcmUnOwppbXBvcnQgeyBjcmVhdGVDb3Vyc2VDYXJkc0ltYWdlUXVldWVTdG9yZU1vY2sgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL19fbW9ja3NfXy9jcmVhdGVDb3Vyc2VDYXJkc0ltYWdlUXVldWVTdG9yZS5tb2NrJzsKCmNvbnN0IGNvbmZpZ3VyYXRpb25TdG9yZU1vY2sgPSBjcmVhdGVDb25maWd1cmF0aW9uU3RvcmUoKTsKY29uc3QgZmVhdHVyZVN0b3JlTW9jayA9IGNyZWF0ZUZlYXR1cmVTdG9yZU1vY2soKTsKY29uc3QgYXBwUm91dGVyU3RvcmVNb2NrID0gY3JlYXRlQXBwUm91dGVyU3RvcmUoKTsKY29uc3QgYXV0aFN0b3JlTW9jayA9IGNyZWF0ZUF1dGhTdG9yZSgpOwpjb25zdCByZXNwb25zaXZlU2NyZWVuU2l6ZU1vY2sgPSBjcmVhdGVSZXNwb25zaXZlU2NyZWVuU2l6ZU1vY2soKTsKY29uc3QgZ2xvYmFsTmF2aWdhdGlvblN0b3JlTW9jayA9IGNyZWF0ZUdsb2JhbE5hdmlnYXRpb25TdG9yZU1vY2soKTsKY29uc3QgbG9hZGluZ1N0YXR1c1N0b3JlTW9jayA9IGNyZWF0ZUxvYWRpbmdTdGF0dXNTdG9yZU1vY2soKTsKY29uc3QgbWFpbFN0b3JlTW9jayA9IGNyZWF0ZU1haWxTdG9yZU1vY2soKTsKY29uc3QgYXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmVNb2NrID0gY3JlYXRlQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmUoKTsKY29uc3QgZnVsbHNjcmVlblN0b3JlTW9jayA9IGNyZWF0ZUZ1bGxzY3JlZW5TdG9yZSgpOwpjb25zdCBkYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlTW9jayA9IGNyZWF0ZURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmVNb2NrKCk7CmNvbnN0IGZlZWRiYWNrU3RvcmVNb2NrID0gY3JlYXRlRmVlZGJhY2tTdG9yZSgpOwpjb25zdCBuZXR3b3JrU3BlZWRTdG9yZU1vY2sgPSBjcmVhdGVOZXR3b3JrU3BlZWRTdG9yZU1vY2soKTsKY29uc3QgY2F0ZWdvcnlTdG9yZU1vY2sgPSBjcmVhdGVDYXRlZ29yeVN0b3JlKCk7CmNvbnN0IGNvdXJzZUNhcmRzSW1hZ2VRdWV1ZVN0b3JlTW9jayA9IGNyZWF0ZUNvdXJzZUNhcmRzSW1hZ2VRdWV1ZVN0b3JlTW9jaygpOwoKCmplc3QubW9jaygnQ2xpZW50QXBwL3N0b3Jlcy9Db25maWd1cmF0aW9uU3RvcmUnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1095,28 +1091,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbmZpZ3VyYXRpb25TdG9yZU1vY2sgPSBjcmVhdGVDb25maWd1cmF0aW9uU3RvcmUoKTsKICAgIGNvbnN0IGZlYXR1cmVTdG9yZU1vY2sgPSBjcmVhdGVGZWF0dXJlU3RvcmVNb2NrKCk7CiAgICBjb25zdCBhcHBSb3V0ZXJTdG9yZU1vY2sgPSBjcmVhdGVBcHBSb3V0ZXJTdG9yZSgpOwogICAgY29uc3QgYXV0aFN0b3JlTW9jayA9IGNyZWF0ZUF1dGhTdG9yZSgpOwogICAgY29uc3QgcmVzcG9uc2l2ZVNjcmVlblNpemVNb2NrID0gY3JlYXRlUmVzcG9uc2l2ZVNjcmVlblNpemVNb2NrKCk7CiAgICBjb25zdCBnbG9iYWxOYXZpZ2F0aW9uU3RvcmVNb2NrID0gY3JlYXRlR2xvYmFsTmF2aWdhdGlvblN0b3JlTW9jaygpOwogICAgY29uc3QgbG9hZGluZ1N0YXR1c1N0b3JlTW9jayA9IGNyZWF0ZUxvYWRpbmdTdGF0dXNTdG9yZU1vY2soKTsKICAgIGNvbnN0IG1haWxTdG9yZU1vY2sgPSBjcmVhdGVNYWlsU3RvcmVNb2NrKCk7CiAgICBjb25zdCBhcHBOb3RpZmljYXRpb25TeXN0ZW1TdG9yZU1vY2sgPSBjcmVhdGVBcHBOb3RpZmljYXRpb25TeXN0ZW1TdG9yZSgpOwogICAgY29uc3QgZnVsbHNjcmVlblN0b3JlTW9jayA9IGNyZWF0ZUZ1bGxzY3JlZW5TdG9yZSgpOwogICAgY29uc3QgZGF0YUFuYWx5dGljc0NvbGxlY3Rpb25TdG9yZU1vY2sgPSBjcmVhdGVEYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlTW9jaygpOwogICAgY29uc3QgZmVlZGJhY2tTdG9yZU1vY2sgPSBjcmVhdGVGZWVkYmFja1N0b3JlKCk7CiAgICBjb25zdCBuZXR3b3JrU3BlZWRTdG9yZU1vY2sgPSBjcmVhdGVOZXR3b3JrU3BlZWRTdG9yZU1vY2soKTsKICAgIGNvbnN0IGNhdGVnb3J5U3RvcmVNb2NrID0gY3JlYXRlQ2F0ZWdvcnlTdG9yZSgpOwogICAgY29uc3QgY291cnNlQ2FyZHNJbWFnZVF1ZXVlU3RvcmVNb2NrID0gY3JlYXRlQ291cnNlQ2FyZHNJbWFnZVF1ZXVlU3RvcmVNb2NrKCk7Cgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>{
+            breakpoint: 'xl'
+        }</text>
       </register>
       <register name="s" type="4">
         <text>isBeingSubscribed</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vY2sucHJlZmVyYWJsZVZpZGVvUXVhbGl0eSA9ICdIRCc7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSU5ldHdvcmtTcGVlZFN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9OZXR3b3JrU3BlZWRTdG9yZSc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vY2suCg==</text>
+        <text encoding="base64">ICAgIG1vY2sucHJlZmVyYWJsZVZpZGVvUXVhbGl0eSA9ICdIRCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL2RhdGEtYW5hbHl0aWNzL0RhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSU5ldHdvcmtTcGVlZFN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9OZXR3b3JrU3BlZWRTdG9yZSc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1130,10 +1128,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUsCg==</text>
+        <text encoding="base64">ICAgIG1vY2suCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vY2s6IE11dGFibGU8SURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmU+ID0gbmV3IE1haWxTdG9yZU1vY2soKTsKICAgIHJldHVybiBtb2NrOwp9Owo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL2RhdGEtYW5hbHl0aWNzL0RhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
