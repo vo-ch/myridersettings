@@ -13,10 +13,10 @@
       <file name="C:/projects/UI-Web/ClientApp/components/errors/SwitchErrorBlocks.tsx" timestamp="1545825559694">
         <mark key="'" line="19" column="25" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createNetworkSpeedStore.mock.ts" timestamp="1546515310954">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="39" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createNetworkSpeedStore.mock.ts" timestamp="1546515840457">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="2" />
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
@@ -230,6 +230,12 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" timestamp="1546435182613">
         <mark key="'" line="12" column="26" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createCourseCardsImageQueueStore.mock.ts" timestamp="1546515897162">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="48" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/instructor/stores/InstructorProfileStore.ts" timestamp="1545669356531">
         <mark key="'" line="42" column="39" />
         <mark key="[" line="42" column="33" />
@@ -244,12 +250,12 @@
         <mark key="^" line="176" column="33" />
         <mark key="." line="176" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546515706361">
-        <mark key="'" line="75" column="32" />
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="74" column="33" />
-        <mark key="." line="74" column="20" />
-        <mark key="^" line="74" column="19" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1546517098154">
+        <mark key="'" line="73" column="58" />
+        <mark key="[" line="73" column="26" />
+        <mark key="]" line="73" column="61" />
+        <mark key="^" line="73" column="61" />
+        <mark key="." line="73" column="61" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createResponsiveScreenSizeStore.mock.ts" timestamp="1546439997643">
         <mark key="'" line="0" column="0" />
@@ -257,6 +263,10 @@
         <mark key="]" line="16" column="2" />
         <mark key="." line="7" column="38" />
         <mark key="^" line="7" column="38" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1546515811718">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="46" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createGlobalNavigationStore.mock.ts" timestamp="1546512243713">
         <mark key="'" line="0" column="0" />
@@ -385,12 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="17" filename="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/browse-categories/stores/BrowseCategoryStore.ts" />
-      <jump line="12" column="17" filename="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" />
-      <jump line="18" column="43" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createGlobalNavigationStore.mock.ts" />
-      <jump line="13" column="32" filename="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" />
-      <jump line="4" column="17" filename="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/find-course-header/stores/FindCourseHeaderStore.ts" />
-      <jump line="3" column="9" filename="C:/projects/UI-Web/ClientApp/stores/FeedbackStore.test.ts" />
       <jump line="58" column="83" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="13" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createGlobalNavigationStore.mock.ts" />
       <jump line="109" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
@@ -485,13 +489,19 @@
       <jump line="74" column="38" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="94" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createCategoryStore.ts" />
       <jump line="75" column="32" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="8" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createNetworkSpeedStore.mock.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createNetworkSpeedStore.mock.ts" />
+      <jump line="90" column="7" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="98" column="62" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="73" column="58" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="28" column="4" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>createMailStoreMock</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CategoryStore</text>
+        <text>{}</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -1033,76 +1043,59 @@
         <text>CourseCatalogEnterpriseTableStore</text>
       </register>
       <register name="k" type="4">
-        <text>k</text>
+        <keys>
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>DataAnalyticsCollectionStore</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50U3RhdGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>CategoryStore</text>
+        <text encoding="base64">OwoKICAgICAgICA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1vY2suCg==</text>
+      <register name="1" type="4">
+        <text>{
+            breakpoint: 'xl'
+        }</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="73" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="113" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="73" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="73" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="73" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL2RhdGEtYW5hbHl0aWNzL0RhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>isBeingSubscribed</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vY2s6IE11dGFibGU8SURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmU+ID0gbmV3IE1haWxTdG9yZU1vY2soKTsKICAgIHJldHVybiBtb2NrOwp9Owo=</text>
+        <text encoding="base64">ICAgIG1vY2sucHJlZmVyYWJsZVZpZGVvUXVhbGl0eSA9ICdIRCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vY2suc3Vic2NyaXB0aW9uVGV4dCA9ICcnOwogICAgbW9jay5pc0JlaW5nU3Vic2NyaWJlZCA9IGZhbHNlOwogICAgbW9jay5pc0NvbnRhY3RPcGVuID0gZmFsc2U7CiAgICBtb2NrLmlzVmFsaWRFbWFpbCA9IHRydWU7Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSU5ldHdvcmtTcGVlZFN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9OZXR3b3JrU3BlZWRTdG9yZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IE1haWxTdG9yZSwgeyBJTWFpbFN0b3JlIH0gZnJvbSAnQ2xpZW50QXBwL3N0b3Jlcy9NYWlsU3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgIG1vY2suCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUxvYWRpbmdTdGF0dXNTdG9yZSB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvTG9hZGluZ1N0YXR1c1N0b3JlJzsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUgfSBmcm9tICdDbGllbnRBcHAvc3RvcmVzL2RhdGEtYW5hbHl0aWNzL0RhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUnOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1116,13 +1109,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXNNb2NrLCBtb2NrUmV0dXJuIH0gZnJvbSAnQ2xpZW50QXBwL3Rlc3RpbmcvdXRpbHMvbW9ja1V0aWxzJzsK</text>
+        <text encoding="base64">ICAgIERhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vY2tSZXR1cm4obW9jay5nZXRTdGF0ZSwgewogICAgICAgIGJyb3dzZUNhdGVnb3J5OiB7fSwKICAgICAgICBmaW5kQ291cnNlSGVhZGVyOiB7fSwKICAgICAgICBhcmVBY2NvdW50T3B0aW9uc1Nob3duOiBmYWxzZSwKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1vY2s6IE11dGFibGU8SURhdGFBbmFseXRpY3NDb2xsZWN0aW9uU3RvcmU+ID0gbmV3IE1haWxTdG9yZU1vY2soKTsKICAgIHJldHVybiBtb2NrOwp9Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -1176,8 +1169,8 @@
         <entry>reg</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>nohl</entry>
-        <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
