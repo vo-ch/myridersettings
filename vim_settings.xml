@@ -74,8 +74,8 @@
         <mark key="^" line="103" column="50" />
         <mark key="." line="103" column="50" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" timestamp="1546615595773">
-        <mark key="'" line="13" column="4" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" timestamp="1546617717414">
+        <mark key="'" line="32" column="5" />
         <mark key="[" line="53" column="33" />
         <mark key="]" line="53" column="57" />
       </file>
@@ -190,12 +190,12 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" timestamp="1546616104906">
-        <mark key="'" line="55" column="119" />
-        <mark key="[" line="67" column="57" />
-        <mark key="]" line="67" column="67" />
-        <mark key="^" line="67" column="67" />
-        <mark key="." line="67" column="67" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" timestamp="1546618185048">
+        <mark key="'" line="31" column="27" />
+        <mark key="[" line="34" column="10" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="23" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/stores/AllTabStore.ts" timestamp="1545666899348">
         <mark key="'" line="52" column="94" />
@@ -451,10 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="8" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createNetworkSpeedStore.mock.ts" />
-      <jump line="9" column="21" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
-      <jump line="74" column="38" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
-      <jump line="94" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createCategoryStore.ts" />
       <jump line="8" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createNetworkSpeedStore.mock.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createNetworkSpeedStore.mock.ts" />
       <jump line="90" column="7" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
@@ -520,7 +516,6 @@
       <jump line="80" column="19" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="144" column="60" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="122" column="36" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
-      <jump line="26" column="51" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
       <jump line="11" column="6" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
       <jump line="111" column="37" filename="C:/projects/UI-Web/ClientApp/views/layout/notification-system/AppNotificationSystem.tsx" />
       <jump line="5" column="51" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
@@ -551,13 +546,18 @@
       <jump line="52" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
       <jump line="55" column="119" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
       <jump line="60" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
+      <jump line="26" column="28" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
+      <jump line="26" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
+      <jump line="110" column="37" filename="C:/projects/UI-Web/ClientApp/views/layout/notification-system/AppNotificationSystem.tsx" />
+      <jump line="31" column="27" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
+      <jump line="32" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>requireFeedbackFromNotify</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>toBeFalsy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -1108,16 +1108,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>toBeFalsy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTdWJtaXNzaW9uRGlhbG9nT3Blblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25TdG9yZS5zZXRTdWJtaXNzaW9uRGlhbG9nT3Blbih0cnVlKTsKICAgICAgICBleHBlY3Qobm90aWZpY2F0aW9uU3RvcmUuaXNTdWJtaXNzaW9uRGlhbG9nT3BlbikudG9CZVRydXRoeSgpOyAK</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25TdG9yZS5ub3RpZnkoJ3Rlc3QtbWVzc2FnZScsICdpbmZvJywgJ3Rlc3R0aXRsZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1143,28 +1143,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExvZ2dlciBmcm9tICdDbGllbnRBcHAvdXRpbHMvbG9nL0xvZ2dlcic7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qobm90aWZpY2F0aW9uRWxlbWVudE1vY2subm90aWZ5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgndGVzdGVycm9ybXNnJywgJ2Vycm9yJywgJycpOwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>isBeingSubscribed</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25TdG9yZS5ub3RpZnlFcnJvcigndGVzdGVycm9ybXNnJywgJ3Rlc3RlcnJvcm1zZycpOwogICAgICAgIGV4cGVjdChub3RpZmljYXRpb25FbGVtZW50TW9jay5ub3RpZnkpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCd0ZXN0ZXJyb3Jtc2cnLCAnZXJyb3InLCAndGVzdGVycm9ybXNnJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qobm90aWZpY2F0aW9uRWxlbWVudE1vY2subm90aWZ5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgndGVzdC1tZXNzYWdlJywgJ3N1Y2Nlc3MnLCAnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qobm90aWZpY2F0aW9uRWxlbWVudE1vY2subm90aWZ5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgndGVzdGVycm9ybXNnJywgJ2Vycm9yJywgJycpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qobm90aWZpY2F0aW9uRWxlbWVudE1vY2subm90aWZ5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgndGVzdC1tZXNzYWdlJywgJ2luZm8nLCAndGVzdHRpdGxlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25TdG9yZS5ub3RpZnlFcnJvcigndGVzdGVycm9ybXNnJywgJ3Rlc3RlcnJvcm1zZycpOwogICAgICAgIGV4cGVjdChub3RpZmljYXRpb25FbGVtZW50TW9jay5ub3RpZnkpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCd0ZXN0ZXJyb3Jtc2cnLCAnZXJyb3InLCAndGVzdGVycm9ybXNnJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25TdG9yZS5ub3RpZnkoJ3Rlc3QtbWVzc2FnZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qobm90aWZpY2F0aW9uRWxlbWVudE1vY2subm90aWZ5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgndGVzdC1tZXNzYWdlJywgJ3N1Y2Nlc3MnLCAnJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1178,13 +1178,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qobm90aWZpY2F0aW9uRWxlbWVudE1vY2subm90aWZ5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgndGVzdC1tZXNzYWdlJywgJ2luZm8nLCAndGVzdHRpdGxlJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFwcE5vdGlmaWNhdGlvblN5c3RlbSwK</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25TdG9yZS5ub3RpZnkoJ3Rlc3QtbWVzc2FnZScpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -1237,9 +1237,9 @@
         <entry>nohl</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
