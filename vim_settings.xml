@@ -20,7 +20,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="/fragment.js" timestamp="1546622531355">
+      <file name="/fragment.js" timestamp="1546623574042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -53,12 +53,18 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1546621294993">
-        <mark key="'" line="20" column="34" />
-        <mark key="[" line="20" column="69" />
-        <mark key="]" line="20" column="69" />
-        <mark key="." line="20" column="69" />
-        <mark key="^" line="20" column="69" />
+      <file name="C:/projects/UI-Web/ClientApp/testing/utils/MutableMock.ts" timestamp="1546623758285">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1546623928723">
+        <mark key="'" line="2" column="21" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" timestamp="1546619358369">
         <mark key="'" line="24" column="12" />
@@ -72,12 +78,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="24" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" timestamp="1546621114584">
-        <mark key="'" line="3" column="36" />
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="34" />
+      <file name="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" timestamp="1546623910530">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="2" column="69" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mockUtils.ts" timestamp="1546532833004">
         <mark key="'" line="9" column="92" />
@@ -237,9 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="12" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" />
-      <jump line="10" column="31" filename="C:/projects/UI-Web/ClientApp/testing/utils/mockUtils.ts" />
-      <jump line="9" column="16" filename="C:/projects/UI-Web/ClientApp/testing/utils/mockUtils.ts" />
       <jump line="350" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="3" column="73" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="52" column="45" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
@@ -334,16 +337,19 @@
       <jump line="24" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="107" column="19" filename="C:/projects/UI-Web/ClientApp/App.tsx" />
       <jump line="0" column="67" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
-      <jump line="3" column="36" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
       <jump line="15" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="20" column="34" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="3" column="32" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
+      <jump line="16" column="9" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="2" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="2" column="16" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>requireFeedbackFromNotify</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'http://www.google.com'</text>
+        <text>jestGlobalAsWindow</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -894,16 +900,18 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dHlwZW9mIHdpbmRvdyA=</text>
+        <text>jestGlobalAsWindow</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRTdWJtaXNzaW9uRGlhbG9nT3Blblw+</text>
       </register>
       <register name="0" type="4">
-        <text>'http://www.google.com'</text>
+        <text>jestGlobalAsMutableWindow</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>= {
+            referrer: 'http://www.google.com'
+        } as Document;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -929,13 +937,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElFZGl0YWJsZVdpbmRvdyB7CiAgICBbXSAgCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBqZXN0R2xvYmFsQXNXaW5kb3coZ2xvYmFsKS5kb2N1bWVudCA9IHsKICAgICAgICAgICAgcmVmZXJyZXI6ICdodHRwOi8vd3d3Lmdvb2dsZS5jb20nCiAgICAgICAgfSBhcyBEb2N1bWVudDsK</text>
       </register>
       <register name="s" type="4">
         <text>isBeingSubscribed</text>
@@ -944,7 +952,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2dlciBmcm9tICdDbGllbnRBcHAvdXRpbHMvbG9nL0xvZ2dlcic7Cg==</text>
+        <text encoding="base64">aW50ZXJmYWNlIElFZGl0YWJsZVdpbmRvdyB7CiAgICBbXSAgCn0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -964,10 +972,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qobm90aWZpY2F0aW9uRWxlbWVudE1vY2subm90aWZ5KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgndGVzdGVycm9ybXNnJywgJ2Vycm9yJywgJycpOwoK</text>
+        <text encoding="base64">aW1wb3J0IExvZ2dlciBmcm9tICdDbGllbnRBcHAvdXRpbHMvbG9nL0xvZ2dlcic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25TdG9yZS5ub3RpZnlFcnJvcigndGVzdGVycm9ybXNnJywgJ3Rlc3RlcnJvcm1zZycpOwogICAgICAgIGV4cGVjdChub3RpZmljYXRpb25FbGVtZW50TW9jay5ub3RpZnkpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCd0ZXN0ZXJyb3Jtc2cnLCAnZXJyb3InLCAndGVzdGVycm9ybXNnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
