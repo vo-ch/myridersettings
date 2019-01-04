@@ -74,7 +74,8 @@
         <mark key="^" line="103" column="50" />
         <mark key="." line="103" column="50" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" timestamp="1546606433176">
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" timestamp="1546608288825">
+        <mark key="'" line="11" column="6" />
         <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="46" />
       </file>
@@ -183,11 +184,11 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" timestamp="1546606484379">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" timestamp="1546608150389">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/stores/AllTabStore.ts" timestamp="1545666899348">
         <mark key="'" line="52" column="94" />
@@ -440,9 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="34" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createFullscreenStore.ts" />
-      <jump line="2" column="40" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createFullscreenStore.ts" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/FullscreenStore.ts" />
       <jump line="140" column="21" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="15" column="0" filename="C:/projects/UI-Web/ClientApp/testing/utils/mockUtils.ts" />
       <jump line="11" column="0" filename="C:/projects/UI-Web/ClientApp/testing/utils/mockUtils.ts" />
@@ -540,13 +538,16 @@
       <jump line="80" column="19" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="144" column="60" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="122" column="36" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
+      <jump line="26" column="51" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
+      <jump line="11" column="6" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
+      <jump line="111" column="37" filename="C:/projects/UI-Web/ClientApp/views/layout/notification-system/AppNotificationSystem.tsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KEF1dGhTdG9yZSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoYXBwU3RvcmVzLCBhcHBJbml0aWFsU3RhdGUuYXV0aCwgYXBwU3RvcmVzLnJvdXRlcik7CiAgICAgICAgICAgIGV4cGVjdChSZXNwb25zaXZlU2NyZWVuU2l6ZVN0b3JlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aChhcHBTdG9yZXMsIGFwcEluaXRpYWxTdGF0ZS5yZXNwb25zaXZlU2NyZWVuU2l6ZSk7CiAgICAgICAgICAgIGV4cGVjdChHbG9iYWxOYXZpZ2F0aW9uU3RvcmUpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKGFwcFN0b3JlcywgYXBwSW5pdGlhbFN0YXRlLmdsb2JhbE5hdmlnYXRpb24pOwogICAgICAgICAgICBleHBlY3QoTG9hZGluZ1N0YXR1c1N0b3JlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aChhcHBTdG9yZXMpOwogICAgICAgICAgICBleHBlY3QoTWFpbFN0b3JlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aChhcHBTdG9yZXMpOwogICAgICAgICAgICBleHBlY3QoQXBwTm90aWZpY2F0aW9uU3lzdGVtU3RvcmUpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCk7CiAgICAgICAgICAgIGV4cGVjdChGdWxsc2NyZWVuU3RvcmUpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKCk7CiAgICAgICAgICAgIGV4cGVjdChEYXRhQW5hbHl0aWNzQ29sbGVjdGlvblN0b3JlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aChhcHBTdG9yZXMpOwogICAgICAgICAgICBleHBlY3QoRmVlZGJhY2tTdG9yZSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoYXBwU3RvcmVzKTsKICAgICAgICAgICAgZXhwZWN0KE5ldHdvcmtTcGVlZFN0b3JlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aChhcHBTdG9yZXMpOwogICAgICAgICAgICBleHBlY3QoQ2F0ZWdvcnlTdG9yZSkudG9IYXZlQmVlbkNhbGxlZFdpdGgoYXBwU3RvcmVzKTsKICAgICAgICAgICAgZXhwZWN0KENvdXJzZUNhcmRzSW1hZ2VRdWV1ZVN0b3JlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aChhcHBTdG9yZXMpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AppNotificationSystemStore</text>
+        <text>const</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -1097,7 +1098,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJVGVzdFN0b3JlXD4=</text>
