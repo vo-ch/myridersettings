@@ -59,16 +59,19 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1546954546078">
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1546955446214">
+        <mark key="'" line="52" column="35" />
         <mark key="[" line="55" column="38" />
         <mark key="]" line="55" column="41" />
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" timestamp="1546954063573">
-        <mark key="'" line="73" column="13" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="35" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" timestamp="1546955683911">
+        <mark key="'" line="2" column="33" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/final-quiz/stores/CourseBuilderFinalQuizStore.ts" timestamp="1545661915060">
         <mark key="'" line="43" column="4" />
@@ -173,7 +176,7 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1546946748189">
+      <file name="/JavaScript Console" timestamp="1546955608189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
@@ -249,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="53" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" />
-      <jump line="107" column="25" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="112" column="48" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
       <jump line="123" column="75" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
       <jump line="124" column="26" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" />
@@ -348,14 +349,16 @@
       <jump line="75" column="26" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="14" column="4" filename="C:/projects/UI-Web/node_modules/mobx-react-router/types.d.ts" />
       <jump line="73" column="13" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
-      <jump line="52" column="36" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="52" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="74" column="32" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="2" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>'http://www.google.com'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">KiBhcyBSb3V0ZSA=</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -906,10 +909,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">KiBhcyBSb3V0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text encoding="base64">XDxSb3V0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QocGFyYW1zWydwYXJhbTEnXSkudG9CZSgxKTsK</text>
@@ -988,9 +991,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search encoding="base64">XDxSb3V0ZVw+</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern encoding="base64">XDxSb3V0ZVw+</last-pattern>
       <last-replace>param</last-replace>
       <last-substitute>test</last-substitute>
       <last-dir>1</last-dir>
@@ -998,7 +1001,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVGZWF0dXJlU3RvcmVNb2NrXD4=</entry>
         <entry>asMock</entry>
         <entry>func?</entry>
         <entry>func:</entry>
@@ -1018,6 +1020,7 @@
         <entry encoding="base64">XDxtb2NrUHJvcGVydHlcPg==</entry>
         <entry encoding="base64">XDxMb2NhdGlvblw+</entry>
         <entry>test</entry>
+        <entry encoding="base64">XDxSb3V0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/.staging/-honeysha/g</entry>
