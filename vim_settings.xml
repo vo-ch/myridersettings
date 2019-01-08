@@ -59,12 +59,12 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1546945259881">
-        <mark key="'" line="16" column="35" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="18" column="16" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1546946746632">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="46" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" timestamp="1546619358369">
         <mark key="'" line="24" column="12" />
@@ -171,7 +171,7 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1546944705701">
+      <file name="/JavaScript Console" timestamp="1546946748189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
@@ -243,8 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="4" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" />
-      <jump line="86" column="4" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" />
       <jump line="85" column="4" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" />
       <jump line="84" column="4" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" />
       <jump line="83" column="4" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" />
@@ -322,7 +320,6 @@
       <jump line="110" column="37" filename="C:/projects/UI-Web/ClientApp/views/layout/notification-system/AppNotificationSystem.tsx" />
       <jump line="31" column="27" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
       <jump line="32" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
-      <jump line="39" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="106" column="26" filename="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.ts" />
       <jump line="7" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="24" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
@@ -340,16 +337,19 @@
       <jump line="149" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es5.d.ts" />
       <jump line="13" column="2" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
       <jump line="20" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
-      <jump line="5" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
-      <jump line="16" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="22" column="16" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
+      <jump line="5" column="28" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="39" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="56" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="16" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="53" column="8" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>'http://www.google.com'</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZmluZVByb3AsCiAgICBqZXN0R2xvYmFsQXNNdXRhYmxlV2luZG93LAo=</text>
+        <text encoding="base64">ICAgICAgICB1bm1vY2soKTsK</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -900,16 +900,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIG1vY2tQb3BlcnR5</text>
+        <text>http://www.google.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2NrUHJvcGVydHlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>mockedVariableScope</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICB0ZXN0KCcgc2hvdWxkIHByb3ZpZGUgcHJldmlvdXMgb3V0ZXIgdXJsJywgKCkgPT4gewogICAgICAgIGNvbnN0IHVubW9jazogKCkgPT4gdm9pZCA9IG1vY2tQcm9wZXJ0eShkb2N1bWVudCwgJ3JlZmVycmVyJywgJ2h0dHA6Ly93d3cuZ29vZ2xlLmNvbScpOwogICAgICAgIGV4cGVjdChyb3V0ZXJTdG9yZS5wcmV2aW91c1VybCkudG9CZSgnaHR0cDovL3d3dy5nb29nbGUuY29tJyk7CiAgICAgICAgdW5tb2NrKCk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZmluZVByb3AsCiAgICBqZXN0R2xvYmFsQXNNdXRhYmxlV2luZG93LAo=</text>
+        <text encoding="base64">ICAgICAgICB1bm1vY2soKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -934,31 +934,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>{
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB1bm1vY2s6ICgpID0+IHZvaWQgPSBtb2NrUHJvcGVydHkoZG9jdW1lbnQsICdyZWZlcnJlcicsICdodHRwOi8vd3d3Lmdvb2dsZS5jb20nKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHJvdXRlclN0b3JlLnByZXZpb3VzVXJsKS50b0JlKCdodHRwOi8vd3d3Lmdvb2dsZS5jb20nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>isBeingSubscribed</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3Qocm91dGVyU3RvcmUucHJldmlvdXNVcmwpLnRvQmUoJ2h0dHA6Ly93d3cuZ29vZ2xlLmNvbScpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZmluZVByb3AsCiAgICBqZXN0R2xvYmFsQXNNdXRhYmxlV2luZG93LAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>{
         }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHJvdXRlclN0b3JlLnByZXZpb3VzVXJsKS50b0JlKCdodHRwOi8vd3d3Lmdvb2dsZS5jb20nKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vY2tlZFZhcmlhYmxlU2NvcGUKfSBmcm9tICdDbGllbnRBcHAvdGVzdGluZy91dGlscy9qZXN0VXRpbHMnOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1vY2tlZEdsb2JhbFNjb3BlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHJvdXRlclN0b3JlLnByZXZpb3VzVXJsKS50b0JlKCdodHRwOi8vd3d3Lmdvb2dsZS5jb20nKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -971,11 +970,12 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4ZWNJblNjb3BlKCk7Cg==</text>
+      <register name="8" type="4">
+        <text>{
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KHJvdXRlclN0b3JlLnByZXZpb3VzVXJsKS50b0JlKCdodHRwOi8vd3d3Lmdvb2dsZS5jb20nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>action RenameElement</text>
