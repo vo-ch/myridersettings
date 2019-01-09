@@ -37,8 +37,10 @@
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/CourseCatalogPageEnterprise.tsx" timestamp="1545667761292">
         <mark key="'" line="51" column="33" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/boot-client.tsx" timestamp="1545925986324">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/boot-client.tsx" timestamp="1547027448973">
+        <mark key="'" line="94" column="29" />
+        <mark key="[" line="94" column="19" />
+        <mark key="]" line="94" column="37" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/FeedbackStore.test.ts" timestamp="1546443330290">
         <mark key="'" line="3" column="9" />
@@ -59,17 +61,17 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1546968085355">
-        <mark key="'" line="136" column="37" />
-        <mark key="[" line="146" column="7" />
-        <mark key="]" line="147" column="6" />
-        <mark key="." line="147" column="6" />
-        <mark key="^" line="147" column="6" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1547028293559">
+        <mark key="'" line="179" column="57" />
+        <mark key="[" line="179" column="54" />
+        <mark key="]" line="179" column="57" />
+        <mark key="." line="179" column="57" />
+        <mark key="^" line="179" column="57" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" timestamp="1546961301124">
-        <mark key="'" line="88" column="19" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="12" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" timestamp="1547027433708">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="22" column="32" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
@@ -109,6 +111,9 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/stores/UserProfileStore.ts" timestamp="1545821215045">
         <mark key="'" line="40" column="13" />
+      </file>
+      <file name="C:/projects/UI-Web/node_modules/mobx-react-router/types.d.ts" timestamp="1547027694148">
+        <mark key="'" line="7" column="50" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-dropdown-menu/CategoriesDropdownMenu.tsx" timestamp="1545658410091">
         <mark key="'" line="110" column="18" />
@@ -258,18 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="8" filename="C:/projects/UI-Web/node_modules/@types/react/index.d.ts" />
-      <jump line="16" column="31" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
-      <jump line="36" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" />
-      <jump line="12" column="10" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
-      <jump line="11" column="49" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
-      <jump line="32" column="51" filename="C:/projects/UI-Web/ClientApp/views/layout/notification-system/AppNotificationSystem.tsx" />
-      <jump line="10" column="21" filename="C:/projects/UI-Web/node_modules/@types/react-notification-system/index.d.ts" />
-      <jump line="13" column="38" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
-      <jump line="10" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
-      <jump line="8" column="36" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
-      <jump line="1" column="16" filename="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" />
-      <jump line="61" column="16" filename="C:/projects/UI-Web/ClientApp/themes/three/menus/CategoriesDropdownMenu.test.tsx" />
       <jump line="22" column="44" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
       <jump line="41" column="4" filename="C:/projects/UI-Web/ClientApp/views/layout/notification-system/AppNotificationSystem.tsx" />
       <jump line="29" column="32" filename="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" />
@@ -321,7 +314,6 @@
       <jump line="65" column="53" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="60" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="24" column="29" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
-      <jump line="6" column="32" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="26" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="3" column="9" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="27" column="24" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
@@ -349,22 +341,35 @@
       <jump line="107" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="118" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="101" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
-      <jump line="95" column="15" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="96" column="51" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
-      <jump line="97" column="30" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="4" column="26" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
-      <jump line="36" column="15" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="88" column="19" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
       <jump line="11" column="22" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
       <jump line="133" column="51" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="136" column="37" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="92" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="156" column="48" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="6" column="17" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="22" column="13" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="43" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="49" column="22" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="95" column="8" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="164" column="20" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="97" column="14" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="19" column="18" filename="C:/projects/UI-Web/node_modules/mobx-react-router/types.d.ts" />
+      <jump line="94" column="29" filename="C:/projects/UI-Web/ClientApp/boot-client.tsx" />
+      <jump line="36" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
+      <jump line="163" column="38" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
+      <jump line="7" column="50" filename="C:/projects/UI-Web/node_modules/mobx-react-router/types.d.ts" />
+      <jump line="9" column="17" filename="C:/projects/UI-Web/node_modules/@types/history/index.d.ts" />
+      <jump line="179" column="57" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>'testtitle'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>null</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -915,16 +920,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoaXN0b3J5XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>www.test.com</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3Qocm91dGVyU3RvcmUuaGlzdG9yeVdpdGhTdWJzY3JpYmUpLnRvQmUoaGlzdG9yeVN0dWIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQ6IHVuZGVmaW5lZCwKICAgICAgICBzZXQ6IHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZVN0YXRlOiBqZXN0LmZuKCksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -950,25 +955,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdW5tb2NrMjogKCkgPT4gdm9pZCA9IG1vY2tQcm9wZXJ0eSh3aW5kb3csICdoaXN0b3J5JywgaGlzdG9yeVN0dWIpOwoKICAgICAgICAgICAgcm91dGVyU3RvcmUudXBkYXRlVXJsUGF0aFdpdGhvdXRSZWRpcmVjdCgnL3Rlc3RwYWdlJyk7CgogICAgICAgICAgICBleHBlY3QoaGlzdG9yeVN0dWIucHVzaFN0YXRlKS5ub3QudG9IYXZlQmVlbkNhbGxlZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzaFN0YXRlOiBqZXN0LmZuKCksCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdW5tb2NrMTogKCkgPT4gdm9pZCA9IG1vY2tQcm9wZXJ0eSh3aW5kb3csICdoaXN0b3J5JywgdW5kZWZpbmVkKTsKICAgICAgICAgICAgcm91dGVyU3RvcmUudXBkYXRlVXJsUGF0aFdpdGhvdXRSZWRpcmVjdCgnL3Rlc3RwYWdlJyk7CiAgICAgICAgICAgIGV4cGVjdChoaXN0b3J5U3R1Yi5wdXNoU3RhdGUpLm5vdC50b0hhdmVCZWVuQ2FsbGVkKCk7CiAgICAgICAgICAgIHVubW9jazEoKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yd2FyZDogamVzdC5mbigpLAo=</text>
       </register>
       <register name="s" type="4">
         <text>jest.fn()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3QoJ3Nob3VsZCBwcm92aWRlIGFiaWxpdHkgZm9yIHVwZGF0aW5nIHVybCB3aXRob3V0IHJlZGlyZWN0aW9uICcsICgpID0+IHsKCiAgICAgICAgY29uc3QgdW5tb2NrMTogKCkgPT4gdm9pZCA9IG1vY2tQcm9wZXJ0eSh3aW5kb3csICdoaXN0b3J5JywgdW5kZWZpbmVkKTsKICAgICAgICByb3V0ZXJTdG9yZS51cGRhdGVVcmxQYXRoV2l0aG91dFJlZGlyZWN0KCcvdGVzdHBhZ2UnKTsKICAgICAgICBleHBlY3QoaGlzdG9yeVN0dWIucHVzaFN0YXRlKS5ub3QudG9IYXZlQmVlbkNhbGxlZCgpOwogICAgICAgIHVubW9jazEoKTsKCiAgICAgICAgY29uc3QgdW5tb2NrMjogKCkgPT4gdm9pZCA9IG1vY2tQcm9wZXJ0eSh3aW5kb3csICdoaXN0b3J5JywgaGlzdG9yeVN0dWIpOwoKICAgICAgICByb3V0ZXJTdG9yZS51cGRhdGVVcmxQYXRoV2l0aG91dFJlZGlyZWN0KCcvdGVzdHBhZ2UnKTsKCiAgICAgICAgZXhwZWN0KGhpc3RvcnlTdHViLnB1c2hTdGF0ZSkubm90LnRvSGF2ZUJlZW5DYWxsZWQoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFjazogamVzdC5mbigpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBoaXN0b3J5U3R1YjogSGlzdG9yeSA9IHsKICAgICAgICAgICAgbGVuZ3RoOiAxLAogICAgICAgICAgICBzY3JvbGxSZXN0b3JhdGlvbjogJ2F1dG8nLAogICAgICAgICAgICBzdGF0ZToge30sCiAgICAgICAgICAgIGJhY2s6IGplc3QuZm4oKSwKICAgICAgICAgICAgZm9yd2FyZDogamVzdC5mbigpLAogICAgICAgICAgICBwdXNoU3RhdGU6IGplc3QuZm4oKSwKICAgICAgICAgICAgZ286IGplc3QuZm4oKSwKICAgICAgICAgICAgcmVwbGFjZVN0YXRlOiBqZXN0LmZuKCksCiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGU6IHt9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Nyb2xsUmVzdG9yYXRpb246ICdhdXRvJywK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -984,20 +989,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwdXNoU3RhdGVNb2NrOiBNb2NrID0gamVzdC5mbigpOwo=</text>
-      </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text>{
-            length: 1,
-            scrollRestoration: 'auto',
             state: {},
-            back: jest.fn(),
-            forward: jest.fn(),
-            pushState: jest.fn(),
-            go: jest.fn(),
-            replaceState: jest.fn(),
+            search: '?test=1',
+            pathname: '/testpage',
+            key: '',
+            hash: '#hashtest',
         }</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBnZXQ6IHVuZGVmaW5lZCwKICAgICAgICBzZXQ6IHVuZGVmaW5lZCwK</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
@@ -1046,15 +1048,15 @@
         <entry>%s/\@createContext/@createErrorContext/g</entry>
         <entry>%s/@createContext/@createErrorContext/g</entry>
         <entry>reg</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>nohl</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>%s/mockedVariableScope/mockProperty/g</entry>
-        <entry>action RenameElement</entry>
         <entry>%s/test/param</entry>
         <entry>s/test/param/g</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
