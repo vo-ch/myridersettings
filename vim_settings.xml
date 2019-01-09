@@ -61,12 +61,12 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1547028293559">
-        <mark key="'" line="179" column="57" />
-        <mark key="[" line="179" column="54" />
-        <mark key="]" line="179" column="57" />
-        <mark key="." line="179" column="57" />
-        <mark key="^" line="179" column="57" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1547030185001">
+        <mark key="'" line="207" column="57" />
+        <mark key="[" line="81" column="7" />
+        <mark key="]" line="82" column="6" />
+        <mark key="." line="82" column="6" />
+        <mark key="^" line="82" column="6" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" timestamp="1547027433708">
         <mark key="'" line="36" column="4" />
@@ -369,7 +369,7 @@
         <text>'testtitle'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>https://www.test.com/testpage?test=1#hashtest</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -920,16 +920,29 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>https://www.test.com/testpage?test=1#hashtest</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoaXN0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qocm91dGVyU3RvcmUuaGlzdG9yeVdpdGhTdWJzY3JpYmUpLnRvQmUoaGlzdG9yeVN0dWIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdW5tb2NrOiAoKSA9PiB2b2lkID0gbW9ja1Byb3BlcnR5KHdpbmRvdywgJ2xvY2F0aW9uJywgewogICAgICAgICAgICAgICAgcHJvdG9jb2w6ICdodHRwczonLAogICAgICAgICAgICAgICAgaG9zdG5hbWU6ICd3d3cudGVzdC5jb20nLAogICAgICAgICAgICAgICAgaGFzaDogJycsCiAgICAgICAgICAgICAgICBob3N0OiAnJywKICAgICAgICAgICAgICAgIGhyZWY6ICcnLAogICAgICAgICAgICAgICAgb3JpZ2luOiAnJywKICAgICAgICAgICAgICAgIHBvcnQ6ICc5OTknLAogICAgICAgICAgICAgICAgcGF0aG5hbWU6ICcnLAogICAgICAgICAgICAgICAgc2VhcmNoOiAnJywKICAgICAgICAgICAgICAgIGFzc2lnbih1cmw6IHN0cmluZyk6IHZvaWQgeyB9LAogICAgICAgICAgICAgICAgcmVsb2FkKGZvcmNlZFJlbG9hZD86IGJvb2xlYW4pOiB2b2lkIHsgfSwKICAgICAgICAgICAgICAgIHJlcGxhY2UodXJsOiBzdHJpbmcpOiB2b2lkIHsgfSwKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICByb3V0ZXJTdG9yZS5zYXZlQ3VycmVudFVybEFzUHJldmlvdXMoewogICAgICAgICAgICAgICAgc3RhdGU6IHt9LAogICAgICAgICAgICAgICAgc2VhcmNoOiAnP3Rlc3Q9MScsCiAgICAgICAgICAgICAgICBwYXRobmFtZTogJy90ZXN0cGFnZScsCiAgICAgICAgICAgICAgICBrZXk6ICcnLAogICAgICAgICAgICAgICAgaGFzaDogJyNoYXNodGVzdCcsCiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgZXhwZWN0KHJvdXRlclN0b3JlLnByZXZpb3VzVXJsKS50b0JlKCdodHRwczovL3d3dy50ZXN0LmNvbS90ZXN0cGFnZT90ZXN0PTEjaGFzaHRlc3QnKTsKCiAgICAgICAgICAgIHVubW9jaygpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZVN0YXRlOiBqZXN0LmZuKCksCg==</text>
+      <register name="1" type="4">
+        <text>{
+                protocol: 'https:',
+                hostname: 'www.test.com',
+                hash: '',
+                host: '',
+                href: '',
+                origin: '',
+                port: '999',
+                pathname: '',
+                search: '',
+                assign(url: string): void { },
+                reload(forcedReload?: boolean): void { },
+                replace(url: string): void { },
+            }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -955,28 +968,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVzaFN0YXRlOiBqZXN0LmZuKCksCg==</text>
+        <text encoding="base64">ICAgIHRlc3QoLCAoKSA9PiB7CiAgICAgICAgY29uc3QgdW5tb2NrOiAoKSA9PiB2b2lkID0gbW9ja1Byb3BlcnR5KHdpbmRvdywgJ2xvY2F0aW9uJywgewogICAgICAgICAgICBwcm90b2NvbDogJ2h0dHBzOicsCiAgICAgICAgICAgIGhvc3RuYW1lOiAnd3d3LnRlc3QuY29tJywKICAgICAgICAgICAgaGFzaDogJycsCiAgICAgICAgICAgIGhvc3Q6ICcnLAogICAgICAgICAgICBocmVmOiAnJywKICAgICAgICAgICAgb3JpZ2luOiAnJywKICAgICAgICAgICAgcG9ydDogJzk5OScsCiAgICAgICAgICAgIHBhdGhuYW1lOiAnJywKICAgICAgICAgICAgc2VhcmNoOiAnJywKICAgICAgICAgICAgYXNzaWduKHVybDogc3RyaW5nKTogdm9pZCB7IH0sCiAgICAgICAgICAgIHJlbG9hZChmb3JjZWRSZWxvYWQ/OiBib29sZWFuKTogdm9pZCB7IH0sCiAgICAgICAgICAgIHJlcGxhY2UodXJsOiBzdHJpbmcpOiB2b2lkIHsgfSwKICAgICAgICB9KTsKCiAgICAgICAgcm91dGVyU3RvcmUuc2F2ZUN1cnJlbnRVcmxBc1ByZXZpb3VzKHsKICAgICAgICAgICAgc3RhdGU6IHt9LAogICAgICAgICAgICBzZWFyY2g6ICc/dGVzdD0xJywKICAgICAgICAgICAgcGF0aG5hbWU6ICcvdGVzdHBhZ2UnLAogICAgICAgICAgICBrZXk6ICcnLAogICAgICAgICAgICBoYXNoOiAnI2hhc2h0ZXN0JywKICAgICAgICB9KTsKCiAgICAgICAgZXhwZWN0KHJvdXRlclN0b3JlLnByZXZpb3VzVXJsKS50b0JlKCdodHRwczovL3d3dy50ZXN0LmNvbS90ZXN0cGFnZT90ZXN0PTEjaGFzaHRlc3QnKTsKCiAgICAgICAgdW5tb2NrKCk7CiAgICB9KTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yd2FyZDogamVzdC5mbigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZVN0YXRlOiBqZXN0LmZuKCksCg==</text>
       </register>
       <register name="s" type="4">
         <text>jest.fn()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFjazogamVzdC5mbigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVzaFN0YXRlOiBqZXN0LmZuKCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGU6IHt9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yd2FyZDogamVzdC5mbigpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Nyb2xsUmVzdG9yYXRpb246ICdhdXRvJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFjazogamVzdC5mbigpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGU6IHt9LAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -989,17 +1002,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>{
-            state: {},
-            search: '?test=1',
-            pathname: '/testpage',
-            key: '',
-            hash: '#hashtest',
-        }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2Nyb2xsUmVzdG9yYXRpb246ICdhdXRvJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQ6IHVuZGVmaW5lZCwKICAgICAgICBzZXQ6IHVuZGVmaW5lZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
