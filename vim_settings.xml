@@ -117,6 +117,9 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-dropdown-menu/CategoriesDropdownMenu.tsx" timestamp="1545658410091">
         <mark key="'" line="110" column="18" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/auth/AuthWindowManager.ts" timestamp="1547054958834">
+        <mark key="'" line="77" column="22" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" timestamp="1546442120705">
         <mark key="'" line="13" column="32" />
       </file>
@@ -142,8 +145,8 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/site-nav-link-menu/SiteNavLinkMenu.tsx" timestamp="1545658362058">
         <mark key="'" line="24" column="21" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547052571102">
-        <mark key="'" line="92" column="33" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547054930090">
+        <mark key="'" line="94" column="41" />
         <mark key="[" line="362" column="0" />
         <mark key="]" line="364" column="52" />
       </file>
@@ -192,11 +195,11 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547053363568">
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="34" column="31" />
-        <mark key="^" line="34" column="31" />
-        <mark key="." line="34" column="31" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547055207034">
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="13" />
+        <mark key="^" line="45" column="13" />
+        <mark key="." line="45" column="13" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
         <mark key="'" line="1" column="16" />
@@ -275,10 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="16" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
-      <jump line="177" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es5.d.ts" />
-      <jump line="19" column="26" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
-      <jump line="17" column="11" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="12" column="29" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
       <jump line="14" column="51" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
       <jump line="149" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es5.d.ts" />
@@ -375,13 +374,17 @@
       <jump line="23" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" />
       <jump line="30" column="29" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="67" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
+      <jump line="29" column="17" filename="C:/projects/UI-Web/ClientApp/services/auth/AuthWindowManager.ts" />
+      <jump line="94" column="41" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="37" column="28" filename="C:/projects/UI-Web/ClientApp/services/auth/AuthWindowManager.ts" />
+      <jump line="77" column="22" filename="C:/projects/UI-Web/ClientApp/services/auth/AuthWindowManager.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>'testtitle'</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Stub</text>
+        <text>'ClientApp/services/auth/AuthWindowManager'</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -932,13 +935,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Stub</text>
+        <text>storesMock.configuration, authStoreStub</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoaXN0b3J5XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb246IElDb25maWd1cmF0aW9uU3RvcmU7CiAgICByb3V0ZXI6IElBcHBSb3V0ZXJTdG9yZTsKICAgIG5vdGlmaWNhdGlvbnNTdG9yZTogSUFwcE5vdGlmaWNhdGlvblN5c3RlbVN0b3JlOwo=</text>
+      <register name="0" type="4">
+        <text>'ClientApp/services/auth/AuthWindowManager'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBdXRoU2VydmljZShhdXRoU3RvcmVTdHViLCBzdG9yZXNTdHViLmNvbmZpZ3VyYXRpb24pLAogICAgICAgICAgICAgICAgbmV3IEh0dHBTZXJ2aWNlKHN0b3Jlc1N0dWIuY29uZmlndXJhdGlvbiwgYXV0aFN0b3JlU3R1YiksCg==</text>
@@ -946,22 +949,19 @@
       <register name="q" type="4">
         <keys>
           <key char="102" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
           <key char="121" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="104" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
           <key char="73" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
           <key char="112" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
+          <key char="52" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
           <key char="73" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
