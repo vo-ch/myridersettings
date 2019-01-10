@@ -68,10 +68,10 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1547050729663">
+      <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1547139254793">
         <mark key="'" line="92" column="30" />
-        <mark key="[" line="112" column="21" />
-        <mark key="]" line="112" column="22" />
+        <mark key="[" line="100" column="31" />
+        <mark key="]" line="106" column="8" />
         <mark key="." line="112" column="22" />
         <mark key="^" line="114" column="23" />
       </file>
@@ -209,12 +209,12 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547138328442">
-        <mark key="'" line="257" column="46" />
-        <mark key="[" line="269" column="13" />
-        <mark key="]" line="269" column="15" />
-        <mark key="." line="269" column="15" />
-        <mark key="^" line="269" column="15" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547139614939">
+        <mark key="'" line="271" column="30" />
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
+        <mark key="^" line="41" column="34" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
         <mark key="'" line="1" column="16" />
@@ -285,10 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="28" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="6" column="44" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="13" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
-      <jump line="257" column="8" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="93" column="18" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="299" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="92" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
@@ -385,13 +381,23 @@
       <jump line="236" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="257" column="46" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="142" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" />
+      <jump line="278" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="251" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="270" column="30" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="41" column="34" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aFN0b3JlLmxvYWRDdXJyZW50VXNlcigpLmNhdGNoKChlcnIpID0+IHsKICAgICAgICAgICAgICAgIGV4cGVjdChlcnIpLnRvQmVOdWxsKCk7CiAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgIH0pOwo=</text>
+      <register name="a" type="4">
+        <text>{
+            state: {},
+            search: '',
+            pathname: '/testpage/1/and/two',
+            key: '',
+            hash: '#hashtest',
+        }</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>createAppRouterStore()</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -942,16 +948,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>createAppRouterStore()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGVhckN1cnJlbnRVc2VyXD4=</text>
+        <text encoding="base64">XDxsb2NhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5nZXRDdXJyZW50VG9rZW4oKSkudG9CZSgnY2NfdG9rZW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoYXV0aFN0b3JlLmlzQXV0aGVudGljYXRlZCkudG9CZUZhbHN5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXJTdG9yZU1vY2sgPSBjcmVhdGVBcHBSb3V0ZXJTdG9yZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -979,13 +985,13 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5nZXRDdXJyZW50VG9rZW4oKSkudG9CZSgnY2NfdG9rZW4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU2VydmljZU1vY2suZ2V0Q3VycmVudFVzZXIpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsKICAgICAgICAgICAgICAgIGV4cGVjdCh0b0pTKGF1dGhTdG9yZS51c2VyKSkudG9FcXVhbChhcHBVc2VyMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRoU3RvcmUuc2lnbk91dCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgnc2hvdWxkIHByb3ZpZGUgYWJpbGl0eSB0byBzaWduIG91dCcsIChkb25lKSA9PiB7CgogICAgICAgICAgICAgICAgYXV0aFN0b3JlLnNpZ25PdXQoKTsKCiAgICAgICAgICAgICAgICBleHBlY3QoYXV0aFN0b3JlLmlzQXV0aGVudGljYXRlZCkudG9CZUZhbHN5KCk7CiAgICAgICAgICAgICAgICBleHBlY3QoYXV0aFN0b3JlLmdldEN1cnJlbnRUb2tlbigpKS50b0JlKCdjY190b2tlbicpOwogICAgICAgICAgICAgICAgYXV0aFN0b3JlLmxvYWRDdXJyZW50VXNlcigpLmNhdGNoKChlcnIpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyKS50b0JlTnVsbCgpOwogICAgICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbigodXNlcjogSUFwcFVzZXIpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoYXV0aFNlcnZpY2VNb2NrLmdldEN1cnJlbnRVc2VyKS5ub3QudG9IYXZlQmVlbkNhbGxlZCgpOwogICAgICAgICAgICAgICAgICAgIGV4cGVjdCh0b0pTKHVzZXIpKS50b0VxdWFsKGFwcFVzZXIpOwogICAgICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1002,27 +1008,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgnc2hvdWxkIGJlIGFibGUgdG8gcmVsb2FkIHVzZXInLCAoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyKS50b0JlTnVsbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU2VydmljZU1vY2suZ2V0Q3VycmVudFVzZXIpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsKICAgICAgICAgICAgICAgIGV4cGVjdCh0b0pTKGF1dGhTdG9yZS51c2VyKSkudG9FcXVhbChhcHBVc2VyMik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGVhckN1cnJlbnRVc2VyXD4=</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGVhckN1cnJlbnRVc2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvblw+</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJVGVzdFN0b3JlXD4=</entry>
         <entry encoding="base64">XDxBcHBOb3RpZmljYXRpb25TeXN0ZW1cPg==</entry>
         <entry encoding="base64">XDxzZXRTdWJtaXNzaW9uRGlhbG9nT3Blblw+</entry>
         <entry>cb</entry>
@@ -1042,6 +1047,7 @@
         <entry encoding="base64">XDxnZXRDdXJyZW50VXNlclw+</entry>
         <entry encoding="base64">XDx0b0pTXD4=</entry>
         <entry encoding="base64">XDxjbGVhckN1cnJlbnRVc2VyXD4=</entry>
+        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
