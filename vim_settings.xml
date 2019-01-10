@@ -152,10 +152,10 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/site-nav-link-menu/SiteNavLinkMenu.tsx" timestamp="1545658362058">
         <mark key="'" line="24" column="21" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547126102311">
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547129845939">
         <mark key="'" line="229" column="61" />
-        <mark key="[" line="362" column="0" />
-        <mark key="]" line="364" column="52" />
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="94" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" timestamp="1546435182613">
         <mark key="'" line="12" column="26" />
@@ -202,12 +202,12 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547128730363">
-        <mark key="'" line="124" column="0" />
-        <mark key="[" line="186" column="46" />
-        <mark key="]" line="186" column="53" />
-        <mark key="^" line="186" column="53" />
-        <mark key="." line="186" column="53" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547129977018">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="94" column="51" />
+        <mark key="]" line="94" column="51" />
+        <mark key="." line="94" column="51" />
+        <mark key="^" line="94" column="93" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
         <mark key="'" line="1" column="16" />
@@ -399,7 +399,7 @@
                 }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Falsy</text>
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -950,13 +950,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Falsy</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgnIHdpdGggYXV0aGVudGljYXRlZCB1c2VyJywgKCkgPT4gewoKICAgICAgICAgICAgY29uc3QgYXBwVXNlcjogSUFwcFVzZXIgPSB7CiAgICAgICAgICAgICAgICBpZDogMSwKICAgICAgICAgICAgICAgIGVtYWlsOiAnb2xvbEBtYWlsLmNvbScsCiAgICAgICAgICAgICAgICBmaXJzdE5hbWU6ICd0ZXN0Zmlyc3RuYW1lJywKICAgICAgICAgICAgICAgIGxhc3ROYW1lOiAndGVzdGxhc3RuYW1lJywKICAgICAgICAgICAgICAgIGJpbzogJ2RkZCcsCiAgICAgICAgICAgICAgICBwaWN0dXJlOiAnaHR0cDovL2ltYWdlLmNvbScsCiAgICAgICAgICAgICAgICByb2xlOiBbXSwKICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICAgICAgICAgICAgY29uc3QgY3VycmVudFVzZXJSZXNwOiBQcm9taXNlPElBcHBVc2VyPiA9IFByb21pc2UucmVzb2x2ZTxJQXBwVXNlcj4oYXBwVXNlcik7CgogICAgICAgICAgICAgICAgYXNNb2NrKGF1dGhTZXJ2aWNlTW9jay5nZXRDdXJyZW50VXNlcikubW9ja1JldHVyblZhbHVlKGN1cnJlbnRVc2VyUmVzcCk7CiAgICAgICAgICAgICAgICBhdXRoU3RvcmUuaW5pdEFwcFVzZXIoewogICAgICAgICAgICAgICAgICAgIGFjY2Vzc1Rva2VuOiAnYWNjZXNzX3Rva2VuJywKICAgICAgICAgICAgICAgICAgICByZWZyZXNoVG9rZW46ICdyZWZyZXNoX3Rva2VuJywKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIHRlc3QoJyBzaG91bGQgYmUgYXV0aGVudGljYXRlZCcsICgpID0+IHsKICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuaXNBdXRoZW50aWNhdGVkKS50b0JlVHJ1dGh5KCk7CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgdGVzdCgnc2hvdWxkIHJldHVybiBjdXJyZW50IHVzZXInICwoZG9uZSkgPT4gewogICAgICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS51c2VyKS50b0VxdWFsKGFwcFVzZXIpOwogICAgICAgICAgICAgICAgYXV0aFN0b3JlLmdldFVzZXIoKS50aGVuKCh1c2VyOiBJQXBwVXNlcikgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdCh1c2VyKS50b0JlKGFwcFVzZXIpOwogICAgICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBkZXRlY3QgdGhhdCB1c2VyIGlzIG5vdCBhZG1pbicsICgpID0+IHsKICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuaXNBZG1pbikudG9CZUZhbHN5KCk7CiAgICAgICAgICAgIH0pOwoKICAgICAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>&quot;https://d2ujqwp3hb8j8i.cloudfront.net:443/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGVzdCgnIHNob3VsZCBiZSBhdXRoZW50aWNhdGVkJywgKCkgPT4geyBleHBlY3QoYXV0aFN0b3JlLmlzQXV0aGVudGljYXRlZCkudG9CZVRydXRoeSgpOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCByZXR1cm4gY3VycmVudCB1c2VyJyAsKGRvbmUpID0+IHsKICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUudXNlcikudG9FcXVhbChhcHBVc2VyKTsKICAgICAgICAgICAgICAgIGF1dGhTdG9yZS5nZXRVc2VyKCkudGhlbigodXNlcjogSUFwcFVzZXIpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QodXNlcikudG9CZShhcHBVc2VyKTsKICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSk7Cgo=</text>
