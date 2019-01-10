@@ -202,12 +202,12 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547118292872">
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547119283028">
         <mark key="'" line="116" column="39" />
-        <mark key="[" line="69" column="8" />
-        <mark key="]" line="71" column="7" />
-        <mark key="." line="71" column="7" />
-        <mark key="^" line="71" column="7" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="82" column="7" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
         <mark key="'" line="1" column="16" />
@@ -391,8 +391,8 @@
       <register name="a" type="4">
         <text>'testtitle'</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>aiccAccessToken</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>isContactOpen</text>
@@ -952,7 +952,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuYWljY0FjY2Vzc1Rva2VuKS50b0JlKCdhaWNjX3Rva2VuJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuYWljY1BhcmFtcykudG9FcXVhbCh7CiAgICAgICAgICAgICAgICAgICAgTEVBUk5JTkdfQVBQX1RZUEU6IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgICAgICBXSU5ET1dfU1RZTEU6IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgICAgICBhaWNjX3NpZDogdW5kZWZpbmVkLAogICAgICAgICAgICAgICAgICAgIGFpY2NfdXJsOiB1bmRlZmluZWQKICAgICAgICAgICAgICAgIH0pOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -968,25 +968,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0KCdzaG91bGQgcmV0dXJuIGNsaWVudCBjcmVkZW50aWFscyB0b2tlbiBmb3Igbm90IGF1dGhlbnRpY2F0ZWQgdXNlcnMnLCAoKSA9PiB7CiAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuZ2V0Q3VycmVudFRva2VuKCkpLnRvQmUoJ2NjX3Rva2VuJyk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuYWljY1BhcmFtcykudG9FcXVhbCh7CiAgICAgICAgICAgICAgICAgICAgTEVBUk5JTkdfQVBQX1RZUEU6IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgICAgICBXSU5ET1dfU1RZTEU6IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgICAgICBhaWNjX3NpZDogdW5kZWZpbmVkLAogICAgICAgICAgICAgICAgICAgIGFpY2NfdXJsOiB1bmRlZmluZWQKICAgICAgICAgICAgICAgIH0pOwoK</text>
       </register>
       <register name="s" type="4">
         <text>jest.fn()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5haWNjUGFyYW1zKS50b0VxdWFsKHsKICAgICAgICAgICAgICAgIExFQVJOSU5HX0FQUF9UWVBFOiAnMScsCiAgICAgICAgICAgICAgICBXSU5ET1dfU1RZTEU6ICcyJywKICAgICAgICAgICAgICAgIGFpY2Nfc2lkOiAnMycsCiAgICAgICAgICAgICAgICBhaWNjX3VybDogJzQnLAogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyU3RvcmVNb2NrLnBhcnNlZFF1ZXJ5ID0gewogICAgICAgICAgICAgICAgTEVBUk5JTkdfQVBQX1RZUEU6ICcxJywKICAgICAgICAgICAgICAgIFdJTkRPV19TVFlMRTogJzInLAogICAgICAgICAgICAgICAgYWljY19zaWQ6ICczJywKICAgICAgICAgICAgICAgIGFpY2NfdXJsOiAnNCcsCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5haWNjUGFyYW1zKS50b0VxdWFsKHsKICAgICAgICAgICAgICAgIExFQVJOSU5HX0FQUF9UWVBFOiAnMScsCiAgICAgICAgICAgICAgICBXSU5ET1dfU1RZTEU6ICcyJywKICAgICAgICAgICAgICAgIGFpY2Nfc2lkOiAnMycsCiAgICAgICAgICAgICAgICBhaWNjX3VybDogJzQnLAogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1003,10 +1003,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgnaGFzIEFJQ0MgcGFyYW1zJywgKCkgPT4gewogICAgICAgICAgICAKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyU3RvcmVNb2NrLnBhcnNlZFF1ZXJ5ID0gewogICAgICAgICAgICAgICAgTEVBUk5JTkdfQVBQX1RZUEU6ICcxJywKICAgICAgICAgICAgICAgIFdJTkRPV19TVFlMRTogJzInLAogICAgICAgICAgICAgICAgYWljY19zaWQ6ICczJywKICAgICAgICAgICAgICAgIGFpY2NfdXJsOiAnNCcsCiAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyU3RvcmVNb2NrLnBhcnNlZFF1ZXJ5ID0ge307Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
