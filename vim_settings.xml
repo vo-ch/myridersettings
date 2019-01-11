@@ -217,12 +217,12 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547213054051">
-        <mark key="'" line="124" column="26" />
-        <mark key="[" line="125" column="39" />
-        <mark key="]" line="125" column="39" />
-        <mark key="." line="125" column="39" />
-        <mark key="^" line="125" column="39" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547213773080">
+        <mark key="'" line="124" column="24" />
+        <mark key="[" line="235" column="15" />
+        <mark key="]" line="236" column="11" />
+        <mark key="." line="236" column="11" />
+        <mark key="^" line="236" column="11" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
         <mark key="'" line="1" column="16" />
@@ -294,7 +294,6 @@
     </filemarks>
     <jumps>
       <jump line="127" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="124" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="198" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="200" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="387" column="38" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
@@ -392,14 +391,15 @@
       <jump line="149" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="75" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="123" column="26" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="124" column="24" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="285" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrUmVqZWN0ZWRWYWx1ZShuZXcgRXJyb3IoKSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXN0KCdzaG91bGQgc2hvdWxkIGJ1YmJsZSB1cCByZWplY3RlZCBlcnJvciB3aGljaCBhcHBlYXJzIHRyeWluZyB0byBnZXQgdXNlciBpbmZvJywgKGRvbmUpID0+IHsKICAgICAgICAgICAgY29uc3QgZXJyID0gbmV3IEVycm9yKCk7CiAgICAgICAgICAgIGNvbnN0IGN1cnJlbnRVc2VyUmVzcDogUHJvbWlzZTxJQXBwVXNlcj4gPSBQcm9taXNlLnJlamVjdDxJQXBwVXNlcj4oZXJyKTsKICAgICAgICAgICAgYXNNb2NrKGF1dGhTZXJ2aWNlTW9jay5nZXRDdXJyZW50VXNlcikubW9ja1JldHVyblZhbHVlKGN1cnJlbnRVc2VyUmVzcCk7CgogICAgICAgICAgICBhdXRoU3RvcmUuZ2V0VXNlcigpLmNhdGNoKChlcnJvcikgPT4gewogICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yKS50b0JlKGVycik7CiAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -956,7 +956,7 @@
         <text>getUse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0KCdzaG91bGQgdGhyb3cgZXJyb3IgaWYgZ290IG5vIHVzZXIgaW4gcmVzcG9uc2UnLCAoZG9uZSkgPT4gewogICAgICAgICAgICBjb25zdCBjdXJyZW50VXNlclJlc3A6IFByb21pc2U8SUFwcFVzZXI+ID0gUHJvbWlzZS5yZXNvbHZlPElBcHBVc2VyPihudWxsKTsKICAgICAgICAgICAgYXNNb2NrKGF1dGhTZXJ2aWNlTW9jay5nZXRDdXJyZW50VXNlcikubW9ja1JldHVyblZhbHVlKGN1cnJlbnRVc2VyUmVzcCk7CgogICAgICAgICAgICBhdXRoU3RvcmUuZ2V0VXNlcigpLmNhdGNoKCgpID0+IHsKICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0KCdzaG91bGQgc2hvdWxkIGJ1YmJsZSB1cCByZWplY3RlZCBlcnJvciB3aGljaCBhcHBlYXJzIHRyeWluZyB0byBnZXQgdXNlciBpbmZvJywgKGRvbmUpID0+IHsKICAgICAgICAgICAgY29uc3QgZXJyID0gbmV3IEVycm9yKCk7CiAgICAgICAgICAgIGNvbnN0IGN1cnJlbnRVc2VyUmVzcDogUHJvbWlzZTxJQXBwVXNlcj4gPSBQcm9taXNlLnJlamVjdDxJQXBwVXNlcj4oZXJyKTsKICAgICAgICAgICAgYXNNb2NrKGF1dGhTZXJ2aWNlTW9jay5nZXRDdXJyZW50VXNlcikubW9ja1JldHVyblZhbHVlKGN1cnJlbnRVc2VyUmVzcCk7CgogICAgICAgICAgICBhdXRoU3RvcmUuZ2V0VXNlcigpLmNhdGNoKChlcnJvcikgPT4gewogICAgICAgICAgICAgICAgZXhwZWN0KGVycm9yKS50b0JlKGVycik7CiAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuaXNBdXRoZW50aWNhdGVkKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuZ2V0Q3VycmVudFRva2VuKCkpLnRvQmUoJ2NjX3Rva2VuJyk7Cg==</text>
