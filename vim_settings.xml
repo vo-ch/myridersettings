@@ -164,8 +164,8 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/site-nav-link-menu/SiteNavLinkMenu.tsx" timestamp="1545658362058">
         <mark key="'" line="24" column="21" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547200261794">
-        <mark key="'" line="330" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547202760014">
+        <mark key="'" line="299" column="48" />
         <mark key="[" line="352" column="0" />
         <mark key="]" line="356" column="49" />
       </file>
@@ -214,12 +214,11 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547200478409">
-        <mark key="'" line="90" column="29" />
-        <mark key="[" line="222" column="58" />
-        <mark key="]" line="222" column="63" />
-        <mark key="." line="222" column="63" />
-        <mark key="^" line="222" column="63" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547202972945">
+        <mark key="'" line="209" column="30" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
         <mark key="'" line="1" column="16" />
@@ -290,11 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="28" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="148" column="18" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="66" column="32" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="20" column="13" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.ts" />
-      <jump line="91" column="34" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="122" column="119" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="83" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="104" column="13" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
@@ -331,7 +325,6 @@
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="187" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="138" column="18" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="285" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="126" column="17" filename="C:/projects/UI-Web/ClientApp/App.tsx" />
       <jump line="50" column="18" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/stores/UserProfileStore.ts" />
       <jump line="173" column="26" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
@@ -341,14 +334,12 @@
       <jump line="14" column="9" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="239" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="13" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" />
-      <jump line="229" column="64" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="100" column="17" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" />
       <jump line="60" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="176" column="13" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="237" column="14" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="81" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="292" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="224" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="242" column="14" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="226" column="14" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="260" column="53" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
@@ -390,13 +381,21 @@
       <jump line="352" column="37" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="89" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="90" column="29" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="357" column="30" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="113" column="22" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="224" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="194" column="27" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="229" column="63" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="299" column="48" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="204" column="30" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="285" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>requestAuthentication</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrUmVqZWN0ZWRWYWx1ZShuZXcgRXJyb3IoKSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>cc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -947,16 +946,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cc</text>
+        <text>new Error()</text>
       </register>
       <register name="/" type="4">
-        <text>getCurrentT</text>
+        <text encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0KCdzaG91bGQgcmV0dXJuIGNsaWVudCBjcmVkZW50aWFscyB0b2tlbiBmb3Igbm90IGF1dGhlbnRpY2F0ZWQgdXNlcnMnLCAoKSA9PiB7CiAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuZ2V0Q3VycmVudFRva2VuKCkpLnRvQmUoJ2NjX3Rva2VuJyk7CiAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>httpServiceMock.refreshAccessToken</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY2Nlc3NUb2tlbjogYXV0aFN0b3JlLmFjY2Vzc1Rva2VuLAogICAgICAgICAgICAgICAgICAgIHJlZnJlc2hUb2tlbjogYXV0aFN0b3JlLnJlZnJlc2hUb2tlbiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -972,28 +971,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhhdXRoU2VydmljZU1vY2suZ2V0Q3VycmVudFVzZXIpLm1vY2tSZWplY3RlZFZhbHVlKG5ldyBFcnJvcigpKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aFN0b3JlLnJlcXVlc3RBdXRoZW50aWNhdGlvbigpLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QodXNlcikudG9CZU51bGwoKTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5nZXRDdXJyZW50VG9rZW4oKSkudG9CZSgnY2NfdG9rZW4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXJTdG9yZU1vY2sgPSBjcmVhdGVBcHBSb3V0ZXJTdG9yZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrQ2xlYXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrUmVqZWN0ZWRWYWx1ZShuZXcgRXJyb3IoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRoU3RvcmUuc2lnbk91dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrUmVqZWN0ZWRWYWx1ZShuZXcgRXJyb3IoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1007,19 +1006,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgnc2hvdWxkIHByb3ZpZGUgYWJpbGl0eSB0byBzaWduIG91dCcsIChkb25lKSA9PiB7CgogICAgICAgICAgICAgICAgYXV0aFN0b3JlLnNpZ25PdXQoKTsKCiAgICAgICAgICAgICAgICBleHBlY3QoYXV0aFN0b3JlLmlzQXV0aGVudGljYXRlZCkudG9CZUZhbHN5KCk7CiAgICAgICAgICAgICAgICBleHBlY3QoYXV0aFN0b3JlLmdldEN1cnJlbnRUb2tlbigpKS50b0JlKCdjY190b2tlbicpOwogICAgICAgICAgICAgICAgYXV0aFN0b3JlLmxvYWRDdXJyZW50VXNlcigpLmNhdGNoKChlcnIpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoZXJyKS50b0JlTnVsbCgpOwogICAgICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoYXV0aFNlcnZpY2VNb2NrLmdldEN1cnJlbnRVc2VyKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>getCurrentT</last-search>
+      <last-search encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>getCurrentT</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1027,7 +1026,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ll</entry>
         <entry>mockedVariableScope</entry>
         <entry encoding="base64">XDxtb2NrUG9wZXJ0eVw+</entry>
         <entry encoding="base64">XDxtb2NrUHJvcGVydHlcPg==</entry>
@@ -1047,6 +1045,7 @@
         <entry encoding="base64">XDxyZXF1ZXN0QXV0aGVudGljYXRpb25cPg==</entry>
         <entry>getSt</entry>
         <entry>getCurrentT</entry>
+        <entry encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
@@ -1057,7 +1056,6 @@
         <entry>s%/\@createContext/@createErrorContext/g</entry>
         <entry>%s/\@createContext/@createErrorContext/g</entry>
         <entry>%s/@createContext/@createErrorContext/g</entry>
-        <entry>reg</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>%s/mockedVariableScope/mockProperty/g</entry>
@@ -1069,6 +1067,7 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
