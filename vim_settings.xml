@@ -167,8 +167,8 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/site-nav-link-menu/SiteNavLinkMenu.tsx" timestamp="1545658362058">
         <mark key="'" line="24" column="21" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547206543052">
-        <mark key="'" line="300" column="36" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547212699973">
+        <mark key="'" line="149" column="21" />
         <mark key="[" line="352" column="0" />
         <mark key="]" line="356" column="49" />
       </file>
@@ -207,7 +207,7 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547206473761">
+      <file name="/JavaScript Console" timestamp="1547212615639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" timestamp="1547136632753">
@@ -217,12 +217,12 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547206711253">
-        <mark key="'" line="167" column="27" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="164" column="84" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547213054051">
+        <mark key="'" line="124" column="26" />
+        <mark key="[" line="125" column="39" />
+        <mark key="]" line="125" column="39" />
+        <mark key="." line="125" column="39" />
+        <mark key="^" line="125" column="39" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
         <mark key="'" line="1" column="16" />
@@ -293,16 +293,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="23" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
-      <jump line="24" column="17" filename="C:/projects/UI-Web/ClientApp/utils/auth/RedirectsHandler.ts" />
-      <jump line="174" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="57" column="18" filename="C:/projects/UI-Web/ClientApp/utils/auth/createAuthWindow.ts" />
-      <jump line="2" column="21" filename="C:/projects/UI-Web/ClientApp/models/IAppUser.ts" />
-      <jump line="126" column="68" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="213" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es2015.promise.d.ts" />
-      <jump line="147" column="31" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="127" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="134" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="124" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="198" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="200" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
@@ -362,7 +353,6 @@
       <jump line="330" column="28" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="289" column="45" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="31" column="4" filename="C:/projects/UI-Web/ClientApp/services/auth/AuthWindowManager.ts" />
-      <jump line="38" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="294" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="293" column="43" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="24" column="8" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
@@ -380,7 +370,6 @@
       <jump line="229" column="63" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="299" column="48" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="204" column="30" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="285" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="303" column="23" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="251" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="366" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
@@ -393,13 +382,24 @@
       <jump line="222" column="34" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="300" column="36" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="167" column="27" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="164" column="53" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="112" column="18" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="77" column="34" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="38" column="36" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="134" column="20" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="78" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="148" column="18" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="149" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="75" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="123" column="26" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="285" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrUmVqZWN0ZWRWYWx1ZShuZXcgRXJyb3IoKSk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuaXNBdXRoZW50aWNhdGVkKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuZ2V0Q3VycmVudFRva2VuKCkpLnRvQmUoJ2NjX3Rva2VuJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -950,13 +950,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>appUser</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>nodejs</text>
+        <text>getUse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGN1cnJlbnRVc2VyUmVzcDogUHJvbWlzZTxJQXBwVXNlcj4gPSBQcm9taXNlLnJlc29sdmU8SUFwcFVzZXI+KGFwcFVzZXIpOwogICAgICAgICAgICAgICAgYXNNb2NrKGF1dGhTZXJ2aWNlTW9jay5nZXRDdXJyZW50VXNlcikubW9ja1JldHVyblZhbHVlKGN1cnJlbnRVc2VyUmVzcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0KCdzaG91bGQgdGhyb3cgZXJyb3IgaWYgZ290IG5vIHVzZXIgaW4gcmVzcG9uc2UnLCAoZG9uZSkgPT4gewogICAgICAgICAgICBjb25zdCBjdXJyZW50VXNlclJlc3A6IFByb21pc2U8SUFwcFVzZXI+ID0gUHJvbWlzZS5yZXNvbHZlPElBcHBVc2VyPihudWxsKTsKICAgICAgICAgICAgYXNNb2NrKGF1dGhTZXJ2aWNlTW9jay5nZXRDdXJyZW50VXNlcikubW9ja1JldHVyblZhbHVlKGN1cnJlbnRVc2VyUmVzcCk7CgogICAgICAgICAgICBhdXRoU3RvcmUuZ2V0VXNlcigpLmNhdGNoKCgpID0+IHsKICAgICAgICAgICAgICAgIGRvbmUoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuaXNBdXRoZW50aWNhdGVkKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuZ2V0Q3VycmVudFRva2VuKCkpLnRvQmUoJ2NjX3Rva2VuJyk7Cg==</text>
@@ -1020,9 +1020,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nodejs</last-search>
+      <last-search>getUse</last-search>
       <last-offset />
-      <last-pattern>nodejs</last-pattern>
+      <last-pattern>getUse</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1030,9 +1030,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2NrUHJvcGVydHlcPg==</entry>
-        <entry encoding="base64">XDxMb2NhdGlvblw+</entry>
-        <entry>test</entry>
         <entry encoding="base64">XDxSb3V0ZVw+</entry>
         <entry encoding="base64">XDxoaXN0b3J5XD4=</entry>
         <entry>;</entry>
@@ -1050,6 +1047,9 @@
         <entry encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</entry>
         <entry>signOu</entry>
         <entry>nodejs</entry>
+        <entry>hasAll</entry>
+        <entry encoding="base64">XDxMRUFSTklOR19BUFBfVFlQRVw+</entry>
+        <entry>getUse</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
