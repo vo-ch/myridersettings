@@ -20,7 +20,7 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="/fragment.js" timestamp="1547049573225">
+      <file name="/fragment.js" timestamp="1547206511077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -84,6 +84,9 @@
         <mark key="]" line="22" column="32" />
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" timestamp="1547206371094">
+        <mark key="'" line="124" column="28" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/final-quiz/stores/CourseBuilderFinalQuizStore.ts" timestamp="1545661915060">
         <mark key="'" line="43" column="4" />
@@ -164,8 +167,8 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/site-nav-link-menu/SiteNavLinkMenu.tsx" timestamp="1545658362058">
         <mark key="'" line="24" column="21" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547202760014">
-        <mark key="'" line="299" column="48" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" timestamp="1547206543052">
+        <mark key="'" line="300" column="36" />
         <mark key="[" line="352" column="0" />
         <mark key="]" line="356" column="49" />
       </file>
@@ -204,7 +207,7 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547049533351">
+      <file name="/JavaScript Console" timestamp="1547206473761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" timestamp="1547136632753">
@@ -214,11 +217,12 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547202972945">
-        <mark key="'" line="209" column="30" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" timestamp="1547206711253">
+        <mark key="'" line="167" column="27" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+        <mark key="^" line="164" column="84" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mobx.ts" timestamp="1546610896484">
         <mark key="'" line="1" column="16" />
@@ -289,17 +293,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="119" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="83" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="104" column="13" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="84" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="192" column="22" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="112" column="39" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="123" column="29" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="82" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="332" column="23" filename="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" />
       <jump line="24" column="17" filename="C:/projects/UI-Web/ClientApp/utils/auth/RedirectsHandler.ts" />
-      <jump line="183" column="19" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="174" column="16" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="57" column="18" filename="C:/projects/UI-Web/ClientApp/utils/auth/createAuthWindow.ts" />
       <jump line="2" column="21" filename="C:/projects/UI-Web/ClientApp/models/IAppUser.ts" />
@@ -349,9 +344,6 @@
       <jump line="257" column="46" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="142" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" />
       <jump line="278" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="41" column="34" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="303" column="25" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="251" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="311" column="20" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="22" column="30" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/TranscriptsService.ts" />
       <jump line="201" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/services/CourseDetailsService.ts" />
@@ -389,13 +381,25 @@
       <jump line="299" column="48" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="204" column="30" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="285" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="303" column="23" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="251" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="366" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="217" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="183" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="41" column="44" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="124" column="28" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
+      <jump line="216" column="53" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="223" column="48" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="222" column="34" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="300" column="36" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
+      <jump line="167" column="27" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrUmVqZWN0ZWRWYWx1ZShuZXcgRXJyb3IoKSk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuaXNBdXRoZW50aWNhdGVkKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuZ2V0Q3VycmVudFRva2VuKCkpLnRvQmUoJ2NjX3Rva2VuJyk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -946,16 +950,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>new Error()</text>
+        <text>appUser</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</text>
+        <text>nodejs</text>
       </register>
-      <register name="0" type="4">
-        <text>httpServiceMock.refreshAccessToken</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGN1cnJlbnRVc2VyUmVzcDogUHJvbWlzZTxJQXBwVXNlcj4gPSBQcm9taXNlLnJlc29sdmU8SUFwcFVzZXI+KGFwcFVzZXIpOwogICAgICAgICAgICAgICAgYXNNb2NrKGF1dGhTZXJ2aWNlTW9jay5nZXRDdXJyZW50VXNlcikubW9ja1JldHVyblZhbHVlKGN1cnJlbnRVc2VyUmVzcCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuaXNBdXRoZW50aWNhdGVkKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuZ2V0Q3VycmVudFRva2VuKCkpLnRvQmUoJ2NjX3Rva2VuJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -971,28 +975,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhhdXRoU2VydmljZU1vY2suZ2V0Q3VycmVudFVzZXIpLm1vY2tSZWplY3RlZFZhbHVlKG5ldyBFcnJvcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCB0aHJvdyBlcnJvciBpZiBnb3Qgbm8gdXNlciBpbiByZXNwb25zZScsIChkb25lKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgYXV0aFN0b3JlLmdldFVzZXIoKS5jYXRjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuaXNBdXRoZW50aWNhdGVkKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5nZXRDdXJyZW50VG9rZW4oKSkudG9CZSgnY2NfdG9rZW4nKTsKICAgICAgICAgICAgICAgICAgICAgICAgZG9uZSgpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QodXNlcikudG9CZU51bGwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5nZXRDdXJyZW50VG9rZW4oKSkudG9CZSgnY2NfdG9rZW4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRoU3RvcmUuc2V0VG9rZW5zKHsKICAgICAgICAgICAgICAgICAgICAgICAgYWNjZXNzVG9rZW46ICdhYWEnLAogICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoVG9rZW46IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrQ2xlYXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc01vY2soaHR0cFNlcnZpY2VNb2NrLnJlZnJlc2hBY2Nlc3NUb2tlbikubW9ja0NsZWFyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrUmVqZWN0ZWRWYWx1ZShuZXcgRXJyb3IoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzTW9jayhodHRwU2VydmljZU1vY2sucmVmcmVzaEFjY2Vzc1Rva2VuKS5tb2NrUmVqZWN0ZWRWYWx1ZShuZXcgRXJyb3IoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGh0dHBTZXJ2aWNlTW9jay5yZWZyZXNoQWNjZXNzVG9rZW4pLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1009,16 +1013,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleHBlY3QoYXV0aFNlcnZpY2VNb2NrLmdldEN1cnJlbnRVc2VyKS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRoU3RvcmUuc2V0VG9rZW5zKHsKICAgICAgICAgICAgICAgICAgICAgICAgYWNjZXNzVG9rZW46ICdhYWEnLAogICAgICAgICAgICAgICAgICAgICAgICByZWZyZXNoVG9rZW46IHVuZGVmaW5lZCwKICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</last-search>
+      <last-search>nodejs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</last-pattern>
+      <last-pattern>nodejs</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1026,8 +1030,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mockedVariableScope</entry>
-        <entry encoding="base64">XDxtb2NrUG9wZXJ0eVw+</entry>
         <entry encoding="base64">XDxtb2NrUHJvcGVydHlcPg==</entry>
         <entry encoding="base64">XDxMb2NhdGlvblw+</entry>
         <entry>test</entry>
@@ -1046,6 +1048,8 @@
         <entry>getSt</entry>
         <entry>getCurrentT</entry>
         <entry encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</entry>
+        <entry>signOu</entry>
+        <entry>nodejs</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
