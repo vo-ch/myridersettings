@@ -67,6 +67,10 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
+      <file name="/LoadingStatusStore.test.ts" timestamp="1547225882105">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="49" column="7" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" timestamp="1547221959090">
         <mark key="'" line="196" column="21" />
         <mark key="[" line="100" column="31" />
@@ -165,10 +169,10 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="44" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1547220668556">
+      <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1547223061416">
         <mark key="'" line="122" column="36" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="51" column="78" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="40" />
         <mark key="." line="142" column="0" />
         <mark key="^" line="129" column="88" />
       </file>
@@ -201,8 +205,8 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createApplicationStores.mock.ts" timestamp="1547221662803">
-        <mark key="'" line="42" column="30" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createApplicationStores.mock.ts" timestamp="1547223008941">
+        <mark key="'" line="44" column="39" />
         <mark key="[" line="28" column="13" />
         <mark key="]" line="28" column="39" />
         <mark key="." line="28" column="43" />
@@ -255,12 +259,12 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/extensions/careerPathsPage.ts" timestamp="1546599710945">
         <mark key="'" line="18" column="35" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" timestamp="1547222001544">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="6" />
-        <mark key="^" line="18" column="6" />
-        <mark key="." line="18" column="6" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" timestamp="1547226003226">
+        <mark key="'" line="49" column="48" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="86" column="62" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1546447066435">
         <mark key="'" line="125" column="16" />
@@ -289,14 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="40" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="257" column="46" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="142" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" />
-      <jump line="278" column="33" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="311" column="20" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="22" column="30" filename="C:/projects/UI-Web/ClientApp/services/http/lrs/TranscriptsService.ts" />
-      <jump line="201" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/services/CourseDetailsService.ts" />
-      <jump line="270" column="28" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="154" column="22" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="317" column="38" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="34" column="11" filename="C:/projects/UI-Web/ClientApp/utils/user/AvatarHelper.ts" />
@@ -374,8 +370,6 @@
       <jump line="13" column="40" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createApplicationStores.mock.ts" />
       <jump line="41" column="30" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createApplicationStores.mock.ts" />
       <jump line="6" column="42" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
-      <jump line="11" column="43" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
-      <jump line="0" column="7" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
       <jump line="146" column="59" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="173" column="26" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="184" column="26" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
@@ -389,13 +383,23 @@
       <jump line="196" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AppRouterStore.test.ts" />
       <jump line="215" column="20" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="13" column="9" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
+      <jump line="11" column="40" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
+      <jump line="44" column="39" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createApplicationStores.mock.ts" />
+      <jump line="94" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createCategoryStore.ts" />
+      <jump line="30" column="32" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
+      <jump line="48" column="39" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
+      <jump line="44" column="44" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
+      <jump line="60" column="10" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
+      <jump line="47" column="48" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
+      <jump line="18" column="18" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>createApplicationStoresMock()</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkdmFuY2VUbyhuZXcgRGF0ZSgyMDE4LCA1LCAyNywgMCwgMCwgMCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -946,16 +950,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>Falsy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZHZhbmNlVG9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkdmFuY2VUbyhuZXcgRGF0ZSgyMDE4LCA1LCAyNywgMCwgMCwgMCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChsb2FkaW5nU3RhdHVzU3RvcmUuaXNHbG9iYWxMb2FkaW5nKS50b0JlRmFsc3koKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>createApplicationStoresMock()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -971,28 +975,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlTG9hZGluZ1N0YXR1c1N0b3JlTW9jayB9IGZyb20gJ0NsaWVudEFwcC9zdG9yZXMvX19tb2Nrc19fL2NyZWF0ZUxvYWRpbmdTdGF0dXNTdG9yZS5tb2NrJzsK</text>
+        <text encoding="base64">ICAgIHRlc3QoJ3Nob3VsZCB1c2UgZGF0ZSBmaWVsZCBmb3IgY2xlYXJpbmcgbW9ieCBjYWNoZScsICgpID0+IHsKICAgIH0pOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwcFN0b3Jlcy5jb25maWd1cmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBhcHBTdG9yZXNNb2NrLnRlc3RMb2FkaW5nU3RvcmUuaXNHbG9iYWxMb2FkaW5nID0gdHJ1ZTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5nZXRDdXJyZW50VG9rZW4oKSkudG9CZSgnY2NfdG9rZW4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQXV0aFN0b3JlIH0gZnJvbSAnLi9jcmVhdGVBdXRoU3RvcmUubW9jayc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZWFjdGl2ZSBmdW5jdGlvbiB1c2VkIGluIG9yZGVyIHRvIGNvdmVyIGNhY2hpbmcgZnVuY3Rpb25hbGl0eSBvZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEZlZWRiYWNrU3RvcmUgZnJvbSAnLi4vRmVlZGJhY2tTdG9yZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkaW5nU3RhdHVzU3RvcmUuY2xlYXJDYWNoZSgpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgnc2hvdWxkIGNhdGNoIGVycm9ycyB3aGlsZSByZWxvYWQgdXNlcicsIChkb25lKSA9PiB7CiAgICAgICAgICAgICAgICBjb25zdCBjdXJyZW50VXNlclJlc3A6IFByb21pc2U8SUFwcFVzZXI+ID0gUHJvbWlzZS5yZWplY3QoJ3Rlc3QnKTsKICAgICAgICAgICAgICAgIGFzTW9jayhhdXRoU2VydmljZU1vY2suZ2V0Q3VycmVudFVzZXIpLm1vY2tSZXR1cm5WYWx1ZShjdXJyZW50VXNlclJlc3ApOwoKICAgICAgICAgICAgICAgIGF1dGhTdG9yZS5yZWxvYWRDdXJyZW50VXNlcigpOwogICAgICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0dsb2JhbExvYWRpbmcpLnRvQmVUcnV0aHkoKTsKCiAgICAgICAgICAgICAgICBjdXJyZW50VXNlclJlc3AudGhlbigoKSA9PiB7fSwgKCkgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChhdXRoU3RvcmUuaXNHbG9iYWxMb2FkaW5nKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9LCAyMDAwKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1006,10 +1010,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9uZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRVc2VyUmVzcC50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICBkb25lKCk7CiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
