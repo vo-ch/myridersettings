@@ -248,8 +248,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="31" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1547486664138">
-        <mark key="'" line="21" column="71" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1547487642260">
+        <mark key="'" line="5" column="44" />
         <mark key="[" line="40" column="28" />
         <mark key="]" line="40" column="28" />
         <mark key="^" line="40" column="28" />
@@ -285,12 +285,11 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/extensions/careerPathsPage.ts" timestamp="1546599710945">
         <mark key="'" line="18" column="35" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" timestamp="1547486779437">
-        <mark key="'" line="47" column="70" />
-        <mark key="[" line="47" column="59" />
-        <mark key="]" line="47" column="63" />
-        <mark key="." line="47" column="63" />
-        <mark key="^" line="47" column="63" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" timestamp="1547488481230">
+        <mark key="[" line="54" column="80" />
+        <mark key="]" line="54" column="81" />
+        <mark key="." line="54" column="81" />
+        <mark key="^" line="54" column="81" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" timestamp="1547483671015">
         <mark key="'" line="49" column="48" />
@@ -326,9 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="217" column="35" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="183" column="12" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="41" column="44" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="124" column="28" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
       <jump line="216" column="53" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
@@ -426,13 +422,16 @@
       <jump line="4282" column="56" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
       <jump line="5003" column="28" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
       <jump line="47" column="70" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
+      <jump line="5" column="44" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
+      <jump line="48" column="43" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
+      <jump line="12" column="16" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>new Date(2018, 5, 27, 0, 0, 0)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CustomEvent</text>
+        <text>480p</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -983,16 +982,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CustomEvent</text>
+        <text>480p</text>
       </register>
       <register name="/" type="4">
         <text>loadeve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZHZhbmNlVG8oc3RhcnREYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBkZXNjcmliZSgnZmFzdCcsICgpID0+IHsKICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICBhZHZhbmNlVG8oZW5kRGF0ZUxvbmcpOwogICAgICAgICAgICAgICAgaW1hZ2VJbnN0YW5jZU1vY2sub25sb2FkKGRvY3VtZW50LmNyZWF0ZUV2ZW50KCdFdmVudCcpKTsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICB0ZXN0KCdzaG91bGQgY2FsY3VsYXRlIGJhZCBxdWFsaXR5JywgKCkgPT4gewogICAgICAgICAgICAgICAgZXhwZWN0KG5ldHdvcmtTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5KS50b0JlKDxWaWRlb1F1YWxpdHk+JzQ4MHAnKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>new Date(2018, 5, 27, 0, 0, 0)</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1008,28 +1007,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKCgpID0+IHsKICAgICAgICAgICAgYWR2YW5jZVRvKGVuZERhdGVMb25nKTsKICAgICAgICAgICAgaW1hZ2VJbnN0YW5jZU1vY2sub25sb2FkKGRvY3VtZW50LmNyZWF0ZUV2ZW50KCdFdmVudCcpKTsKICAgICAgICB9KTsKCiAgICAgICAgdGVzdCgnc2hvdWxkIGNhbGN1bGF0ZSBiYWQgcXVhbGl0eScsICgpID0+IHsKICAgICAgICAgICAgZXhwZWN0KG5ldHdvcmtTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5KS50b0JlKDxWaWRlb1F1YWxpdHk+JzQ4MHAnKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICB0ZXN0KCdpdCBzaG91bGQgc3RhcnQgbWVhc3VyaW5nIG5ldHdvcmsgc3BlZWQgYWZ0ZXIgY3JlYXRpb24nLCAoKSA9PiB7CiAgICAgICAgZXhwZWN0KGltYWdlTW9jaykudG9IYXZlQmVlbkNhbGxlZCgpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5nZXRDdXJyZW50VG9rZW4oKSkudG9CZSgnY2NfdG9rZW4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KG5ldHdvcmtTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5KS50b0JlKDxWaWRlb1F1YWxpdHk+JzQ4MHAnKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+      <register name="5" type="4">
+        <text>new Date(2018, 5, 27, 0, 0, 0)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBpbWFnZUluc3RhbmNlTW9jayA9IHt9Owo=</text>
+        <text encoding="base64">CiAgICB0ZXN0KCdpdCBzaG91bGQgc3RhcnQgbWVhc3VyaW5nIG5ldHdvcmsgc3BlZWQgYWZ0ZXIgY3JlYXRpb24nLCAoKSA9PiB7CiAgICAgICAgZXhwZWN0KGltYWdlTW9jaykudG9IYXZlQmVlbkNhbGxlZCgpOwogICAgfSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1043,10 +1042,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25sb2FkOiAoKSA9PiB7fSwKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBvID0gbmV3IEltYWdlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
