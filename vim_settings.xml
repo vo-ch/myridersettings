@@ -26,6 +26,9 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1547478560347">
+        <mark key="'" line="15042" column="20" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" timestamp="1546617717414">
         <mark key="'" line="32" column="5" />
         <mark key="[" line="53" column="33" />
@@ -90,6 +93,13 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/final-quiz/stores/CourseBuilderFinalQuizStore.ts" timestamp="1545661915060">
         <mark key="'" line="43" column="4" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" timestamp="1547479053894">
+        <mark key="'" line="50" column="14" />
+        <mark key="[" line="44" column="10" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="15" />
       </file>
       <file name="C:/projects/UI-Web/package.json" timestamp="1547132851335">
         <mark key="'" line="60" column="4" />
@@ -234,6 +244,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="31" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" timestamp="1547479466728">
+        <mark key="'" line="36" column="35" />
+      </file>
       <file name="/Dummy.txt" timestamp="1547477614395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -263,6 +276,13 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/extensions/careerPathsPage.ts" timestamp="1546599710945">
         <mark key="'" line="18" column="35" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" timestamp="1547479845806">
+        <mark key="'" line="10" column="47" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="25" column="63" />
+        <mark key="." line="25" column="63" />
+        <mark key="^" line="25" column="63" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" timestamp="1547459534696">
         <mark key="'" line="49" column="48" />
@@ -298,17 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="22" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="317" column="38" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="34" column="11" filename="C:/projects/UI-Web/ClientApp/utils/user/AvatarHelper.ts" />
-      <jump line="293" column="21" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="71" column="20" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="269" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="316" column="11" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="72" column="11" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="287" column="26" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="288" column="31" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="330" column="28" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="289" column="45" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="31" column="4" filename="C:/projects/UI-Web/ClientApp/services/auth/AuthWindowManager.ts" />
@@ -398,13 +407,24 @@
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
       <jump line="47" column="48" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
       <jump line="18" column="18" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.ts" />
+      <jump line="11" column="34" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
+      <jump line="13" column="57" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
+      <jump line="15042" column="20" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
+      <jump line="13479" column="10" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
+      <jump line="15" column="32" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
+      <jump line="41" column="14" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
+      <jump line="7" column="27" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
+      <jump line="36" column="35" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
+      <jump line="14899" column="21" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
+      <jump line="14" column="47" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
+      <jump line="9" column="21" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>createApplicationStoresMock()</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -955,16 +975,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Falsy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhZHZhbmNlVG9cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChsb2FkaW5nU3RhdHVzU3RvcmUuaXNHbG9iYWxMb2FkaW5nKS50b0JlRmFsc3koKTsK</text>
+      <register name="0" type="4">
+        <text>imageInstanceMock</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBpbWFnZUluc3RhbmNlTW9jayA9IHt9Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -980,28 +1000,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3QoJ3Nob3VsZCB1c2UgZGF0ZSBmaWVsZCBmb3IgY2xlYXJpbmcgbW9ieCBjYWNoZScsICgpID0+IHsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25sb2FkOiAoKSA9PiB7fSwKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBTdG9yZXNNb2NrLnRlc3RMb2FkaW5nU3RvcmUuaXNHbG9iYWxMb2FkaW5nID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGxldCBvID0gbmV3IEltYWdlKCk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5nZXRDdXJyZW50VG9rZW4oKSkudG9CZSgnY2NfdG9rZW4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZWFjdGl2ZSBmdW5jdGlvbiB1c2VkIGluIG9yZGVyIHRvIGNvdmVyIGNhY2hpbmcgZnVuY3Rpb25hbGl0eSBvZgo=</text>
+        <text encoding="base64">ICogQHBhcmFtIG9iaiB0YXJnZXQgb2JqZWN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkaW5nU3RhdHVzU3RvcmUuY2xlYXJDYWNoZSgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG9yaWdpbmFsID0gd2luZG93W2dsb2JhbE5hbWVdOwogICAgd2luZG93W2dsb2JhbE5hbWVdID0gbW9ja0ZuOwoKICAgIHJldHVybiAoKSA9PiB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwuKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9LCAyMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1015,13 +1035,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">ICAgIHRlc3QoJ3Nob3VsZCB1c2UgZGF0ZSBmaWVsZCBmb3IgY2xlYXJpbmcgbW9ieCBjYWNoZScsICgpID0+IHsKICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICBhcHBTdG9yZXNNb2NrLnRlc3RMb2FkaW5nU3RvcmUuaXNHbG9iYWxMb2FkaW5nID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -1070,13 +1090,13 @@
         <entry>%s/mockedVariableScope/mockProperty/g</entry>
         <entry>%s/test/param</entry>
         <entry>s/test/param/g</entry>
-        <entry>action RenameElement</entry>
         <entry>nohl</entry>
         <entry>s/&quot;//g</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>reg</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
