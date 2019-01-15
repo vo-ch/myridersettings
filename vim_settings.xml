@@ -187,6 +187,11 @@
         <mark key="." line="142" column="0" />
         <mark key="^" line="129" column="88" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" timestamp="1547567893399">
+        <mark key="'" line="23" column="35" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="46" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createGlobalNavigationStore.mock.ts" timestamp="1546512243713">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -284,6 +289,13 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.ts" timestamp="1547218951418">
         <mark key="'" line="33" column="46" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" timestamp="1547567911537">
+        <mark key="'" line="7" column="54" />
+        <mark key="[" line="7" column="57" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" timestamp="1545847382906">
         <mark key="'" line="20" column="54" />
       </file>
@@ -328,14 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="336" column="47" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="36" column="16" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
-      <jump line="286" column="40" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="12" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" />
-      <jump line="332" column="36" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
-      <jump line="242" column="22" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="229" column="66" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
-      <jump line="285" column="4" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.ts" />
       <jump line="228" column="46" filename="C:/projects/UI-Web/ClientApp/stores/AuthStore.test.ts" />
       <jump line="33" column="46" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.ts" />
       <jump line="5" column="94" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createApplicationStores.mock.ts" />
@@ -428,13 +432,21 @@
       <jump line="23" column="51" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
       <jump line="17" column="8" filename="C:/projects/UI-Web/node_modules/bowser/typings.d.ts" />
       <jump line="53" column="38" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
+      <jump line="75" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="47" column="29" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="102" column="35" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="179" column="8" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="118" column="31" filename="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" />
+      <jump line="6" column="54" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
+      <jump line="23" column="35" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="192" column="10" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>un</text>
       </register>
       <register name="&quot;" type="4">
-        <text>md</text>
+        <text>CourseCardsImageQueueStore</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -990,8 +1002,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxib3dzZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmliZSgnIHdoZW4gTUQgYnJlYWtwb2ludCBpcyBzZXQnLCAoKSA9PiB7CiAgICAgICAgICAgIGJlZm9yZUVhY2goKCkgPT4gewogICAgICAgICAgICAgICAgc2NyZWVuU2l6ZVN0b3JlLnNldEJyZWFrcG9pbnQoJ21kJyk7CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgdGVzdCgnc2hvdWxkIGlkZW50aWZ5IHNjcmVlbiBzaXplIGFzIG1kJywgKCkgPT4gewogICAgICAgICAgICAgICAgZXhwZWN0KHNjcmVlblNpemVTdG9yZS5NRCkudG9CZVRydXRoeSgpOwogICAgICAgICAgICB9KTsKICAgICAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>CourseCardsImageQueueStore</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZXNjcmliZQo=</text>
