@@ -301,12 +301,11 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/extensions/careerPathsPage.ts" timestamp="1546599710945">
         <mark key="'" line="18" column="35" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" timestamp="1547539050827">
-        <mark key="'" line="49" column="29" />
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
-        <mark key="^" line="17" column="57" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" timestamp="1547540429495">
+        <mark key="[" line="77" column="65" />
+        <mark key="]" line="78" column="30" />
+        <mark key="^" line="78" column="30" />
+        <mark key="." line="78" column="30" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" timestamp="1547483671015">
         <mark key="'" line="49" column="48" />
@@ -448,7 +447,7 @@
         <text>new Date(2018, 5, 27, 0, 0, 0)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, 500</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5pc0F1dGhlbnRpY2F0ZWQpLnRvQmVGYWxzeSgpOwo=</text>
@@ -999,13 +998,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 500</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>loadeve</text>
       </register>
-      <register name="0" type="4">
-        <text>1093957</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKCgpID0+IHsKICAgICAgICAgICAgCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1024,7 +1023,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKCgpID0+IHsKICAgICAgICAgICAgYWR2YW5jZVRvKGVuZERhdGVMb25nKTsKICAgICAgICAgICAgaW1hZ2VJbnN0YW5jZU1vY2sub25sb2FkKGRvY3VtZW50LmNyZWF0ZUV2ZW50KCdFdmVudCcpKTsKICAgICAgICB9KTsKCiAgICAgICAgdGVzdCgnc2hvdWxkIGNhbGN1bGF0ZSBiYWQgcXVhbGl0eScsICgpID0+IHsKICAgICAgICAgICAgZXhwZWN0KG5ldHdvcmtTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5KS50b0JlKDxWaWRlb1F1YWxpdHk+JzQ4MHAnKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnU3RvcmUuaGFzU3RyZWFtaW5nU3VwcG9ydCA9IGZhbHNlOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
@@ -1036,16 +1035,16 @@
         <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KGF1dGhTdG9yZS5nZXRDdXJyZW50VG9rZW4oKSkudG9CZSgnY2NfdG9rZW4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0KG5ldHdvcmtTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5KS50b0JlKDxWaWRlb1F1YWxpdHk+JzQ4MHAnKTsK</text>
-      </register>
-      <register name="5" type="4">
-        <text>new Date(2018, 5, 27, 0, 0, 0)</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWdTdG9yZS5oYXNTdHJlYW1pbmdTdXBwb3J0ID0gZmFsc2U7CgogICAgICAgIG5ldHdvcmtTdG9yZSA9IG5ldyBOZXR3b3JrU3BlZWRTdG9yZSh7CiAgICAgICAgICAgIGNvbmZpZ3VyYXRpb246IGNvbmZpZ1N0b3JlLAogICAgICAgIH0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRlc3QoJ2l0IHNob3VsZCBzdGFydCBtZWFzdXJpbmcgbmV0d29yayBzcGVlZCBhZnRlciBjcmVhdGlvbicsICgpID0+IHsKICAgICAgICBleHBlY3QoaW1hZ2VDb25zdHJ1Y3Rvck1vY2spLnRvSGF2ZUJlZW5DYWxsZWQoKTsKICAgICAgICBleHBlY3QoaW1hZ2VJbnN0YW5jZU1vY2suc3JjKS50b0JlKCd0ZXN0aW1nLnVybD9jYj0xNTMwMDQ2ODAwMDAwJyk7CiAgICB9KTsKCiAgICBkZXNjcmliZSgnd2hlbiBpbWFnZSBpcyBsb2FkZWQnLCAoKSA9PiB7CgogICAgICAgIGRlc2NyaWJlKCdmYXN0JywgKCkgPT4gewogICAgICAgICAgICBiZWZvcmVFYWNoKCgpID0+IHsKICAgICAgICAgICAgICAgIGFkdmFuY2VUbyhlbmREYXRlRmFzdCk7CiAgICAgICAgICAgICAgICBpbWFnZUluc3RhbmNlTW9jay5vbmxvYWQoZG9jdW1lbnQuY3JlYXRlRXZlbnQoJ0V2ZW50JykpOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBjYWxjdWxhdGUgaGlnaCBxdWFsaXR5JywgKCkgPT4gewogICAgICAgICAgICAgICAgZXhwZWN0KG5ldHdvcmtTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5KS50b0JlKDxWaWRlb1F1YWxpdHk+J0hEJyk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0pOwoKICAgICAgICBkZXNjcmliZSgnc2xvdycsICgpID0+IHsKICAgICAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgICAgICAgICBhZHZhbmNlVG8oZW5kRGF0ZVNsb3cpOwogICAgICAgICAgICAgICAgaW1hZ2VJbnN0YW5jZU1vY2sub25sb2FkKGRvY3VtZW50LmNyZWF0ZUV2ZW50KCdFdmVudCcpKTsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICB0ZXN0KCdzaG91bGQgY2FsY3VsYXRlIGxvdyBxdWFsaXR5JywgKCkgPT4gewogICAgICAgICAgICAgICAgZXhwZWN0KG5ldHdvcmtTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5KS50b0JlKDxWaWRlb1F1YWxpdHk+JzQ4MHAnKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7CgoKICAgIH0pOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB0ZXN0KCdpdCBzaG91bGQgc3RhcnQgbWVhc3VyaW5nIG5ldHdvcmsgc3BlZWQgYWZ0ZXIgY3JlYXRpb24nLCAoKSA9PiB7CiAgICAgICAgZXhwZWN0KGltYWdlTW9jaykudG9IYXZlQmVlbkNhbGxlZCgpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1062,7 +1061,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKCgpID0+IHsKICAgICAgICAgICAgYWR2YW5jZVRvKGVuZERhdGVMb25nKTsKICAgICAgICAgICAgaW1hZ2VJbnN0YW5jZU1vY2sub25sb2FkKGRvY3VtZW50LmNyZWF0ZUV2ZW50KCdFdmVudCcpKTsKICAgICAgICB9KTsKCiAgICAgICAgdGVzdCgnc2hvdWxkIGNhbGN1bGF0ZSBiYWQgcXVhbGl0eScsICgpID0+IHsKICAgICAgICAgICAgZXhwZWN0KG5ldHdvcmtTdG9yZS5wcmVmZXJhYmxlVmlkZW9RdWFsaXR5KS50b0JlKDxWaWRlb1F1YWxpdHk+JzQ4MHAnKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
