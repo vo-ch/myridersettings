@@ -284,12 +284,11 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.ts" timestamp="1547218951418">
         <mark key="'" line="33" column="46" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" timestamp="1547574239277">
-        <mark key="'" line="40" column="52" />
-        <mark key="[" line="51" column="14" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" timestamp="1547580226250">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" timestamp="1545847382906">
         <mark key="'" line="20" column="54" />
@@ -429,12 +428,12 @@
       <jump line="42" column="28" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
       <jump line="10441" column="8" filename="C:/projects/UI-Web/node_modules/@types/lodash/index.d.ts" />
       <jump line="153" column="16" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
-      <jump line="40" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="75" column="4" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="117" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="34" column="18" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
       <jump line="37" column="22" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
       <jump line="39" column="52" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
+      <jump line="40" column="13" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -997,8 +996,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxib3dzZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVib3VuY2UgfSBmcm9tICdsb2Rhc2gnOwo=</text>
+      <register name="0" type="4">
+        <text>lastDebouncedFn</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1023,7 +1022,7 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamVzdC5ydW5BbGxUaW1lcnMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
@@ -1032,13 +1031,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">amVzdC5tb2NrKCkK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbGFzdERlYm91bmNlZEZuOiAoKSA9PiB2b2lkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamVzdC5ydW5BbGxUaW1lcnMoKTsKICAgICAgICAgICAgamVzdC5ydW5BbGxUaW1lcnMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNNb2NrKGRlYm91bmNlKS5tb2NrSW1wbGVtZW50YXRpb24oKGZuKSA9PiB7CiAgICAgICAgICAgICAgICBsYXN0RGVib3VuY2VkRm4gPSBmbjsKICAgICAgICAgICAgICAgIHJldHVybiAoKCkgPT4ge30pOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VRdWV1ZVN0b3JlLnJlZnJlc2hEZWJvdW5jZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNNb2NrKGRlYm91bmNlKS5tb2NrSW1wbGVtZW50YXRpb24oKGZuKSA9PiB7CiAgICAgICAgICAgICAgICBsYXN0RGVib3VuY2VkRm4gPSBmbjsKICAgICAgICAgICAgICAgIHJldHVybiAoKCkgPT4ge30pOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1052,12 +1051,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRlc3QoJycsICgpID0+IHsKCiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
