@@ -294,12 +294,12 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.ts" timestamp="1547218951418">
         <mark key="'" line="33" column="46" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" timestamp="1547637659614">
-        <mark key="'" line="161" column="55" />
-        <mark key="[" line="159" column="26" />
-        <mark key="]" line="159" column="52" />
-        <mark key="." line="159" column="52" />
-        <mark key="^" line="159" column="52" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" timestamp="1547638957991">
+        <mark key="'" line="182" column="55" />
+        <mark key="[" line="157" column="63" />
+        <mark key="]" line="157" column="63" />
+        <mark key="." line="157" column="68" />
+        <mark key="^" line="156" column="74" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" timestamp="1545847382906">
         <mark key="'" line="20" column="54" />
@@ -451,7 +451,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1swXS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzFdLmlzTG9hZGluZykudG9CZUZhbHN5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbMl0uaXNMb2FkaW5nKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>first queue item should change its state</text>
+        <text>toBeFalsy</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1002,16 +1002,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>first queue item should change its state</text>
+        <text>toBeFalsy</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QoJ2ZpcnN0IHF1ZXVlIGl0ZW0gc2hvdWxkIGNoYW5nZSBpdHMgc3RhdGUnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1swXS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbMV0uaXNMb2FkaW5nKS50b0JlVHJ1dGh5KCk7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5pc0xvYWRpbmcpLnRvQmVUcnV0aHkoKTsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzNdLmlzTG9hZGluZykudG9CZUZhbHN5KCk7CiAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1s0XS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbM10uaXNMb2FkaW5nKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbNF0uaXNMb2FkaW5nKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5wcmV2KS50b0JlKGltYWdlUXVldWVJdGVtc1swXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1033,22 +1033,22 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5wcmV2KS50b0JlKGltYWdlUXVldWVJdGVtc1swXSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0KCdmaXJzdCBiYXRjaCBpdGVtcyBzaG91bGQgYmUgaW4gcmVhZHkgc3RhdGUnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbMF0uaXNSZWFkeSkudG9CZVRydXRoeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzFdLmlzUmVhZHkpLnRvQmVUcnV0aHkoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5pc1JlYWR5KS50b0JlVHJ1dGh5KCk7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1sxXS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzJdLmlzTG9hZGluZykudG9CZUZhbHN5KCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0KCdmaXJzdCBiYXRjaCBpdGVtcyBzaG91bGQgYmUgaW4gcmVhZHkgc3RhdGUnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbMF0uaXNSZWFkeSkudG9CZVRydXRoeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzFdLmlzUmVhZHkpLnRvQmVUcnV0aHkoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5pc1JlYWR5KS50b0JlVHJ1dGh5KCk7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1sxXS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzJdLmlzTG9hZGluZykudG9CZUZhbHN5KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1065,7 +1065,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
