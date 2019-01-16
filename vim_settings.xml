@@ -20,6 +20,9 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
+      <file name="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" timestamp="1547626638285">
+        <mark key="'" line="69" column="19" />
+      </file>
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1547486652844">
         <mark key="'" line="5003" column="28" />
       </file>
@@ -37,6 +40,9 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/services/CourseDetailsService.ts" timestamp="1547197492917">
         <mark key="'" line="201" column="36" />
+      </file>
+      <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1547626650187">
+        <mark key="'" line="204" column="12" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/CourseCatalogPageEnterprise.tsx" timestamp="1545667761292">
         <mark key="'" line="51" column="33" />
@@ -335,9 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="39" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createApplicationStores.mock.ts" />
-      <jump line="94" column="13" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createCategoryStore.ts" />
-      <jump line="30" column="32" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
       <jump line="48" column="39" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
       <jump line="44" column="44" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
       <jump line="60" column="10" filename="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" />
@@ -435,6 +438,9 @@
       <jump line="27" column="24" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
       <jump line="32" column="24" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
       <jump line="69" column="41" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
+      <jump line="0" column="9" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
+      <jump line="69" column="19" filename="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" />
+      <jump line="204" column="12" filename="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -995,7 +1001,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib3dzZXJcPg==</text>
+        <text>fetch</text>
       </register>
       <register name="0" type="4">
         <text>, jest.fn()</text>
@@ -1062,9 +1068,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib3dzZXJcPg==</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib3dzZXJcPg==</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1072,7 +1078,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGVhckN1cnJlbnRVc2VyXD4=</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0QXV0aGVudGljYXRpb25cPg==</entry>
         <entry>getSt</entry>
@@ -1092,6 +1097,7 @@
         <entry>testIma</entry>
         <entry>loadeve</entry>
         <entry encoding="base64">XDxib3dzZXJcPg==</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
