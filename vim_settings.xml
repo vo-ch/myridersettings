@@ -176,13 +176,13 @@
         <mark key="[" line="81" column="16" />
         <mark key="]" line="81" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547654753393">
-        <mark key="'" line="41" column="38" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547656583619">
+        <mark key="'" line="61" column="28" />
         <mark key="i" line="35" column="33" />
-        <mark key="[" line="7" column="58" />
-        <mark key="]" line="7" column="58" />
-        <mark key="." line="7" column="58" />
-        <mark key="^" line="7" column="58" />
+        <mark key="[" line="109" column="39" />
+        <mark key="]" line="109" column="45" />
+        <mark key="." line="109" column="45" />
+        <mark key="^" line="109" column="45" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1547223061416">
         <mark key="'" line="122" column="36" />
@@ -353,11 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="44" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
-      <jump line="48" column="43" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
-      <jump line="12" column="16" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
-      <jump line="49" column="29" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
-      <jump line="17" column="10" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
       <jump line="64" column="41" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
       <jump line="104" column="13" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="6" column="53" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
@@ -453,13 +448,18 @@
       <jump line="31" column="38" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
       <jump line="72" column="44" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="80" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
+      <jump line="53" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="1" column="4" filename="C:/projects/UI-Web/ClientApp/models/IBaseModel.ts" />
+      <jump line="55" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="60" column="28" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="6" column="4" filename="C:/projects/UI-Web/ClientApp/models/category/ICategory.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1swXS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzFdLmlzTG9hZGluZykudG9CZUZhbHN5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbMl0uaXNMb2FkaW5nKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ClientApp/services/http/lms/CategoriesService</text>
+        <text>four</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1010,13 +1010,24 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHJvbWlzZTxJQ2F0ZWdvcnk+</text>
+        <text>four</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
       </register>
       <register name="0" type="4">
-        <text>ClientApp/services/http/lms/CategoriesService</text>
+        <text>{
+                    id: '4',
+                    label: 'four',
+                    slug: 'four',
+                    level: 2,
+                    categoryImageUrl: 'img4.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['1'],
+                    popScore: null,
+                    status: 'active',
+                },</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1035,25 +1046,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBhc01vY2soY2F0ZWdvcmllc1NlcnZpY2VNb2NrLnJlYWRMaXN0KS5tb2NrUmV0dXJuVmFsdWUoKTsKICAgICAgICBjYXRlZ29yeVN0b3JlLmxvYWRDYXRlZ29yaWVzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoY2F0ZWdvcnlTdG9yZS5nZXRTZWNvbmRhcnlDYXRlZ29yaWVzKCkpLnRvRXF1YWwoW10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBhc01vY2soY2F0ZWdvcmllc1NlcnZpY2VNb2NrLnJlYWRMaXN0KS5tb2NrUmV0dXJuVmFsdWUoKTsKICAgICAgICBjYXRlZ29yeVN0b3JlLmxvYWRDYXRlZ29yaWVzKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlQXBwbGljYXRpb25TdG9yZXNNb2NrKCkK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QoY2F0ZWdvcnlTdG9yZS5nZXRTZWNvbmRhcnlDYXRlZ29yaWVzKCkpLnRvRXF1YWwoW10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNhdGVnb3JpZXNTZXJ2aWNlIH0gZnJvbSAnQ2xpZW50QXBwL3NlcnZpY2VzL2h0dHAvbG1zL0NhdGVnb3JpZXNTZXJ2aWNlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlQXBwbGljYXRpb25TdG9yZXNNb2NrKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSUNhdGVnb3JpZXNTZXJ2aWNlIH0gZnJvbSAnQ2xpZW50QXBwL3NlcnZpY2VzL2h0dHAvbG1zL0NhdGVnb3JpZXNTZXJ2aWNlJzsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1070,10 +1081,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5wcmV2KS50b0JlKGltYWdlUXVldWVJdGVtc1swXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5wcmV2KS50b0JlKGltYWdlUXVldWVJdGVtc1swXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
