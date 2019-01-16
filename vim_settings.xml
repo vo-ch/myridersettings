@@ -152,10 +152,10 @@
       <file name="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" timestamp="1546442120705">
         <mark key="'" line="13" column="32" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" timestamp="1546533337204">
-        <mark key="'" line="69" column="16" />
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" timestamp="1547642296124">
+        <mark key="'" line="56" column="32" />
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="45" />
         <mark key="." line="13" column="32" />
         <mark key="^" line="74" column="21" />
       </file>
@@ -175,6 +175,13 @@
         <mark key="'" line="2" column="7" />
         <mark key="[" line="81" column="16" />
         <mark key="]" line="81" column="41" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547642945287">
+        <mark key="'" line="11" column="51" />
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="13" column="74" />
+        <mark key="^" line="13" column="73" />
+        <mark key="." line="13" column="74" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1547223061416">
         <mark key="'" line="122" column="36" />
@@ -346,11 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="31" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
-      <jump line="81" column="8" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
-      <jump line="43" column="33" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" />
-      <jump line="4665" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
-      <jump line="13894" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
       <jump line="13965" column="4" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
       <jump line="14930" column="55" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
       <jump line="1511" column="18" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" />
@@ -446,13 +448,18 @@
       <jump line="161" column="55" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
       <jump line="185" column="19" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
       <jump line="62" column="8" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
+      <jump line="56" column="32" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
+      <jump line="6" column="37" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="23" column="21" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
+      <jump line="9" column="51" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="12" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/lms/CategoriesService.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1swXS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzFdLmlzTG9hZGluZykudG9CZUZhbHN5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbMl0uaXNMb2FkaW5nKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>toBeFalsy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1003,16 +1010,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>toBeFalsy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>fetch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbM10uaXNMb2FkaW5nKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbNF0uaXNMb2FkaW5nKS50b0JlRmFsc3koKTsK</text>
+      <register name="0" type="4">
+        <text>categoriesServiceMock</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlQXBwbGljYXRpb25TdG9yZXNNb2NrKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1028,13 +1035,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSUNhdGVnb3JpZXNTZXJ2aWNlIH0gZnJvbSAnQ2xpZW50QXBwL3NlcnZpY2VzL2h0dHAvbG1zL0NhdGVnb3JpZXNTZXJ2aWNlJzsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5wcmV2KS50b0JlKGltYWdlUXVldWVJdGVtc1swXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
@@ -1043,13 +1050,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5wcmV2KS50b0JlKGltYWdlUXVldWVJdGVtc1swXSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0KCdmaXJzdCBiYXRjaCBpdGVtcyBzaG91bGQgYmUgaW4gcmVhZHkgc3RhdGUnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbMF0uaXNSZWFkeSkudG9CZVRydXRoeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzFdLmlzUmVhZHkpLnRvQmVUcnV0aHkoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5pc1JlYWR5KS50b0JlVHJ1dGh5KCk7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1sxXS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzJdLmlzTG9hZGluZykudG9CZUZhbHN5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1063,10 +1070,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0KCdmaXJzdCBiYXRjaCBpdGVtcyBzaG91bGQgYmUgaW4gcmVhZHkgc3RhdGUnLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbMF0uaXNSZWFkeSkudG9CZVRydXRoeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzFdLmlzUmVhZHkpLnRvQmVUcnV0aHkoKTsKICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5pc1JlYWR5KS50b0JlVHJ1dGh5KCk7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1sxXS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzJdLmlzTG9hZGluZykudG9CZUZhbHN5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
