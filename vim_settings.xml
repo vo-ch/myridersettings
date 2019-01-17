@@ -189,13 +189,13 @@
         <mark key="[" line="81" column="16" />
         <mark key="]" line="81" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547735153648">
-        <mark key="'" line="185" column="12" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547738582885">
+        <mark key="'" line="159" column="16" />
         <mark key="i" line="43" column="33" />
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="24" />
+        <mark key="[" line="168" column="30" />
+        <mark key="]" line="168" column="31" />
+        <mark key="." line="168" column="31" />
+        <mark key="^" line="168" column="30" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1547223061416">
         <mark key="'" line="122" column="36" />
@@ -230,7 +230,7 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547734119725">
+      <file name="/JavaScript Console" timestamp="1547738096087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" timestamp="1547136632753">
@@ -369,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="48" filename="C:/projects/UI-Web/node_modules/bowser/typings.d.ts" />
       <jump line="23" column="51" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
       <jump line="17" column="8" filename="C:/projects/UI-Web/node_modules/bowser/typings.d.ts" />
       <jump line="53" column="38" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
@@ -469,6 +468,7 @@
       <jump line="53" column="12" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="86" column="18" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="9" column="42" filename="C:/projects/UI-Web/ClientApp/utils/log/Logger.ts" />
+      <jump line="159" column="16" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -541,7 +541,7 @@
                 }]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>debug</text>
+        <text>null</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1092,13 +1092,24 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>debug</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1ZzogamVzdC5mbigpLAo=</text>
+      <register name="0" type="4">
+        <text>{
+                    id: '12',
+                    label: 'aaonetwo',
+                    slug: 'aaonetwo',
+                    level: 1,
+                    categoryImageUrl: 'img12.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: [],
+                    popScore: null,
+                    status: 'active',
+                }</text>
       </register>
       <register name="1" type="4">
         <text>(...data): void {
