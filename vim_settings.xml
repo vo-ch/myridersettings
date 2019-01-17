@@ -26,6 +26,13 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1547486652844">
         <mark key="'" line="5003" column="28" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/utils/log/Logger.ts" timestamp="1547734819828">
+        <mark key="'" line="9" column="42" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+        <mark key="." line="23" column="37" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.ts" timestamp="1546617717414">
         <mark key="'" line="32" column="5" />
         <mark key="[" line="53" column="33" />
@@ -132,6 +139,12 @@
         <mark key="." line="34" column="23" />
         <mark key="^" line="34" column="23" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/utils/log/__mocks__/createILogger.mock.ts" timestamp="1547735448521">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/stores/AllTabStore.ts" timestamp="1545666899348">
         <mark key="'" line="52" column="94" />
       </file>
@@ -152,8 +165,8 @@
       <file name="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" timestamp="1546442120705">
         <mark key="'" line="13" column="32" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" timestamp="1547723770217">
-        <mark key="'" line="73" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" timestamp="1547734070695">
+        <mark key="'" line="86" column="18" />
         <mark key="[" line="73" column="24" />
         <mark key="]" line="73" column="43" />
         <mark key="^" line="73" column="43" />
@@ -176,13 +189,13 @@
         <mark key="[" line="81" column="16" />
         <mark key="]" line="81" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547723394707">
-        <mark key="'" line="177" column="12" />
-        <mark key="i" line="35" column="33" />
-        <mark key="[" line="136" column="39" />
-        <mark key="]" line="136" column="42" />
-        <mark key="." line="136" column="42" />
-        <mark key="^" line="136" column="42" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547735153648">
+        <mark key="'" line="185" column="12" />
+        <mark key="i" line="43" column="33" />
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1547223061416">
         <mark key="'" line="122" column="36" />
@@ -217,7 +230,7 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547724215688">
+      <file name="/JavaScript Console" timestamp="1547734119725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" timestamp="1547136632753">
@@ -356,8 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="14" filename="C:/projects/UI-Web/node_modules/bowser/typings.d.ts" />
-      <jump line="2" column="20" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
       <jump line="2" column="48" filename="C:/projects/UI-Web/node_modules/bowser/typings.d.ts" />
       <jump line="23" column="51" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
       <jump line="17" column="8" filename="C:/projects/UI-Web/node_modules/bowser/typings.d.ts" />
@@ -456,6 +467,8 @@
       <jump line="73" column="28" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="69" column="24" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="53" column="12" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="86" column="18" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
+      <jump line="9" column="42" filename="C:/projects/UI-Web/ClientApp/utils/log/Logger.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -528,7 +541,7 @@
                 }]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>onLoadDataFail</text>
+        <text>debug</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1079,16 +1092,17 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>onLoadDataFail</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgnc2hvdWxkIG5vdCBiZSBpbiBsb2FkaW5nIHN0YXRlJywgKCkgPT4gewogICAgICAgICAgICAgICAgZXhwZWN0KGNhdGVnb3J5U3RvcmUuaXNMb2FkaW5nKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1ZzogamVzdC5mbigpLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdAo=</text>
+      <register name="1" type="4">
+        <text>(...data): void {
+        }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1104,18 +1118,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZUFsbCgpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBhY3Rpb24gb25DYXRlZ29yaWVzTG9hZEZhaWwgPSAoZXJyOiBhbnkpOiB2b2lkID0+IHsKICAgICAgICB0aGlzLm9uTG9hZERhdGFGYWlsKGVycik7CiAgICAgICAgdGhpcy5zZXRMb2FkaW5nKGZhbHNlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdAo=</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBhY3Rpb24gb25DYXRlZ29yaWVzTG9hZEZhaWwgPSAoZXJyOiBhbnkpOiB2b2lkID0+IHsKICAgICAgICB0aGlzLm9uTG9hZERhdGFGYWlsKGVycik7CiAgICAgICAgdGhpcy5zZXRMb2FkaW5nKGZhbHNlKTsKICAgIH0K</text>
+      </register>
+      <register name="6" type="4">
         <text>{
                     id: '3',
                     label: 'three',
@@ -1129,7 +1149,7 @@
                     status: 'active',
                 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
                     id: '1',
                     label: 'one',
@@ -1143,7 +1163,18 @@
                     status: 'active',
                 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="w" type="4">
+        <keys>
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="75" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="4">
         <text>[{
                     id: '1',
                     label: 'one',
@@ -1212,25 +1243,8 @@
                     status: 'inactive',
                 }]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGlsZElkczogW10sCg==</text>
-      </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="101" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="75" code="0" mods="0" />
-          <key char="98" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBub3QgYmUgaW4gbG9hZGluZyBzdGF0ZScsICgpID0+IHsKICAgICAgICAgICAgICAgIGV4cGVjdChjYXRlZ29yeVN0b3JlLmlzTG9hZGluZykudG9CZUZhbHN5KCk7CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGlsZElkczogW10sCg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
