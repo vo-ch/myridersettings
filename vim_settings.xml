@@ -152,12 +152,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" timestamp="1546442120705">
         <mark key="'" line="13" column="32" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" timestamp="1547652114371">
-        <mark key="'" line="72" column="44" />
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="74" column="21" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" timestamp="1547723770217">
+        <mark key="'" line="73" column="28" />
+        <mark key="[" line="73" column="24" />
+        <mark key="]" line="73" column="43" />
+        <mark key="^" line="73" column="43" />
+        <mark key="." line="73" column="43" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" timestamp="1547131859744">
         <mark key="'" line="391" column="44" />
@@ -176,13 +176,13 @@
         <mark key="[" line="81" column="16" />
         <mark key="]" line="81" column="41" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547719877287">
-        <mark key="'" line="61" column="28" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547723394707">
+        <mark key="'" line="177" column="12" />
         <mark key="i" line="35" column="33" />
-        <mark key="[" line="122" column="20" />
-        <mark key="]" line="123" column="15" />
-        <mark key="." line="123" column="15" />
-        <mark key="^" line="123" column="15" />
+        <mark key="[" line="136" column="39" />
+        <mark key="]" line="136" column="42" />
+        <mark key="." line="136" column="42" />
+        <mark key="^" line="136" column="42" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1547223061416">
         <mark key="'" line="122" column="36" />
@@ -217,7 +217,7 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547538887645">
+      <file name="/JavaScript Console" timestamp="1547724215688">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" timestamp="1547136632753">
@@ -319,6 +319,9 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/extensions/careerPathsPage.ts" timestamp="1546599710945">
         <mark key="'" line="18" column="35" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1547723432617">
+        <mark key="'" line="69" column="24" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" timestamp="1547568926536">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="26" column="49" />
@@ -353,25 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="41" filename="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.ts" />
-      <jump line="104" column="13" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
-      <jump line="6" column="53" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
-      <jump line="30" column="21" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
-      <jump line="7" column="53" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
-      <jump line="47" column="16" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
-      <jump line="31" column="28" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
-      <jump line="6" column="20" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
-      <jump line="46" column="22" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
-      <jump line="28" column="23" filename="C:/projects/UI-Web/ClientApp/services/ui/ResponsiveWindowSizeService.ts" />
-      <jump line="29" column="87" filename="C:/projects/UI-Web/ClientApp/services/ui/ResponsiveWindowSizeService.ts" />
-      <jump line="30" column="39" filename="C:/projects/UI-Web/ClientApp/services/ui/ResponsiveWindowSizeService.ts" />
-      <jump line="42" column="66" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
-      <jump line="78" column="18" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
-      <jump line="75" column="56" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
-      <jump line="10" column="48" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
-      <jump line="11" column="28" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
-      <jump line="68" column="12" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
-      <jump line="2" column="7" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.ts" />
       <jump line="5" column="14" filename="C:/projects/UI-Web/node_modules/bowser/typings.d.ts" />
       <jump line="2" column="20" filename="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" />
       <jump line="2" column="48" filename="C:/projects/UI-Web/node_modules/bowser/typings.d.ts" />
@@ -439,13 +423,11 @@
       <jump line="9" column="51" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
       <jump line="12" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/lms/CategoriesService.ts" />
       <jump line="22" column="47" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
-      <jump line="45" column="11" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="68" column="11" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="26" column="34" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
       <jump line="25" column="40" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
       <jump line="30" column="41" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
       <jump line="9" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiCrudService.ts" />
-      <jump line="31" column="38" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
       <jump line="72" column="44" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="80" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="53" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
@@ -453,13 +435,100 @@
       <jump line="55" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
       <jump line="60" column="28" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
       <jump line="6" column="4" filename="C:/projects/UI-Web/ClientApp/models/category/ICategory.ts" />
+      <jump line="115" column="47" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="34" column="18" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
+      <jump line="131" column="48" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="45" column="11" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
+      <jump line="142" column="58" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="118" column="35" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="52" column="16" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="49" column="16" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="48" column="24" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="31" column="33" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="28" column="29" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="24" column="34" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="143" column="57" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="126" column="55" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="119" column="35" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="65" column="22" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="85" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
+      <jump line="177" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
+      <jump line="73" column="28" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
+      <jump line="69" column="24" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
+      <jump line="53" column="12" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1swXS5pc0xvYWRpbmcpLnRvQmVGYWxzeSgpOwogICAgICAgICAgICAgICAgICAgICAgICBleHBlY3QoaW1hZ2VRdWV1ZUl0ZW1zWzFdLmlzTG9hZGluZykudG9CZUZhbHN5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGV4cGVjdChpbWFnZVF1ZXVlSXRlbXNbMl0uaXNMb2FkaW5nKS50b0JlRmFsc3koKTsK</text>
+      <register name="a" type="4">
+        <text>[{
+                    id: '1',
+                    label: 'one',
+                    slug: 'one',
+                    level: 1,
+                    categoryImageUrl: 'img1.url',
+                    description: 'some descr',
+                    childIds: ['3', '4', '5'],
+                    parentIds: [],
+                    popScore: null,
+                    status: 'active',
+                }, {
+                    id: '2',
+                    label: 'two',
+                    slug: 'two',
+                    level: 1,
+                    categoryImageUrl: 'img2.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: [],
+                    popScore: null,
+                    status: 'inactive',
+                }, {
+                    id: '3',
+                    label: 'three',
+                    slug: 'three',
+                    level: 2,
+                    categoryImageUrl: 'img3.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['1'],
+                    popScore: null,
+                    status: 'active',
+                }, {
+                    id: '4',
+                    label: 'aafour',
+                    slug: 'four',
+                    level: 2,
+                    categoryImageUrl: 'img4.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['1'],
+                    popScore: null,
+                    status: 'active',
+                }, {
+                    id: '6',
+                    label: 'six',
+                    slug: 'six',
+                    level: 2,
+                    categoryImageUrl: 'img6.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['2'],
+                    popScore: null,
+                    status: 'active',
+                }, {
+                    id: '5',
+                    label: 'five',
+                    slug: 'five',
+                    level: 2,
+                    categoryImageUrl: 'img5.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['1'],
+                    popScore: null,
+                    status: 'inactive',
+                }]</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZDogJzEnLAogICAgICAgICAgICAgICAgICAgIGxhYmVsOiAnb25lJywKICAgICAgICAgICAgICAgICAgICBzbHVnOiAnb25lJywKICAgICAgICAgICAgICAgICAgICBsZXZlbDogMSwKICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeUltYWdlVXJsOiAnaW1nMS51cmwnLAogICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAnc29tZSBkZXNjcicsCiAgICAgICAgICAgICAgICAgICAgY2hpbGRJZHM6IFtdLAogICAgICAgICAgICAgICAgICAgIHBhcmVudElkczogW10sCiAgICAgICAgICAgICAgICAgICAgcG9wU2NvcmU6IG51bGwsCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzOiAnYWN0aXZlJyw=</text>
+        <text>onLoadDataFail</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1010,16 +1079,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>four</text>
+        <text>onLoadDataFail</text>
       </register>
       <register name="/" type="4">
-        <text>fetch</text>
+        <text encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZDogJzEnLAogICAgICAgICAgICAgICAgICAgIGxhYmVsOiAnb25lJywKICAgICAgICAgICAgICAgICAgICBzbHVnOiAnb25lJywKICAgICAgICAgICAgICAgICAgICBsZXZlbDogMSwKICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeUltYWdlVXJsOiAnaW1nMS51cmwnLAogICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAnc29tZSBkZXNjcicsCiAgICAgICAgICAgICAgICAgICAgY2hpbGRJZHM6IFtdLAogICAgICAgICAgICAgICAgICAgIHBhcmVudElkczogW10sCiAgICAgICAgICAgICAgICAgICAgcG9wU2NvcmU6IG51bGwsCiAgICAgICAgICAgICAgICAgICAgc3RhdHVzOiAnYWN0aXZlJyw=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgnc2hvdWxkIG5vdCBiZSBpbiBsb2FkaW5nIHN0YXRlJywgKCkgPT4gewogICAgICAgICAgICAgICAgZXhwZWN0KGNhdGVnb3J5U3RvcmUuaXNMb2FkaW5nKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1041,22 +1110,110 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBhc01vY2soY2F0ZWdvcmllc1NlcnZpY2VNb2NrLnJlYWRMaXN0KS5tb2NrUmV0dXJuVmFsdWUoKTsKICAgICAgICBjYXRlZ29yeVN0b3JlLmxvYWRDYXRlZ29yaWVzKCk7Cg==</text>
+        <text encoding="base64">ICAgIEBhY3Rpb24gb25DYXRlZ29yaWVzTG9hZEZhaWwgPSAoZXJyOiBhbnkpOiB2b2lkID0+IHsKICAgICAgICB0aGlzLm9uTG9hZERhdGFGYWlsKGVycik7CiAgICAgICAgdGhpcy5zZXRMb2FkaW5nKGZhbHNlKTsKICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoY2F0ZWdvcnlTdG9yZS5nZXRTZWNvbmRhcnlDYXRlZ29yaWVzKCkpLnRvRXF1YWwoW10pOwo=</text>
+      <register name="4" type="4">
+        <text>{
+                    id: '3',
+                    label: 'three',
+                    slug: 'three',
+                    level: 2,
+                    categoryImageUrl: 'img3.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['1'],
+                    popScore: null,
+                    status: 'active',
+                }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlQXBwbGljYXRpb25TdG9yZXNNb2NrKCkK</text>
+      <register name="5" type="4">
+        <text>{
+                    id: '1',
+                    label: 'one',
+                    slug: 'one',
+                    level: 1,
+                    categoryImageUrl: 'img1.url',
+                    description: 'some descr',
+                    childIds: ['3', '4', '5'],
+                    parentIds: [],
+                    popScore: null,
+                    status: 'active',
+                }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNhdGVnb3JpZXNTZXJ2aWNlIH0gZnJvbSAnQ2xpZW50QXBwL3NlcnZpY2VzL2h0dHAvbG1zL0NhdGVnb3JpZXNTZXJ2aWNlJzsK</text>
+      <register name="6" type="4">
+        <text>[{
+                    id: '1',
+                    label: 'one',
+                    slug: 'one',
+                    level: 1,
+                    categoryImageUrl: 'img1.url',
+                    description: 'some descr',
+                    childIds: ['3', '4', '5'],
+                    parentIds: [],
+                    popScore: null,
+                    status: 'active',
+                }, {
+                    id: '2',
+                    label: 'two',
+                    slug: 'two',
+                    level: 1,
+                    categoryImageUrl: 'img2.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: [],
+                    popScore: null,
+                    status: 'inactive',
+                }, {
+                    id: '3',
+                    label: 'three',
+                    slug: 'three',
+                    level: 2,
+                    categoryImageUrl: 'img3.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['1'],
+                    popScore: null,
+                    status: 'active',
+                }, {
+                    id: '4',
+                    label: 'aafour',
+                    slug: 'four',
+                    level: 2,
+                    categoryImageUrl: 'img4.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['1'],
+                    popScore: null,
+                    status: 'active',
+                }, {
+                    id: '6',
+                    label: 'six',
+                    slug: 'six',
+                    level: 2,
+                    categoryImageUrl: 'img6.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['2'],
+                    popScore: null,
+                    status: 'active',
+                }, {
+                    id: '5',
+                    label: 'five',
+                    slug: 'five',
+                    level: 2,
+                    categoryImageUrl: 'img5.url',
+                    description: 'some descr',
+                    childIds: [],
+                    parentIds: ['1'],
+                    popScore: null,
+                    status: 'inactive',
+                }]</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGlsZElkczogW10sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1073,25 +1230,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwZWN0KGltYWdlUXVldWVJdGVtc1syXS5wcmV2KS50b0JlKGltYWdlUXVldWVJdGVtc1swXSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBub3QgYmUgaW4gbG9hZGluZyBzdGF0ZScsICgpID0+IHsKICAgICAgICAgICAgICAgIGV4cGVjdChjYXRlZ29yeVN0b3JlLmlzTG9hZGluZykudG9CZUZhbHN5KCk7CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>fetch</last-search>
+      <last-search encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</last-search>
       <last-offset />
-      <last-pattern>fetch</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0QXV0aGVudGljYXRpb25cPg==</entry>
         <entry>getSt</entry>
         <entry>getCurrentT</entry>
         <entry encoding="base64">XDxsb2FkQ3VycmVudFVzZXJcPg==</entry>
@@ -1110,6 +1265,8 @@
         <entry>loadeve</entry>
         <entry encoding="base64">XDxib3dzZXJcPg==</entry>
         <entry>fetch</entry>
+        <entry encoding="base64">XDxjYXRlZ29yaWVzXD4=</entry>
+        <entry encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
@@ -1128,10 +1285,10 @@
         <entry>nohl</entry>
         <entry>s/&quot;//g</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>reg</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
