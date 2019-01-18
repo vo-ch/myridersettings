@@ -80,12 +80,6 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ResponsiveScreenSizeStore.test.ts" timestamp="1547564892552">
-        <mark key="[" line="46" column="49" />
-        <mark key="]" line="46" column="61" />
-        <mark key="." line="46" column="61" />
-        <mark key="^" line="46" column="61" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" timestamp="1547808711273">
         <mark key="'" line="113" column="12" />
         <mark key="[" line="13" column="44" />
@@ -309,12 +303,6 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1547723432617">
         <mark key="'" line="69" column="24" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/NetworkSpeedStore.test.ts" timestamp="1547568926536">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="26" column="49" />
-        <mark key="^" line="78" column="30" />
-        <mark key="." line="78" column="30" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/LoadingStatusStore.test.ts" timestamp="1547483671015">
         <mark key="'" line="49" column="48" />
         <mark key="[" line="31" column="0" />
@@ -328,6 +316,14 @@
         <mark key="]" line="271" column="76" />
         <mark key="^" line="288" column="3" />
         <mark key="." line="288" column="3" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" timestamp="1547829302542">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" timestamp="1547828823076">
+        <mark key="'" line="55" column="18" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" timestamp="1545922092081">
         <mark key="'" line="64" column="0" />
@@ -347,24 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="49" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
-      <jump line="143" column="4" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
-      <jump line="161" column="55" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.test.ts" />
-      <jump line="185" column="19" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
-      <jump line="62" column="8" filename="C:/projects/UI-Web/ClientApp/stores/CourseCardsImageQueueStore.ts" />
-      <jump line="56" column="32" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
-      <jump line="6" column="37" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
-      <jump line="23" column="21" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
-      <jump line="9" column="51" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
-      <jump line="12" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/lms/CategoriesService.ts" />
-      <jump line="22" column="47" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
-      <jump line="68" column="11" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
-      <jump line="26" column="34" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
-      <jump line="25" column="40" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
-      <jump line="30" column="41" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
-      <jump line="9" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiCrudService.ts" />
-      <jump line="72" column="44" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
-      <jump line="80" column="12" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
       <jump line="53" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
       <jump line="1" column="4" filename="C:/projects/UI-Web/ClientApp/models/IBaseModel.ts" />
       <jump line="55" column="25" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
@@ -447,13 +425,33 @@
       <jump line="262" column="32" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="64" column="34" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" />
       <jump line="25" column="16" filename="C:/projects/UI-Web/ClientApp/testing/utils/jestUtils.ts" />
+      <jump line="4" column="14" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="19" column="27" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="29" column="4" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" />
+      <jump line="21" column="30" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="10" column="21" filename="C:/projects/UI-Web/ClientApp/services/http/lms/MailService.ts" />
+      <jump line="42" column="39" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="57" column="39" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="34" column="25" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" />
+      <jump line="34" column="35" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="36" column="14" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="46" column="12" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" />
+      <jump line="88" column="29" filename="C:/projects/UI-Web/ClientApp/components/pages/EmailSubscriptionField.tsx" />
+      <jump line="106" column="53" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="99" column="17" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="53" column="31" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="27" column="16" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" />
+      <jump line="54" column="14" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" />
+      <jump line="55" column="12" filename="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>'application/x-mpegURL'</text>
+        <text>{
+            email: ''
+        }</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRWYWxpZEVtYWlsKHRydWUpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1004,16 +1002,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Falsy</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVQVBhcnNlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5odHRwUmVxdWVzdHNTd2l0Y2hlZE9mZikudG9CZUZhbHN5KCk7Cg==</text>
+        <text encoding="base64">CiAgICBkZXNjcmliZSgnc2hvdWxkIGJlIGFibGUgdG8gY2hhbmdlIGVtYWlsIHZhbGlkaXR5IHN0YXRlJywgKCkgPT4gewogICAgICAgIGV4cGVjdChzdG9yZS5pc1ZhbGlkRW1haWwpLnRvQmVUcnV0aHkoKTsKICAgICAgICBzdG9yZS5zZXRWYWxpZEVtYWlsKGZhbHNlKTsKICAgICAgICBleHBlY3Qoc3RvcmUuaXNWYWxpZEVtYWlsKS50b0JlRmFsc3koKTsKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRWYWxpZEVtYWlsKHRydWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1029,32 +1027,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3QoJ3Nob3VsZCBiZSBhYmxlIHRvIGJ1aWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3RvcmUuaXNWYWxpZEVtYWlsKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text>else {
-                                   re
-                               }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRWYWxpZEVtYWlsKGZhbHNlKTsK</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3RvcmUuaXNWYWxpZEVtYWlsKS50b0JlVHJ1dGh5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-                                    
-                               }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgYmUgYWJsZSB0byBjaGFuZ2UgZW1haWwgdmFsaWRpdHkgc3RhdGUnLCAoKSA9PiB7CiAgICAgICAgZXhwZWN0KHN0b3JlLmlzVmFsaWRFbWFpbCkudG9CZVRydXRoeSgpOwogICAgICAgIHN0b3JlLnNldFZhbGlkRW1haWwoZmFsc2UpOwogICAgICAgIGV4cGVjdChzdG9yZS5pc1ZhbGlkRW1haWwpLnRvQmVGYWxzeSgpOwogICAgfSk7CgogICAgaXQoJ3Nob3VsZCBiZSBhYmxlIHRvIGNoYW5nZSBzdWJzY3JpYnRpb24gdGV4dCcsICgpID0+IHsKICAgICAgICBzdG9yZS5zZXRTdWJzY3JpcHRpb25UZXh0KCd0ZXN0IHRleHQnKTsKICAgICAgICBleHBlY3Qoc3RvcmUuc3Vic2NyaXB0aW9uVGV4dCkudG9CZSgndGVzdCB0ZXh0Jyk7CiAgICB9KTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">amVzdC5mbigpLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9KQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3RvcmUuaXNWYWxpZEVtYWlsKS50b0JlVHJ1dGh5KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1068,13 +1062,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgndmlkZW8gdHlwZSBzaG91bGQgYmUgeC1tcGVnVVJMJywgKCkgPT4gewogICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBub3QgaWRlbnRpZnkgZW52IGFzIGxvY2FsJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5pc0xvY2FsKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBzdXBwb3J0IHN0cmVhbWluZycsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoY29uZmlnU3RvcmUuaGFzU3RyZWFtaW5nU3VwcG9ydCkudG9CZVRydXRoeSgpOwogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgdGVzdCgnc2hvdWxkIHJldHVybiBjdXJyZW50IHN0YXRlJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5nZXRTdGF0ZSgpKS50b0VxdWFsKDxJQ29uZmlndXJhdGlvbj57CiAgICAgICAgICAgICAgICAgICAgICAgIC4uLmNvbmZpZ1N0YXRlLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmliZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -1127,9 +1121,9 @@
         <entry>s/&quot;//g</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
-        <entry>reg</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
