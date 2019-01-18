@@ -167,12 +167,11 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/site-nav-link-menu/SiteNavLinkMenu.tsx" timestamp="1545658362058">
         <mark key="'" line="24" column="21" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" timestamp="1547823040954">
-        <mark key="'" line="64" column="34" />
-        <mark key="[" line="99" column="79" />
-        <mark key="]" line="99" column="79" />
-        <mark key="." line="99" column="79" />
-        <mark key="^" line="99" column="79" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" timestamp="1547825367723">
+        <mark key="'" line="70" column="34" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" timestamp="1547741957668">
         <mark key="'" line="159" column="16" />
@@ -323,10 +322,10 @@
         <mark key="^" line="33" column="56" />
         <mark key="." line="33" column="56" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1547822951249">
+      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1547824943038">
         <mark key="'" line="262" column="32" />
-        <mark key="[" line="281" column="41" />
-        <mark key="]" line="281" column="63" />
+        <mark key="[" line="271" column="46" />
+        <mark key="]" line="271" column="76" />
         <mark key="^" line="288" column="3" />
         <mark key="." line="288" column="3" />
       </file>
@@ -454,7 +453,7 @@
         <text>'application/x-mpegURL'</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgndmlkZW8gdHlwZSBzaG91bGQgYmUgeC1tcGVnVVJMJywgKCkgPT4gewogICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1005,16 +1004,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>describe</text>
+        <text>Falsy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVQVBhcnNlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>unmockLocalStor</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5odHRwUmVxdWVzdHNTd2l0Y2hlZE9mZikudG9CZUZhbHN5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgndmlkZW8gdHlwZSBzaG91bGQgYmUgeC1tcGVnVVJMJywgKCkgPT4gewogICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1030,28 +1029,32 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBub3QgaWRlbnRpZnkgZW52IGFzIGxvY2FsJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5pc0xvY2FsKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBzdXBwb3J0IHN0cmVhbWluZycsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoY29uZmlnU3RvcmUuaGFzU3RyZWFtaW5nU3VwcG9ydCkudG9CZVRydXRoeSgpOwogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgdGVzdCgnc2hvdWxkIHJldHVybiBjdXJyZW50IHN0YXRlJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5nZXRTdGF0ZSgpKS50b0VxdWFsKDxJQ29uZmlndXJhdGlvbj57CiAgICAgICAgICAgICAgICAgICAgICAgIC4uLmNvbmZpZ1N0YXRlLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHRlc3QoJ3Nob3VsZCBiZSBhYmxlIHRvIGJ1aWwnKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgnc2hvdWxkIG5vdCBzdXBwb3J0IHN0cmVhbWluZycsICgpID0+IHsKICAgICAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5oYXNTdHJlYW1pbmdTdXBwb3J0KS50b0JlRmFsc3koKTsKICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="3" type="4">
+        <text>else {
+                                   re
+                               }</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0KCdzaG91bGQgbm90IGlkZW50aWZ5IGVudiBhcyBsb2NhbCcsICgpID0+IHsKICAgICAgICAgICAgZXhwZWN0KGNvbmZpZ1N0b3JlLmlzTG9jYWwpLnRvQmVGYWxzeSgpOwogICAgICAgIH0pOwoKICAgICAgICB0ZXN0KCdzaG91bGQgc3VwcG9ydCBzdHJlYW1pbmcnLCAoKSA9PiB7CiAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5oYXNTdHJlYW1pbmdTdXBwb3J0KS50b0JlVHJ1dGh5KCk7CiAgICAgICAgfSk7CgogICAgICAgIHRlc3QoJ3Nob3VsZCByZXR1cm4gY3VycmVudCBzdGF0ZScsICgpID0+IHsKICAgICAgICAgICAgZXhwZWN0KGNvbmZpZ1N0b3JlLmdldFN0YXRlKCkpLnRvRXF1YWwoPElDb25maWd1cmF0aW9uPnsKICAgICAgICAgICAgICAgIC4uLmNvbmZpZ1N0YXRlLAogICAgICAgICAgICB9KTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnU3RvcmUgPSBuZXcgQ29uZmlndXJhdGlvblN0b3JlKGNvbmZpZ1N0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>{
+                                    
+                               }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZGVvVHlwZTogJycsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">amVzdC5mbigpLm1vY2tJbXBsZW1lbnRhdGlvbigoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9KQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1065,10 +1068,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBkZXNjcmliZSgnIGRlZmF1bHQnLCAoKSA9PiB7CiAgICAgICAgYmVmb3JlRWFjaCgoKSA9PiB7CiAgICAgICAgfSk7CgoKCgogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdCgndmlkZW8gdHlwZSBzaG91bGQgYmUgeC1tcGVnVVJMJywgKCkgPT4gewogICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNNb2NrKEhscy5pc1N1cHBvcnRlZCkubW9ja0NsZWFyKCk7CiAgICAgICAgICAgIGFzTW9jayhIbHMuaXNTdXBwb3J0ZWQpLm1vY2tSZXR1cm5WYWx1ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBub3QgaWRlbnRpZnkgZW52IGFzIGxvY2FsJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5pc0xvY2FsKS50b0JlRmFsc3koKTsKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgIHRlc3QoJ3Nob3VsZCBzdXBwb3J0IHN0cmVhbWluZycsICgpID0+IHsKICAgICAgICAgICAgICAgICAgICBleHBlY3QoY29uZmlnU3RvcmUuaGFzU3RyZWFtaW5nU3VwcG9ydCkudG9CZVRydXRoeSgpOwogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgdGVzdCgnc2hvdWxkIHJldHVybiBjdXJyZW50IHN0YXRlJywgKCkgPT4gewogICAgICAgICAgICAgICAgICAgIGV4cGVjdChjb25maWdTdG9yZS5nZXRTdGF0ZSgpKS50b0VxdWFsKDxJQ29uZmlndXJhdGlvbj57CiAgICAgICAgICAgICAgICAgICAgICAgIC4uLmNvbmZpZ1N0YXRlLAogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowErrorDescription</text>
