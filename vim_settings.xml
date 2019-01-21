@@ -255,7 +255,13 @@
         <mark key="[" line="129" column="29" />
         <mark key="]" line="129" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548079260819">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/console.sql" timestamp="1548085483949">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1548085077107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -461,8 +467,8 @@
             email: ''
         }</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>information_schema.tables</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1013,7 +1019,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ok</text>
+        <text>information_schema.tables</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwU2VydmljZU1vY2tcPg==</text>
@@ -1022,7 +1028,7 @@
         <text>hasStreamingSupport</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBwdWJsaWMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1038,28 +1044,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogSmVzdHMgb3JpZ2luYWwgJ21vY2tSZXR1cm5WYWx1ZScgaGVscGVyIGFjY2VwdHMgYXJndW1lbnQgdHlwZWQgYXMgJ2FueScK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogYXNNb2NrKGh0dHBTZXJ2aWNlTW9jay5yZWZyZXNoQWNjZXNzVG9rZW4K</text>
+        <text encoding="base64">ICogSmVzdHMgb3JpZ2luYWwgJ21vY2tSZXR1cm5WYWx1ZScgaGVscGVyIGFjY2VwdHMgYXJndW1lbnQgdHlwZWQgYXMgJ2FueScK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICogYXNNb2NrKGh0dHBTZXJ2aWNlTW9jay5yZWZyZXNoQWNjZXNzVG9rZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRWYWxpZEVtYWlsKHRydWUpOwo=</text>
+        <text encoding="base64">ICogYXNNb2NrKGh0dHBTZXJ2aWNlTW9jay5yZWZyZXNoQWNjZXNzVG9rZW4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1073,10 +1079,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3RvcmUuaXNWYWxpZEVtYWlsKS50b0JlRmFsc3koKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRWYWxpZEVtYWlsKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5zZXRWYWxpZEVtYWlsKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3RvcmUuaXNWYWxpZEVtYWlsKS50b0JlRmFsc3koKTsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
