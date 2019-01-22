@@ -258,14 +258,14 @@
         <mark key="[" line="129" column="29" />
         <mark key="]" line="129" column="35" />
       </file>
-      <file name="/dummy.sql" timestamp="1548103919765">
+      <file name="/dummy.sql" timestamp="1548150563871">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/console.sql" timestamp="1548102981244">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/console.sql" timestamp="1548150696152">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
         <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1548085077107">
         <mark key="[" line="0" column="0" />
@@ -296,7 +296,7 @@
       <file name="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" timestamp="1546428765400">
         <mark key="'" line="61" column="16" />
       </file>
-      <file name="/payments.public.csod_registrations [postgres@cukuber]" timestamp="1548103915753">
+      <file name="/payments.public.csod_registrations [postgres@cukuber]" timestamp="1548150533253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/routing/helpers/bundleComponent.tsx" timestamp="1545847348189">
@@ -476,8 +476,8 @@
             email: ''
         }</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMuY3VzdG9tZXJzCg==</text>
+      <register name="&quot;" type="4">
+        <text>csod_</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1028,13 +1028,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>information_schema.tables</text>
+        <text>csod_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxodHRwU2VydmljZU1vY2tcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>hasStreamingSupport</text>
+      <register name="0" type="2">
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gY3NvZF9yZWdpc3RyYXRpb25zOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBwdWJsaWMuY3VzdG9tZXJzCg==</text>
@@ -1104,7 +1104,7 @@
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
