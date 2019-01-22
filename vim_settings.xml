@@ -131,14 +131,17 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/stores/AllTabStore.ts" timestamp="1545666899348">
         <mark key="'" line="52" column="94" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.UserProgressApi/Handler/UserProgressApiHandler.cs" timestamp="1548157785862">
+        <mark key="'" line="134" column="23" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/stores/UserProfileStore.ts" timestamp="1545821215045">
         <mark key="'" line="40" column="13" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/mobx-react-router/types.d.ts" timestamp="1547027694148">
         <mark key="'" line="7" column="50" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" timestamp="1548155066717">
-        <mark key="'" line="40" column="49" />
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" timestamp="1548157713772">
+        <mark key="'" line="107" column="55" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -174,11 +177,8 @@
       <file name="C:/projects/Auth-Api/Auth/src/Auth.Aicc/AiccSettings.cs" timestamp="1548153086593">
         <mark key="'" line="6" column="34" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" timestamp="1547825367723">
-        <mark key="'" line="70" column="34" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/ExternalUser.cs" timestamp="1548157721097">
+        <mark key="'" line="30" column="22" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1548068927471">
         <mark key="'" line="122" column="36" />
@@ -294,6 +294,7 @@
       <file name="C:/projects/UI-Web/ClientApp/components/feature-flags/FeatureStore.ts" timestamp="1546428765400">
         <mark key="'" line="61" column="16" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Repository/ExternalUserRepository.cs" timestamp="1548157703248" />
       <file name="/payments.public.csod_registrations [postgres@cukuber]" timestamp="1548150533253">
         <mark key="[" line="0" column="0" />
       </file>
@@ -373,12 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="24" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
-      <jump line="53" column="12" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
-      <jump line="86" column="18" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.ts" />
-      <jump line="9" column="42" filename="C:/projects/UI-Web/ClientApp/utils/log/Logger.ts" />
-      <jump line="159" column="16" filename="C:/projects/UI-Web/ClientApp/stores/CategoryStore.test.ts" />
-      <jump line="6" column="42" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" />
       <jump line="80" column="0" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="111" column="8" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
       <jump line="113" column="12" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
@@ -473,6 +468,12 @@
       <jump line="175" column="51" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
       <jump line="183" column="76" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
       <jump line="40" column="49" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" />
+      <jump line="128" column="12" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" />
+      <jump line="133" column="52" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" />
+      <jump line="35" column="20" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Repository/ExternalUserRepository.cs" />
+      <jump line="107" column="55" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" />
+      <jump line="30" column="22" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/ExternalUser.cs" />
+      <jump line="134" column="23" filename="C:/projects/Auth-Api/Auth/src/Auth.UserProgressApi/Handler/UserProgressApiHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
