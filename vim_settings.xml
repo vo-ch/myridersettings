@@ -87,6 +87,9 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/home/services/HomeService.ts" timestamp="1548159532656">
+        <mark key="'" line="26" column="45" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" timestamp="1548070072782">
         <mark key="'" line="13" column="13" />
         <mark key="[" line="13" column="44" />
@@ -134,6 +137,9 @@
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/stores/UserProfileStore.ts" timestamp="1545821215045">
         <mark key="'" line="40" column="13" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" timestamp="1548159491864">
+        <mark key="'" line="10" column="4" />
+      </file>
       <file name="C:/projects/UI-Web/node_modules/mobx-react-router/types.d.ts" timestamp="1547027694148">
         <mark key="'" line="7" column="50" />
       </file>
@@ -175,6 +181,9 @@
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/ExternalUser.cs" timestamp="1548157721097">
         <mark key="'" line="31" column="22" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/services/http/lms/FeaturedCourseListsService.ts" timestamp="1548159465505">
+        <mark key="'" line="8" column="39" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/ApplicationStores.test.ts" timestamp="1548068927471">
         <mark key="'" line="122" column="36" />
@@ -334,8 +343,8 @@
         <mark key="^" line="33" column="56" />
         <mark key="." line="33" column="56" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1547824943038">
-        <mark key="'" line="262" column="32" />
+      <file name="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" timestamp="1548159539786">
+        <mark key="'" line="184" column="13" />
         <mark key="[" line="271" column="46" />
         <mark key="]" line="271" column="76" />
         <mark key="^" line="288" column="3" />
@@ -367,18 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
-      <jump line="111" column="8" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
-      <jump line="113" column="12" filename="C:/projects/UI-Web/ClientApp/stores/__mocks__/createConfigurationStore.mock.ts" />
-      <jump line="12" column="47" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" />
-      <jump line="7" column="71" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" />
-      <jump line="125" column="4" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
-      <jump line="8" column="51" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" />
-      <jump line="9" column="72" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" />
-      <jump line="5" column="24" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.test.ts" />
-      <jump line="140" column="21" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
-      <jump line="187" column="0" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
-      <jump line="281" column="29" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="300" column="28" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="40" column="4" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
       <jump line="119" column="4" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
@@ -467,6 +464,18 @@
       <jump line="107" column="55" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" />
       <jump line="30" column="22" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/ExternalUser.cs" />
       <jump line="134" column="23" filename="C:/projects/Auth-Api/Auth/src/Auth.UserProgressApi/Handler/UserProgressApiHandler.cs" />
+      <jump line="8" column="39" filename="C:/projects/UI-Web/ClientApp/services/http/lms/FeaturedCourseListsService.ts" />
+      <jump line="17" column="35" filename="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" />
+      <jump line="24" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" />
+      <jump line="25" column="55" filename="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" />
+      <jump line="10" column="4" filename="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" />
+      <jump line="31" column="32" filename="C:/projects/UI-Web/ClientApp/views/home/services/HomeService.ts" />
+      <jump line="26" column="45" filename="C:/projects/UI-Web/ClientApp/views/home/services/HomeService.ts" />
+      <jump line="227" column="38" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="304" column="34" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="44" column="13" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="120" column="13" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
+      <jump line="184" column="13" filename="C:/projects/UI-Web/ClientApp/stores/ConfigurationStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1029,7 +1038,7 @@
         <text>B.&quot;Kind&quot; IS NOT NULL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwU2VydmljZU1vY2tcPg==</text>
+        <text encoding="base64">XDxob21lQ291cnNlTGlzdHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VMRUNUIGNvdW50KCopIEZST00gY3NvZF9yZWdpc3RyYXRpb25zOwo=</text>
@@ -1096,18 +1105,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodHRwU2VydmljZU1vY2tcPg==</last-search>
+      <last-search encoding="base64">XDxob21lQ291cnNlTGlzdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwU2VydmljZU1vY2tcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxob21lQ291cnNlTGlzdHNcPg==</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
-        <entry>?</entry>
         <entry encoding="base64">XDxhZHZhbmNlVG9cPg==</entry>
         <entry>hasS</entry>
         <entry>testIma</entry>
@@ -1126,6 +1133,8 @@
         <entry encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</entry>
         <entry encoding="base64">XDxVQVBhcnNlclw+</entry>
         <entry encoding="base64">XDxodHRwU2VydmljZU1vY2tcPg==</entry>
+        <entry encoding="base64">XDxnZXRMaXN0XD4=</entry>
+        <entry encoding="base64">XDxob21lQ291cnNlTGlzdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5TLzovPS9n</entry>
