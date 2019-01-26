@@ -215,11 +215,11 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/authDB.sql" timestamp="1548412382308">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/authDB.sql" timestamp="1548502340312">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="^" line="12" column="100" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createGlobalNavigationStore.mock.ts" timestamp="1546512243713">
         <mark key="'" line="0" column="0" />
@@ -245,7 +245,7 @@
         <mark key="^" line="31" column="23" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="/auth.public.ExternalUsers [postgres@cukuber]" timestamp="1548102445302">
+      <file name="/auth.public.ExternalUsers [postgres@cukuber]" timestamp="1548502140156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/Program.cs" timestamp="1548430785181">
@@ -289,7 +289,7 @@
         <mark key="[" line="129" column="29" />
         <mark key="]" line="129" column="35" />
       </file>
-      <file name="/dummy.sql" timestamp="1548155367304">
+      <file name="/dummy.sql" timestamp="1548502143755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/console.sql" timestamp="1548256087732">
@@ -386,12 +386,12 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" timestamp="1547828823076">
         <mark key="'" line="55" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/paymentsDB.sql" timestamp="1548500760622">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/paymentsDB.sql" timestamp="1548501675687">
         <mark key="'" line="3" column="39" />
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="12" column="27" />
+        <mark key="[" line="7" column="67" />
+        <mark key="]" line="7" column="99" />
+        <mark key="." line="7" column="99" />
+        <mark key="^" line="7" column="99" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" timestamp="1545922092081">
         <mark key="'" line="64" column="0" />
@@ -520,7 +520,7 @@
         <text>A.&quot;Id&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y3JlYXRlZF9hdCA=</text>
+        <text>count</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1071,13 +1071,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3JlYXRlZF9hdCA=</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGUk9NXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUIHVzZXJfZG9tYWluLCB1c2VyX2lkIEZST00gY3NvZF9yZWdpc3RyYXRpb25zCndoZXJlIHVzZXJfZG9tYWluID0gJ2Rld2JlcnJ5LmNzb2QuY29tJzsK</text>
+      <register name="0" type="4">
+        <text>user_domain = 'dewberry.csod.com'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">d2hlcmUgdXNlcl9kb21haW4gPSAnZGV3YmVycnkuY3NvZC5jb20nOwo=</text>
