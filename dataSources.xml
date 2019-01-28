@@ -1,0 +1,11 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="postgres@cukuber" uuid="5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>cyberu kubernetes</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/</jdbc-url>
+    </data-source>
+  </component>
+</application>
