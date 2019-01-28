@@ -75,12 +75,12 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" timestamp="1548690906239">
-        <mark key="'" line="40" column="70" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="11" />
-        <mark key="^" line="26" column="11" />
-        <mark key="." line="26" column="11" />
+      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" timestamp="1548691156882">
+        <mark key="'" line="45" column="70" />
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="16" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/AppNotificationSystemStore.test.ts" timestamp="1546618185048">
         <mark key="'" line="31" column="27" />
@@ -134,6 +134,9 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/LrsDbContext.cs" timestamp="1548433882940">
         <mark key="'" line="38" column="53" />
+      </file>
+      <file name="C:/projects/cu-data-reporting/GetDataFromGoogleAnalytics.Lambda/Function.cs" timestamp="1548691125381">
+        <mark key="'" line="61" column="19" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/site-nav-link-menu/SiteNavLinkMenu.tsx" timestamp="1545658362058">
         <mark key="'" line="24" column="21" />
@@ -202,9 +205,6 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-accordion-menu/CategoriesAccordionMenu.tsx" timestamp="1545658164890">
         <mark key="'" line="33" column="21" />
       </file>
-      <file name="/payments.public.csod_registrations [postgres@cukuber]" timestamp="1548150533253">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/routing/helpers/bundleComponent.tsx" timestamp="1545847348189">
         <mark key="'" line="0" column="0" />
       </file>
@@ -253,9 +253,6 @@
         <mark key="]" line="23" column="37" />
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="37" />
-      </file>
-      <file name="/fragment.js" timestamp="1547822637371">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/services/CourseDetailsService.ts" timestamp="1547197492917">
         <mark key="'" line="201" column="36" />
@@ -355,12 +352,6 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="/JavaScript Console" timestamp="1547822567834">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/auth.public.ExternalUsers [postgres@cukuber]" timestamp="1548502140156">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Program.cs" timestamp="1548430893557">
         <mark key="'" line="1" column="9" />
       </file>
@@ -380,9 +371,6 @@
         <mark key="]" line="40" column="28" />
         <mark key="^" line="40" column="28" />
         <mark key="." line="40" column="28" />
-      </file>
-      <file name="/dummy.sql" timestamp="1548502143755">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" timestamp="1548623997840">
         <mark key="'" line="24" column="26" />
@@ -441,12 +429,8 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/index.ts" timestamp="1545658360450">
         <mark key="'" line="38" column="4" />
       </file>
-      <file name="/csod_registrations [postgres@cukuber]" timestamp="1548232234397">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="76" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
       <jump line="40" column="49" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" />
       <jump line="128" column="12" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" />
       <jump line="133" column="52" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" />
@@ -546,13 +530,14 @@
       <jump line="37" column="37" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" />
       <jump line="0" column="0" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" />
       <jump line="40" column="70" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" />
+      <jump line="61" column="19" filename="C:/projects/cu-data-reporting/GetDataFromGoogleAnalytics.Lambda/Function.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>A.&quot;Id&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>RegistrationCsod</text>
+        <text>public</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1103,13 +1088,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Csod</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
-      <register name="0" type="4">
-        <text>RegistrationCsod</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRnVuY3Rpb24oKQogICAgICAgIHsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
