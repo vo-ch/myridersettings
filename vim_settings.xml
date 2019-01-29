@@ -164,7 +164,7 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="/a.sql" timestamp="1548755558156">
+      <file name="/a.sql" timestamp="1548756340944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/auth/AuthService.ts" timestamp="1548152519494">
@@ -201,7 +201,7 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-accordion-menu/CategoriesAccordionMenu.tsx" timestamp="1545658164890">
         <mark key="'" line="33" column="21" />
       </file>
-      <file name="/payments.public.csod_registrations [postgres@cukuber]" timestamp="1548755546763">
+      <file name="/payments.public.csod_registrations [postgres@cukuber]" timestamp="1548756333761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/routing/helpers/bundleComponent.tsx" timestamp="1545847348189">
@@ -387,7 +387,7 @@
         <mark key="^" line="40" column="28" />
         <mark key="." line="40" column="28" />
       </file>
-      <file name="/dummy.sql" timestamp="1548755558178">
+      <file name="/dummy.sql" timestamp="1548756340961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" timestamp="1548623997840">
@@ -444,12 +444,12 @@
       <file name="C:/projects/UI-Web/ClientApp/stores/MailStore.ts" timestamp="1547828823076">
         <mark key="'" line="55" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/paymentsDB.sql" timestamp="1548755742666">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/paymentsDB.sql" timestamp="1548756456178">
         <mark key="'" line="29" column="116" />
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="24" />
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="58" />
+        <mark key="." line="26" column="58" />
+        <mark key="^" line="26" column="58" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/components/data-table/stores/DataTableStore.ts" timestamp="1545922092081">
         <mark key="'" line="64" column="0" />
@@ -568,7 +568,7 @@
         <text encoding="base64">ICAgIGNsYXNzIFJlcG9zaXRvcnk8VD4gOiBJUmVwb3NpdG9yeTxUPgogICAgewogICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>publisher_id</text>
+        <text>current_timestamp at time zone 'utc'</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1119,13 +1119,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>course_release_id</text>
+        <text>current_timestamp at time zone 'utc'</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
       <register name="0" type="4">
-        <text>publisher_id</text>
+        <text>current_timestamp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgVGFzayBDcmVhdGVNYW55KE1vZGVsLkNzb2RSZWdpc3RyYXRpb24gbW9kZWwpCg==</text>
