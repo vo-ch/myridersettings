@@ -78,8 +78,8 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" timestamp="1548776510778">
-        <mark key="'" line="25" column="62" />
+      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" timestamp="1548778044510">
+        <mark key="'" line="47" column="35" />
         <mark key="[" line="25" column="129" />
         <mark key="]" line="25" column="136" />
         <mark key="^" line="25" column="136" />
@@ -300,12 +300,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" timestamp="1547137122939">
         <mark key="'" line="100" column="17" />
       </file>
-      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/CsodRegistrationRepository.cs" timestamp="1548776851680">
-        <mark key="'" line="17" column="61" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="17" />
-        <mark key="^" line="27" column="17" />
-        <mark key="." line="27" column="17" />
+      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/CsodRegistrationRepository.cs" timestamp="1548778239478">
+        <mark key="'" line="8" column="45" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/testing/utils/mockUtils.ts" timestamp="1548069086607">
         <mark key="'" line="44" column="28" />
@@ -359,10 +359,10 @@
         <mark key="." line="18" column="29" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/ICsodRegistrationRepository.cs" timestamp="1548772321412">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/ICsodRegistrationRepository.cs" timestamp="1548778194892">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="55" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAuthStore.mock.ts" timestamp="1546531209237">
@@ -473,9 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="9" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IFailureSentMessageBackup.cs" />
-      <jump line="1" column="9" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Program.cs" />
-      <jump line="49" column="50" filename="C:/projects/Auth-Api/Auth/src/Auth.UserProgressApi/Middleware/UserProgressApiMiddleware.cs" />
       <jump line="1" column="10" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Crypto.cs" />
       <jump line="38" column="53" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/LrsDbContext.cs" />
       <jump line="5" column="22" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/AuthContext.cs" />
@@ -573,13 +570,16 @@
       <jump line="38" column="38" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" />
       <jump line="20" column="43" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17FC9232-1ECB-4714-A66B-F6EEE88FDEEF/54/b85c3e68/TestLambdaLogger.cs" />
       <jump line="25" column="62" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" />
+      <jump line="47" column="35" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" />
+      <jump line="17" column="23" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/CsodRegistrationRepository.cs" />
+      <jump line="8" column="45" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/CsodRegistrationRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>&quot;&quot;test&quot;&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>dbConnection</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1130,7 +1130,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dbConnection</text>
+        <text encoding="base64">PGludD4=</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
@@ -1139,34 +1139,34 @@
         <text>&quot;&quot;test&quot;&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdzsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>.f&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdzsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkRhdGEuU3FsQ2xpZW50Owp1c2luZyBTeXN0ZW0uTGlucTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkRhdGEuU3FsQ2xpZW50Owp1c2luZyBTeXN0ZW0uTGlucTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1180,16 +1180,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQ3liZXJ1LkNzb2RSZWdpc3RyYXRpb247Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -1237,14 +1237,14 @@
         <entry>s/test/param/g</entry>
         <entry>nohl</entry>
         <entry>s/&quot;//g</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoImplementation</entry>
         <entry>reg</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
