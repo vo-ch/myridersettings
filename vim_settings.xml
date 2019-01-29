@@ -39,12 +39,12 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" timestamp="1548778044510">
-        <mark key="'" line="47" column="35" />
-        <mark key="[" line="25" column="129" />
-        <mark key="]" line="25" column="136" />
-        <mark key="^" line="25" column="136" />
-        <mark key="." line="25" column="136" />
+      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" timestamp="1548781733774">
+        <mark key="'" line="48" column="35" />
+        <mark key="[" line="56" column="53" />
+        <mark key="]" line="56" column="53" />
+        <mark key="." line="56" column="53" />
+        <mark key="^" line="56" column="53" />
       </file>
       <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" timestamp="1548776054731">
         <mark key="'" line="38" column="38" />
@@ -390,8 +390,8 @@
       <register name="a" type="4">
         <text>&quot;&quot;test&quot;&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LkxvZ2dlci5Mb2dMaW5lKGUpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -942,43 +942,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>&quot;Error:&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
       </register>
-      <register name="0" type="4">
-        <text>DUPLICATED_UNIQ_CONSTRAINT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LkxvZ2dlci5Mb2dMaW5lKCJFcnJvcjoiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LkxvZ2dlci5Mb2dMaW5lKGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>.f&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGRiLkV4ZWN1dGVBc3luYyhjbWQsIHJlY29yZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdzsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IGRiLkV4ZWN1dGVBc3luYyhjbWQsIHJlY29yZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -992,16 +992,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeQogICAgICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgICAgICAgICB0aHJvdzsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1054,9 +1054,9 @@
         <entry>action CommentByBlockComment</entry>
         <entry>action RenameElement</entry>
         <entry>reg</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
