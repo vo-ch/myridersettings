@@ -77,27 +77,27 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" timestamp="1548864330549">
+      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" timestamp="1548866975456">
         <mark key="'" line="31" column="28" />
-        <mark key="[" line="18" column="58" />
-        <mark key="]" line="18" column="89" />
-        <mark key="^" line="31" column="14" />
-        <mark key="." line="31" column="14" />
+        <mark key="[" line="18" column="92" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/aws-lambda-tools-defaults.json" timestamp="1548863065750">
-        <mark key="[" line="15" column="85" />
-        <mark key="]" line="15" column="84" />
-        <mark key="." line="15" column="84" />
-        <mark key="^" line="15" column="84" />
+        <mark key="[" line="14" column="85" />
+        <mark key="]" line="14" column="84" />
+        <mark key="." line="14" column="84" />
+        <mark key="^" line="14" column="84" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
       </file>
-      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" timestamp="1548863713177">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="70" column="0" />
-        <mark key="." line="71" column="0" />
+      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" timestamp="1548867335375">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="15" column="26" />
       </file>
       <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Utils/EnvironmentUtils.cs" timestamp="1548856575027">
         <mark key="[" line="7" column="75" />
@@ -218,7 +218,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" timestamp="1548623997840">
         <mark key="'" line="24" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548864294304">
+      <file name="/Dummy.txt" timestamp="1548867339206">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -422,8 +422,8 @@
       <register name="a" type="2">
         <text encoding="base64">eyBcInVzZXJJZFwiOiAxMjM0NTY3ODksIFwidXNlckRvbWFpblwiOiBcInRlc3RfdXNlcl9kb21haW4uY29tXCIsIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLCBcImNvdXJzZVRpdGxlXCI6IFwidGVzdF90aXRsZVwiLCBcImluc3RydWN0b3JJZFwiOiA5ODc2NTQzMjEsIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLCBcInB1Ymxpc2hlck93bmVySWRcIjogOTk5OTk5LCBcInB1Ymxpc2hlckZpcnN0TmFtZVwiOiBcInRlc3RcIiwgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwgXCJyZWdpc3RyYXRpb25EYXRlXCI6IFwiMjAwMC0wMS0wMVQwMDowMDowMFwiIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>CyberuPaymentsDbConnectionString</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgQ3liZXJ1LkNzb2RSZWdpc3RyYXRpb24uRGF0YTsK</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -974,16 +974,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiJ1c2VySWQiIjogMTIzNDU2Nzg5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiInVzZXJEb21haW4iIjogIiJ0ZXN0X3VzZXJfZG9tYWluLmNvbSIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiImNvdXJzZVJlbGVhc2VJZCIiOiAiInRlc3RfY291cmVzZV9yZWxfaWQiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiJjb3Vyc2VUaXRsZSIiOiAiInRlc3RfdGl0bGUiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiJpbnN0cnVjdG9ySWQiIjogOTg3NjU0MzIxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiInB1Ymxpc2hlcklkIiI6ICIidGVzdF9wdWJsaXNoZXJfaWQiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiJwdWJsaXNoZXJPd25lcklkIiI6IDk5OTk5OSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIiJwdWJsaXNoZXJGaXJzdE5hbWUiIjogIiJ0ZXN0IiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIicHVibGlzaGVyTGFzdE5hbWUiIjogIiJ0ZXN0IiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIicmVnaXN0cmF0aW9uRGF0ZSIiOiAiIjIwMDAtMDEtMDFUMDA6MDA6MDAiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>CyberuPaymentsDbConnectionString</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyBcInVzZXJJZFwiOiAxMjM0NTY3ODksIFwidXNlckRvbWFpblwiOiBcInRlc3RfdXNlcl9kb21haW4uY29tXCIsIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLCBcImNvdXJzZVRpdGxlXCI6IFwidGVzdF90aXRsZVwiLCBcImluc3RydWN0b3JJZFwiOiA5ODc2NTQzMjEsIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLCBcInB1Ymxpc2hlck93bmVySWRcIjogOTk5OTk5LCBcInB1Ymxpc2hlckZpcnN0TmFtZVwiOiBcInRlc3RcIiwgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwgXCJyZWdpc3RyYXRpb25EYXRlXCI6IFwiMjAwMC0wMS0wMVQwMDowMDowMFwiIH0K</text>
+        <text encoding="base64">dXNpbmcgQ3liZXJ1LkNzb2RSZWdpc3RyYXRpb24uRGF0YTsK</text>
       </register>
       <register name="q" type="4">
         <text>.f&quot;</text>
@@ -1001,16 +1001,16 @@
         <text>imageConstructorMock</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ewogIFwidXNlcklkXCI6IDEyMzQ1Njc4OSwKICBcInVzZXJEb21haW5cIjogXCJ0ZXN0X3VzZXJfZG9tYWluLmNvbVwiLAogIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLAogIFwiY291cnNlVGl0bGVcIjogXCJ0ZXN0X3RpdGxlXCIsCiAgXCJpbnN0cnVjdG9ySWRcIjogOTg3NjU0MzIxLAogIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLAogIFwicHVibGlzaGVyT3duZXJJZFwiOiA5OTk5OTksCiAgXCJwdWJsaXNoZXJGaXJzdE5hbWVcIjogXCJ0ZXN0XCIsCiAgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwKICBcInJlZ2lzdHJhdGlvbkRhdGVcIjogXCIyMDAwLTAxLTAxVDAwOjAwOjAwXCIKfQo=</text>
+        <text encoding="base64">eyBcInVzZXJJZFwiOiAxMjM0NTY3ODksIFwidXNlckRvbWFpblwiOiBcInRlc3RfdXNlcl9kb21haW4uY29tXCIsIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLCBcImNvdXJzZVRpdGxlXCI6IFwidGVzdF90aXRsZVwiLCBcImluc3RydWN0b3JJZFwiOiA5ODc2NTQzMjEsIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLCBcInB1Ymxpc2hlck93bmVySWRcIjogOTk5OTk5LCBcInB1Ymxpc2hlckZpcnN0TmFtZVwiOiBcInRlc3RcIiwgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwgXCJyZWdpc3RyYXRpb25EYXRlXCI6IFwiMjAwMC0wMS0wMVQwMDowMDowMFwiIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ewogIFwidXNlcklkXCI6IDEyMzQ1Njc4OSwKICBcInVzZXJEb21haW5cIjogXCJ0ZXN0X3VzZXJfZG9tYWluLmNvbVwiLAogIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLAogIFwiY291cnNlVGl0bGVcIjogXCJ0ZXN0X3RpdGxlXCIsCiAgXCJpbnN0cnVjdG9ySWRcIjogOTg3NjU0MzIxLAogIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLAogIFwicHVibGlzaGVyT3duZXJJZFwiOiA5OTk5OTksCiAgXCJwdWJsaXNoZXJGaXJzdE5hbWVcIjogXCJ0ZXN0XCIsCiAgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwKICBcInJlZ2lzdHJhdGlvbkRhdGVcIjogXCIyMDAwLTAxLTAxVDAwOjAwOjAwXCIKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U2F2aW5nIHJlZ2lzdHJhdGlvbnMgdG8gcGF5bWVudHMgREIK</text>
+        <text encoding="base64">ewogIFwidXNlcklkXCI6IDEyMzQ1Njc4OSwKICBcInVzZXJEb21haW5cIjogXCJ0ZXN0X3VzZXJfZG9tYWluLmNvbVwiLAogIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLAogIFwiY291cnNlVGl0bGVcIjogXCJ0ZXN0X3RpdGxlXCIsCiAgXCJpbnN0cnVjdG9ySWRcIjogOTg3NjU0MzIxLAogIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLAogIFwicHVibGlzaGVyT3duZXJJZFwiOiA5OTk5OTksCiAgXCJwdWJsaXNoZXJGaXJzdE5hbWVcIjogXCJ0ZXN0XCIsCiAgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwKICBcInJlZ2lzdHJhdGlvbkRhdGVcIjogXCIyMDAwLTAxLTAxVDAwOjAwOjAwXCIKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJmdW5jdGlvbi1uYW1lIiAgICAgICAgOiAiZGV2X0N5YmVydUNzb2RSZWdpc3RyYXRpb24iLAogICAgImZ1bmN0aW9uLXJvbGUiICAgICAgICA6ICJhcm46YXdzOmlhbTo6NTA2MjI2MDIyNDIyOnJvbGUvbGFtYmRhX2Jhc2ljX2V4ZWN1dGlvbiIsCiAgICAidHJhY2luZy1tb2RlIiAgICAgICAgIDogIlBhc3NUaHJvdWdoIiwKICAgICJlbnZpcm9ubWVudC12YXJpYWJsZXMiIDogIiIK</text>
+        <text encoding="base64">U2F2aW5nIHJlZ2lzdHJhdGlvbnMgdG8gcGF5bWVudHMgREIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1024,10 +1024,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZ1bmN0aW9uMiA9IG5ldyBGdW5jdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICJmdW5jdGlvbi1uYW1lIiAgICAgICAgOiAiZGV2X0N5YmVydUNzb2RSZWdpc3RyYXRpb24iLAogICAgImZ1bmN0aW9uLXJvbGUiICAgICAgICA6ICJhcm46YXdzOmlhbTo6NTA2MjI2MDIyNDIyOnJvbGUvbGFtYmRhX2Jhc2ljX2V4ZWN1dGlvbiIsCiAgICAidHJhY2luZy1tb2RlIiAgICAgICAgIDogIlBhc3NUaHJvdWdoIiwKICAgICJlbnZpcm9ubWVudC12YXJpYWJsZXMiIDogIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LkxvZ2dlci5Mb2dMaW5lKCQiRXJyb3I6IHtlfSIpOwogICAgICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZ1bmN0aW9uMiA9IG5ldyBGdW5jdGlvbigpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
