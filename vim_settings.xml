@@ -84,6 +84,11 @@
         <mark key="^" line="31" column="14" />
         <mark key="." line="31" column="14" />
       </file>
+      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/aws-lambda-tools-defaults.json" timestamp="1548859080133">
+        <mark key="[" line="15" column="105" />
+        <mark key="]" line="15" column="105" />
+        <mark key="." line="15" column="105" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
       </file>
@@ -212,10 +217,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" timestamp="1548623997840">
         <mark key="'" line="24" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548857918207">
+      <file name="/Dummy.txt" timestamp="1548859279423">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/C# Console" timestamp="1548779101799">
         <mark key="[" line="0" column="0" />
@@ -274,11 +279,6 @@
       </file>
       <file name="C:/projects/cu-data-reporting/IndexFromKinesisToEsLambda/Utils/Env.cs" timestamp="1548851676805">
         <mark key="'" line="27" column="78" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/stores/MailStore.test.ts" timestamp="1547829302542">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41FF9904-11FC-44E2-ABB3-76207A9A54A4/1d/ff403819/DateTime.cs" timestamp="1548682830749">
         <mark key="'" line="152" column="42" />
@@ -417,8 +417,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jc29kUmVnaXN0cmF0aW9uc1JlcG9zaXRvcnkgPSBuZXcgQ3NvZFJlZ2lzdHJhdGlvblJlcG9zaXRvcnkoIlVzZXIgSUQ9dmNobXV6aDtIb3N0PWxvY2FsaG9zdDtQb3J0PTU0MzI7RGF0YWJhc2U9cGF5bWVudHM7UG9vbGluZz10cnVlOyIpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Cyberu.CsodRegistration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U2F2aW5nIHJlZ2lzdHJhdGlvbnMgdG8gcGF5bWVudHMgREIK</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -969,7 +969,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
@@ -978,34 +978,34 @@
         <text>CsodRegistrationRepository</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZ1bmN0aW9uMiA9IG5ldyBGdW5jdGlvbigpOwo=</text>
+        <text encoding="base64">U2F2aW5nIHJlZ2lzdHJhdGlvbnMgdG8gcGF5bWVudHMgREIK</text>
       </register>
       <register name="q" type="4">
         <text>.f&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LkxvZ2dlci5Mb2dMaW5lKCQiRXJyb3I6IHtlfSIpOwogICAgICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICJmdW5jdGlvbi1uYW1lIiAgICAgICAgOiAiZGV2X0N5YmVydUNzb2RSZWdpc3RyYXRpb24iLAogICAgImZ1bmN0aW9uLXJvbGUiICAgICAgICA6ICJhcm46YXdzOmlhbTo6NTA2MjI2MDIyNDIyOnJvbGUvbGFtYmRhX2Jhc2ljX2V4ZWN1dGlvbiIsCiAgICAidHJhY2luZy1tb2RlIiAgICAgICAgIDogIlBhc3NUaHJvdWdoIiwKICAgICJlbnZpcm9ubWVudC12YXJpYWJsZXMiIDogIiIK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZ1bmN0aW9uMiA9IG5ldyBGdW5jdGlvbigpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUICogRlJPTSBwdWJsaWMuW2Nzb2RfXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjb250ZXh0LkxvZ2dlci5Mb2dMaW5lKCQiRXJyb3I6IHtlfSIpOwogICAgICAgICAgICAgICAgICAgIHRocm93OwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jc29kUmVnaXN0cmF0aW9uc1JlcG9zaXRvcnkgPSBuZXcgQ3NvZFJlZ2lzdHJhdGlvblJlcG9zaXRvcnkoIlVzZXIgSUQ9dmNobXV6aDtIb3N0PWxvY2FsaG9zdDtQb3J0PTU0MzI7RGF0YWJhc2U9cGF5bWVudHM7UG9vbGluZz10cnVlOyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBwdWJsaWMuW2Nzb2RfXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Rlc3RPdXRwdXRIZWxwZXIuV3JpdGVMaW5lKGxvZ2dlci5CdWZmZXIuVG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jc29kUmVnaXN0cmF0aW9uc1JlcG9zaXRvcnkgPSBuZXcgQ3NvZFJlZ2lzdHJhdGlvblJlcG9zaXRvcnkoIlVzZXIgSUQ9dmNobXV6aDtIb3N0PWxvY2FsaG9zdDtQb3J0PTU0MzI7RGF0YWJhc2U9cGF5bWVudHM7UG9vbGluZz10cnVlOyIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1019,10 +1019,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLkV4Y2VwdGlvbiBleCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Rlc3RPdXRwdXRIZWxwZXIuV3JpdGVMaW5lKGxvZ2dlci5CdWZmZXIuVG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
