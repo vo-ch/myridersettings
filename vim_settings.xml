@@ -144,6 +144,9 @@
       <file name="C:/projects/UI-Web/Program.cs" timestamp="1548430785181">
         <mark key="'" line="0" column="6" />
       </file>
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1548956871974">
+        <mark key="'" line="66" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC7049B7-9561-4CAE-A548-2B334B7B0EF7/fe/02b7c5a5/AuthenticationTokenExtensions.cs" timestamp="1548955237145">
         <mark key="'" line="142" column="67" />
       </file>
@@ -295,7 +298,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" timestamp="1548623997840">
         <mark key="'" line="24" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548939064983">
+      <file name="/Dummy.txt" timestamp="1548956752814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -353,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="28" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" />
       <jump line="24" column="84" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" />
       <jump line="61" column="38" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" />
       <jump line="31" column="28" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" />
@@ -453,6 +455,7 @@
       <jump line="305" column="37" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
       <jump line="302" column="38" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
       <jump line="346" column="44" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="66" column="5" filename="C:/projects/UI-Web/appsettings.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1013,7 +1016,7 @@
         <text>var</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>.staging</text>
       </register>
       <register name="0" type="4">
         <text>CyberuPaymentsDbConnectionString</text>
@@ -1069,21 +1072,20 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text encoding="base64">JzwsJz5zLy5zdGFnaW5nLy12Y2htdXpoL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search>.staging</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
-      <last-replace>\\&quot;</last-replace>
-      <last-substitute>&quot;&quot;</last-substitute>
+      <last-pattern>.staging</last-pattern>
+      <last-replace>-vchmuzh</last-replace>
+      <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNTdHJlYW1pbmdTdXBwb3J0XD4=</entry>
         <entry encoding="base64">XDxVQVBhcnNlclw+</entry>
         <entry encoding="base64">XDxodHRwU2VydmljZU1vY2tcPg==</entry>
         <entry encoding="base64">XDxnZXRMaXN0XD4=</entry>
@@ -1103,9 +1105,9 @@
         <entry>AddOpenIdConnect</entry>
         <entry>add</entry>
         <entry>auth</entry>
+        <entry>.staging</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\@createContext/@createErrorContext/g</entry>
         <entry>%s/@createContext/@createErrorContext/g</entry>
         <entry>%s/mockedVariableScope/mockProperty/g</entry>
         <entry>%s/test/param</entry>
@@ -1125,6 +1127,7 @@
         <entry encoding="base64">JzwsJz4lLyIiL1xcIg==</entry>
         <entry encoding="base64">JzwsJz5zLyIiL1xcIi9n</entry>
         <entry>action GotoImplementation</entry>
+        <entry encoding="base64">JzwsJz5zLy5zdGFnaW5nLy12Y2htdXpoL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
