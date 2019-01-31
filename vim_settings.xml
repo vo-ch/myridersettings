@@ -141,6 +141,9 @@
       <file name="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" timestamp="1547131859744">
         <mark key="'" line="391" column="44" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/LRS.API.csproj" timestamp="1548939884106">
+        <mark key="'" line="10" column="47" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/layout/Layout.tsx" timestamp="1545815789337">
         <mark key="'" line="25" column="4" />
       </file>
@@ -328,10 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" />
-      <jump line="45" column="12" filename="C:/projects/Auth-Api/Auth/test/Auth.BusinessLogicLayer.Test/JwtTest.cs" />
-      <jump line="81" column="19" filename="C:/projects/Auth-Api/Auth/test/Auth.BusinessLogicLayer.Test/ExternalUserServiceTests.cs" />
-      <jump line="24" column="19" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" />
       <jump line="7" column="27" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IExternalUserService.cs" />
       <jump line="84" column="64" filename="C:/projects/Auth-Api/Auth/test/Auth.BusinessLogicLayer.Test/ExternalUserServiceTests.cs" />
       <jump line="28" column="40" filename="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" />
@@ -428,6 +427,10 @@
       <jump line="4" column="10" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/ICsodRegistrationRepository.cs" />
       <jump line="82" column="0" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" />
       <jump line="71" column="0" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" />
+      <jump line="17" column="77" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/LRS.API.csproj" />
+      <jump line="22" column="41" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/LRS.API.csproj" />
+      <jump line="33" column="40" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/LRS.API.csproj" />
+      <jump line="10" column="47" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/LRS.API.csproj" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -988,7 +991,7 @@
         <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;&quot;</text>
+        <text>analyze</text>
       </register>
       <register name="0" type="4">
         <text>CyberuPaymentsDbConnectionString</text>
@@ -1048,17 +1051,16 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;&quot;</last-search>
+      <last-search>analyze</last-search>
       <last-offset />
-      <last-pattern>&quot;&quot;</last-pattern>
+      <last-pattern>analyze</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkNhdGVnb3JpZXNMb2FkRmFpbFw+</entry>
         <entry>getSta</entry>
         <entry encoding="base64">XDxjb25maWdTdGF0ZVw+</entry>
         <entry>videoT</entry>
@@ -1078,6 +1080,7 @@
         <entry>Date</entry>
         <entry>/&quot;&quot;/\&quot;/g</entry>
         <entry>&quot;&quot;</entry>
+        <entry>analyze</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\@createContext/@createErrorContext/g</entry>
