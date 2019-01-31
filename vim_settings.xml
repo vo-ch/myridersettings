@@ -67,10 +67,11 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1548941386177">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="12" />
-        <mark key="." line="78" column="12" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1548948352119">
+        <mark key="'" line="8" column="27" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
         <mark key="^" line="78" column="15" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/stores/AllTabStore.ts" timestamp="1545666899348">
@@ -358,8 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="66" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" />
-      <jump line="5" column="4" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/CsodRegistrationRepository.cs" />
       <jump line="20" column="102" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/CsodRegistrationRepository.cs" />
       <jump line="24" column="12" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/CsodRegistrationRepository.cs" />
       <jump line="26" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5aeeaa3c-cc7c-40e8-b9e9-00c2fb6b52b5/paymentsDB.sql" />
@@ -458,13 +457,15 @@
       <jump line="71" column="43" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="91" column="29" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="39" column="55" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
+      <jump line="300" column="67" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="8" column="27" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">eyBcInVzZXJJZFwiOiAxMjM0NTY3ODksIFwidXNlckRvbWFpblwiOiBcInRlc3RfdXNlcl9kb21haW4uY29tXCIsIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLCBcImNvdXJzZVRpdGxlXCI6IFwidGVzdF90aXRsZVwiLCBcImluc3RydWN0b3JJZFwiOiA5ODc2NTQzMjEsIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLCBcInB1Ymxpc2hlck93bmVySWRcIjogOTk5OTk5LCBcInB1Ymxpc2hlckZpcnN0TmFtZVwiOiBcInRlc3RcIiwgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwgXCJyZWdpc3RyYXRpb25EYXRlXCI6IFwiMjAwMC0wMS0wMVQwMDowMDowMFwiIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgSWRlbnRpdHlTZXJ2ZXI0LkFjY2Vzc1Rva2VuVmFsaWRhdGlvbjsK</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1024,19 +1025,19 @@
         <text>CyberuPaymentsDbConnectionString</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgSWRlbnRpdHlTZXJ2ZXI0LkFjY2Vzc1Rva2VuVmFsaWRhdGlvbjsK</text>
       </register>
       <register name="q" type="4">
         <text>.f&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQ3liZXJ1LkNzb2RSZWdpc3RyYXRpb24uRGF0YTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyBcInVzZXJJZFwiOiAxMjM0NTY3ODksIFwidXNlckRvbWFpblwiOiBcInRlc3RfdXNlcl9kb21haW4uY29tXCIsIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLCBcImNvdXJzZVRpdGxlXCI6IFwidGVzdF90aXRsZVwiLCBcImluc3RydWN0b3JJZFwiOiA5ODc2NTQzMjEsIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLCBcInB1Ymxpc2hlck93bmVySWRcIjogOTk5OTk5LCBcInB1Ymxpc2hlckZpcnN0TmFtZVwiOiBcInRlc3RcIiwgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwgXCJyZWdpc3RyYXRpb25EYXRlXCI6IFwiMjAwMC0wMS0wMVQwMDowMDowMFwiIH0K</text>
+        <text encoding="base64">dXNpbmcgQ3liZXJ1LkNzb2RSZWdpc3RyYXRpb24uRGF0YTsK</text>
       </register>
       <register name="s" type="4">
         <text>imageConstructorMock</text>
@@ -1048,7 +1049,7 @@
         <text encoding="base64">eyBcInVzZXJJZFwiOiAxMjM0NTY3ODksIFwidXNlckRvbWFpblwiOiBcInRlc3RfdXNlcl9kb21haW4uY29tXCIsIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLCBcImNvdXJzZVRpdGxlXCI6IFwidGVzdF90aXRsZVwiLCBcImluc3RydWN0b3JJZFwiOiA5ODc2NTQzMjEsIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLCBcInB1Ymxpc2hlck93bmVySWRcIjogOTk5OTk5LCBcInB1Ymxpc2hlckZpcnN0TmFtZVwiOiBcInRlc3RcIiwgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwgXCJyZWdpc3RyYXRpb25EYXRlXCI6IFwiMjAwMC0wMS0wMVQwMDowMDowMFwiIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewogIFwidXNlcklkXCI6IDEyMzQ1Njc4OSwKICBcInVzZXJEb21haW5cIjogXCJ0ZXN0X3VzZXJfZG9tYWluLmNvbVwiLAogIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLAogIFwiY291cnNlVGl0bGVcIjogXCJ0ZXN0X3RpdGxlXCIsCiAgXCJpbnN0cnVjdG9ySWRcIjogOTg3NjU0MzIxLAogIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLAogIFwicHVibGlzaGVyT3duZXJJZFwiOiA5OTk5OTksCiAgXCJwdWJsaXNoZXJGaXJzdE5hbWVcIjogXCJ0ZXN0XCIsCiAgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwKICBcInJlZ2lzdHJhdGlvbkRhdGVcIjogXCIyMDAwLTAxLTAxVDAwOjAwOjAwXCIKfQo=</text>
+        <text encoding="base64">eyBcInVzZXJJZFwiOiAxMjM0NTY3ODksIFwidXNlckRvbWFpblwiOiBcInRlc3RfdXNlcl9kb21haW4uY29tXCIsIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLCBcImNvdXJzZVRpdGxlXCI6IFwidGVzdF90aXRsZVwiLCBcImluc3RydWN0b3JJZFwiOiA5ODc2NTQzMjEsIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLCBcInB1Ymxpc2hlck93bmVySWRcIjogOTk5OTk5LCBcInB1Ymxpc2hlckZpcnN0TmFtZVwiOiBcInRlc3RcIiwgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwgXCJyZWdpc3RyYXRpb25EYXRlXCI6IFwiMjAwMC0wMS0wMVQwMDowMDowMFwiIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ewogIFwidXNlcklkXCI6IDEyMzQ1Njc4OSwKICBcInVzZXJEb21haW5cIjogXCJ0ZXN0X3VzZXJfZG9tYWluLmNvbVwiLAogIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLAogIFwiY291cnNlVGl0bGVcIjogXCJ0ZXN0X3RpdGxlXCIsCiAgXCJpbnN0cnVjdG9ySWRcIjogOTg3NjU0MzIxLAogIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLAogIFwicHVibGlzaGVyT3duZXJJZFwiOiA5OTk5OTksCiAgXCJwdWJsaXNoZXJGaXJzdE5hbWVcIjogXCJ0ZXN0XCIsCiAgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwKICBcInJlZ2lzdHJhdGlvbkRhdGVcIjogXCIyMDAwLTAxLTAxVDAwOjAwOjAwXCIKfQo=</text>
@@ -1065,10 +1066,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U2F2aW5nIHJlZ2lzdHJhdGlvbnMgdG8gcGF5bWVudHMgREIK</text>
+        <text encoding="base64">ewogIFwidXNlcklkXCI6IDEyMzQ1Njc4OSwKICBcInVzZXJEb21haW5cIjogXCJ0ZXN0X3VzZXJfZG9tYWluLmNvbVwiLAogIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLAogIFwiY291cnNlVGl0bGVcIjogXCJ0ZXN0X3RpdGxlXCIsCiAgXCJpbnN0cnVjdG9ySWRcIjogOTg3NjU0MzIxLAogIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLAogIFwicHVibGlzaGVyT3duZXJJZFwiOiA5OTk5OTksCiAgXCJwdWJsaXNoZXJGaXJzdE5hbWVcIjogXCJ0ZXN0XCIsCiAgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwKICBcInJlZ2lzdHJhdGlvbkRhdGVcIjogXCIyMDAwLTAxLTAxVDAwOjAwOjAwXCIKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJmdW5jdGlvbi1uYW1lIiAgICAgICAgOiAiZGV2X0N5YmVydUNzb2RSZWdpc3RyYXRpb24iLAogICAgImZ1bmN0aW9uLXJvbGUiICAgICAgICA6ICJhcm46YXdzOmlhbTo6NTA2MjI2MDIyNDIyOnJvbGUvbGFtYmRhX2Jhc2ljX2V4ZWN1dGlvbiIsCiAgICAidHJhY2luZy1tb2RlIiAgICAgICAgIDogIlBhc3NUaHJvdWdoIiwKICAgICJlbnZpcm9ubWVudC12YXJpYWJsZXMiIDogIiIK</text>
+        <text encoding="base64">U2F2aW5nIHJlZ2lzdHJhdGlvbnMgdG8gcGF5bWVudHMgREIK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
