@@ -68,12 +68,12 @@
         <mark key="^" line="7" column="62" />
         <mark key="." line="7" column="62" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1548955631724">
-        <mark key="'" line="346" column="44" />
-        <mark key="[" line="307" column="34" />
-        <mark key="]" line="307" column="33" />
-        <mark key="." line="307" column="33" />
-        <mark key="^" line="307" column="33" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1549021951646">
+        <mark key="'" line="74" column="8" />
+        <mark key="[" line="240" column="15" />
+        <mark key="]" line="241" column="11" />
+        <mark key="^" line="241" column="11" />
+        <mark key="." line="241" column="11" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/search-subcategory/components/all-tab/stores/AllTabStore.ts" timestamp="1545666899348">
         <mark key="'" line="52" column="94" />
@@ -138,12 +138,12 @@
       <file name="C:/projects/UI-Web/Program.cs" timestamp="1548430785181">
         <mark key="'" line="0" column="6" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1549017183775">
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1549021541402">
         <mark key="'" line="66" column="5" />
-        <mark key="[" line="58" column="25" />
-        <mark key="]" line="58" column="45" />
-        <mark key="." line="58" column="45" />
-        <mark key="^" line="58" column="45" />
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="24" />
+        <mark key="." line="59" column="24" />
+        <mark key="^" line="59" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC7049B7-9561-4CAE-A548-2B334B7B0EF7/fe/02b7c5a5/AuthenticationTokenExtensions.cs" timestamp="1548955237145">
         <mark key="'" line="142" column="67" />
@@ -340,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="38" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" />
       <jump line="31" column="28" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Function.cs" />
       <jump line="4" column="10" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/ICsodRegistrationRepository.cs" />
       <jump line="82" column="0" filename="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration.Tests/FunctionTest.cs" />
@@ -440,13 +439,14 @@
       <jump line="346" column="44" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
       <jump line="66" column="5" filename="C:/projects/UI-Web/appsettings.json" />
       <jump line="13" column="49" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.json" />
+      <jump line="74" column="8" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">eyBcInVzZXJJZFwiOiAxMjM0NTY3ODksIFwidXNlckRvbWFpblwiOiBcInRlc3RfdXNlcl9kb21haW4uY29tXCIsIFwiY291cnNlUmVsZWFzZUlkXCI6IFwidGVzdF9jb3VyZXNlX3JlbF9pZFwiLCBcImNvdXJzZVRpdGxlXCI6IFwidGVzdF90aXRsZVwiLCBcImluc3RydWN0b3JJZFwiOiA5ODc2NTQzMjEsIFwicHVibGlzaGVySWRcIjogXCJ0ZXN0X3B1Ymxpc2hlcl9pZFwiLCBcInB1Ymxpc2hlck93bmVySWRcIjogOTk5OTk5LCBcInB1Ymxpc2hlckZpcnN0TmFtZVwiOiBcInRlc3RcIiwgXCJwdWJsaXNoZXJMYXN0TmFtZVwiOiBcInRlc3RcIiwgXCJyZWdpc3RyYXRpb25EYXRlXCI6IFwiMjAwMC0wMS0wMVQwMDowMDowMFwiIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lrs-vchmuzh.cyberu.io</text>
+        <text>443</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -997,7 +997,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lrs-vchmuzh.cyberu.io</text>
+        <text>443</text>
       </register>
       <register name="/" type="4">
         <text>.staging</text>
