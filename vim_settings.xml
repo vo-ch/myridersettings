@@ -218,6 +218,9 @@
         <mark key="^" line="12" column="100" />
         <mark key="." line="12" column="7" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" timestamp="1549350862555">
+        <mark key="'" line="26" column="25" />
+      </file>
       <file name="C:/projects/UI-Web/Program.cs" timestamp="1548430785181">
         <mark key="'" line="0" column="6" />
       </file>
@@ -339,17 +342,15 @@
       <file name="C:/projects/UI-Web/ClientApp/services/ui/ResponsiveWindowSizeService.ts" timestamp="1547561058273">
         <mark key="'" line="30" column="39" />
       </file>
-      <file name="C:/projects/UI-Web/Utils/Http/HttpClientExtensions.cs" timestamp="1549268405452">
-        <mark key="'" line="11" column="101" />
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="43" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Payments/ICsodRegistrationsService.cs" timestamp="1549291985371">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="45" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/final-quiz/stores/CourseBuilderFinalQuizStore.ts" timestamp="1545661915060">
         <mark key="'" line="43" column="4" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" timestamp="1549350831509">
+        <mark key="'" line="32" column="38" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/CommandBase'.cs" timestamp="1548945479615">
         <mark key="'" line="2" column="49" />
@@ -400,11 +401,6 @@
         <mark key="'" line="37" column="91" />
         <mark key="[" line="250" column="20" />
         <mark key="]" line="250" column="115" />
-      </file>
-      <file name="C:/projects/CyberU.Registrations/Cyberu.CsodRegistration/Data/Model/CsodRegistration.cs" timestamp="1549290494815">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="19" column="5" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.Aicc/AiccSettings.cs" timestamp="1549297046379">
         <mark key="'" line="6" column="28" />
@@ -480,13 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="19" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/VideoCompletionOption.cs" />
-      <jump line="79" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="313" column="18" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="353" column="23" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="24" column="77" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Payments/RegistrationsService.cs" />
-      <jump line="34" column="11" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/0f/3581e275/AuthenticationHeaderValue.cs" />
-      <jump line="4" column="17" filename="C:/projects/UI-Web/ViewModels/Sitemap/JsonApiResponseItem.cs" />
       <jump line="16" column="29" filename="C:/projects/UI-Web/Utils/Http/HttpClientExtensions.cs" />
       <jump line="11" column="22" filename="C:/projects/UI-Web/ViewModels/Sitemap/BaseJsonApiEntity.cs" />
       <jump line="26" column="36" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccIniParserService.cs" />
@@ -580,6 +569,13 @@
       <jump line="44" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="39" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="63" column="12" filename="C:/projects/UI-Web/appsettings.json" />
+      <jump line="43" column="50" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
+      <jump line="32" column="38" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="11" column="17" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/CourseBuilder.cs" />
+      <jump line="26" column="25" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/FinalQuizBuilder.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
