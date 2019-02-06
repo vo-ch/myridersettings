@@ -95,9 +95,9 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1549364262727">
         <mark key="'" line="98" column="26" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1549383808453">
-        <mark key="'" line="235" column="20" />
-        <mark key="[" line="7" column="0" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1549451478985">
+        <mark key="'" line="113" column="24" />
+        <mark key="[" line="86" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="85" column="88" />
@@ -441,9 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="28" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/AiccSettings.cs" />
-      <jump line="68" column="30" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
-      <jump line="79" column="57" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
       <jump line="85" column="72" filename="C:/projects/Auth-Api/Auth/src/Auth.Aicc/Handler/AiccHandler.cs" />
       <jump line="10" column="16" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/Models/AiccContext.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD5444E0-752F-4A0E-AF30-C336FCE6DDE6/d4/c253d35c/Uri.cs" />
@@ -541,6 +538,9 @@
       <jump line="20" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Payments/ICsodRegistrationsService.cs" />
       <jump line="180" column="79" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Payments/ICsodRegistrationsService.cs" />
+      <jump line="86" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="113" column="24" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/102886C9-99A7-4352-8748-69B309C42662/2a/a4a5a1f1/HttpClientFactoryServiceCollectionExtensions.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1101,7 +1101,7 @@
         <text>istration msg when user start making progression</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbnN1cmVVc2VySXNSZWdpc3RlcmVkRm9yQ291cnNlXD4=</text>
+        <text>AddHtt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIFNlbmQgY3NvZCByZWdpc3RyYXRpb24gbWVzc2FnZSB0byBzcXMgcXVldWUKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0icmVnaXN0cmF0aW9uIj48L3BhcmFtPgogICAgICAgIC8vLyA8cmV0dXJucz48L3JldHVybnM+Cg==</text>
@@ -1193,9 +1193,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbnN1cmVVc2VySXNSZWdpc3RlcmVkRm9yQ291cnNlXD4=</last-search>
+      <last-search>AddHtt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbnN1cmVVc2VySXNSZWdpc3RlcmVkRm9yQ291cnNlXD4=</last-pattern>
+      <last-pattern>AddHtt</last-pattern>
       <last-replace>-vchmuzh</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -1203,7 +1203,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
         <entry>auth</entry>
         <entry>.staging</entry>
         <entry>AddAuth</entry>
@@ -1223,6 +1222,7 @@
         <entry>configure(</entry>
         <entry>connected</entry>
         <entry encoding="base64">XDxFbnN1cmVVc2VySXNSZWdpc3RlcmVkRm9yQ291cnNlXD4=</entry>
+        <entry>AddHtt</entry>
       </history-search>
       <history-cmd>
         <entry>%s/@createContext/@createErrorContext/g</entry>
