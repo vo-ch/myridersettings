@@ -480,19 +480,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" timestamp="1549472681321">
-        <mark key="'" line="13" column="40" />
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="64" column="27" />
-        <mark key="." line="64" column="27" />
-        <mark key="^" line="64" column="26" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" timestamp="1549483940291">
+        <mark key="'" line="70" column="45" />
+        <mark key="[" line="70" column="16" />
+        <mark key="]" line="70" column="32" />
+        <mark key="." line="70" column="32" />
+        <mark key="^" line="70" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="113" column="24" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/102886C9-99A7-4352-8748-69B309C42662/2a/a4a5a1f1/HttpClientFactoryServiceCollectionExtensions.cs" />
-      <jump line="29" column="46" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B47B422-BC4C-4615-BBDE-BE1DF9B21B0D/50/24a65e8e/ServiceProviderServiceExtensions.cs" />
       <jump line="12" column="24" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" />
       <jump line="15" column="12" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" />
@@ -579,7 +575,6 @@
       <jump line="160" column="66" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Services/QuizAnswerServiceTests.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
       <jump line="156" column="12" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/096F5552-39DF-4E70-AD1A-11EB1BE7D14B/18/faa4351b/IMongoCollectionExtensions.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/096F5552-39DF-4E70-AD1A-11EB1BE7D14B/27/9dc10352/IFindFluentExtensions.cs" />
       <jump line="49" column="34" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
       <jump line="488" column="30" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/096F5552-39DF-4E70-AD1A-11EB1BE7D14B/ad/1a38a11b/IMongoCollection`1.cs" />
@@ -589,13 +584,18 @@
       <jump line="50" column="25" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
       <jump line="13" column="40" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Helpers/PaginatorTests.cs" />
+      <jump line="65" column="32" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/096F5552-39DF-4E70-AD1A-11EB1BE7D14B/18/faa4351b/IMongoCollectionExtensions.cs" />
+      <jump line="66" column="43" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
+      <jump line="70" column="45" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
+      <jump line="29" column="78" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>handler.ExecuteAsync(command, CancellationToken.None</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Result</text>
+        <text>findReturnsResultAsync</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1146,13 +1146,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Result</text>
+        <text>findReturnsResultAsync</text>
       </register>
       <register name="/" type="4">
         <text>Find(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpbmRSZXR1cm5zUmVzdWx0QXN5bmMgPSBjb2xsZWN0aW9uCiAgICAgICAgICAgICAgICAuU2V0dXAobSA9PiBtLkZpbmRBc3luYyhJdC5Jc0FueTxGaWx0ZXJEZWZpbml0aW9uPFQ+PigpLCBJdC5Jc0FueTxGaW5kT3B0aW9uczxULCBUPj4oKSwgSXQuSXNBbnk8Q2FuY2VsbGF0aW9uVG9rZW4+KCkpKQogICAgICAgICAgICAgICAgLlJldHVybnMoVGFzay5Gcm9tUmVzdWx0KEdldEZha2VGaW5kKHNvdXJjZSkuVG9DdXJzb3IoKSkpOwogICAgICAgICAgICBpZiAoZmluZENhbGxiYWNrICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGZpbmRSZXR1cm5zUmVzdWx0QXN5bmMuQ2FsbGJhY2soZmluZENhbGxiYWNrKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>findReturnsResult</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5MaW5xOwp1c2luZyBMUlMuQVBJLkhlbHBlcnM7CnVzaW5nIExSUy5BUEkuTW9kZWxzOwp1c2luZyBMUlMuQVBJLk1vbmdvOwp1c2luZyBMUlMuQVBJLkxSUy5BUEkuVGVzdHMuVXRpbGl0eTsKdXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsKdXNpbmcgTW9xOwp1c2luZyBYdW5pdDsKCm5hbWVzcGFjZSBMUlMuQVBJLkxSUy5BUEkuVGVzdHMuSGVscGVycwp7CiAgICBwdWJsaWMgY2xhc3MgUGFnaW5hdG9yVGVzdHMKICAgIHsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8TW9uZ29EYkNvbnRleHQ+IGxvZ2dlcjsKICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBMaXN0PFZlcmI+IHZlcmJzID0gbmV3IExpc3Q8VmVyYj4oKQogICAgICAgIHsKICAgICAgICAgICAgbmV3IFZlcmIoKSB7RGVzY3JpcHRpb24gPSAiMSJ9LAogICAgICAgICAgICBuZXcgVmVyYigpIHtEZXNjcmlwdGlvbiA9ICIyIn0sCiAgICAgICAgICAgIG5ldyBWZXJiKCkge0Rlc2NyaXB0aW9uID0gIjMifQogICAgICAgIH07CgogICAgICAgIHB1YmxpYyBQYWdpbmF0b3JUZXN0cygpCiAgICAgICAgewogICAgICAgICAgICB0aGlzLmxvZ2dlciA9IG5ldyBNb2NrPElMb2dnZXI8TW9uZ29EYkNvbnRleHQ+PigpLk9iamVjdDsKICAgICAgICB9CgogICAgICAgIFtGYWN0XQogICAgICAgIHB1YmxpYyB2b2lkIFBhZ2luYXRvcl9JbmNvcnJlY3RQYWdlU2l6ZV9TaG91bGRDb3JyZWN0KCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBpdGVtcyA9IE1vbmdvSGVscGVycy5HZXRGYWtlRmluZCh2ZXJicyk7Cg==</text>
@@ -1237,7 +1237,7 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1290,9 +1290,9 @@
         <entry encoding="base64">JzwsJz5zLy5zdGFnaW5nLy12Y2htdXpoL2c=</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action RenameElement</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>reg</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
