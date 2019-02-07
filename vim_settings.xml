@@ -480,18 +480,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" timestamp="1549483940291">
-        <mark key="'" line="70" column="45" />
-        <mark key="[" line="70" column="16" />
-        <mark key="]" line="70" column="32" />
-        <mark key="." line="70" column="32" />
-        <mark key="^" line="70" column="32" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" timestamp="1549522457362">
+        <mark key="'" line="46" column="11" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B47B422-BC4C-4615-BBDE-BE1DF9B21B0D/50/24a65e8e/ServiceProviderServiceExtensions.cs" />
-      <jump line="12" column="24" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" />
-      <jump line="15" column="12" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" />
       <jump line="33" column="39" filename="C:/projects/Accounting/Infra/Accounting.Authentication/Handlers/ClientAuthenticationHandler.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8BD3D91B-B1DB-4319-8C9E-DBDF21084EDA/4/HttpRequestMessageExtensions.cs" />
       <jump line="34" column="25" filename="C:/projects/Accounting/Infra/Accounting.Authentication/Handlers/ClientAuthenticationHandler.cs" />
@@ -575,7 +572,6 @@
       <jump line="160" column="66" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Services/QuizAnswerServiceTests.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
       <jump line="156" column="12" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/096F5552-39DF-4E70-AD1A-11EB1BE7D14B/27/9dc10352/IFindFluentExtensions.cs" />
       <jump line="49" column="34" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
       <jump line="488" column="30" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/096F5552-39DF-4E70-AD1A-11EB1BE7D14B/ad/1a38a11b/IMongoCollection`1.cs" />
       <jump line="115" column="38" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
@@ -589,13 +585,17 @@
       <jump line="66" column="43" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
       <jump line="70" column="45" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
       <jump line="29" column="78" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/096F5552-39DF-4E70-AD1A-11EB1BE7D14B/27/9dc10352/IFindFluentExtensions.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/5b/5fef15a3/Task.cs" />
+      <jump line="24" column="79" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
+      <jump line="44" column="11" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>handler.ExecuteAsync(command, CancellationToken.None</text>
       </register>
       <register name="&quot;" type="4">
-        <text>findReturnsResultAsync</text>
+        <text>CompletedTask</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1146,16 +1146,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>findReturnsResultAsync</text>
+        <text>CompletedTask</text>
       </register>
       <register name="/" type="4">
         <text>Find(</text>
       </register>
-      <register name="0" type="4">
-        <text>findReturnsResult</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbW9ja0lmaW5kRmx1ZW50LlNldHVwKGkgPT4gaS5Ub0N1cnNvcihkZWZhdWx0KENhbmNlbGxhdGlvblRva2VuKSkpLlJldHVybnMoY3Vyc29yLk9iamVjdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5MaW5xOwp1c2luZyBMUlMuQVBJLkhlbHBlcnM7CnVzaW5nIExSUy5BUEkuTW9kZWxzOwp1c2luZyBMUlMuQVBJLk1vbmdvOwp1c2luZyBMUlMuQVBJLkxSUy5BUEkuVGVzdHMuVXRpbGl0eTsKdXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsKdXNpbmcgTW9xOwp1c2luZyBYdW5pdDsKCm5hbWVzcGFjZSBMUlMuQVBJLkxSUy5BUEkuVGVzdHMuSGVscGVycwp7CiAgICBwdWJsaWMgY2xhc3MgUGFnaW5hdG9yVGVzdHMKICAgIHsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8TW9uZ29EYkNvbnRleHQ+IGxvZ2dlcjsKICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBMaXN0PFZlcmI+IHZlcmJzID0gbmV3IExpc3Q8VmVyYj4oKQogICAgICAgIHsKICAgICAgICAgICAgbmV3IFZlcmIoKSB7RGVzY3JpcHRpb24gPSAiMSJ9LAogICAgICAgICAgICBuZXcgVmVyYigpIHtEZXNjcmlwdGlvbiA9ICIyIn0sCiAgICAgICAgICAgIG5ldyBWZXJiKCkge0Rlc2NyaXB0aW9uID0gIjMifQogICAgICAgIH07CgogICAgICAgIHB1YmxpYyBQYWdpbmF0b3JUZXN0cygpCiAgICAgICAgewogICAgICAgICAgICB0aGlzLmxvZ2dlciA9IG5ldyBNb2NrPElMb2dnZXI8TW9uZ29EYkNvbnRleHQ+PigpLk9iamVjdDsKICAgICAgICB9CgogICAgICAgIFtGYWN0XQogICAgICAgIHB1YmxpYyB2b2lkIFBhZ2luYXRvcl9JbmNvcnJlY3RQYWdlU2l6ZV9TaG91bGRDb3JyZWN0KCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBpdGVtcyA9IE1vbmdvSGVscGVycy5HZXRGYWtlRmluZCh2ZXJicyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1193,25 +1193,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQWN0ICYgQXNzZXJ0CiAgICAgICAgICAgIGF3YWl0IEFzc2VydC5UaHJvd3NBc3luYzxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+ICkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text>handler.ExecuteAsync(command, CancellationToken.None</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGFzazxUPiBmaXJzdEl0ZW1SZXN1bHQgPSBUYXNrLkNvbXBsZXRlZFRhc2s7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>csodRegistrationsService</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5MaW5xOwp1c2luZyBMUlMuQVBJLkhlbHBlcnM7CnVzaW5nIExSUy5BUEkuTW9kZWxzOwp1c2luZyBMUlMuQVBJLk1vbmdvOwp1c2luZyBMUlMuQVBJLkxSUy5BUEkuVGVzdHMuVXRpbGl0eTsKdXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsKdXNpbmcgTW9xOwp1c2luZyBYdW5pdDsKCm5hbWVzcGFjZSBMUlMuQVBJLkxSUy5BUEkuVGVzdHMuSGVscGVycwp7CiAgICBwdWJsaWMgY2xhc3MgUGFnaW5hdG9yVGVzdHMKICAgIHsKICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8TW9uZ29EYkNvbnRleHQ+IGxvZ2dlcjsKICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBMaXN0PFZlcmI+IHZlcmJzID0gbmV3IExpc3Q8VmVyYj4oKQogICAgICAgIHsKICAgICAgICAgICAgbmV3IFZlcmIoKSB7RGVzY3JpcHRpb24gPSAiMSJ9LAogICAgICAgICAgICBuZXcgVmVyYigpIHtEZXNjcmlwdGlvbiA9ICIyIn0sCiAgICAgICAgICAgIG5ldyBWZXJiKCkge0Rlc2NyaXB0aW9uID0gIjMifQogICAgICAgIH07CgogICAgICAgIHB1YmxpYyBQYWdpbmF0b3JUZXN0cygpCiAgICAgICAgewogICAgICAgICAgICB0aGlzLmxvZ2dlciA9IG5ldyBNb2NrPElMb2dnZXI8TW9uZ29EYkNvbnRleHQ+PigpLk9iamVjdDsKICAgICAgICB9CgogICAgICAgIFtGYWN0XQogICAgICAgIHB1YmxpYyB2b2lkIFBhZ2luYXRvcl9JbmNvcnJlY3RQYWdlU2l6ZV9TaG91bGRDb3JyZWN0KCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBpdGVtcyA9IE1vbmdvSGVscGVycy5HZXRGYWtlRmluZCh2ZXJicyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGFjY2Vzc1Rva2VuID0gSHR0cENvbnRleHQuR2V0QWNjZXNzVG9rZW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQWN0ICYgQXNzZXJ0CiAgICAgICAgICAgIGF3YWl0IEFzc2VydC5UaHJvd3NBc3luYzxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+ICkpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5CeUFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKTsK</text>
+      <register name="6" type="4">
+        <text>handler.ExecuteAsync(command, CancellationToken.None</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1228,10 +1228,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2F2ZUNvdXJzZVByb2dyZXNzaW9uQ29tbWFuZCBCeUFjY2Vzc1Rva2VuKHN0cmluZyBhY2Nlc3NUb2tlbikKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGFjY2Vzc1Rva2VuID0gSHR0cENvbnRleHQuR2V0QWNjZXNzVG9rZW4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FjY2Vzc1Rva2VuID0gYWNjZXNzVG9rZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5CeUFjY2Vzc1Rva2VuKGFjY2Vzc1Rva2VuKTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
