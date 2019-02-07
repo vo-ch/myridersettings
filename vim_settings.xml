@@ -50,11 +50,8 @@
         <mark key="'" line="0" column="9" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1549471789117">
-        <mark key="'" line="115" column="38" />
-        <mark key="[" line="50" column="26" />
-        <mark key="]" line="50" column="51" />
-        <mark key="." line="175" column="0" />
-        <mark key="^" line="179" column="64" />
+        <mark key="." line="205" column="0" />
+        <mark key="^" line="209" column="64" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/MongoDbRunnerFixture.cs" timestamp="1549365675249">
         <mark key="'" line="10" column="17" />
@@ -315,7 +312,7 @@
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" timestamp="1547137122939">
         <mark key="'" line="100" column="17" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" timestamp="1549537308078">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" timestamp="1549545022318">
         <mark key="'" line="42" column="69" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -393,10 +390,10 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" timestamp="1549543574251">
         <mark key="'" line="13" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549462891287">
+      <file name="/Dummy.txt" timestamp="1549545030772">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" timestamp="1549538936571">
         <mark key="'" line="14" column="38" />
@@ -563,7 +560,7 @@
         <text>handler.ExecuteAsync(command, CancellationToken.None</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AICC</text>
+        <text encoding="base64">IGZpeCBjb21tZW50cyBpbiBQUiBodHRwczovL2dpdGh1Yi5jb20vQ3liZXJVL0xSUy1BcGkvcHVsbC8zNDk=</text>
       </register>
       <register name="d" type="4">
         <text>unmockImage</text>
@@ -1114,7 +1111,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AICC</text>
+        <text encoding="base64">IGZpeCBjb21tZW50cyBpbiBQUiBodHRwczovL2dpdGh1Yi5jb20vQ3liZXJVL0xSUy1BcGkvcHVsbC8zNDk=</text>
       </register>
       <register name="/" type="4">
         <text>Find(</text>
