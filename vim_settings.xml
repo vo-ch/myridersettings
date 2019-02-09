@@ -591,8 +591,8 @@
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Program.cs" timestamp="1548430893557">
         <mark key="'" line="1" column="9" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" timestamp="1549731781413">
-        <mark key="'" line="126" column="0" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" timestamp="1549731997596">
+        <mark key="'" line="45" column="0" />
         <mark key="[" line="108" column="20" />
         <mark key="]" line="108" column="41" />
         <mark key="." line="108" column="20" />
@@ -686,17 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="131" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="204" column="131" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="228" column="131" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="248" column="131" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="269" column="131" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="290" column="131" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="316" column="12" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="38" column="74" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="232" column="33" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/ProcessorHelper.cs" />
-      <jump line="399" column="28" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="252" column="34" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" />
       <jump line="99" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="395" column="21" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
@@ -778,14 +767,25 @@
       <jump line="88" column="49" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
       <jump line="42" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
       <jump line="105" column="49" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
-      <jump line="97" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
-      <jump line="100" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="137" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
       <jump line="131" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
-      <jump line="103" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
-      <jump line="108" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
-      <jump line="113" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
-      <jump line="118" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
       <jump line="126" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="118" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="113" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="108" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="103" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="100" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="97" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="94" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="87" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="80" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="74" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="61" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="55" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="52" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="33" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="37" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
+      <jump line="45" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Filters/CyberUExceptionFilter.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
