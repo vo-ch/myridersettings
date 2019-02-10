@@ -525,12 +525,12 @@
       <file name="C:/projects/Accounting/Infra/Accounting.Authentication/Handlers/ClientAuthenticationHandler.cs" timestamp="1549460292376">
         <mark key="'" line="67" column="17" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Payments/AccountingService.cs" timestamp="1549806277679">
-        <mark key="'" line="44" column="34" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="44" column="35" />
-        <mark key="." line="1" column="0" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Payments/AccountingService.cs" timestamp="1549830969220">
+        <mark key="'" line="45" column="34" />
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="51" />
+        <mark key="^" line="45" column="51" />
+        <mark key="." line="45" column="51" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
@@ -819,7 +819,7 @@
         <text>CreateResponseForBadGatewayException</text>
       </register>
       <register name="&quot;" type="4">
-        <text>errorCode</text>
+        <text>Exception</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1370,7 +1370,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>errorCode</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>Except</text>
