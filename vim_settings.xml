@@ -82,10 +82,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" timestamp="1549032726083">
         <mark key="'" line="20" column="8" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/CyberUInternalException.cs" timestamp="1549811499078">
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/CyberUInternalException.cs" timestamp="1549907202722">
         <mark key="'" line="6" column="32" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="87" />
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="39" />
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="36" />
       </file>
@@ -262,8 +262,12 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="97" column="90" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/CyberUExceptionFilterTests.cs" timestamp="1549808094030">
-        <mark key="'" line="83" column="40" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/CyberUExceptionFilterTests.cs" timestamp="1549907893832">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="100" column="70" />
+        <mark key="]" line="100" column="79" />
+        <mark key="^" line="100" column="79" />
+        <mark key="." line="100" column="79" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A1F7413-1A03-4EAD-A38B-532DCB6C7114/e6/72194d34/AmazonServiceException.cs" timestamp="1549643419649">
         <mark key="'" line="19" column="40" />
@@ -674,10 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="171" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="176" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="179" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
       <jump line="190" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
       <jump line="196" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
       <jump line="203" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
@@ -774,13 +774,17 @@
       <jump line="126" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
       <jump line="147" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
       <jump line="171" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
+      <jump line="57" column="23" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/CyberUExceptionFilterTests.cs" />
+      <jump line="200" column="21" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/CyberUExceptionFilterTests.cs" />
+      <jump line="115" column="8" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/CyberUExceptionFilterTests.cs" />
+      <jump line="102" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/CyberUExceptionFilterTests.cs" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9jazxJQW1hem9uU1FTPiBzcXNDbGllbnQgPSBfdGVzdFNlcnZlci5Ib3N0LlNlcnZpY2VzLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElBbWF6b25TUVM+PigpOwo=</text>
+      <register name="a" type="4">
+        <text>CyberUInternalException</text>
       </register>
       <register name="&quot;" type="4">
-        <text>BadGateway</text>
+        <text>InternalError</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1331,16 +1335,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BadGateway</text>
+        <text>InternalError</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICAgICAgICAgICAgU2F2ZUNvdXJzZVByb2dyZXNzaW9uUmVxdWVzdCByZXF1ZXN0ID0gU2F2ZUNvdXJzZVByb2dyZXNzaW9uUmVxdWVzdE1vdGhlci5DcmVhdGVGcm9tQ291cnNlKGNvdXJzZSkuQnVpbGQoKTs=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKEh0dHBTdGF0dXNDb2RlLk9LLCByZXNwb25zZS5TdGF0dXNDb2RlKTsKICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsKICAgICAgICAgICAgdmFyIGRhdGEgPSBKc29uSGVscGVyLkRlc2VyaWFsaXplT2JqZWN0PFNhdmVDb3Vyc2VQcm9ncmVzc2lvblJlc3BvbnNlPihyZXNwb25zZUNvbnRlbnQpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShkYXRhLklzQ291cnNlQ29tcGxldGVkKTsK</text>
+      <register name="0" type="4">
+        <text>CyberUBadGatewayException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1353,28 +1357,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBKc29uSGVscGVyLkRlc2VyaWFsaXplT2JqZWN0PEN5YmVyVUVycm9yUmVzcG9uc2U+KHJlc3BvbnNlQ29udGVudCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbChkYXRhLkNvZGUsIChpbnQpRXhjZXB0aW9uRW51bXMuR2xvYmFsLkJhZEdhdGV3YXkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoZGF0YS5NZXNzYWdlLCBleGNlcHRpb25NZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>AiccServiceFake</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBKc29uSGVscGVyLkRlc2VyaWFsaXplT2JqZWN0PEN5YmVyVUVycm9yUmVzcG9uc2U+KHJlc3BvbnNlQ29udGVudCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbChkYXRhLkNvZGUsIChpbnQpRXhjZXB0aW9uRW51bXMuR2xvYmFsLkJhZEdhdGV3YXkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoZGF0YS5NZXNzYWdlLCBleGNlcHRpb25NZXNzYWdlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc3RyaW5nIGV4Y2VwdGlvbk1lc3NhZ2UgPSAiVGhlIHNwZWNpZmllZCBxdWV1ZSBkb2VzIG5vdCBleGlzdCBmb3IgdGhpcyB3c2RsIHZlcnNpb24uIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgUGVyc2lzdENvdXJzZShjb3Vyc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc3RyaW5nIGV4Y2VwdGlvbk1lc3NhZ2UgPSAiVGhlIHNwZWNpZmllZCBxdWV1ZSBkb2VzIG5vdCBleGlzdCBmb3IgdGhpcyB3c2RsIHZlcnNpb24uIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoT25lRG9jdW1lbnRBY3Rpdml0eSgpLkJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgUGVyc2lzdENvdXJzZShjb3Vyc2UpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1388,7 +1392,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cENsaWVudCB0ZXN0Q2xpZW50ID0gQ3JlYXRlQ2xpZW50KGNvdXJzZS5Vc2VySWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoT25lRG9jdW1lbnRBY3Rpdml0eSgpLkJ1aWxkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSHR0cENsaWVudCB0ZXN0Q2xpZW50ID0gQ3JlYXRlQ2xpZW50KGNvdXJzZS5Vc2VySWQpOwo=</text>
