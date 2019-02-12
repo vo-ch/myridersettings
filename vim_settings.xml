@@ -53,6 +53,11 @@
       <file name="C:/projects/UI-Web/ClientApp/views/enterprise/views/enterprise/CourseCatalogPageEnterprise.tsx" timestamp="1545667761292">
         <mark key="'" line="51" column="33" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Fakes/IFakeMongoCollection.cs" timestamp="1549570685271">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1FEDC1EB-9253-4630-BE72-6C22E52550AB/c9/5073f188/OptionsConfigurationServiceCollectionExtensions.cs" timestamp="1549567602460">
         <mark key="'" line="86" column="21" />
       </file>
@@ -345,6 +350,11 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Processors/ServiceProviderHandlerResolver.cs" timestamp="1548945338031">
         <mark key="'" line="27" column="60" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/ConnectedServicesOption.cs" timestamp="1549462274096">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Helpers/AiccHelper.cs" timestamp="1549377028773">
         <mark key="'" line="19" column="25" />
       </file>
@@ -501,6 +511,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/58E37E34-042E-44B0-93FF-C4FF35717C84/9d/5dc32f06/AuthenticationService.cs" timestamp="1549032055707">
         <mark key="'" line="59" column="59" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Pagination/JsonApi/JsonApiPaginatedResponce.cs" timestamp="1549268011930">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Controllers/V1/StatementControllerTests.cs" timestamp="1549552955347">
         <mark key="'" line="75" column="17" />
         <mark key="[" line="30" column="21" />
@@ -551,12 +566,12 @@
         <mark key="^" line="132" column="69" />
         <mark key="." line="132" column="69" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1549990037178">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1549992236373">
         <mark key="'" line="28" column="47" />
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="16" column="37" />
+        <mark key="[" line="45" column="1" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="35" column="24" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1545669553445">
         <mark key="'" line="363" column="57" />
@@ -566,6 +581,11 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" timestamp="1549831255146">
         <mark key="'" line="34" column="67" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1549992136487">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Fakes/FakeHttpResponse.cs" timestamp="1549989980216">
         <mark key="[" line="6" column="35" />
@@ -636,7 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="57" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/CyberUInternalException.cs" />
       <jump line="19" column="53" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/CyberUInternalException.cs" />
       <jump line="9" column="14" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Enums/ExceptionEnums.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/CyberUException.cs" />
@@ -736,13 +755,14 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E7AF0D8-B5A6-4542-8C8D-39B661C54DFB/cc/587bfc62/ResponseExtensions.cs" />
       <jump line="25" column="47" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
       <jump line="62" column="33" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" />
+      <jump line="0" column="0" filename="/SqsEventMother.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">SVN5c3RlbU1lc3NlbmdlcjxDeWJlclVFeGNlcHRpb25NaWRkbGV3YXJlPg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCgoK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1293,7 +1313,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>clear</text>
@@ -1302,7 +1322,7 @@
         <text encoding="base64">ICAgICAgICAgICAgX2h0dHBDb250ZXh0TW9jayA9IG5ldyBNb2NrPEh0dHBDb250ZXh0PigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1315,28 +1335,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBUYXNrLkNvbXBsZXRlZFRhc2s7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEh0dHBDb250ZXh0KAogICAgICAgICAgICAgICAgbmV3IEh0dHBSZXF1ZXN0KCIiLCAiaHR0cDovL3RlbXB1cmkub3JnIiwgIiIpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>AiccServiceFake</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2h0dHBDb250ZXh0TW9jay5PYmplY3QuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN0eCA9IG5ldyBIdHRwQ29udGV4dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXhjZXB0aW9uIGV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEh0dHBDb250ZXh0KAogICAgICAgICAgICAgICAgbmV3IEh0dHBSZXF1ZXN0KCIiLCAiaHR0cDovL3RlbXB1cmkub3JnIiwgIiIpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXhjZXB0aW9uIGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2h0dHBDb250ZXh0TW9jay5PYmplY3QuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1350,10 +1370,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN0eCA9IG5ldyBIdHRwQ29udGV4dCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXhjZXB0aW9uIGV4Y2VwdGlvbgo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
