@@ -103,10 +103,10 @@
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/Legacy/AICCDomain.cs" timestamp="1549295448893">
         <mark key="'" line="4" column="23" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" timestamp="1550067451727">
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" timestamp="1550069480652">
         <mark key="'" line="57" column="39" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="41" />
         <mark key="." line="64" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1549364262727">
@@ -585,12 +585,12 @@
         <mark key="^" line="132" column="69" />
         <mark key="." line="132" column="69" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1550068232111">
-        <mark key="'" line="45" column="39" />
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="67" />
-        <mark key="." line="31" column="67" />
-        <mark key="^" line="31" column="67" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1550069539514">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="19" column="15" />
+        <mark key="^" line="19" column="15" />
+        <mark key="." line="19" column="15" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1545669553445">
         <mark key="'" line="363" column="57" />
@@ -682,8 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="41" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
-      <jump line="34" column="67" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" />
       <jump line="180" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
       <jump line="186" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
       <jump line="189" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
@@ -782,13 +780,15 @@
       <jump line="43" column="123" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/c8/e5e17cdc/DefaultHttpResponse.cs" />
       <jump line="17" column="75" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/c8/e5e17cdc/DefaultHttpResponse.cs" />
       <jump line="57" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" />
+      <jump line="79" column="8" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
+      <jump line="85" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>&quot;Test exception&quot;</text>
+      <register name="a" type="2">
+        <text encoding="base64">CiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2sgSW52b2tlX0dvdEV4Y2VwdGlvbl9TaG91bGRXcml0ZUJhZFJlc3BvbnNlQm9keSgpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIGNvbnN0IHN0cmluZyBleGNlcHRpb25UZXh0ID0gIlRlc3QgZXhjZXB0aW9uIjsKCiAgICAgICAgICAgIFRhc2sgUmVxRGVsZWdhdGUoSHR0cENvbnRleHQgY29udGV4dCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbihleGNlcHRpb25UZXh0KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdmFyIG1pZGRsZXdhcmUgPSBuZXcgQ3liZXJVRXhjZXB0aW9uTWlkZGxld2FyZShSZXFEZWxlZ2F0ZSk7CiAgICAgICAgICAgIHZhciBodHRwQ29udGV4dCA9IG5ldyBEZWZhdWx0SHR0cENvbnRleHQoKTsKICAgICAgICAgICAgaHR0cENvbnRleHQuUmVzcG9uc2UuU3RhdHVzQ29kZSA9IChpbnQpSHR0cFN0YXR1c0NvZGUuT0s7CiAgICAgICAgICAgIGh0dHBDb250ZXh0LlJlc3BvbnNlLkJvZHkgPSBuZXcgTWVtb3J5U3RyZWFtKCk7CiAgICAgICAgICAgIGF3YWl0IGh0dHBDb250ZXh0LlJlc3BvbnNlLldyaXRlQXN5bmMoInRlc3QgYm9keSIpOwoKICAgICAgICAgICAgLy8gQWN0CiAgICAgICAgICAgIGF3YWl0IG1pZGRsZXdhcmUuSW52b2tlKGh0dHBDb250ZXh0LCBfc3lzdGVtTWVzc2VuZ2VyTW9jay5PYmplY3QsIF9uZXdSZWxpY0FkYXB0ZXJNb2NrLk9iamVjdCk7CgogICAgICAgICAgICAvLyBBc3NlcnQKICAgICAgICAgICAgc3RyaW5nIHJlc3BCb2R5ID0gYXdhaXQgUmVhZEJvZHlBc3luYyhodHRwQ29udGV4dCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgoaW50KUh0dHBTdGF0dXNDb2RlLkJhZFJlcXVlc3QsIGh0dHBDb250ZXh0LlJlc3BvbnNlLlN0YXR1c0NvZGUpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoJCJ7e1wiQ29kZVwiOi0xLFwiTWVzc2FnZVwiOlwiVW5oYW5kbGVkIGV4Y2VwdGlvbi4gTWVzc2FnZToge2V4Y2VwdGlvblRleHR9XCJ9fSIsIHJlc3BCb2R5KTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>WriteBadResponseBody</text>
+        <text>CyberUInternalException</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1344,11 +1344,11 @@
       <register name="/" type="4">
         <text>read(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cENvbnRleHQuUmVzcG9uc2UuU3RhdHVzQ29kZSA9IChpbnQpSHR0cFN0YXR1c0NvZGUuT0s7Cg==</text>
+      <register name="0" type="4">
+        <text>CyberUInternalException</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;Test exception&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1360,14 +1360,14 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKChpbnQpSHR0cFN0YXR1c0NvZGUuQmFkUmVxdWVzdCwgaHR0cENvbnRleHQuUmVzcG9uc2UuU3RhdHVzQ29kZSk7Cg==</text>
+      <register name="2" type="4">
+        <text>&quot;Test exception&quot;</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKChpbnQpSHR0cFN0YXR1c0NvZGUuQmFkUmVxdWVzdCwgaHR0cENvbnRleHQuUmVzcG9uc2UuU3RhdHVzQ29kZSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>AiccServiceFake</text>
@@ -1379,10 +1379,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cENvbnRleHQuUmVzcG9uc2UuQm9keS5Qb3NpdGlvbiA9IDA7CiAgICAgICAgICAgIHN0cmluZyByZXNwQm9keTsKICAgICAgICAgICAgdXNpbmcgKHZhciByZWFkZXIgPSBuZXcgU3RyZWFtUmVhZGVyKGh0dHBDb250ZXh0LlJlc3BvbnNlLkJvZHkpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXNwQm9keSA9IGF3YWl0IHJlYWRlci5SZWFkVG9FbmRBc3luYygpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cENvbnRleHQuUmVzcG9uc2UuQm9keS5Qb3NpdGlvbiA9IDA7CiAgICAgICAgICAgIHN0cmluZyByZXNwQm9keTsKICAgICAgICAgICAgdXNpbmcgKHZhciByZWFkZXIgPSBuZXcgU3RyZWFtUmVhZGVyKGh0dHBDb250ZXh0LlJlc3BvbnNlLkJvZHkpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXNwQm9keSA9IGF3YWl0IHJlYWRlci5SZWFkVG9FbmRBc3luYygpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1395,11 +1395,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>$&quot;{{\&quot;Code\&quot;: -1,\&quot;Message\&quot;: \&quot;Unhandled exception\&quot;}}&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cENvbnRleHQuUmVzcG9uc2UuQm9keS5Qb3NpdGlvbiA9IDA7Cg==</text>
+      <register name="9" type="4">
+        <text>$&quot;{{\&quot;Code\&quot;: -1,\&quot;Message\&quot;: \&quot;Unhandled exception\&quot;}}&quot;</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
