@@ -585,11 +585,12 @@
         <mark key="^" line="132" column="69" />
         <mark key="." line="132" column="69" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1550065868764">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1550066683681">
         <mark key="'" line="40" column="39" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="34" column="36" />
+        <mark key="." line="34" column="36" />
+        <mark key="^" line="34" column="37" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1545669553445">
         <mark key="'" line="363" column="57" />
@@ -786,8 +787,8 @@
       <register name="a" type="4">
         <text>var reader = new StreamReader(httpContext.Response.Body)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cENvbnRleHQuUmVzcG9uc2UuQm9keS5Qb3NpdGlvbiA9IDA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1338,7 +1339,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>read(</text>
