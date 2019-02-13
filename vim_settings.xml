@@ -111,12 +111,6 @@
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/Legacy/AICCDomain.cs" timestamp="1549295448893">
         <mark key="'" line="4" column="23" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" timestamp="1550071790482">
-        <mark key="'" line="75" column="31" />
-        <mark key="[" line="75" column="30" />
-        <mark key="]" line="75" column="48" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1549364262727">
         <mark key="'" line="98" column="26" />
       </file>
@@ -463,12 +457,12 @@
       <file name="C:/projects/Accounting/Infra/Accounting.Authentication/Handlers/ClientAuthenticationHandler.cs" timestamp="1549460292376">
         <mark key="'" line="67" column="17" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Payments/AccountingService.cs" timestamp="1549895704306">
-        <mark key="'" line="45" column="34" />
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="36" />
-        <mark key="^" line="45" column="51" />
-        <mark key="." line="45" column="51" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Payments/AccountingService.cs" timestamp="1550076292478">
+        <mark key="'" line="40" column="34" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="40" column="51" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
@@ -491,6 +485,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A315A376-1873-4D2D-88D5-C156B0F05BB6/8b/9e565e08/ServiceCollectionExtensions.cs" timestamp="1549644449375">
         <mark key="'" line="29" column="29" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/.editorconfig" timestamp="1550077249008">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="11" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/App.tsx" timestamp="1546957173239">
         <mark key="'" line="107" column="19" />
@@ -572,10 +572,10 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" timestamp="1549831255146">
         <mark key="'" line="34" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549992136487">
+      <file name="/Dummy.txt" timestamp="1550077286129">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Fakes/FakeHttpResponse.cs" timestamp="1550002908044">
         <mark key="'" line="4" column="44" />
@@ -755,7 +755,7 @@
         <text>LoggingErrorMessage</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>added handlers for internal errors and tests for that</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1306,7 +1306,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>added handlers for internal errors and tests for that</text>
       </register>
       <register name="/" type="4">
         <text>newrel</text>
@@ -1315,7 +1315,7 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkVHJhbnNpZW50PElRdWl6U2VydmljZSwgUXVpelNlcnZpY2U+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPElOZXdSZWxpY0FkYXB0ZXIsIE5ld1JlbGljQWRhcHRlcj4oKTsK</text>
+        <text encoding="base64">aW5kZW50X3N0eWxlPXNwYWNlCmluZGVudF9zaXplPTQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1328,28 +1328,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTFJTLkFQSS5UZXN0LkZha2VzOwo=</text>
+        <text encoding="base64">aW5kZW50X3N0eWxlPXNwYWNlCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgTFJTLkFQSS5UZXN0LkZha2VzOwo=</text>
+        <text encoding="base64">aW5zZXJ0X2ZpbmFsX25ld2xpbmU9ZmFsc2UK</text>
       </register>
       <register name="s" type="4">
         <text>AiccServiceFake</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTFJTLkFQSS5UZXN0LkZha2VzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgTFJTLkFQSS5UZXN0LkZha2VzOwo=</text>
+        <text encoding="base64">Clt7LmJhYmVscmMsLnN0eWxlbGludHJjLC5lc2xpbnRyYyxqZXN0LmNvbmZpZywqLnVwbHVnaW4sKi5ib3dlcnJjLCouanNiMywqLmpzYjIsKi5qc29ufV0KaW5kZW50X3N0eWxlPXNwYWNlCmluZGVudF9zaXplPTIKClt7Ki5jcWwsKi5kZGwsKi5zcWx9XQppbmRlbnRfc3R5bGU9c3BhY2UKaW5kZW50X3NpemU9Mgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1vY2s8SUZha2VNb25nb0NvbGxlY3Rpb248Q3liZXJVVHJhbnNjcmlwdD4+IHRyYW5zY3JpcHRzQ29sbGVjdGlvbk1vY2s7Cg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1vY2s8SUZha2VNb25nb0NvbGxlY3Rpb248U3RhdGVtZW50Pj4gc3RhdGVtZW50c0NvbGxlY3Rpb25Nb2NrOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXI8SUFjY291bnRpbmdTZXJ2aWNlPiBfbG9nZ2VyOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1363,10 +1363,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgTFJTLkFQSS5UZXN0LkZha2VzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IGxvZ2dlcjsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1vY2s8SUZha2VNb25nb0NvbGxlY3Rpb248VmVyYj4+IHZlcmJDb2xsZWN0aW9uTW9jazsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">LAogICAgICAgICAgICBJTG9nZ2VyPElBY2NvdW50aW5nU2VydmljZT4gbG9nZ2Vy</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
