@@ -54,6 +54,9 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="21" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/Claim.cs" timestamp="1550171861167">
+        <mark key="'" line="12" column="20" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C01C9AD-D1DC-48F8-B850-436C56ACB41F/12/8fe9b422/NewRelic.cs" timestamp="1549988277249">
         <mark key="'" line="72" column="9" />
       </file>
@@ -215,7 +218,7 @@
         <mark key="]" line="80" column="23" />
         <mark key="." line="80" column="42" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" timestamp="1550165528000">
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" timestamp="1550171852240">
         <mark key="'" line="58" column="36" />
         <mark key="[" line="72" column="45" />
         <mark key="]" line="72" column="66" />
@@ -710,9 +713,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="75" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/c8/e5e17cdc/DefaultHttpResponse.cs" />
-      <jump line="57" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" />
-      <jump line="79" column="8" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
       <jump line="23" column="50" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/CyberUInternalException.cs" />
       <jump line="91" column="44" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
@@ -809,7 +809,10 @@
       <jump line="33" column="29" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
       <jump line="46" column="48" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
       <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/Roles.cs" />
+      <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/Claim.cs" />
       <jump line="58" column="36" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
+      <jump line="12" column="20" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/Claim.cs" />
+      <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/LocalUserClaim.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
