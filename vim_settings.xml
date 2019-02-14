@@ -422,12 +422,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/final-quiz/stores/CourseBuilderFinalQuizStore.ts" timestamp="1545661915060">
         <mark key="'" line="43" column="4" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" timestamp="1550138446844">
-        <mark key="'" line="414" column="29" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="^" line="313" column="11" />
-        <mark key="." line="305" column="0" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" timestamp="1550152087633">
+        <mark key="'" line="294" column="18" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
+        <mark key="^" line="367" column="11" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/CalculateCourseCompletionCommandHandler.cs" timestamp="1549551639150">
         <mark key="'" line="8" column="71" />
@@ -562,10 +562,10 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" timestamp="1549831255146">
         <mark key="'" line="34" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550080294226">
+      <file name="/Dummy.txt" timestamp="1550152430955">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Fakes/FakeHttpResponse.cs" timestamp="1550002908044">
         <mark key="'" line="4" column="44" />
@@ -639,24 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="8" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/CyberUExceptionFilterTests.cs" />
-      <jump line="102" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/CyberUExceptionFilterTests.cs" />
-      <jump line="122" column="12" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/CyberUExceptionFilterTests.cs" />
-      <jump line="20" column="56" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
-      <jump line="24" column="41" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/ba/0ca3cf9d/RequestDelegate.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" />
-      <jump line="31" column="28" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
-      <jump line="21" column="40" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
-      <jump line="60" column="9" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C01C9AD-D1DC-48F8-B850-436C56ACB41F/12/8fe9b422/NewRelic.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/MongoHelpers.cs" />
-      <jump line="33" column="47" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
-      <jump line="37" column="32" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C01C9AD-D1DC-48F8-B850-436C56ACB41F/12/8fe9b422/NewRelic.cs" />
-      <jump line="11" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C01C9AD-D1DC-48F8-B850-436C56ACB41F/12/8fe9b422/NewRelic.cs" />
-      <jump line="65" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" />
-      <jump line="72" column="9" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C01C9AD-D1DC-48F8-B850-436C56ACB41F/12/8fe9b422/NewRelic.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/295C0E88-896F-4CA9-9F19-6FBD4604257C/a7/acd8c2d1/Trace.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Filters/ValidateModelAttributeTests.cs" />
       <jump line="37" column="26" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
       <jump line="36" column="50" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
@@ -720,8 +702,6 @@
       <jump line="34" column="37" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Services/StateServiceTests.cs" />
       <jump line="26" column="26" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Services/TranscriptServiceTests.cs" />
       <jump line="24" column="66" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="414" column="29" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommand.cs" />
       <jump line="99" column="15" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/CourseBuilder.cs" />
       <jump line="8" column="17" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/CourseBuilder.cs" />
       <jump line="12" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/HttpContextBuilder.cs" />
@@ -739,13 +719,33 @@
       <jump line="51" column="24" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Initialization/CyberUExceptionMiddleware.cs" />
       <jump line="131" column="36" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
       <jump line="408" column="53" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6F2F36F0-6580-443E-950F-9E34C217CD62/1C/Mock.Generic.cs" />
+      <jump line="400" column="94" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/SaveCourseProgressionRequestMother.cs" />
+      <jump line="414" column="31" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommand.cs" />
+      <jump line="312" column="12" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="313" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="316" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="326" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="317" column="16" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="344" column="104" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="343" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="420" column="18" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="393" column="16" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="379" column="18" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="365" column="16" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="351" column="18" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="337" column="16" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="323" column="18" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="310" column="16" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
+      <jump line="294" column="18" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>, _newRelicAdapterMock.Object</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhbmRsZXIgPSBDcmVhdGVDb21tYW5kSGFuZGxlcigpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, _newRelicAdapterMock.Object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1296,53 +1296,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, _newRelicAdapterMock.Object</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>newrel</text>
+        <text encoding="base64">XDxoYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGVycm9yID0gbmV3IEN5YmVyVUVycm9yUmVzcG9uc2UoY29kZSwgbWVzc2FnZTogbWVzc2FnZSk7CiAgICAgICAgICAgIHN0cmluZyByZXNwb25zZUpzb24gPSBKc29uQ29udmVydC5TZXJpYWxpemVPYmplY3QoZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhbmRsZXIgPSBuZXcgU2F2ZUNvdXJzZVByb2dyZXNzaW9uQ29tbWFuZEhhbmRsZXIoCiAgICAgICAgICAgICAgICBfbHJzRGJDb250ZXh0LAogICAgICAgICAgICAgICAgX3Byb2Nlc3NvciwKICAgICAgICAgICAgICAgIF9haWNjU2VydmljZSwKICAgICAgICAgICAgICAgIF9zcXNTZXJ2aWNlTW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfb3B0aW9ucyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>, _newRelicAdapterMock.Object</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="95" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-        </keys>
+        <text>JJJJJF(lx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTFJTLkFQSS5UZXN0cy5Db3JlLkJ1aWxkZXJzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gbmV3IERlZmF1bHRIdHRwQ29udGV4dCgpOwogICAgICAgICAgICBodHRwQ29udGV4dC5SZXNwb25zZS5TdGF0dXNDb2RlID0gKGludClIdHRwU3RhdHVzQ29kZS5PSzsKICAgICAgICAgICAgaHR0cENvbnRleHQuUmVzcG9uc2UuQm9keSA9IG5ldyBNZW1vcnlTdHJlYW0oKTsKICAgICAgICAgICAgYXdhaXQgaHR0cENvbnRleHQuUmVzcG9uc2UuV3JpdGVBc3luYygidGVzdCBib2R5Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
-        <text>AiccServiceFake</text>
+        <text>.WithAiccContext(new AiccContext
+                {
+                    Url = new Uri(userUrl)
+                });</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gbmV3IERlZmF1bHRIdHRwQ29udGV4dCgpOwogICAgICAgICAgICBodHRwQ29udGV4dC5SZXNwb25zZS5TdGF0dXNDb2RlID0gKGludClIdHRwU3RhdHVzQ29kZS5PSzsKICAgICAgICAgICAgaHR0cENvbnRleHQuUmVzcG9uc2UuQm9keSA9IG5ldyBNZW1vcnlTdHJlYW0oKTsKICAgICAgICAgICAgYXdhaXQgaHR0cENvbnRleHQuUmVzcG9uc2UuV3JpdGVBc3luYygidGVzdCBib2R5Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>new DefaultHttpContext();
-            httpContext.Response.StatusCode = (int)HttpStatusCode.OK;
-            httpContext.Response.Body = new MemoryStream();
-            await httpContext.Response.WriteAsync(testBody);</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLk5ldC5IdHRwOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFNhdmVDb3Vyc2VQcm9ncmVzc2lvbkNvbW1hbmRIYW5kbGVyIENyZWF5ZUNvbW1hbmRIYW5kbGVyKCkgewogICAgICAgICAgICByZXR1cm4gbmV3IFNhdmVDb3Vyc2VQcm9ncmVzc2lvbkNvbW1hbmRIYW5kbGVyKAogICAgICAgICAgICAgICAgX2xyc0RiQ29udGV4dCwKICAgICAgICAgICAgICAgIF9wcm9jZXNzb3IsCiAgICAgICAgICAgICAgICBfYWljY1NlcnZpY2UsCiAgICAgICAgICAgICAgICBfc3FzU2VydmljZU1vY2suT2JqZWN0LAogICAgICAgICAgICAgICAgX29wdGlvbnMpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhbmRsZXIgPSBuZXcgU2F2ZUNvdXJzZVByb2dyZXNzaW9uQ29tbWFuZEhhbmRsZXIoCiAgICAgICAgICAgICAgICBfbHJzRGJDb250ZXh0LAogICAgICAgICAgICAgICAgX3Byb2Nlc3NvciwKICAgICAgICAgICAgICAgIF9haWNjU2VydmljZSwKICAgICAgICAgICAgICAgIF9zcXNTZXJ2aWNlTW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfb3B0aW9ucyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1356,10 +1349,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3FzQ2xpZW50TW9jay5WZXJpZnkocyA9PiBzLlNlbmRNZXNzYWdlQXN5bmMoSXQuSXNBbnk8U2VuZE1lc3NhZ2VSZXF1ZXN0PigpLCBJdC5Jc0FueTxDYW5jZWxsYXRpb25Ub2tlbj4oKSksIFRpbWVzLk9uY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhbmRsZXIgPSBuZXcgU2F2ZUNvdXJzZVByb2dyZXNzaW9uQ29tbWFuZEhhbmRsZXIoCiAgICAgICAgICAgICAgICBfbHJzRGJDb250ZXh0LAogICAgICAgICAgICAgICAgX3Byb2Nlc3NvciwKICAgICAgICAgICAgICAgIF9haWNjU2VydmljZSwKICAgICAgICAgICAgICAgIF9zcXNTZXJ2aWNlTW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfb3B0aW9ucyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIFNldHVwRXhlY3V0ZUNvbW1hbmQ8VFJlc3VsdD4odGhpcyBNb2NrPElQcm9jZXNzb3I+IHByb2Nlc3Nvck1vY2ssIFRSZXN1bHQgZXhwZWN0ZWRSZXN1bHQgPSBkZWZhdWx0KFRSZXN1bHQpKQogICAgICAgICAgICB3aGVyZSBUUmVzdWx0IDogY2xhc3MKICAgICAgICB7CiAgICAgICAgICAgIHByb2Nlc3Nvck1vY2suU2V0dXAoeCA9PiB4LkV4ZWN1dGVDb21tYW5kKEl0LklzQW55PENvbW1hbmRCYXNlPFRSZXN1bHQ+PigpKSkKICAgICAgICAgICAgICAgIC5DYWxsYmFjazxDb21tYW5kQmFzZTxUUmVzdWx0Pj4oY21kID0+IGNtZC5SZXN1bHQgPSBleHBlY3RlZFJlc3VsdCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
@@ -1369,17 +1362,16 @@
       </register>
     </registers>
     <search>
-      <last-search>newrel</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>newrel</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVyXD4=</last-pattern>
       <last-replace />
       <last-substitute>Fake</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>connect</entry>
         <entry>savetoke</entry>
         <entry>cors</entry>
         <entry>connecte</entry>
@@ -1399,6 +1391,7 @@
         <entry>read(</entry>
         <entry>Fake</entry>
         <entry>newrel</entry>
+        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/test/param/g</entry>
