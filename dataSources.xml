@@ -7,5 +7,17 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="auth@localhost" uuid="72268182-d628-43a2-a7ec-46d81a3d1c01">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/auth</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="payments@localhost" uuid="01f8e213-5ecc-4708-bead-67f184c26463">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/payments</jdbc-url>
+    </data-source>
   </component>
 </application>
