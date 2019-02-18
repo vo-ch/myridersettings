@@ -216,12 +216,12 @@
         <mark key="]" line="80" column="23" />
         <mark key="." line="80" column="42" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" timestamp="1550498283922">
-        <mark key="'" line="59" column="33" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="^" line="83" column="42" />
-        <mark key="." line="107" column="0" />
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" timestamp="1550499928162">
+        <mark key="'" line="61" column="33" />
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="38" />
+        <mark key="^" line="35" column="38" />
+        <mark key="." line="35" column="38" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/CalculateCourseCompletionCommandHandler.cs" timestamp="1549551639150">
         <mark key="'" line="8" column="71" />
@@ -799,7 +799,7 @@
         <text>User ID=auth;Password=vchmuzh;Host=localhost;Port=5432;Database=auth;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>IDesignTimeDbContextFactory</text>
+        <text>InitRegions</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1350,13 +1350,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>InitRegions</text>
       </register>
       <register name="/" type="4">
         <text>migrat</text>
       </register>
-      <register name="0" type="4">
-        <text>IDesignTimeDbContextFactory</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aENvbnRleHQuSW5pdFJlZ2lvbnMobG9nZ2VyKTsK</text>
       </register>
       <register name="1" type="4">
         <text>User ID=auth;Password=vchmuzh;Host=localhost;Port=5432;Database=auth;</text>
