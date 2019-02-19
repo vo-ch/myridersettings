@@ -26,11 +26,14 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
-      <file name="/auth.public.Industries [auth@localhost]" timestamp="1550607349139">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Logger/Model/LoggingMessage.cs" timestamp="1550071804371">
         <mark key="'" line="4" column="34" />
+      </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.RegistrationDomainIngester/Function.cs" timestamp="1550608661446">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="27" column="40" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Interfaces/IFailureSentMessageBackup.cs" timestamp="1548430867301">
         <mark key="'" line="0" column="9" />
@@ -61,14 +64,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C01C9AD-D1DC-48F8-B850-436C56ACB41F/12/8fe9b422/NewRelic.cs" timestamp="1549988277249">
         <mark key="'" line="72" column="9" />
       </file>
-      <file name="/auth.public.RegistrationsDomains [auth@localhost]" timestamp="1550485222422">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" timestamp="1549032726083">
         <mark key="'" line="20" column="8" />
-      </file>
-      <file name="/payments.public.csod_registrations [payments@localhost]" timestamp="1550246264942">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/CommandHandlerBase.cs" timestamp="1549647964864">
         <mark key="'" line="25" column="20" />
@@ -94,9 +91,6 @@
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-dropdown-menu/CategoriesDropdownMenu.tsx" timestamp="1545658410091">
         <mark key="'" line="110" column="18" />
       </file>
-      <file name="/auth.public.ClientCorsOrigins [postgres@cukuber]" timestamp="1550160534299">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/layout/global-navigation/stores/GlobalNavigationStore.ts" timestamp="1546442120705">
         <mark key="'" line="13" column="32" />
       </file>
@@ -109,10 +103,8 @@
       <file name="C:/projects/UI-Web/ClientApp/services/http/HttpService.ts" timestamp="1547131859744">
         <mark key="'" line="391" column="44" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/PaymentDbContext.cs" timestamp="1550605708365">
-        <mark key="'" line="19" column="49" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="71" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging/DependencyInjection/CyberULambdaLoggerExtensions.cs" timestamp="1550610858855">
+        <mark key="'" line="16" column="62" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/layout/Layout.tsx" timestamp="1545815789337">
         <mark key="'" line="25" column="4" />
@@ -126,14 +118,12 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/LrsDbContext.cs" timestamp="1548433882940">
         <mark key="'" line="38" column="53" />
       </file>
+      <file name="/appsettings.json" timestamp="1549640606337">
+        <mark key="[" line="77" column="34" />
+        <mark key="]" line="77" column="108" />
+      </file>
       <file name="C:/projects/cu-data-reporting/GetDataFromGoogleAnalytics.Lambda/Function.cs" timestamp="1548691125381">
         <mark key="'" line="61" column="19" />
-      </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Mappings/Industry.cs" timestamp="1550605676890">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="8" column="55" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/StartupTests.cs" timestamp="1549538813167">
         <mark key="'" line="26" column="29" />
@@ -157,8 +147,10 @@
       <file name="C:/projects/Auth-Api/Auth/test/Auth.API.IntegrationTests/Initialization/Database/ClientInitializerTests.cs" timestamp="1550507683071">
         <mark key="'" line="34" column="71" />
       </file>
-      <file name="/a.sql" timestamp="1550607356695">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/DependencyInjection/AccountingRepositoryExtensions.cs" timestamp="1550610087542">
+        <mark key="'" line="17" column="26" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="47" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/test/Auth.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1550506850362">
         <mark key="'" line="25" column="60" />
@@ -166,8 +158,20 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" timestamp="1549538295748">
         <mark key="'" line="34" column="78" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.RegistrationDomainInjester/Startup.cs" timestamp="1550611105922">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A1F7413-1A03-4EAD-A38B-532DCB6C7114/e6/72194d34/AmazonServiceException.cs" timestamp="1549643419649">
         <mark key="'" line="19" column="40" />
+      </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.RegistrationDomainIngester/Startup.cs" timestamp="1550611021035">
+        <mark key="'" line="6" column="36" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="51" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC7049B7-9561-4CAE-A548-2B334B7B0EF7/fe/02b7c5a5/AuthenticationTokenExtensions.cs" timestamp="1549029135731">
         <mark key="'" line="142" column="62" />
@@ -175,8 +179,18 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/69/a2bfd2e2/HttpContext.cs" timestamp="1550004044408">
         <mark key="'" line="18" column="24" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.RegistrationDomainInjester/Program.cs" timestamp="1550611139225">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" timestamp="1549569915899">
         <mark key="'" line="13" column="55" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Readme.md" timestamp="1550240689243">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="23" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5249D404-B18D-4D53-9C24-B4E14A096AE2/1/ConfigureInternalOptions.cs" timestamp="1549028048089">
         <mark key="'" line="22" column="20" />
@@ -187,16 +201,13 @@
       <file name="C:/projects/UI-Web/ClientApp/routing/helpers/bundleComponent.tsx" timestamp="1545847348189">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.RegistrationDomainIngester/DependencyInjection/CyberULambdaLoggerExtensions.cs" timestamp="1550610845298">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/extensions/careerPathsPage.ts" timestamp="1546599710945">
         <mark key="'" line="18" column="35" />
-      </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Data/AuthServerDb/DesignTimeDbContextFactory.cs" timestamp="1550500867340">
-        <mark key="'" line="24" column="64" />
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="72" />
-      </file>
-      <file name="/auth.public.Clients [postgres@cukuber]" timestamp="1550160477266">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Processors/ServiceProviderHandlerResolver.cs" timestamp="1548945338031">
         <mark key="'" line="27" column="60" />
@@ -204,11 +215,11 @@
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/LocalUser.cs" timestamp="1550479561414">
         <mark key="'" line="6" column="29" />
       </file>
-      <file name="/auth.public.ClientSecrets [auth@localhost]" timestamp="1550243853545">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/auth.public.Regions [auth@localhost]" timestamp="1550607344207">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.RegistrationDomainIngester/Program.cs" timestamp="1550608448053">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+        <mark key="^" line="23" column="27" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/utils/react/isStatefullComponent.ts" timestamp="1545847279622">
         <mark key="'" line="2" column="25" />
@@ -228,6 +239,10 @@
       <file name="C:/projects/NewCMS/src/views/courses/CoursesComponent.jsx" timestamp="1547626638285">
         <mark key="'" line="69" column="19" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/03/a7afb1d3/DefaultHttpContext.cs" timestamp="1550004101236">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="32" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/AnswerControllerTests.cs" timestamp="1549568287509">
         <mark key="'" line="97" column="98" />
       </file>
@@ -243,8 +258,9 @@
         <mark key="]" line="80" column="23" />
         <mark key="." line="80" column="42" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Mapping/LocalUserMapping.cs" timestamp="1550604503337">
-        <mark key="'" line="9" column="46" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/HttpException.cs" timestamp="1549644910458">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="29" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" timestamp="1550499928162">
         <mark key="'" line="61" column="33" />
@@ -311,6 +327,13 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/MongoDbContextTests.cs" timestamp="1549470855180">
         <mark key="'" line="34" column="58" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Repository/RegistrationDomainRepository.cs" timestamp="1550609891595">
+        <mark key="'" line="7" column="55" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/CyberUBadGatewayException.cs" timestamp="1549811557282">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="20" column="23" />
@@ -319,9 +342,6 @@
       </file>
       <file name="$USER_HOME$/AppData/Local/Temp/Ryloxef.cs" timestamp="1550065635807">
         <mark key="'" line="14" column="35" />
-      </file>
-      <file name="/auth.public.ExternalUsers [postgres@cukuber]" timestamp="1550161261722">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Mappings/IndustryMap.cs" timestamp="1550606152739">
         <mark key="[" line="13" column="76" />
@@ -342,9 +362,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9D995D4A-0EBE-4A93-85A6-BE06CB7C70EE/e0/52ad85e2/FactAttribute.cs" timestamp="1548623997840">
         <mark key="'" line="24" column="26" />
       </file>
-      <file name="/dummy.sql" timestamp="1550607358718">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" timestamp="1549831255146">
         <mark key="'" line="34" column="67" />
       </file>
@@ -356,6 +373,10 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" timestamp="1549569589319">
         <mark key="'" line="82" column="26" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Data/AuthServerDb/Migrations/20180910134354_LocalUserAgreementTable.cs" timestamp="1550501642113">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="47" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/core/course-cards/CourseCard.tsx" timestamp="1547635413508">
         <mark key="'" line="117" column="29" />
       </file>
@@ -364,6 +385,10 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" timestamp="1545847382906">
         <mark key="'" line="20" column="54" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B2250D1-FB76-44B9-8AF1-AB5ED79E762F/28/9fa5bd76/EntityFrameworkServiceCollectionExtensions.cs" timestamp="1550610108083">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="81" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Startup.cs" timestamp="1550486702866">
         <mark key="'" line="262" column="40" />
@@ -399,27 +424,17 @@
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1547486652844">
         <mark key="'" line="5003" column="28" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Repository/LocalUserRepository.cs" timestamp="1550604777010">
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Repository/LocalUserRepository.cs" timestamp="1550609618550">
         <mark key="'" line="270" column="82" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="62" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/837FCA73-EE9F-4ABF-BCDA-46A6BF0EF7D5/e0/03263cc7/IAsyncCursorSourceExtensions.cs" timestamp="1549538652986">
         <mark key="'" line="109" column="39" />
       </file>
-      <file name="/auth.public.__EFMigrationsHistory [auth@localhost]" timestamp="1550606560648">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/auth.public.ApiScopes [postgres@cukuber]" timestamp="1550160554412">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" timestamp="1550509936871">
-        <mark key="'" line="14" column="31" />
-      </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/Mappings/CsodRegistrationMap.cs" timestamp="1550605034856">
-        <mark key="[" line="18" column="103" />
-        <mark key="]" line="18" column="119" />
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" timestamp="1550608243852">
+        <mark key="'" line="14" column="40" />
       </file>
       <file name="C:/projects/NewCMS/src/views/courses/stores/CoursesStore.js" timestamp="1547626650187">
         <mark key="'" line="204" column="12" />
@@ -437,6 +452,12 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Core/Fixtures/TestServerFixture.cs" timestamp="1549468916477">
         <mark key="'" line="28" column="26" />
+      </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Repository/Interfaces/IRegistrationDomainRepository.cs" timestamp="1550609846641">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccIniParserService.cs" timestamp="1549265522537">
         <mark key="'" line="13" column="26" />
@@ -459,6 +480,10 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1549364262727">
         <mark key="'" line="98" column="26" />
+      </file>
+      <file name="/Startup.cs" timestamp="1549806322368">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="59" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" timestamp="1550153332489">
         <mark key="'" line="171" column="0" />
@@ -505,6 +530,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C5B1D59-6F4B-4815-9474-DFEF3FB47968/f9/bfb8e267/AuthenticationHandler`1.cs" timestamp="1549031693609">
         <mark key="'" line="206" column="58" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.RegistrationDomainIngester/Auth.RegistrationDomainIngester.csproj" timestamp="1550610247436">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2D506C52-CF4B-4BDB-B896-80B6E2C92982/75/9f546937/EntityFrameworkServiceCollectionExtensions.cs" timestamp="1550434508946">
         <mark key="'" line="482" column="56" />
       </file>
@@ -546,8 +576,14 @@
         <mark key="." line="81" column="25" />
         <mark key="^" line="81" column="25" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" timestamp="1550246041436">
-        <mark key="'" line="17" column="84" />
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Repository/ExternalUserRepository.cs" timestamp="1550609547431">
+        <mark key="'" line="11" column="50" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="9" />
+        <mark key="." line="13" column="122" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" timestamp="1550610738666">
+        <mark key="'" line="14" column="38" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Utility/ProcessorHelper.cs" timestamp="1550078931039">
         <mark key="[" line="19" column="46" />
@@ -560,6 +596,10 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" timestamp="1547723432617">
         <mark key="'" line="69" column="24" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/CalculateActivityCompletionCommandHandlerTests.cs" timestamp="1549377137801">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="66" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/CyberUSecurityException.cs" timestamp="1549808099849">
         <mark key="'" line="24" column="67" />
@@ -575,20 +615,42 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Logger/Model/LoggingErrorMessage.cs" timestamp="1550071798490">
         <mark key="'" line="4" column="39" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/82DE7018-3C32-4FCC-9F4E-A96FC6FD33A8/4e/a800ef58/AmazonSQSClient.cs" timestamp="1549279874377">
+        <mark key="[" line="105" column="54" />
+        <mark key="]" line="105" column="63" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Validation/Contract.cs" timestamp="1549641316767">
         <mark key="'" line="23" column="17" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Course reassignment/Workflow2.cs" timestamp="1549365442930">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="46" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Helpers/Paginator.cs" timestamp="1549266825646">
         <mark key="'" line="17" column="42" />
       </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Accounting.B2bRegistrationIngester.csproj" timestamp="1550332392612">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="59" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/341DFE22-562E-4DB3-8729-B233A8CD1A5F/a5/087bd779/Environment.cs" timestamp="1548855215337">
         <mark key="'" line="211" column="41" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/ba/0ca3cf9d/RequestDelegate.cs" timestamp="1549910597401">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6F2F36F0-6580-443E-950F-9E34C217CD62/1C/Mock.Generic.cs" timestamp="1550142545155">
         <mark key="'" line="408" column="53" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Course.cs" timestamp="1549462386997">
         <mark key="'" line="16" column="15" />
+      </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.RegistrationDomainIngester/DependencyInjection/RegistrationDomainRepositoryExtensions.cs" timestamp="1550610585887">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="57" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/services/CourseDetailsService.ts" timestamp="1547197492917">
         <mark key="'" line="201" column="36" />
@@ -604,6 +666,10 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/services/ui/ResponsiveWindowSizeService.ts" timestamp="1547561058273">
         <mark key="'" line="30" column="39" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/86/05227f79/ProducesResponseTypeAttribute.cs" timestamp="1549648448714">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="17" column="43" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/final-quiz/stores/CourseBuilderFinalQuizStore.ts" timestamp="1545661915060">
         <mark key="'" line="43" column="4" />
@@ -626,9 +692,6 @@
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Authentication/Handlers/ClientAuthenticationHandler.cs" timestamp="1549460292376">
         <mark key="'" line="67" column="17" />
-      </file>
-      <file name="/payments.public.currencies [payments@localhost]" timestamp="1550484559244">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
@@ -657,17 +720,22 @@
         <mark key="." line="8" column="52" />
         <mark key="^" line="8" column="52" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Data/AuthServerDb/Migrations/20190218100425_AddRegistrationsDomainsTable.cs" timestamp="1550501590418">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="52" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/.editorconfig" timestamp="1550077249008">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="2" column="11" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/projects/UI-Web/appsettings.Local.json" timestamp="1550243715456">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="46" />
+      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.UserProgressApi/Middleware/UserProgressApiMiddleware.cs" timestamp="1548430930229">
         <mark key="'" line="49" column="50" />
-      </file>
-      <file name="/auth.public.ClientClaims [postgres@cukuber]" timestamp="1550160540115">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Core/Fixtures/MongoDbRunnerCollectionFixture.cs" timestamp="1549365648709">
         <mark key="'" line="6" column="69" />
@@ -686,9 +754,6 @@
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Program.cs" timestamp="1548430893557">
         <mark key="'" line="1" column="9" />
-      </file>
-      <file name="/auth.public.Clients [auth@localhost]" timestamp="1550243924552">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1550153802174">
         <mark key="'" line="107" column="34" />
@@ -711,11 +776,6 @@
         <mark key="[" line="113" column="27" />
         <mark key="]" line="113" column="27" />
         <mark key="." line="113" column="46" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/88/ca207094/HttpResponseWritingExtensions.cs" timestamp="1550141000906">
-        <mark key="'" line="11" column="33" />
-        <mark key="[" line="32" column="39" />
-        <mark key="]" line="32" column="51" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/28/34a7ea69/HttpResponse.cs" timestamp="1550065729416">
         <mark key="'" line="15" column="30" />
@@ -763,22 +823,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="31" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/AuthContext.cs" />
-      <jump line="11" column="15" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/PrivacyPolicy.cs" />
-      <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/TermsAndCondition.cs" />
-      <jump line="11" column="37" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/LegacyAuthDBContext.cs" />
-      <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/Legacy/LegacyLocalUser.cs" />
-      <jump line="13" column="26" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/AuthContext.cs" />
-      <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/ExternalUser.cs" />
-      <jump line="41" column="22" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/LocalUser.cs" />
-      <jump line="5" column="22" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/AuthContext.cs" />
-      <jump line="52" column="44" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
-      <jump line="44" column="34" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
-      <jump line="35" column="143" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
-      <jump line="72" column="59" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/80AC6FFE-34C8-4980-AD7A-7A3C7ECC9455/28/ConfigurationDbContext.cs" />
-      <jump line="259" column="20" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Startup.cs" />
-      <jump line="12" column="27" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DatabaseInitializationExtension.cs" />
       <jump line="39" column="47" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
       <jump line="37" column="44" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
       <jump line="106" column="37" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
@@ -848,7 +892,6 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F65B0CE-6D66-4C59-8465-05966CFE2C86/93/8fe4ae94/ServiceCollectionContainerBuilderExtensions.cs" />
       <jump line="15" column="30" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" />
-      <jump line="14" column="31" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F65B0CE-6D66-4C59-8465-05966CFE2C86/5d/ccf555a9/ServiceCollection.cs" />
       <jump line="4" column="24" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/RegistrationsDomain.cs" />
       <jump line="25" column="34" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/AuthContext.cs" />
@@ -863,13 +906,30 @@
       <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/RegistrationDomain.cs" />
       <jump line="7" column="4" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Mappings/RegistrationDomainMap.cs" />
       <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/AuthContext.cs" />
+      <jump line="14" column="40" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" />
+      <jump line="26" column="45" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" />
+      <jump line="22" column="38" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" />
+      <jump line="18" column="65" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/DependencyInjection/AccountingRepositoryExtensions.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/AccountingRepository.cs" />
+      <jump line="11" column="50" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Repository/ExternalUserRepository.cs" />
+      <jump line="7" column="55" filename="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Repository/RegistrationDomainRepository.cs" />
+      <jump line="12" column="16" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/DependencyInjection/AccountingRepositoryExtensions.cs" />
+      <jump line="17" column="26" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/DependencyInjection/AccountingRepositoryExtensions.cs" />
+      <jump line="14" column="23" filename="C:/projects/Accounting/Infra/Accounting.Logging/DependencyInjection/CyberULambdaLoggerExtensions.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87DAEA5C-C5D0-47D4-A6BB-FF8954AA1C4A/03/7e674771/OptionsServiceCollectionExtensions.cs" />
+      <jump line="0" column="27" filename="C:/projects/Accounting/Infra/Accounting.Logging/DependencyInjection/CyberULambdaLoggerExtensions.cs" />
+      <jump line="14" column="38" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Logging/Options/LambdaLoggerOptions.cs" />
+      <jump line="9" column="97" filename="C:/projects/Accounting/Infra/Accounting.Logging/DependencyInjection/CyberULambdaLoggerExtensions.cs" />
+      <jump line="16" column="62" filename="C:/projects/Accounting/Infra/Accounting.Logging/DependencyInjection/CyberULambdaLoggerExtensions.cs" />
+      <jump line="6" column="36" filename="C:/projects/Auth-Api/Auth/src/Auth.RegistrationDomainIngester/Startup.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text encoding="base64">OiBJRW50aXR5VHlwZUNvbmZpZ3VyYXRpb248UmVnaW9uPgogICAgewogICAgICAgIHB1YmxpYyB2b2lkIENvbmZpZ3VyZShFbnRpdHlUeXBlQnVpbGRlcjxSZWdpb24+IGJ1aWxkZXIpCiAgICAgICAgewogICAgICAgICAgICAvLyBQcmltYXJ5IGtleQogICAgICAgICAgICBidWlsZGVyLkhhc0tleSh4ID0+IHguSWQpOwoKICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguTmFtZSkuSGFzQ29sdW1uVHlwZSgiY2hhcmFjdGVyIHZhcnlpbmciKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5Db250ZXh0ID0gY29udGV4dDsKICAgICAgICAgICAgdGhpcy5Mb2dnZXIgPSBsb2dnZXI7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3RlcjsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1420,28 +1480,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>())</text>
+        <text>AddAccountingRepository</text>
       </register>
       <register name="/" type="4">
         <text>migrat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxCdWlsZGVyLkFwcGx5Q29uZmlndXJhdGlvbihuZXcgUmVnaW9uTWFwKCkpOwo=</text>
+      <register name="0" type="4">
+        <text>AddRegistrationDomainRepository</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3RlcjsK</text>
       </register>
       <register name="q" type="4">
         <text>JJJJJF(lx</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3Rlci5Db25maWd1cmF0aW9uLkhlbHBlcjsKdXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3Rlci5EZXBlbmRlbmN5SW5qZWN0aW9uOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5WYWxpZGF0aW9uLlJlcXVpcmVtZW50czsK</text>
       </register>
       <register name="s" type="4">
         <text>.WithAiccContext(new AiccContext
@@ -1450,16 +1510,16 @@
                 });</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5WYWxpZGF0aW9uLlJlcXVpcmVtZW50czsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTG1zU2VydmljZShvcHRpb25zID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG9wdGlvbnMuQXV0aEJhc2VVcmwgPSBFbnZpcm9ubWVudEhlbHBlci5HZXRFbnZpcm9ubWVudFZhcmlhYmxlQWNyb3NzVGFyZ2V0cygiQXV0aEJhc2VVcmwiKTsKICAgICAgICAgICAgICAgIG9wdGlvbnMuQXV0aENsaWVudElkID0gRW52aXJvbm1lbnRIZWxwZXIuR2V0RW52aXJvbm1lbnRWYXJpYWJsZUFjcm9zc1RhcmdldHMoIkF1dGhDbGllbnRJZCIpOwogICAgICAgICAgICAgICAgb3B0aW9ucy5BdXRoQ2xpZW50U2VjcmV0ID0gRW52aXJvbm1lbnRIZWxwZXIuR2V0RW52aXJvbm1lbnRWYXJpYWJsZUFjcm9zc1RhcmdldHMoIkF1dGhDbGllbnRTZWNyZXQiKTsKICAgICAgICAgICAgICAgIG9wdGlvbnMuTG1zQmFzZVVybCA9IEVudmlyb25tZW50SGVscGVyLkdldEVudmlyb25tZW50VmFyaWFibGVBY3Jvc3NUYXJnZXRzKCJMbXNCYXNlVXJsIik7CgogICAgICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsT3JXaGl0ZVNwYWNlPEludmFsaWRPcGVyYXRpb25FeGNlcHRpb24+KG9wdGlvbnMuQXV0aEJhc2VVcmwsIG5hbWVvZihvcHRpb25zLkF1dGhCYXNlVXJsKSk7CiAgICAgICAgICAgICAgICBDb250cmFjdC5SZXF1aXJlc05vdE51bGxPcldoaXRlU3BhY2U8SW52YWxpZE9wZXJhdGlvbkV4Y2VwdGlvbj4ob3B0aW9ucy5BdXRoQ2xpZW50SWQsIG5hbWVvZihvcHRpb25zLkF1dGhDbGllbnRJZCkpOwogICAgICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsT3JXaGl0ZVNwYWNlPEludmFsaWRPcGVyYXRpb25FeGNlcHRpb24+KG9wdGlvbnMuQXV0aENsaWVudFNlY3JldCwgbmFtZW9mKG9wdGlvbnMuQXV0aENsaWVudFNlY3JldCkpOwogICAgICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsT3JXaGl0ZVNwYWNlPEludmFsaWRPcGVyYXRpb25FeGNlcHRpb24+KG9wdGlvbnMuTG1zQmFzZVVybCwgbmFtZW9mKG9wdGlvbnMuTG1zQmFzZVVybCkpOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguRG9tYWluVXJsKS5IYXNDb2x1bW5UeXBlKCJjaGFyYWN0ZXIgdmFyeWluZyIpLklzUmVxdWlyZWQoKTsK</text>
+        <text encoding="base64">ICA8SXRlbUdyb3VwPgogICAgPFJlZmVyZW5jZSBJbmNsdWRlPSJOcGdzcWwsIFZlcnNpb249NC4wLjQuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj01ZDhiOTBkNTJmNDZmZGE3Ij4KICAgICAgPEhpbnRQYXRoPi4uXC4uXC4uXC4uXC4uXFVzZXJzXHZvX2NoXC5udWdldFxwYWNrYWdlc1xucGdzcWxcNC4wLjRcbGliXG5ldHN0YW5kYXJkMi4wXE5wZ3NxbC5kbGw8L0hpbnRQYXRoPgogICAgPC9SZWZlcmVuY2U+CiAgPC9JdGVtR3JvdXA+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1473,16 +1533,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkRpYWdub3N0aWNzLkNvbnRyYWN0czsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICAgICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -1526,9 +1586,7 @@
         <entry encoding="base64">JzwsJz5zL3RoaXNcLi8vZw==</entry>
         <entry>%s/IMongoCollection/IFakeMongoCollection/g</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>s/Fake//g</entry>
         <entry>s/\//\/\//g</entry>
         <entry>s/\///g</entry>
@@ -1538,6 +1596,8 @@
         <entry>nohl</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
