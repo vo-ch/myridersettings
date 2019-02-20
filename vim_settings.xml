@@ -93,6 +93,9 @@
       <file name="C:/projects/UI-Web/ClientApp/services/http/composition/ComposeFeaturedCourseListsService.ts" timestamp="1548159491864">
         <mark key="'" line="10" column="4" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/AuthContext.cs" timestamp="1550675758318">
+        <mark key="'" line="65" column="58" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Controllers/V2/AnswerControllerTests.cs" timestamp="1550079036995">
         <mark key="[" line="61" column="23" />
         <mark key="]" line="61" column="23" />
@@ -360,11 +363,18 @@
       <file name="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" timestamp="1545847382906">
         <mark key="'" line="20" column="54" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Data/Repository/RegistrationDomainRepository.cs" timestamp="1550675726223">
+        <mark key="'" line="22" column="46" />
+      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Startup.cs" timestamp="1550660648511">
         <mark key="'" line="244" column="29" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Entities/RegistrationDomain.cs" timestamp="1550675749474">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="34" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Converter/LocalUserConverter.cs" timestamp="1550604804310">
         <mark key="'" line="9" column="61" />
@@ -717,8 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41FF9904-11FC-44E2-ABB3-76207A9A54A4/5e/07c18f06/InvalidOperationException.cs" />
-      <jump line="17" column="84" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1D2EF1A7-7D30-481C-BE77-01312EB6C181/dd/065d7e02/LogLevel.cs" />
       <jump line="87" column="71" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Function.cs" />
       <jump line="52" column="29" filename="C:/projects/Auth-Api/Auth/src/Auth.API/Startup.cs" />
@@ -817,13 +825,15 @@
       <jump line="73" column="37" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B47B422-BC4C-4615-BBDE-BE1DF9B21B0D/5a/8b7ac9c2/ServiceCollectionServiceExtensions.cs" />
       <jump line="14" column="36" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Startup.cs" />
       <jump line="9" column="20" filename="C:/projects/Accounting/Infra/Accounting.Logging/ILambdaLogger.cs" />
+      <jump line="22" column="46" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Data/Repository/RegistrationDomainRepository.cs" />
+      <jump line="65" column="58" filename="C:/projects/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/AuthContext.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Web\API\src</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7CnVzaW5nIEF1dGguRGF0YUFjY2Vzc0xheWVyLlJlcG9zaXRvcnkuSW50ZXJmYWNlczsK</text>
+      <register name="&quot;" type="4">
+        <text>RegistrationDomain</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
