@@ -322,10 +322,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550663844075">
+      <file name="/Dummy.txt" timestamp="1550748459394">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="16" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" timestamp="1549569589319">
         <mark key="'" line="82" column="26" />
@@ -345,10 +345,6 @@
         <mark key="]" line="22" column="9" />
         <mark key="." line="31" column="39" />
         <mark key="^" line="31" column="39" />
-      </file>
-      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Entities/RegistrationDomain.cs" timestamp="1550675749474">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="34" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Converter/LocalUserConverter.cs" timestamp="1550604804310">
         <mark key="'" line="9" column="61" />
@@ -449,6 +445,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2D506C52-CF4B-4BDB-B896-80B6E2C92982/75/9f546937/EntityFrameworkServiceCollectionExtensions.cs" timestamp="1550434508946">
         <mark key="'" line="482" column="56" />
+      </file>
+      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" timestamp="1550748178107">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="92" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" timestamp="1550681245635">
         <mark key="'" line="42" column="57" />
@@ -626,12 +627,6 @@
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/ExternalUser.cs" timestamp="1548157721097">
         <mark key="'" line="31" column="22" />
       </file>
-      <file name="C:/projects/Auth-Api/.gitignore" timestamp="1550156611734">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-      </file>
       <file name="C:/projects/Auth-Api/Auth/Auth.sln" timestamp="1550664174613">
         <mark key="[" line="7" column="53" />
         <mark key="]" line="7" column="57" />
@@ -684,10 +679,6 @@
         <mark key="]" line="6" column="20" />
         <mark key="^" line="6" column="20" />
         <mark key="." line="6" column="20" />
-      </file>
-      <file name="C:/projects/Auth-Api/Auth/Auth.Validation/Exceptions/ExceptionCode.cs" timestamp="1550671138001">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41FF9904-11FC-44E2-ABB3-76207A9A54A4/1d/ff403819/DateTime.cs" timestamp="1548682830749">
         <mark key="'" line="152" column="42" />
@@ -810,8 +801,8 @@
       <register name="a" type="4">
         <text encoding="base64">dmFyIGV4aXN0aW5nRG9tYWlucyA=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ClientCredentialsTokenRequest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm9qZWN0Q3JlYXRlQ1NPRENhdGFsb2dDbGllbnRJZk5vdEV4aXN0cyhjb250ZXh0LCBsb2dnZXIsIGNsaWVudHNPcHRpb25zLkNzb2RDYXRhbG9nKTsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1362,16 +1353,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Industry</text>
+        <text>CU-4989 Create a Lambda to upload initial data for domains</text>
       </register>
       <register name="/" type="4">
         <text>migrat</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">OwoKICAgICAgICA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlQ1NPRENhdGFsb2dDbGllbnRJZk5vdEV4aXN0cyhjb250ZXh0LCBsb2dnZXIsIGNsaWVudHNPcHRpb25zLkNzb2RDYXRhbG9nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9qZWN0Q3JlYXRlQ1NPRENhdGFsb2dDbGllbnRJZk5vdEV4aXN0cyhjb250ZXh0LCBsb2dnZXIsIGNsaWVudHNPcHRpb25zLkNzb2RDYXRhbG9nKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1401,13 +1392,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
       </register>
       <register name="s" type="4">
         <text>.WithAiccContext(new AiccContext
@@ -1416,16 +1407,16 @@
                 });</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dmFyIGV4aXN0aW5nRG9tYWlucyA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1438,11 +1429,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4aXN0aW5nRG9tYWlucyA9IHRoaXMuQ29udGV4dC5SZWdpc3RyYXRpb25zRG9tYWlucy5TZWxlY3QoeCA9PiB4LkRvbWFpblVybCkuVG9MaXN0KCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">dmFyIGV4aXN0aW5nRG9tYWlucyA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5Db250ZXh0LlJlZ2lzdHJhdGlvbnNEb21haW5zLkxvYWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4aXN0aW5nRG9tYWlucyA9IHRoaXMuQ29udGV4dC5SZWdpc3RyYXRpb25zRG9tYWlucy5TZWxlY3QoeCA9PiB4LkRvbWFpblVybCkuVG9MaXN0KCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
