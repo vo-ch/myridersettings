@@ -333,10 +333,10 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Registration/Csod/CsodRegistrationMessage.cs" timestamp="1549384312613">
         <mark key="'" line="4" column="17" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Function.cs" timestamp="1551177909690">
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Function.cs" timestamp="1551179484076">
         <mark key="'" line="53" column="26" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="55" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="66" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.Aicc/AiccSettings.cs" timestamp="1549297046379">
         <mark key="'" line="6" column="28" />
@@ -380,7 +380,7 @@
         <mark key="]" line="3" column="39" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551173659904">
+      <file name="/Dummy.txt" timestamp="1551180707570">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -486,12 +486,12 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Core/Fixtures/TestServerFixture.cs" timestamp="1549468916477">
         <mark key="'" line="28" column="26" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests/FunctionTests.cs" timestamp="1551118057306">
-        <mark key="'" line="63" column="31" />
-        <mark key="[" line="75" column="14" />
-        <mark key="]" line="75" column="14" />
-        <mark key="." line="75" column="14" />
-        <mark key="^" line="75" column="14" />
+      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests/FunctionTests.cs" timestamp="1551180137363">
+        <mark key="'" line="35" column="80" />
+        <mark key="[" line="73" column="82" />
+        <mark key="]" line="73" column="94" />
+        <mark key="." line="73" column="94" />
+        <mark key="^" line="73" column="94" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccIniParserService.cs" timestamp="1549265522537">
         <mark key="'" line="13" column="26" />
@@ -567,12 +567,12 @@
         <mark key="]" line="136" column="92" />
         <mark key="." line="136" column="0" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" timestamp="1551177934663">
-        <mark key="'" line="38" column="21" />
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="44" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="33" />
+      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" timestamp="1551180541286">
+        <mark key="'" line="64" column="88" />
+        <mark key="[" line="67" column="38" />
+        <mark key="]" line="67" column="43" />
+        <mark key="." line="67" column="43" />
+        <mark key="^" line="67" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/c8/e5e17cdc/DefaultHttpResponse.cs" timestamp="1550065783407">
         <mark key="'" line="43" column="123" />
@@ -897,9 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="76" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Services/RegistrationDomainService.cs" />
-      <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Converters/RegistrationDomainConverter.cs" />
-      <jump line="26" column="48" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Converters/RegistrationDomainConverter.cs" />
       <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Data/Repository/Interfaces/IRegistrationDomainRepository.cs" />
       <jump line="37" column="87" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Services/RegistrationDomainService.cs" />
       <jump line="48" column="45" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
@@ -997,13 +994,16 @@
       <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Services/Interfaces/IS3CsvService.cs" />
       <jump line="53" column="26" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Function.cs" />
       <jump line="37" column="21" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
+      <jump line="34" column="80" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests/FunctionTests.cs" />
+      <jump line="61" column="78" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
+      <jump line="64" column="88" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>originalCsodRegistrationCount</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dEZWJ1Zyhjb250ZXh0LCAiU1RBUlQgUHJvY2Vzc01lc3NhZ2UiKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Accounting</text>
+        <text>$</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1554,16 +1554,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Accounting</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>?</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNpbmcgSUxhbWJkYUxvZ2dlciA9IEFjY291bnRpbmcuTG9nZ2luZy5JTGFtYmRhTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dEZWJ1Zyhjb250ZXh0LCAkIkRlbGV0ZSB7b2JqZWN0S2V5fSBmcm9tIHtidWNrZXROYW1lfSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQW1hem9uLkxhbWJkYS5Db3JlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1576,7 +1576,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuQ29tcGlsZXJTZXJ2aWNlczsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
@@ -1584,23 +1584,20 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="s" type="4">
-        <text>.WithAiccContext(new AiccContext
-                {
-                    Url = new Uri(userUrl)
-                });</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dEZWJ1Zyhjb250ZXh0LCAiRU5EIFByb2Nlc3NNZXNzYWdlIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuSG9zdGluZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBJSG9zdCBfaG9zdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2hvc3QgPSBuZXcgSG9zdEJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLkNvbmZpZ3VyZUFwcENvbmZpZ3VyYXRpb24oYnVpbGRlciA9PgogICAgICAgICAgICAgICAgICAgIGJ1aWxkZXIKICAgICAgICAgICAgICAgICAgICAgICAgLlNldEJhc2VQYXRoKEVudmlyb25tZW50LkN1cnJlbnREaXJlY3RvcnkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5BZGRKc29uRmlsZSgiYXBwc2V0dGluZ3MuanNvbiIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5BZGRKc29uRmlsZSgiYXBwc2V0dGluZ3MuTG9jYWwuanNvbiIsIHRydWUpCiAgICAgICAgICAgICAgICAgICAgICAgIC5CdWlsZCgpKQogICAgICAgICAgICAgICAgLkNvbmZpZ3VyZVNlcnZpY2VzKFN0YXJ0dXAuQ29uZmlndXJlU2VydmljZXMpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dEZWJ1Zyhjb250ZXh0LCAkIlJlYWQge29iamVjdEtleX0gZnJvbSB7YnVja2V0TmFtZX0iKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1614,10 +1611,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fYW1hem9uUzNNb2NrID0gU2VydmljZVByb3ZpZGVyLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElBbWF6b25TMz4+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dEZWJ1Zyhjb250ZXh0LCAiRU5EIFByb2Nlc3NNZXNzYWdlIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHMzQ3N2U2VydmljZSA9IFNlcnZpY2VQcm92aWRlci5HZXRSZXF1aXJlZFNlcnZpY2U8SVMzQ3N2U2VydmljZT4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
