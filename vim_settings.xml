@@ -19,11 +19,11 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Processors/Processor.cs" timestamp="1549647958989">
         <mark key="'" line="27" column="39" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Program.cs" timestamp="1551176467963">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="40" column="41" />
-        <mark key="." line="29" column="0" />
+      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Program.cs" timestamp="1551201845936">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+        <mark key="^" line="24" column="45" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/95441782-542D-4FEB-A9AA-FAA3DEBA76B2/B/SqlMapper.Async.cs" timestamp="1548772197490">
         <mark key="'" line="556" column="31" />
@@ -143,9 +143,6 @@
       </file>
       <file name="C:/projects/cu-data-reporting/GetDataFromGoogleAnalytics.Lambda/Function.cs" timestamp="1548691125381">
         <mark key="'" line="61" column="19" />
-      </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests/Domain/Commands/Domain/V2/UpdateDomainCommandHandlerTests.cs" timestamp="1551193273980">
-        <mark key="'" line="113" column="40" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/StartupTests.cs" timestamp="1549538813167">
         <mark key="'" line="26" column="29" />
@@ -464,9 +461,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.Tests.Core/Builders/IBuilder.cs" timestamp="1551104279415">
-        <mark key="'" line="2" column="21" />
-      </file>
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1547486652844">
         <mark key="'" line="5003" column="28" />
       </file>
@@ -613,13 +607,10 @@
         <mark key="." line="39" column="36" />
         <mark key="^" line="39" column="36" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Authentication/DependencyInjection/ClientAuthenticationHandlerExtensions.cs" timestamp="1550746058507">
-        <mark key="'" line="23" column="46" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2D506C52-CF4B-4BDB-B896-80B6E2C92982/75/9f546937/EntityFrameworkServiceCollectionExtensions.cs" timestamp="1550434508946">
         <mark key="'" line="482" column="56" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" timestamp="1551198377309">
+      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" timestamp="1551201468581">
         <mark key="'" line="60" column="78" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -828,8 +819,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Services/S3CsvService.cs" timestamp="1551198509869">
-        <mark key="'" line="40" column="36" />
+      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Services/S3CsvService.cs" timestamp="1551201484830">
+        <mark key="'" line="40" column="37" />
         <mark key="[" line="18" column="38" />
         <mark key="]" line="18" column="45" />
         <mark key="." line="21" column="11" />
@@ -1030,8 +1021,6 @@
       <jump line="71" column="28" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.Tests/Services/RegistrationDomainServiceTests.cs" />
       <jump line="67" column="91" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
       <jump line="26" column="49" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Services/Lms/LmsService.cs" />
-      <jump line="40" column="36" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Services/S3CsvService.cs" />
-      <jump line="60" column="78" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
       <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Services/Interfaces/IS3CsvService.cs" />
       <jump line="23" column="24" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.Tests/Services/RegistrationDomainServiceTests.cs" />
       <jump line="22" column="30" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.Tests/Services/S3CsvServiceTests.cs" />
@@ -1047,13 +1036,15 @@
       <jump line="27" column="66" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.Tests/Converters/RegistrationDomainCsvConverterTests.cs" />
       <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Converters/RegistrationDomainCsvConverter.cs" />
       <jump line="20" column="88" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Startup.cs" />
+      <jump line="60" column="78" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
+      <jump line="40" column="37" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Services/S3CsvService.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTW9jazxJUmVnaW9uUmVwb3NpdG9yeT4gcmVnaW9uUmVwb3NpdG9yeSA9IG5ldyBNb2NrPElSZWdpb25SZXBvc2l0b3J5PigpOwogICAgICAgICAgICBNb2NrPElJbmR1c3RyeVJlcG9zaXRvcnk+IGluZHVzdHJ5UmVwb3NpdG9yeSA9IG5ldyBNb2NrPElJbmR1c3RyeVJlcG9zaXRvcnk+KCk7CiAgICAgICAgICAgIE1vY2s8SVJlZ2lzdHJhdGlvbkRvbWFpblJlcG9zaXRvcnk+IHJlZ2lzdHJhdGlvbkRvbWFpblJlcG9zaXRvcnkgPSBuZXcgTW9jazxJUmVnaXN0cmF0aW9uRG9tYWluUmVwb3NpdG9yeT4oKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiAKICAgICAgICAgICAgICAgIG5ldyBSZWdpc3RyYXRpb25Eb21haW5TZXJ2aWNlKHJlZ2lvblJlcG9zaXRvcnkuT2JqZWN0LCBpbmR1c3RyeVJlcG9zaXRvcnkuT2JqZWN0LCByZWdpc3RyYXRpb25Eb21haW5SZXBvc2l0b3J5Lk9iamVjdCkpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShleGNlcHRpb24uTWVzc2FnZSA9PSBuYW1lb2YocmVnaW9uUmVwb3NpdG9yeSkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LogLevel</text>
+        <text>Directory.GetCurrentDirectory(</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1604,7 +1595,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>regions</text>
+        <text>Directory.GetCurrentDirectory(</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
@@ -1613,7 +1604,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKHJlZ2lvbnMsIG5hbWVvZihyZWdpb25zKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgTW9xOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1626,28 +1617,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3Rlci5EZXBlbmRlbmN5SW5qZWN0aW9uOwp1c2luZyBNaWNyb3NvZnQuRXh0ZW5zaW9ucy5EZXBlbmRlbmN5SW5qZWN0aW9uOwo=</text>
+        <text encoding="base64">dXNpbmcgTW9xOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3Rlci5EZXBlbmRlbmN5SW5qZWN0aW9uOwp1c2luZyBNaWNyb3NvZnQuRXh0ZW5zaW9ucy5EZXBlbmRlbmN5SW5qZWN0aW9uOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dEZWJ1Zyhjb250ZXh0LCAiRU5EIFByb2Nlc3NNZXNzYWdlIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBJU2VydmljZUNvbGxlY3Rpb24gc2VydmljZXMgPSBudWxsOwogICAgICAgICAgICBzdHJpbmcgY29ubmVjdGlvblN0cmluZyA9ICJjb25uZWN0aW9uIjsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+CiAgICAgICAgICAgICAgICBSZWdpc3RyYXRpb25Eb21haW5SZXBvc2l0b3J5RXh0ZW5zaW9ucy5BZGRSZXBvc2l0b3JpZXMoc2VydmljZXMsIGNvbm5lY3Rpb25TdHJpbmcpKTsKICAgICAgICAgICAgQXNzZXJ0LlRydWUoZXhjZXB0aW9uLk1lc3NhZ2UgPT0gbmFtZW9mKHNlcnZpY2VzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBJU2VydmljZUNvbGxlY3Rpb24gc2VydmljZXMgPSBudWxsOwogICAgICAgICAgICBzdHJpbmcgY29ubmVjdGlvblN0cmluZyA9ICJjb25uZWN0aW9uIjsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+CiAgICAgICAgICAgICAgICBSZWdpc3RyYXRpb25Eb21haW5SZXBvc2l0b3J5RXh0ZW5zaW9ucy5BZGRSZXBvc2l0b3JpZXMoc2VydmljZXMsIGNvbm5lY3Rpb25TdHJpbmcpKTsKICAgICAgICAgICAgQXNzZXJ0LlRydWUoZXhjZXB0aW9uLk1lc3NhZ2UgPT0gbmFtZW9mKHNlcnZpY2VzKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5MaW5xOwp1c2luZyBBdXRoLkRhdGFBY2Nlc3NMYXllci5FbnRpdGllczsKdXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3Rlci5EYXRhLk1vZGVsOwp1c2luZyBBdXRoLlZhbGlkYXRpb24uUmVxdWlyZW1lbnRzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBQb3J0YWxOYW1lVG9VcmxEb21haW4oc3RyaW5nIHBvcnRhbE5hbWUpID0+ICQie3BvcnRhbE5hbWV9e1VybERvbWFpblBvc3RmaXh9IjsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5MaW5xOwp1c2luZyBBdXRoLkRhdGFBY2Nlc3NMYXllci5FbnRpdGllczsKdXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3Rlci5EYXRhLk1vZGVsOwp1c2luZyBBdXRoLlZhbGlkYXRpb24uUmVxdWlyZW1lbnRzOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1661,16 +1652,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBQb3J0YWxOYW1lVG9VcmxEb21haW4oc3RyaW5nIHBvcnRhbE5hbWUpID0+ICQie3BvcnRhbE5hbWV9e1VybERvbWFpblBvc3RmaXh9IjsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBQb3J0YWxOYW1lVG9VcmxEb21haW4oc3RyaW5nIHBvcnRhbE5hbWUpID0+ICQie3BvcnRhbE5hbWV9e1VybERvbWFpblBvc3RmaXh9IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBVcmxEb21haW5Qb3N0Zml4ID0gIi5jc29kLmNvbSI7CiAgICAgICAgcHJpdmF0ZSBjb25zdCBzdHJpbmcgVGV4dFJlcHJlc2VudGF0aW9uT2ZUcnVlVmFsdWUgPSAiWSI7CgogICAgICAgIHB1YmxpYyBzdGF0aWMgUmVnaXN0cmF0aW9uRG9tYWluIFRvUmVnaXN0cmF0aW9uRG9tYWluKAogICAgICAgICAgICB0aGlzIFJlZ2lzdHJhdGlvbkRvbWFpbkNzdiBjc3ZSZWNvcmQsCiAgICAgICAgICAgIElMaXN0PFJlZ2lvbj4gcmVnaW9ucywKICAgICAgICAgICAgSUxpc3Q8SW5kdXN0cnk+IGluZHVzdHJpZXMpCiAgICAgICAgewogICAgICAgICAgICBDb250cmFjdC5SZXF1aXJlc05vdE51bGwocmVnaW9ucywgbmFtZW9mKHJlZ2lvbnMpKTsKICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKGluZHVzdHJpZXMsIG5hbWVvZihpbmR1c3RyaWVzKSk7CgogICAgICAgICAgICBSZWdpb24gcmVnaW9uID0gcmVnaW9ucy5GaXJzdE9yRGVmYXVsdChyID0+IHIuTmFtZSA9PSBjc3ZSZWNvcmQuUmVnaW9uKTsKICAgICAgICAgICAgSW5kdXN0cnkgaW5kdXN0cnkgPSBpbmR1c3RyaWVzLkZpcnN0T3JEZWZhdWx0KGkgPT4gaS5OYW1lID09IGNzdlJlY29yZC5JbmR1c3RyeSk7CgogICAgICAgICAgICByZXR1cm4gbmV3IFJlZ2lzdHJhdGlvbkRvbWFpbgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBEb21haW5VcmwgPSBQb3J0YWxOYW1lVG9VcmxEb21haW4oY3N2UmVjb3JkLlBvcnRhbE5hbWUpLAogICAgICAgICAgICAgICAgQ2xpZW50TmFtZSA9IGNzdlJlY29yZC5DbGllbnROYW1lLAogICAgICAgICAgICAgICAgTnVtYmVyT2ZTZWF0cyA9IGNzdlJlY29yZC5OdW1iZXJPZlNlYXRzLAogICAgICAgICAgICAgICAgSW5jbHVkZUluUGF5b3V0ID0gY3N2UmVjb3JkLkluY2x1ZGVJblBheW91dCA9PSBUZXh0UmVwcmVzZW50YXRpb25PZlRydWVWYWx1ZSwKICAgICAgICAgICAgICAgIFJlZ2lvbiA9IHJlZ2lvbiwKICAgICAgICAgICAgICAgIEluZHVzdHJ5ID0gaW5kdXN0cnkKICAgICAgICAgICAgfTsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHN0cmluZyBQb3J0YWxOYW1lVG9VcmxEb21haW4oc3RyaW5nIHBvcnRhbE5hbWUpID0+ICQie3BvcnRhbE5hbWV9e1VybERvbWFpblBvc3RmaXh9IjsKICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -1724,8 +1715,8 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>s/0/1/g</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
