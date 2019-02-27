@@ -764,9 +764,9 @@
       <file name="C:/projects/UI-Web/ClientApp/views/course/builder/manage/views/final-quiz/stores/CourseBuilderFinalQuizStore.ts" timestamp="1545661915060">
         <mark key="'" line="43" column="4" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/PaymentDb/Migrations/20190227164913_AddQuartersAndQuarterlyPayoutsTables.cs" timestamp="1551287538908">
-        <mark key="[" line="58" column="38" />
-        <mark key="]" line="58" column="41" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/PaymentDb/Migrations/20190227164913_AddQuartersAndQuarterlyPayoutsTables.cs" timestamp="1551296059419">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="30" />
         <mark key="^" line="58" column="41" />
         <mark key="." line="58" column="41" />
       </file>
@@ -1050,7 +1050,7 @@
         <text>PaymentDatabase</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.ToLower()</text>
+        <text>currency_id</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1606,8 +1606,8 @@
       <register name="/" type="4">
         <text>nullable: t</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBUaGlzIGNvbnN0cmFpbnQgYWRkZWQgbWFudWFsbHkK</text>
+      <register name="0" type="4">
+        <text>currency_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
