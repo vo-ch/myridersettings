@@ -3,15 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/Data/PaymentDb/DesignTimeDbContextFactory.cs" timestamp="1551282938775">
+        <mark key="'" line="25" column="28" />
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="75" />
+        <mark key="." line="9" column="75" />
+        <mark key="^" line="9" column="75" />
+      </file>
       <file name="/a.sql" timestamp="1551281049525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentDbContext.cs" timestamp="1551280869237">
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentDbContext.cs" timestamp="1551282692908">
         <mark key="'" line="22" column="35" />
-        <mark key="[" line="24" column="62" />
-        <mark key="]" line="24" column="62" />
-        <mark key="." line="24" column="62" />
-        <mark key="^" line="24" column="61" />
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/appsettings.Local.json" timestamp="1551282900945">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01f8e213-5ecc-4708-bead-67f184c26463/console.sql" timestamp="1551280619738">
         <mark key="[" line="7" column="20" />
@@ -46,6 +58,12 @@
         <mark key="." line="13" column="50" />
         <mark key="^" line="13" column="50" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/appsettings.json" timestamp="1551282895456">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="7" column="108" />
+        <mark key="^" line="7" column="108" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/QuarterlyPayoutMap.cs" timestamp="1551280780642">
         <mark key="'" line="33" column="45" />
         <mark key="[" line="33" column="61" />
@@ -60,14 +78,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
-      </file>
-      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Auth.DataAccessLayer.csproj" timestamp="1551273761689">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="18" column="23" />
-      </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/Mappings/CsodRegistrationMap.cs" timestamp="1551278181735">
-        <mark key="[" line="27" column="90" />
-        <mark key="]" line="27" column="116" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Entities/Enums/QuarterLabel.cs" timestamp="1551277800136">
         <mark key="[" line="8" column="0" />
@@ -98,6 +108,13 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/PaymentDbMigrationContext.cs" timestamp="1551282677080">
+        <mark key="'" line="7" column="48" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="7" column="82" />
+        <mark key="^" line="7" column="82" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/CurrencyMap.cs" timestamp="1551281201816">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="46" />
@@ -125,15 +142,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/appsettings.Local.json" timestamp="1551282819890">
+        <mark key="'" line="48" column="7" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="4" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="50" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" />
-      <jump line="33" column="16" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests/FunctionTests.cs" />
-      <jump line="65" column="0" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests/FunctionTests.cs" />
-      <jump line="69" column="0" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests/FunctionTests.cs" />
-      <jump line="35" column="45" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests/FunctionTests.cs" />
-      <jump line="69" column="53" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.IntegrationTests/FunctionTests.cs" />
       <jump line="70" column="38" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.IntegrationTests/FunctionTests.cs" />
       <jump line="259" column="35" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B453F791-1988-448A-BB87-7CBFC1BFFA18/3b/184e3f4c/AssertionExtensions.cs" />
       <jump line="24" column="45" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests/FunctionTests.cs" />
@@ -227,13 +242,20 @@
       <jump line="4" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/CurrencyMap.cs" />
       <jump line="10" column="28" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/QuarterMap.cs" />
       <jump line="33" column="45" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/QuarterlyPayoutMap.cs" />
+      <jump line="4" column="53" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/PaymentDbMigrationContext.cs" />
+      <jump line="5" column="53" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/PaymentDbMigrationContext.cs" />
+      <jump line="26" column="46" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/Data/PaymentDb/DesignTimeDbContextFactory.cs" />
+      <jump line="8" column="79" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/Data/PaymentDb/DesignTimeDbContextFactory.cs" />
+      <jump line="7" column="48" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/PaymentDbMigrationContext.cs" />
+      <jump line="25" column="28" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Migration/Data/PaymentDb/DesignTimeDbContextFactory.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentDbContext.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">SUVudGl0eVR5cGVDb25maWd1cmF0aW9uPENzb2RSZWdpc3RyYXRpb24+</text>
+        <text>PaymentDatabase</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIGlmIG5vdCBleGlzdHMgY3VycmVuY2llcwooCglpZCBzZXJpYWwgbm90IG51bGwKCQljb25zdHJhaW50IGN1cnJlbmNpZXNfcGtleQoJCQlwcmltYXJ5IGtleSwKCW1vbmdvX2lkIGNoYXJhY3RlciB2YXJ5aW5nLAoJbGFiZWwgY2hhcmFjdGVyIHZhcnlpbmcsCgljb2RlIGNoYXJhY3RlciB2YXJ5aW5nLAoJc3RhdHVzIGNoYXJhY3RlciB2YXJ5aW5nLAoJY3JlYXRlZF9ieSBpbnRlZ2VyLAoJdXBkYXRlZF9ieSBpbnRlZ2VyLAoJY3JlYXRlZF9hdCB0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUgbm90IG51bGwsCgl1cGRhdGVkX2F0IHRpbWVzdGFtcCB3aXRob3V0IHRpbWUgem9uZSBub3QgbnVsbAopOwo=</text>
+        <text encoding="base64">ICAiQWxsb3dlZEhvc3RzIjogIioiCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -784,16 +806,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>varchar</text>
+        <text>auth</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIYXNDb2x1bW5OYW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>character varying</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAiQ29ubmVjdGlvblN0cmluZ3MiOiB7CiAgICAiUGF5bWVudERhdGFiYXNlIjogIlVzZXIgSUQ9cG9zdGdyZXM7UGFzc3dvcmQ9bXlzZWNyZXRwYXNzd29yZDtIb3N0PWxvY2FsaG9zdDtQb3J0PTU0MzI7RGF0YWJhc2U9cG9zdGdyZXM7IgogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJjaGFyYWN0ZXIgdmFyeWluZyIpOwo=</text>
+        <text encoding="base64">ICAiQWxsb3dlZEhvc3RzIjogIioiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -806,28 +828,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAiQWxsb3dlZEhvc3RzIjogIioiCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5EYXRhLk1pZ3JhdGlvbjsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlIiBWZXJzaW9uPSIyLjEuOCIgLz4KICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlLlJlbGF0aW9uYWwiIFZlcnNpb249IjIuMS44IiAvPgogICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmUuVG9vbHMiIFZlcnNpb249IjIuMS44Ij4KICAgICAgPFByaXZhdGVBc3NldHM+YWxsPC9Qcml2YXRlQXNzZXRzPgogICAgICA8SW5jbHVkZUFzc2V0cz5ydW50aW1lOyBidWlsZDsgbmF0aXZlOyBjb250ZW50ZmlsZXM7IGFuYWx5emVyczwvSW5jbHVkZUFzc2V0cz4KICAgIDwvUGFja2FnZVJlZmVyZW5jZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKTsK</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb252ZXJzaW9uKAogICAgICAgICAgICAgICAgICAgIHYgPT4gdi5Ub1N0cmluZygpLAogICAgICAgICAgICAgICAgICAgIHYgPT4gKFF1YXJ0ZXJMYWJlbCkgRW51bS5QYXJzZSh0eXBlb2YoUXVhcnRlckxhYmVsKSwgdikpCiAgICAgICAgICAgICAgICAuSGFzQ29sdW1uVHlwZSgiY2hhcmFjdGVyIHZhcnlpbmciKTsK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBvdmVycmlkZSB2b2lkIE9uTW9kZWxDcmVhdGluZyhNb2RlbEJ1aWxkZXIgYnVpbGRlcikKICAgIHsKICAgIGJhc2UuT25Nb2RlbENyZWF0aW5nKGJ1aWxkZXIpOwogICAgYnVpbGRlci5JZ25vcmU8Q2F0ZWdvcnk+KCk7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguU3RhcnREYXRlKS5IYXNDb2x1bW5OYW1lKCJzdGFydF9kYXRlIikuSGFzQ29sdW1uVHlwZSgidGltZXN0YW1wIHdpdGhvdXQgdGltZSB6b25lIik7CiAgICAgICAgICAgIGJ1aWxkZXIuUHJvcGVydHkoeCA9PiB4LkVuZERhdGUpLkhhc0NvbHVtbk5hbWUoImVuZF9kYXRlIikuSGFzQ29sdW1uVHlwZSgidGltZXN0YW1wIHdpdGhvdXQgdGltZSB6b25lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -841,16 +863,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguTGFiZWwpCiAgICAgICAgICAgICAgICAuSGFzQ29sdW1uTmFtZSgibGFiZWwiKQogICAgICAgICAgICAgICAgLkhhc0NvbnZlcnNpb24oCiAgICAgICAgICAgICAgICAgICAgdiA9PiB2LlRvU3RyaW5nKCksCiAgICAgICAgICAgICAgICAgICAgdiA9PiAoUXVhcnRlckxhYmVsKSBFbnVtLlBhcnNlKHR5cGVvZihRdWFydGVyTGFiZWwpLCB2KSkKICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJjaGFyYWN0ZXIgdmFyeWluZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJjaGFyYWN0ZXIgdmFyeWluZyIpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">SGFzQ29sdW1uTmFtZSgiaWQiKTsKICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguU3RhdHVzKS4=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHsKCiAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -904,8 +926,8 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>s/0/1/g</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
