@@ -246,6 +246,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/69/a2bfd2e2/HttpContext.cs" timestamp="1550004044408">
         <mark key="'" line="18" column="24" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentDbContext.cs" timestamp="1551273844634">
+        <mark key="'" line="18" column="35" />
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="16" column="52" />
+        <mark key="." line="16" column="52" />
+        <mark key="^" line="16" column="52" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" timestamp="1549569915899">
         <mark key="'" line="13" column="55" />
       </file>
@@ -350,6 +357,12 @@
         <mark key="]" line="8" column="61" />
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="61" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Entities/Enums/QuarterlyPayoutStatus.cs" timestamp="1551274729322">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Data/CsvMappings/RegistrationDomainCsvMap.cs" timestamp="1550847613986">
         <mark key="'" line="14" column="24" />
@@ -546,6 +559,10 @@
         <mark key="^" line="28" column="46" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Auth.DataAccessLayer.csproj" timestamp="1551273761689">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="18" column="23" />
+      </file>
       <file name="C:/projects/UI-Web/node_modules/typescript/lib/lib.dom.d.ts" timestamp="1547486652844">
         <mark key="'" line="5003" column="28" />
       </file>
@@ -692,6 +709,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests.Core/Fixtures/ConfigurationServiceProviderFixture.cs" timestamp="1551174300703">
         <mark key="'" line="6" column="69" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Quarter.cs" timestamp="1551274014807">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.Tests.Core/Builders/RegionBuilder.cs" timestamp="1551104245298">
         <mark key="'" line="5" column="37" />
       </file>
@@ -714,6 +737,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="^" line="63" column="84" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Entities/QuarterlyPayout.cs" timestamp="1551275016478">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/c8/e5e17cdc/DefaultHttpResponse.cs" timestamp="1550065783407">
         <mark key="'" line="43" column="123" />
@@ -910,6 +939,11 @@
         <mark key="." line="14" column="81" />
         <mark key="^" line="14" column="81" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Accounting.Data.csproj" timestamp="1551273824329">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/.editorconfig" timestamp="1550077249008">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1059,7 +1093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
       <jump line="50" column="12" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
       <jump line="52" column="68" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
       <jump line="53" column="26" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Function.cs" />
@@ -1159,13 +1192,14 @@
       <jump line="259" column="26" filename="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B2250D1-FB76-44B9-8AF1-AB5ED79E762F/8c/3477e4d6/ModelBuilder.cs" />
       <jump line="19" column="48" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/PaymentDbContext.cs" />
+      <jump line="19" column="35" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentDbContext.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9jazxJUmVnaW9uUmVwb3NpdG9yeT4gcmVnaW9uUmVwb3NpdG9yeSA9IG5ldyBNb2NrPElSZWdpb25SZXBvc2l0b3J5PigpOwogICAgICAgICAgICBNb2NrPElJbmR1c3RyeVJlcG9zaXRvcnk+IGluZHVzdHJ5UmVwb3NpdG9yeSA9IG5ldyBNb2NrPElJbmR1c3RyeVJlcG9zaXRvcnk+KCk7CiAgICAgICAgICAgIE1vY2s8SVJlZ2lzdHJhdGlvbkRvbWFpblJlcG9zaXRvcnk+IHJlZ2lzdHJhdGlvbkRvbWFpblJlcG9zaXRvcnkgPSBuZXcgTW9jazxJUmVnaXN0cmF0aW9uRG9tYWluUmVwb3NpdG9yeT4oKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiAKICAgICAgICAgICAgICAgIG5ldyBSZWdpc3RyYXRpb25Eb21haW5TZXJ2aWNlKHJlZ2lvblJlcG9zaXRvcnkuT2JqZWN0LCBpbmR1c3RyeVJlcG9zaXRvcnkuT2JqZWN0LCByZWdpc3RyYXRpb25Eb21haW5SZXBvc2l0b3J5Lk9iamVjdCkpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShleGNlcHRpb24uTWVzc2FnZSA9PSBuYW1lb2YocmVnaW9uUmVwb3NpdG9yeSkpOwo=</text>
+        <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik5wZ3NxbC5FbnRpdHlGcmFtZXdvcmtDb3JlLlBvc3RncmVTUUwiIFZlcnNpb249IjIuMS4yIiAvPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AccessLayer</text>
+        <text>At</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1716,16 +1750,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AccessLayer</text>
+        <text>At</text>
       </register>
       <register name="/" type="4">
         <text>Web</text>
       </register>
-      <register name="0" type="4">
-        <text>37613880-D493-414C-8062-D78C93DBB40F</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWUgQ3JlYXRlZEF0IHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UHJvamVjdCgie0ZBRTA0RUMwLTMwMUYtMTFEMy1CRjRCLTAwQzA0Rjc5RUZCQ30iKSA9ICJDb25zb2xlQXBwMSIsICJUZXN0XENvbnNvbGVBcHAxXENvbnNvbGVBcHAxLmNzcHJvaiIsICJ7NEExMUQxODMtQkYxNi00MDdELUJBRkMtNTM2REE5NDdGRUYzfSIKRW5kUHJvamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1738,7 +1772,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiQ29ubmVjdGlvblN0cmluZ3MiOiB7CiAgICAiQXV0aERhdGFiYXNlIjogIlVzZXIgSUQ9YXV0aDtQYXNzd29yZD12Y2htdXpoO0hvc3Q9bG9jYWxob3N0O1BvcnQ9NTQzMjtEYXRhYmFzZT1hdXRoOyIKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
@@ -1747,19 +1781,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dEZWJ1Zyhjb250ZXh0LCAiRU5EIFByb2Nlc3NNZXNzYWdlIik7Cg==</text>
+        <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlIiBWZXJzaW9uPSIyLjEuOCIgLz4KICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlLlJlbGF0aW9uYWwiIFZlcnNpb249IjIuMS44IiAvPgogICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmUuVG9vbHMiIFZlcnNpb249IjIuMS44Ij4KICAgICAgPFByaXZhdGVBc3NldHM+YWxsPC9Qcml2YXRlQXNzZXRzPgogICAgICA8SW5jbHVkZUFzc2V0cz5ydW50aW1lOyBidWlsZDsgbmF0aXZlOyBjb250ZW50ZmlsZXM7IGFuYWx5emVyczwvSW5jbHVkZUFzc2V0cz4KICAgIDwvUGFja2FnZVJlZmVyZW5jZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTW9xOwo=</text>
+        <text encoding="base64">ICAgICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmUiIFZlcnNpb249IjIuMS44IiAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3Rlci5EZXBlbmRlbmN5SW5qZWN0aW9uOwp1c2luZyBNaWNyb3NvZnQuRXh0ZW5zaW9ucy5EZXBlbmRlbmN5SW5qZWN0aW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5CMmJSZWdpc3RyYXRpb25Jbmdlc3Rlci5EYXRhLkVudGl0aWVzOwp1c2luZyBBY2NvdW50aW5nLkIyYlJlZ2lzdHJhdGlvbkluZ2VzdGVyLkRhdGEuTWFwcGluZ3M7CnVzaW5nIE1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBJU2VydmljZUNvbGxlY3Rpb24gc2VydmljZXMgPSBudWxsOwogICAgICAgICAgICBzdHJpbmcgY29ubmVjdGlvblN0cmluZyA9ICJjb25uZWN0aW9uIjsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+CiAgICAgICAgICAgICAgICBSZWdpc3RyYXRpb25Eb21haW5SZXBvc2l0b3J5RXh0ZW5zaW9ucy5BZGRSZXBvc2l0b3JpZXMoc2VydmljZXMsIGNvbm5lY3Rpb25TdHJpbmcpKTsKICAgICAgICAgICAgQXNzZXJ0LlRydWUoZXhjZXB0aW9uLk1lc3NhZ2UgPT0gbmFtZW9mKHNlcnZpY2VzKSk7Cg==</text>
+        <text encoding="base64">UHJvamVjdCgie0ZBRTA0RUMwLTMwMUYtMTFEMy1CRjRCLTAwQzA0Rjc5RUZCQ30iKSA9ICJDb25zb2xlQXBwMSIsICJUZXN0XENvbnNvbGVBcHAxXENvbnNvbGVBcHAxLmNzcHJvaiIsICJ7NEExMUQxODMtQkYxNi00MDdELUJBRkMtNTM2REE5NDdGRUYzfSIKRW5kUHJvamVjdAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1773,16 +1807,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiQ29ubmVjdGlvblN0cmluZ3MiOiB7CiAgICAiQXV0aERhdGFiYXNlIjogIlVzZXIgSUQ9YXV0aDtQYXNzd29yZD12Y2htdXpoO0hvc3Q9bG9jYWxob3N0O1BvcnQ9NTQzMjtEYXRhYmFzZT1hdXRoOyIKICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5MaW5xOwp1c2luZyBBdXRoLkRhdGFBY2Nlc3NMYXllci5FbnRpdGllczsKdXNpbmcgQXV0aC5SZWdpc3RyYXRpb25Eb21haW5Jbmdlc3Rlci5EYXRhLk1vZGVsOwp1c2luZyBBdXRoLlZhbGlkYXRpb24uUmVxdWlyZW1lbnRzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -1834,10 +1868,10 @@
         <entry>%s/PaymentDbContext/AuthContext/g</entry>
         <entry>s/?//g</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>s/0/1/g</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
