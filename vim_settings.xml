@@ -39,21 +39,16 @@
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Entities/Claim.cs" timestamp="1550171861167">
         <mark key="'" line="12" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C01C9AD-D1DC-48F8-B850-436C56ACB41F/12/8fe9b422/NewRelic.cs" timestamp="1551692309900">
-        <mark key="'" line="72" column="9" />
-        <mark key="[" line="4" column="99" />
-        <mark key="]" line="4" column="117" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" timestamp="1549032726083">
         <mark key="'" line="20" column="8" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/appsettings.json" timestamp="1551692733580">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="97" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6FA98761-40A4-4659-A50C-078043E9B464/99/9f65bf46/EventType.cs" timestamp="1550844501815">
         <mark key="'" line="12" column="39" />
-      </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/src/Auth.BusinessLogicLayer/Logger/Abstract/ISystemMessenger.cs" timestamp="1551458073858">
-        <mark key="'" line="4" column="21" />
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="4" column="36" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QueryHandlerBase.cs" timestamp="1551706690578">
         <mark key="[" line="13" column="32" />
@@ -325,10 +320,10 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" timestamp="1550834252272">
         <mark key="'" line="34" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551707667604">
+      <file name="/Dummy.txt" timestamp="1551709116921">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuartersController.cs" timestamp="1551707751238">
         <mark key="[" line="1" column="0" />
@@ -462,10 +457,10 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.Tests.Core/Builders/RegionBuilder.cs" timestamp="1551104245298">
         <mark key="'" line="5" column="37" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" timestamp="1551707781659">
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" timestamp="1551709006607">
         <mark key="'" line="38" column="35" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="42" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="49" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C5B1D59-6F4B-4815-9474-DFEF3FB47968/f9/bfb8e267/AuthenticationHandler`1.cs" timestamp="1549031693609">
         <mark key="'" line="206" column="58" />
@@ -617,12 +612,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Domain/Processors/ServiceProviderHandlerResolver.cs" timestamp="1551453314004">
         <mark key="'" line="8" column="40" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1551708101758">
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1551708903585">
         <mark key="'" line="37" column="39" />
-        <mark key="[" line="59" column="22" />
-        <mark key="]" line="59" column="25" />
-        <mark key="." line="59" column="25" />
-        <mark key="^" line="59" column="25" />
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="58" column="14" />
+        <mark key="." line="58" column="14" />
+        <mark key="^" line="58" column="14" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
@@ -830,7 +825,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYm9vbCBpc01pZ3JhdGUgPSB0aGlzLkNvbmZpZ3VyYXRpb24uSXNNaWdyYXRlRGF0YWJhc2VPblN0YXJ0dXAoKTsKICAgICAgICAgICAgbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCQiRGF0YWJhc2Ugd2lsbHsoaXNNaWdyYXRlID8gc3RyaW5nLkVtcHR5IDogIiBub3QiKX0gYmUgbWlncmF0ZWQgb24gc3RhcnQgdXAiKTsKICAgICAgICAgICAgaWYgKGlzTWlncmF0ZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCJTdGFydGluZyBtaWdyYXRpb25zIGFwcGx5aW5nIik7CiAgICAgICAgICAgICAgICBhcHAuQXBwbHlNaWdyYXRpb25zKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>fixes after merge with 4997</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1381,7 +1376,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>fixes after merge with 4997</text>
       </register>
       <register name="/" type="4">
         <text>hascolumn</text>
