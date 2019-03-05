@@ -432,8 +432,8 @@
         <mark key="." line="78" column="7" />
         <mark key="^" line="78" column="7" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Filters/CyberUExceptionFilter.cs" timestamp="1551793502770">
-        <mark key="'" line="70" column="55" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Filters/CyberUExceptionFilter.cs" timestamp="1551796170020">
+        <mark key="'" line="88" column="46" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="35" />
         <mark key="^" line="40" column="36" />
@@ -488,6 +488,9 @@
       <file name="/CyberUExceptionFilter.cs" timestamp="1551793499914">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="35" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1551796235310">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A453DC9A-D607-4456-BD1C-B83B17D006BD/2b/70080545/HostBuilder.cs" timestamp="1551175376056">
         <mark key="'" line="19" column="48" />
@@ -597,6 +600,10 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/TestStartup.cs" timestamp="1550834214188">
         <mark key="'" line="23" column="21" />
+      </file>
+      <file name="C:/projects/UI-Web/appsettings.json" timestamp="1551795874534">
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="65" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/themes/three/menus/categories-accordion-menu/CategoriesAccordionMenu.tsx" timestamp="1545658164890">
         <mark key="'" line="33" column="21" />
@@ -717,8 +724,10 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Domain/Processors/ServiceProviderHandlerResolver.cs" timestamp="1551453314004">
         <mark key="'" line="8" column="40" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1551793767467">
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1551796130470">
         <mark key="'" line="33" column="32" />
+        <mark key="[" line="38" column="46" />
+        <mark key="]" line="38" column="66" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
@@ -860,7 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="37" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
       <jump line="34" column="33" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="37" column="21" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/appsettings.json" />
@@ -960,13 +968,14 @@
       <jump line="41" column="53" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Filters/CyberUExceptionFilterTests.cs" />
       <jump line="6" column="59" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/ListQuarterlyPayoutResponse.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/Pagination/SinglePageResponse.cs" />
+      <jump line="88" column="46" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Filters/CyberUExceptionFilter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHF1ZXJ5LlBhZ2VOdW1iZXIuSGFzVmFsdWUgJiYgcXVlcnkuUGFnZVNpemUuSGFzVmFsdWUpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>CyberUExceptionFilter</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1522,8 +1531,8 @@
       <register name="/" type="4">
         <text>Valid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB9LAogICJJZGVudGl0eVNlcnZlciI6IHsKICAgICJBdXRob3JpdHlTZXJ2ZXJCYXNlQWRkcmVzcyI6ICJodHRwOi8vbG9jYWxob3N0OjUwMDAiCiAgfQo=</text>
+      <register name="0" type="4">
+        <text>LMS openid offline_access LRS.private auth</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAiQXBwU2V0dGluZ3MiOiB7CiAgICAiQXV0aG9yaXR5U2VydmVyVXJpIjogImh0dHA6Ly9sb2NhbGhvc3Q6NTAwMCIsCiAgICAiQXBwbGljYXRpb25VcmkiOiAiaHR0cDovL2xvY2FsaG9zdDo1MDA0IgogIH0sCiAgIk5ld1JlbGljIjogewogICAgImxpY2Vuc2VLZXkiOiAiIiwKICAgICJhcHBOYW1lIjogIiIsCiAgICAidHJhbnNhY3Rpb25UcmFjZXIiOiB7CiAgICAgICJ0cmFuc2FjdGlvblRocmVzaG9sZCI6ICI1MDAiCiAgICB9LAogICAgImFnZW50IjogewogICAgICAiZW5hYmxlZCI6IHRydWUsCiAgICAgICJsb2dnaW5nIjogewogICAgICAgICJlbmFibGVkIjogdHJ1ZSwKICAgICAgICAibGV2ZWwiOiAiZGVidWciLAogICAgICAgICJsb2NhdGlvbiI6ICJucl9sb2dzIiwKICAgICAgICAiY29uc29sZUVuYWJsZWQiOiB0cnVlCiAgICAgIH0KICAgIH0KICB9Cg==</text>
