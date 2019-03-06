@@ -244,8 +244,12 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommand.cs" timestamp="1551801737040">
         <mark key="'" line="89" column="29" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Initialization/Database/DatabaseInitializationExtension.cs" timestamp="1551883299318">
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Initialization/Database/DatabaseInitializationExtension.cs" timestamp="1551893555140">
         <mark key="'" line="38" column="25" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="16" column="39" />
+        <mark key="^" line="16" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5249D404-B18D-4D53-9C24-B4E14A096AE2/1/ConfigureInternalOptions.cs" timestamp="1549028048089">
         <mark key="'" line="22" column="20" />
@@ -448,10 +452,10 @@
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551892660687">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1551893570721">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" timestamp="1549569589319">
         <mark key="'" line="82" column="26" />
@@ -823,10 +827,11 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Quiz/GetUserAnswersQuery.cs" timestamp="1551801245897">
         <mark key="'" line="6" column="45" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1551892483557">
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1551893560776">
         <mark key="'" line="33" column="27" />
-        <mark key="[" line="72" column="31" />
-        <mark key="]" line="72" column="53" />
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="24" />
+        <mark key="." line="33" column="33" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
@@ -1069,7 +1074,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGRiUGFyYW1ldGVycyA9PSBudWxsKSBkYlBhcmFtZXRlcnMgPSBuZXcgUG9zdGdyZVNxbEZpeHR1cmUoKTsKICAgICAgICAgICAgc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcgPQogICAgICAgICAgICAgICAgJCJVc2VyIElkPXtkYlBhcmFtZXRlcnMuVXNlcklkfTtQYXNzd29yZD17ZGJQYXJhbWV0ZXJzLlBhc3N3b3JkfTtIb3N0PXtkYlBhcmFtZXRlcnMuSG9zdH07UG9ydD17ZGJQYXJhbWV0ZXJzLlBvcnR9O0RhdGFiYXNlPWF1dGhfe0d1aWQuTmV3R3VpZCgpfTsiOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fixed get previous quarter logic</text>
+        <text>integration tests</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1620,7 +1625,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fixed get previous quarter logic</text>
+        <text>integration tests</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
