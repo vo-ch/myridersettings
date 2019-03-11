@@ -198,6 +198,11 @@
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Domain/Queries/Quarter/GetPreviousQuarterQueryHandlerTests.cs" timestamp="1552300185320">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="26" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/PaginatedQueryHandlerBase.cs" timestamp="1552296501068">
         <mark key="'" line="51" column="12" />
         <mark key="[" line="15" column="26" />
@@ -292,6 +297,12 @@
         <mark key="]" line="6" column="75" />
         <mark key="." line="6" column="75" />
         <mark key="^" line="6" column="75" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/GetPreviousQuarterQueryMother.cs" timestamp="1552300124363">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="8" column="33" />
       </file>
       <file name="/Dummy.cs" timestamp="1551971619940">
         <mark key="[" line="0" column="0" />
@@ -479,7 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="37" filename="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" />
       <jump line="67" column="32" filename="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests/Controllers/V2/IndustryControllerTests.cs" />
       <jump line="31" column="28" filename="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" />
       <jump line="49" column="34" filename="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" />
@@ -579,13 +589,14 @@
       <jump line="63" column="12" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Domain/Queries/Quarter/GetQuarterQueryHandlerTests.cs" />
       <jump line="18" column="23" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/GetPreviousQuarterQueryBuilder.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Quarter/GetPreviousQuarterQuery.cs" />
+      <jump line="12" column="17" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Domain/Queries/Quarter/GetPreviousQuarterQueryHandlerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>QuartersDataBuilder</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuVGVzdHMuQ29yZS5IZWxwZXJzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>GetQuarter</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1139,10 +1150,10 @@
         <text>GetQuarterQuery</text>
       </register>
       <register name="/" type="4">
-        <text>List</text>
+        <text>GetQuarter</text>
       </register>
       <register name="0" type="4">
-        <text>GetPreviousQuarterQuery</text>
+        <text>GetQuarter</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuVGVzdHMuQ29yZS5IZWxwZXJzOwo=</text>
@@ -1221,21 +1232,20 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>%s/GetQuarter/GetPreviousQuarter/g</text>
       </register>
     </registers>
     <search>
-      <last-search>List</last-search>
+      <last-search>GetQuarter</last-search>
       <last-offset />
-      <last-pattern>List</last-pattern>
-      <last-replace>GetQuarterQuery</last-replace>
-      <last-substitute>ListQuarterQuery</last-substitute>
+      <last-pattern>GetQuarter</last-pattern>
+      <last-replace>GetPreviousQuarter</last-replace>
+      <last-substitute>GetQuarter</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addmvc</entry>
         <entry>ISystemMessenger</entry>
         <entry>sERILOG</entry>
         <entry>newr</entry>
@@ -1255,9 +1265,9 @@
         <entry>ListQuarterQueryHandler</entry>
         <entry>ListQuarterQuery</entry>
         <entry>List</entry>
+        <entry>GetQuarter</entry>
       </history-search>
       <history-cmd>
-        <entry>s/StartYear\ \+\ 1/year/g</entry>
         <entry encoding="base64">JzwsJz4lcy9TdGFydFllYXIgKyBpL3llYXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1N0YXJ0WWVhciArIGkveWVhci9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
@@ -1277,6 +1287,7 @@
         <entry>%s/ListQuarterQueryHandler/GetQuarterQueryHandler/g</entry>
         <entry>%s/ListQuarterQuery/GetQuarterQuery/g</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>%s/GetQuarter/GetPreviousQuarter/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
