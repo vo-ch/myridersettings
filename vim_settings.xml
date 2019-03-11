@@ -1843,7 +1843,7 @@
         <text>move data seeding to startup</text>
       </register>
       <register name="/" type="4">
-        <text>GetQuarterQuery</text>
+        <text>Price</text>
       </register>
       <register name="0" type="4">
         <text>DatabaseSettings:SeedDefaultDataOnStartup</text>
@@ -1929,9 +1929,9 @@
       </register>
     </registers>
     <search>
-      <last-search>GetQuarterQuery</last-search>
+      <last-search>Price</last-search>
       <last-offset />
-      <last-pattern>GetQuarterQuery</last-pattern>
+      <last-pattern>Price</last-pattern>
       <last-replace>GetPreviousQuarterQuery</last-replace>
       <last-substitute>GetQuarterQuery</last-substitute>
       <last-dir>1</last-dir>
@@ -1939,7 +1939,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb21haW5TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxjb21wYXJlclw+</entry>
         <entry>Valid</entry>
         <entry>auth</entry>
@@ -1959,6 +1958,7 @@
         <entry>ListQuarterQuery</entry>
         <entry>GetQuarterQueryH</entry>
         <entry>GetQuarterQuery</entry>
+        <entry>Price</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
