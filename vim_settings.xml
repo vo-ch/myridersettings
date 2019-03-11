@@ -330,6 +330,13 @@
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/LegacyAuthDBContext.cs" timestamp="1550161176753">
         <mark key="'" line="11" column="37" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Domain/Queries/Quarter/ListQuarterlyPayoutQueryHandlerTests.cs" timestamp="1552303493371">
+        <mark key="'" line="33" column="30" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="41" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/82DE7018-3C32-4FCC-9F4E-A96FC6FD33A8/db/76aa2801/AmazonSQSException.cs" timestamp="1549643418079">
         <mark key="'" line="13" column="36" />
       </file>
@@ -346,8 +353,8 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="36" column="36" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" timestamp="1551892302889">
-        <mark key="'" line="103" column="89" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" timestamp="1552303860169">
+        <mark key="'" line="278" column="28" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Domain/Processors/IProcessor.cs" timestamp="1551453298949">
         <mark key="'" line="7" column="21" />
@@ -365,11 +372,11 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/CalculateCourseCompletionCommandHandler.cs" timestamp="1549551639150">
         <mark key="'" line="8" column="71" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.json" timestamp="1551794308741">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="14" column="3" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.json" timestamp="1552303970912">
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45D20605-9EC8-44F8-8A47-1D6E18421912/b9/86da361e/LoggerExtensions.cs" timestamp="1551460283280">
         <mark key="'" line="310" column="10" />
@@ -572,6 +579,13 @@
         <mark key="]" line="78" column="7" />
         <mark key="." line="78" column="7" />
         <mark key="^" line="78" column="7" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" timestamp="1552304142676">
+        <mark key="'" line="39" column="54" />
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+        <mark key="^" line="32" column="19" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Filters/CyberUExceptionFilter.cs" timestamp="1551796170020">
         <mark key="'" line="88" column="46" />
@@ -945,8 +959,8 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Quiz/GetUserAnswersQuery.cs" timestamp="1551801245897">
         <mark key="'" line="6" column="45" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1552302069218">
-        <mark key="'" line="88" column="25" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1552303522159">
+        <mark key="'" line="90" column="27" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
@@ -1090,18 +1104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="48" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterControllerTests.cs" />
-      <jump line="12" column="46" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
-      <jump line="5" column="21" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/IPaymentDbContext.cs" />
-      <jump line="55" column="44" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/CurrencyMap.cs" />
-      <jump line="39" column="8" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/CurrencyMap.cs" />
-      <jump line="38" column="25" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Initialization/Database/DatabaseInitializationExtension.cs" />
-      <jump line="6" column="74" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/PostgreSqlCollectionFixture.cs" />
-      <jump line="5" column="17" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/PostgreSqlFixture.cs" />
-      <jump line="23" column="24" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/PostgreSqlFixture.cs" />
-      <jump line="14" column="40" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
-      <jump line="30" column="12" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Data/PaymentsDb/DesignTimeAccountingDbContextFactory.cs" />
-      <jump line="19" column="25" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="75" column="63" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="17" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="11" column="85" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Data/PaymentsDb/DesignTimePaymentsDbContextFactory.cs" />
@@ -1117,7 +1119,6 @@
       <jump line="13" column="44" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
       <jump line="72" column="45" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="79" column="75" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
-      <jump line="103" column="89" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
       <jump line="33" column="27" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="35" column="34" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="27" column="41" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DatabaseExtensions.cs" />
@@ -1190,13 +1191,26 @@
       <jump line="37" column="27" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuartersController.cs" />
       <jump line="88" column="25" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.HealthCheck/Extensions/HealthCheckApplicationBuilderExtensions.cs" />
+      <jump line="33" column="30" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Domain/Queries/Quarter/ListQuarterlyPayoutQueryHandlerTests.cs" />
+      <jump line="90" column="27" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="102" column="19" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
+      <jump line="103" column="136" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
+      <jump line="104" column="141" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
+      <jump line="115" column="31" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
+      <jump line="119" column="50" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
+      <jump line="126" column="51" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
+      <jump line="20" column="52" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" />
+      <jump line="278" column="28" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
+      <jump line="25" column="26" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" />
+      <jump line="31" column="54" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/DesignTimeAccountingDbContextFactory.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>QuartersDataBuilder</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1747,16 +1761,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>GetQuarter</text>
+        <text>migra</text>
       </register>
       <register name="0" type="4">
-        <text>GetQuarter</text>
+        <text encoding="base64">QWNjb3VudGluZ0RiQ29udGV4dCBkYkNvbnRleHQg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuVGVzdHMuQ29yZS5IZWxwZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVtcHR5KHF1ZXJ5LlJlc3VsdC5DdXJyZW5jaWVzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1788,28 +1802,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuRG9tYWluLlBhZ2luYXRpb247Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuRG9tYWluLlF1ZXJpZXMuUXVhcnRlcmx5UGF5b3V0Owo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LklzQXNzaWduYWJsZUZyb208UXVlcnlCYXNlPERhdGEuRW50aXR5LlF1YXJ0ZXI+PihxdWVyeSk7Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuVGVzdHMuQ29yZS5IZWxwZXJzOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQXBwbHlTb3J0KHJlZiBJUXVlcnlhYmxlPFJlZ2lzdHJhdGlvbkRvbWFpbj4gYmFzZVF1ZXJ5LCBzdHJpbmcgc29ydEJ5LCBTb3J0T3JkZXJFbnVtPyBzb3J0T3JkZXIpCiAgICAgICAgewogICAgICAgICAgICBpZiAoIXN0cmluZy5Jc051bGxPckVtcHR5KHNvcnRCeSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN3aXRjaCAoc29ydEJ5LlRvTG93ZXIoKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjYXNlICJkb21haW4iOgogICAgICAgICAgICAgICAgICAgICAgICBiYXNlUXVlcnkgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc29ydE9yZGVyLkhhc1ZhbHVlICYmIHNvcnRPcmRlci5WYWx1ZSA9PSBTb3J0T3JkZXJFbnVtLkRlc2MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGJhc2VRdWVyeS5PcmRlckJ5RGVzY2VuZGluZyh4ID0+IHguRG9tYWluVXJsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogYmFzZVF1ZXJ5Lk9yZGVyQnkoeCA9PiB4LkRvbWFpblVybCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJjbGllbnRuYW1lIjoKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVF1ZXJ5ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRPcmRlci5IYXNWYWx1ZSAmJiBzb3J0T3JkZXIuVmFsdWUgPT0gU29ydE9yZGVyRW51bS5EZXNjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoeCA9PiB4LkNsaWVudE5hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBiYXNlUXVlcnkuT3JkZXJCeSh4ID0+IHguQ2xpZW50TmFtZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJpbmNsdWRlcGF5b3V0IjoKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVF1ZXJ5ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRPcmRlci5IYXNWYWx1ZSAmJiBzb3J0T3JkZXIuVmFsdWUgPT0gU29ydE9yZGVyRW51bS5EZXNjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoeCA9PiB4LkluY2x1ZGVJblBheW91dCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IGJhc2VRdWVyeS5PcmRlckJ5KHggPT4geC5JbmNsdWRlSW5QYXlvdXQpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKCiAgICAgICAgICAgICAgICAgICAgY2FzZSAic2VhdGNvdW50IjoKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVF1ZXJ5ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRPcmRlci5IYXNWYWx1ZSAmJiBzb3J0T3JkZXIuVmFsdWUgPT0gU29ydE9yZGVyRW51bS5EZXNjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoeCA9PiB4Lk51bWJlck9mU2VhdHMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBiYXNlUXVlcnkuT3JkZXJCeSh4ID0+IHguTnVtYmVyT2ZTZWF0cyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJpbmR1c3RyeSI6CiAgICAgICAgICAgICAgICAgICAgICAgIGJhc2VRdWVyeSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3J0T3JkZXIuSGFzVmFsdWUgJiYgc29ydE9yZGVyLlZhbHVlID09IFNvcnRPcmRlckVudW0uRGVzYwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gYmFzZVF1ZXJ5Lk9yZGVyQnlEZXNjZW5kaW5nKHggPT4geC5JbmR1c3RyeSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IGJhc2VRdWVyeS5PcmRlckJ5KHggPT4geC5JbmR1c3RyeSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJyZWdpb24iOgogICAgICAgICAgICAgICAgICAgICAgICBiYXNlUXVlcnkgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc29ydE9yZGVyLkhhc1ZhbHVlICYmIHNvcnRPcmRlci5WYWx1ZSA9PSBTb3J0T3JkZXJFbnVtLkRlc2MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGJhc2VRdWVyeS5PcmRlckJ5RGVzY2VuZGluZyh4ID0+IHguUmVnaW9uKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogYmFzZVF1ZXJ5Lk9yZGVyQnkoeCA9PiB4LlJlZ2lvbik7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZFNvcnRFeGNlcHRpb24oKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuRG9tYWluLlBhZ2luYXRpb247Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LklzQXNzaWduYWJsZUZyb208UXVlcnlCYXNlPERhdGEuRW50aXR5LlF1YXJ0ZXI+PihxdWVyeSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5Eb21haW4uUXVlcmllczsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsKdXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuRG9tYWluLlBhZ2luYXRpb247Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1823,31 +1837,29 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmU7Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5Eb21haW4uUXVlcmllczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsKdXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/GetQuarter/GetPreviousQuarter/g</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
-      <last-search>GetQuarter</last-search>
+      <last-search>migra</last-search>
       <last-offset />
-      <last-pattern>GetQuarter</last-pattern>
-      <last-replace>GetPreviousQuarter</last-replace>
-      <last-substitute>GetQuarter</last-substitute>
+      <last-pattern>migra</last-pattern>
+      <last-replace>ListQuarterQuery</last-replace>
+      <last-substitute>ListQuarterlyPayoutQuery</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ISystemMessenger</entry>
-        <entry>sERILOG</entry>
         <entry>newr</entry>
         <entry>hascolumn</entry>
         <entry encoding="base64">XDxkb21haW5TZXJ2aWNlXD4=</entry>
@@ -1866,9 +1878,10 @@
         <entry>ListQuarterQuery</entry>
         <entry>List</entry>
         <entry>GetQuarter</entry>
+        <entry>ListQuarterlyPayoutQuery</entry>
+        <entry>migra</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz4lcy9TdGFydFllYXIgKyBpL3llYXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1N0YXJ0WWVhciArIGkveWVhci9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
@@ -1879,8 +1892,6 @@
         <entry>s/postgreSqlFixture/dbParameters/g</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>s/,/;/g</entry>
         <entry>nohl</entry>
         <entry>%s/ListQuarterlyPayoutQueryHandler/ListQuarterQueryHandler/g</entry>
@@ -1888,6 +1899,9 @@
         <entry>%s/ListQuarterQuery/GetQuarterQuery/g</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>%s/GetQuarter/GetPreviousQuarter/g</entry>
+        <entry>%s/ListQuarterlyPayoutQuery/ListQuarterQuery/g</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
