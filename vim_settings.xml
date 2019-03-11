@@ -585,11 +585,11 @@
         <mark key="." line="78" column="7" />
         <mark key="^" line="78" column="7" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" timestamp="1552314000511">
-        <mark key="'" line="32" column="35" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="32" column="79" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" timestamp="1552315848287">
+        <mark key="'" line="32" column="68" />
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="79" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Filters/CyberUExceptionFilter.cs" timestamp="1551796170020">
@@ -839,12 +839,12 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Helpers/AiccHelper.cs" timestamp="1549377028773">
         <mark key="'" line="19" column="25" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataInitializer.cs" timestamp="1552314036198">
-        <mark key="'" line="27" column="20" />
-        <mark key="[" line="34" column="56" />
-        <mark key="]" line="35" column="11" />
-        <mark key="." line="35" column="11" />
-        <mark key="^" line="35" column="11" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataInitializer.cs" timestamp="1552315780850">
+        <mark key="'" line="14" column="62" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Logger/Model/LoggingErrorMessage.cs" timestamp="1550071798490">
         <mark key="'" line="4" column="39" />
@@ -969,8 +969,8 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Quiz/GetUserAnswersQuery.cs" timestamp="1551801245897">
         <mark key="'" line="6" column="45" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1552303522159">
-        <mark key="'" line="90" column="27" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1552315831142">
+        <mark key="'" line="90" column="16" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/stores/__mocks__/createAppNotificationSystemStore.ts" timestamp="1546533741331">
         <mark key="'" line="3" column="53" />
@@ -998,6 +998,12 @@
         <mark key="[" line="36" column="28" />
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataSeedingExtensions.cs" timestamp="1552315448916">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A315A376-1873-4D2D-88D5-C156B0F05BB6/8b/9e565e08/ServiceCollectionExtensions.cs" timestamp="1549644449375">
         <mark key="'" line="29" column="29" />
@@ -1119,9 +1125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="27" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
-      <jump line="14" column="33" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" />
-      <jump line="10" column="36" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" />
       <jump line="19" column="57" filename="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests/Domain/Commands/Domain/V2/UpdateDomainCommandHandlerTests.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" />
       <jump line="12" column="48" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterControllerTests.cs" />
@@ -1201,7 +1204,6 @@
       <jump line="88" column="25" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.HealthCheck/Extensions/HealthCheckApplicationBuilderExtensions.cs" />
       <jump line="33" column="30" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Domain/Queries/Quarter/ListQuarterlyPayoutQueryHandlerTests.cs" />
-      <jump line="90" column="27" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="102" column="19" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
       <jump line="103" column="136" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
       <jump line="104" column="141" filename="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Startup.cs" />
@@ -1217,15 +1219,19 @@
       <jump line="29" column="63" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataInitializer.cs" />
       <jump line="35" column="46" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataInitializer.cs" />
       <jump line="31" column="50" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataInitializer.cs" />
-      <jump line="32" column="35" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" />
       <jump line="27" column="20" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataInitializer.cs" />
+      <jump line="16" column="62" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataInitializer.cs" />
+      <jump line="13" column="41" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" />
+      <jump line="90" column="16" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="32" column="68" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataInitializer.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>QuartersDataBuilder</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>app</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuQnVpbGRlcjsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1776,7 +1782,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text encoding="base64">YXBwLCA=</text>
       </register>
       <register name="/" type="4">
         <text>migra</text>
@@ -1785,7 +1791,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKGFwcCwgbmFtZW9mKGFwcCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuQnVpbGRlcjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1817,28 +1823,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElBcHBsaWNhdGlvbkJ1aWxkZXIgX2FwcDsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FwcCA9IGFwcDsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQXBwbHlTb3J0KHJlZiBJUXVlcnlhYmxlPFJlZ2lzdHJhdGlvbkRvbWFpbj4gYmFzZVF1ZXJ5LCBzdHJpbmcgc29ydEJ5LCBTb3J0T3JkZXJFbnVtPyBzb3J0T3JkZXIpCiAgICAgICAgewogICAgICAgICAgICBpZiAoIXN0cmluZy5Jc051bGxPckVtcHR5KHNvcnRCeSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN3aXRjaCAoc29ydEJ5LlRvTG93ZXIoKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjYXNlICJkb21haW4iOgogICAgICAgICAgICAgICAgICAgICAgICBiYXNlUXVlcnkgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc29ydE9yZGVyLkhhc1ZhbHVlICYmIHNvcnRPcmRlci5WYWx1ZSA9PSBTb3J0T3JkZXJFbnVtLkRlc2MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGJhc2VRdWVyeS5PcmRlckJ5RGVzY2VuZGluZyh4ID0+IHguRG9tYWluVXJsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogYmFzZVF1ZXJ5Lk9yZGVyQnkoeCA9PiB4LkRvbWFpblVybCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJjbGllbnRuYW1lIjoKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVF1ZXJ5ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRPcmRlci5IYXNWYWx1ZSAmJiBzb3J0T3JkZXIuVmFsdWUgPT0gU29ydE9yZGVyRW51bS5EZXNjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoeCA9PiB4LkNsaWVudE5hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBiYXNlUXVlcnkuT3JkZXJCeSh4ID0+IHguQ2xpZW50TmFtZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJpbmNsdWRlcGF5b3V0IjoKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVF1ZXJ5ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRPcmRlci5IYXNWYWx1ZSAmJiBzb3J0T3JkZXIuVmFsdWUgPT0gU29ydE9yZGVyRW51bS5EZXNjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoeCA9PiB4LkluY2x1ZGVJblBheW91dCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IGJhc2VRdWVyeS5PcmRlckJ5KHggPT4geC5JbmNsdWRlSW5QYXlvdXQpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKCiAgICAgICAgICAgICAgICAgICAgY2FzZSAic2VhdGNvdW50IjoKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVF1ZXJ5ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRPcmRlci5IYXNWYWx1ZSAmJiBzb3J0T3JkZXIuVmFsdWUgPT0gU29ydE9yZGVyRW51bS5EZXNjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoeCA9PiB4Lk51bWJlck9mU2VhdHMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBiYXNlUXVlcnkuT3JkZXJCeSh4ID0+IHguTnVtYmVyT2ZTZWF0cyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJpbmR1c3RyeSI6CiAgICAgICAgICAgICAgICAgICAgICAgIGJhc2VRdWVyeSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3J0T3JkZXIuSGFzVmFsdWUgJiYgc29ydE9yZGVyLlZhbHVlID09IFNvcnRPcmRlckVudW0uRGVzYwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gYmFzZVF1ZXJ5Lk9yZGVyQnlEZXNjZW5kaW5nKHggPT4geC5JbmR1c3RyeSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IGJhc2VRdWVyeS5PcmRlckJ5KHggPT4geC5JbmR1c3RyeSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJyZWdpb24iOgogICAgICAgICAgICAgICAgICAgICAgICBiYXNlUXVlcnkgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc29ydE9yZGVyLkhhc1ZhbHVlICYmIHNvcnRPcmRlci5WYWx1ZSA9PSBTb3J0T3JkZXJFbnVtLkRlc2MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGJhc2VRdWVyeS5PcmRlckJ5RGVzY2VuZGluZyh4ID0+IHguUmVnaW9uKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogYmFzZVF1ZXJ5Lk9yZGVyQnkoeCA9PiB4LlJlZ2lvbik7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZFNvcnRFeGNlcHRpb24oKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKGFwcCwgbmFtZW9mKGFwcCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCJDcmVhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgSW5pdERlZmF1bHREYXRhYmFzZURhdGEodGhpcyBJQXBwbGljYXRpb25CdWlsZGVyIGFwcCwgSUxvZ2dlciBsb2dnZXIpCiAgICAgICAgewogICAgICAgICAgICBsb2dnZXIuTG9nSW5mb3JtYXRpb24oIkNyZWEiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1852,10 +1858,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcGx5TWlncmF0aW9ucyhkYkNvbnRleHQsIGxvZ2dlckZhY3RvcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBBcHBseU1pZ3JhdGlvbnMoQWNjb3VudGluZ0RiQ29udGV4dCBkYkNvbnRleHQsIElMb2dnZXJGYWN0b3J5IGxvZ2dlckZhY3RvcnkpCiAgICAgICAgewogICAgICAgICAgICBkYkNvbnRleHQuRGF0YWJhc2UuTWlncmF0ZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCJDcmVhIik7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
