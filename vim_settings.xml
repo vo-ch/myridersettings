@@ -152,7 +152,7 @@
       <file name="C:/projects/Accounting/Infra/Accounting.Logging/DependencyInjection/CyberULambdaLoggerExtensions.cs" timestamp="1550610858855">
         <mark key="'" line="16" column="62" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/PaymentDbContext.cs" timestamp="1551265294837">
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/PaymentDbContext.cs" timestamp="1552389036379">
         <mark key="'" line="19" column="48" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/20190305105155_AddQuartersAndQuarterlyPayoutsTables.Designer.cs" timestamp="1552317403314">
@@ -428,6 +428,9 @@
         <mark key="]" line="14" column="30" />
         <mark key="^" line="14" column="30" />
         <mark key="." line="14" column="30" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/Entities/CsodRegistration.cs" timestamp="1552389008995">
+        <mark key="'" line="4" column="25" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/ListQuarterQueryMother.cs" timestamp="1552321024553">
         <mark key="'" line="8" column="23" />
@@ -1183,9 +1186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="106" filename="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests/Controllers/V2/DomainControllerTests.cs" />
-      <jump line="281" column="39" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterControllerTests.cs" />
-      <jump line="277" column="126" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterControllerTests.cs" />
       <jump line="228" column="34" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterControllerTests.cs" />
       <jump line="8" column="35" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/QuarterMother.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/QuarterBuilder.cs" />
@@ -1283,6 +1283,9 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/QuarterlyPayoutBuilder.cs" />
       <jump line="70" column="37" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
       <jump line="82" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
+      <jump line="4" column="25" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/Entities/CsodRegistration.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B2250D1-FB76-44B9-8AF1-AB5ED79E762F/8c/3477e4d6/ModelBuilder.cs" />
+      <jump line="19" column="48" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/PaymentDbContext.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
