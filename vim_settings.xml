@@ -22,9 +22,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/95441782-542D-4FEB-A9AA-FAA3DEBA76B2/B/SqlMapper.Async.cs" timestamp="1548772197490">
         <mark key="'" line="556" column="31" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/20190305105155_AddQuartersAndQuarterlyPayoutsTables.cs" timestamp="1552317366799">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/20190305105155_AddQuartersAndQuarterlyPayoutsTables.cs" timestamp="1552399761131">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="78" column="39" />
         <mark key="." line="67" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/CourseController.cs" timestamp="1551802050073">
@@ -720,6 +720,12 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccIniParserService.cs" timestamp="1549265522537">
         <mark key="'" line="13" column="26" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/20190312140706_AddInstructorPayoutsTable.cs" timestamp="1552399778947">
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="60" column="35" />
+        <mark key="^" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.Tests.Core/Mothers/RegistrationDomainMother.cs" timestamp="1551104880569">
         <mark key="'" line="5" column="34" />
       </file>
@@ -1294,8 +1300,8 @@
       <register name="a" type="4">
         <text>QuartersDataBuilder</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGJTZXQ8SW5zdHJ1Y3RvclBheW91dD4gSW5zdHJ1Y3RvclBheW91dHMgeyBnZXQ7IHNldDsgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>quarterly</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1846,13 +1852,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>QuarterlyPayoutMap</text>
+        <text>quarterly</text>
       </register>
       <register name="/" type="4">
         <text>Price</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGJTZXQ8SW5zdHJ1Y3RvclBheW91dD4gSW5zdHJ1Y3RvclBheW91dHMgeyBnZXQ7IHNldDsgfQo=</text>
+      <register name="0" type="4">
+        <text>instructor</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguQ3JlYXRlZEF0KS5IYXNDb2x1bW5OYW1lKCJjcmVhdGVkX2F0IikuSGFzQ29sdW1uVHlwZSgidGltZXN0YW1wIHdpdGhvdXQgdGltZSB6b25lIik7CiAgICAgICAgICAgIGJ1aWxkZXIuUHJvcGVydHkoeCA9PiB4LkNyZWF0ZWRCeSkuSGFzQ29sdW1uTmFtZSgiY3JlYXRlZF9ieSIpOwogICAgICAgICAgICBidWlsZGVyLlByb3BlcnR5KHggPT4geC5DbGllbnRDb3VudCkuSGFzQ29sdW1uTmFtZSgiY2xpZW50X2NvdW50Iik7CiAgICAgICAgICAgIGJ1aWxkZXIuUHJvcGVydHkoeCA9PiB4LlJlZ2lzdHJhdGlvbkNvdW50KS5IYXNDb2x1bW5OYW1lKCJyZWdpc3RyYXRpb25fY291bnQiKTsKICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguQW1vdW50UGVyUmVnaXN0cmF0aW9uKS5IYXNDb2x1bW5OYW1lKCJhbW91bnRfcGVyX3JlZ2lzdHJhdGlvbiIpOwo=</text>
