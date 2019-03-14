@@ -296,10 +296,10 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/AnswerControllerTests.cs" timestamp="1549568287509">
         <mark key="'" line="97" column="98" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Properties/launchSettings.json" timestamp="1552495716040">
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Properties/launchSettings.json" timestamp="1552557510232">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="162" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="88" />
         <mark key="." line="6" column="162" />
         <mark key="^" line="6" column="162" />
       </file>
@@ -416,12 +416,10 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/ListQuarterlyPayoutResponse.cs" timestamp="1551793980771">
         <mark key="'" line="6" column="59" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/QuarterlyPayoutMap.cs" timestamp="1552556775990">
-        <mark key="'" line="3" column="8" />
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/QuarterlyPayoutMap.cs" timestamp="1552557619034">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1545669553445">
         <mark key="'" line="363" column="57" />
@@ -853,6 +851,11 @@
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" timestamp="1547137122939">
         <mark key="'" line="100" column="17" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/InstructorPayoutMap.cs" timestamp="1552557667792">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="23" column="31" />
+      </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsMessageMother.cs" timestamp="1551102896233">
         <mark key="'" line="11" column="21" />
       </file>
@@ -1122,7 +1125,7 @@
         <text>User ID=vchmuzh;Host=localhost;Port=5432;Database=payments;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iSHVtYW5pemVyLkNvcmUiIFZlcnNpb249IjIuNS4xNiIgLz4K</text>
+        <text encoding="base64">dXNpbmcgSHVtYW5pemVyOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1678,11 +1681,11 @@
       <register name="/" type="4">
         <text>\\</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iSHVtYW5pemVyLkNvcmUiIFZlcnNpb249IjIuNS4xNiIgLz4K</text>
+      <register name="0" type="4">
+        <text>User ID=vchmuzh;Host=localhost;Port=5432;Database=payments;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXMK</text>
+        <text encoding="base64">dXNpbmcgSHVtYW5pemVyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1714,28 +1717,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQW1hem9uLkxhbWJkYS5Db3JlOwo=</text>
+        <text encoding="base64">dXNpbmcgSHVtYW5pemVyOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiTG1zQmFzZVVybCI6ICJodHRwczovL2xtcy1hcGktdmNobXV6aC5jeWJlcnUuaW8iLAogICAgICAgICJBdXRoQmFzZVVybCI6ICJodHRwczovL2F1dGgtdmNobXV6aC5jeWJlcnUuaW8iLAogICAgICAgICJBdXRoQ2xpZW50SWQiOiAiSW50ZXJuYWwiLAogICAgICAgICJBdXRoQ2xpZW50U2VjcmV0IjogImZQRWtDMklzWnhHelNha0cxdHQwIiwK</text>
+        <text encoding="base64">dXMK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQXBwbHlTb3J0KHJlZiBJUXVlcnlhYmxlPFJlZ2lzdHJhdGlvbkRvbWFpbj4gYmFzZVF1ZXJ5LCBzdHJpbmcgc29ydEJ5LCBTb3J0T3JkZXJFbnVtPyBzb3J0T3JkZXIpCiAgICAgICAgewogICAgICAgICAgICBpZiAoIXN0cmluZy5Jc051bGxPckVtcHR5KHNvcnRCeSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHN3aXRjaCAoc29ydEJ5LlRvTG93ZXIoKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBjYXNlICJkb21haW4iOgogICAgICAgICAgICAgICAgICAgICAgICBiYXNlUXVlcnkgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc29ydE9yZGVyLkhhc1ZhbHVlICYmIHNvcnRPcmRlci5WYWx1ZSA9PSBTb3J0T3JkZXJFbnVtLkRlc2MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGJhc2VRdWVyeS5PcmRlckJ5RGVzY2VuZGluZyh4ID0+IHguRG9tYWluVXJsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogYmFzZVF1ZXJ5Lk9yZGVyQnkoeCA9PiB4LkRvbWFpblVybCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJjbGllbnRuYW1lIjoKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVF1ZXJ5ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRPcmRlci5IYXNWYWx1ZSAmJiBzb3J0T3JkZXIuVmFsdWUgPT0gU29ydE9yZGVyRW51bS5EZXNjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoeCA9PiB4LkNsaWVudE5hbWUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBiYXNlUXVlcnkuT3JkZXJCeSh4ID0+IHguQ2xpZW50TmFtZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJpbmNsdWRlcGF5b3V0IjoKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVF1ZXJ5ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRPcmRlci5IYXNWYWx1ZSAmJiBzb3J0T3JkZXIuVmFsdWUgPT0gU29ydE9yZGVyRW51bS5EZXNjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoeCA9PiB4LkluY2x1ZGVJblBheW91dCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IGJhc2VRdWVyeS5PcmRlckJ5KHggPT4geC5JbmNsdWRlSW5QYXlvdXQpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKCiAgICAgICAgICAgICAgICAgICAgY2FzZSAic2VhdGNvdW50IjoKICAgICAgICAgICAgICAgICAgICAgICAgYmFzZVF1ZXJ5ID0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvcnRPcmRlci5IYXNWYWx1ZSAmJiBzb3J0T3JkZXIuVmFsdWUgPT0gU29ydE9yZGVyRW51bS5EZXNjCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPyBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoeCA9PiB4Lk51bWJlck9mU2VhdHMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOiBiYXNlUXVlcnkuT3JkZXJCeSh4ID0+IHguTnVtYmVyT2ZTZWF0cyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJpbmR1c3RyeSI6CiAgICAgICAgICAgICAgICAgICAgICAgIGJhc2VRdWVyeSA9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3J0T3JkZXIuSGFzVmFsdWUgJiYgc29ydE9yZGVyLlZhbHVlID09IFNvcnRPcmRlckVudW0uRGVzYwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gYmFzZVF1ZXJ5Lk9yZGVyQnlEZXNjZW5kaW5nKHggPT4geC5JbmR1c3RyeSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IGJhc2VRdWVyeS5PcmRlckJ5KHggPT4geC5JbmR1c3RyeSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBjYXNlICJyZWdpb24iOgogICAgICAgICAgICAgICAgICAgICAgICBiYXNlUXVlcnkgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc29ydE9yZGVyLkhhc1ZhbHVlICYmIHNvcnRPcmRlci5WYWx1ZSA9PSBTb3J0T3JkZXJFbnVtLkRlc2MKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/IGJhc2VRdWVyeS5PcmRlckJ5RGVzY2VuZGluZyh4ID0+IHguUmVnaW9uKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogYmFzZVF1ZXJ5Lk9yZGVyQnkoeCA9PiB4LlJlZ2lvbik7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwoKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZFNvcnRFeGNlcHRpb24oKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VMb2dnZXJGYWN0b3J5KCkK</text>
+        <text encoding="base64">dXNpbmcgQW1hem9uLkxhbWJkYS5Db3JlOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiTG1zQmFzZVVybCI6ICJodHRwczovL2xtcy1hcGktdmNobXV6aC5jeWJlcnUuaW8iLAogICAgICAgICJBdXRoQmFzZVVybCI6ICJodHRwczovL2F1dGgtdmNobXV6aC5jeWJlcnUuaW8iLAogICAgICAgICJBdXRoQ2xpZW50SWQiOiAiSW50ZXJuYWwiLAogICAgICAgICJBdXRoQ2xpZW50U2VjcmV0IjogImZQRWtDMklzWnhHelNha0cxdHQwIiwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VMb2dnZXJGYWN0b3J5KCkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">LAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAicHJvZmlsZSI6IiIsCiAgInJlZ2lvbiIgOiAiIiw=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAicHJvZmlsZSI6IiIsCiAgInJlZ2lvbiIgOiAiIiwKICAiY29uZmlndXJhdGlvbiIgOiAiUmVsZWFzZSIsCiAgImZyYW1ld29yayIgOiAibmV0Y29yZWFwcDIuMSIsCiAgImZ1bmN0aW9uLXJ1bnRpbWUiOiJkb3RuZXRjb3JlMi4xIiwKICAiZnVuY3Rpb24tbWVtb3J5LXNpemUiIDogMjU2LAogICJmdW5jdGlvbi10aW1lb3V0IiA6IDMwLA==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1748,17 +1751,17 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxRdWFydGVyPiBHZXQK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAicHJvZmlsZSI6IiIsCiAgInJlZ2lvbiIgOiAiIiw=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgUGVyY2VudGFnZVJlZ2lzdHJhdGlvbiA9IGNzb2RSZWdpc3RyYXRpb25zRm9yUXVhcnRlclRvdGFsQ291bnQgLyAxMDAgKiB4LkNvdW50LAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAicHJvZmlsZSI6IiIsCiAgInJlZ2lvbiIgOiAiIiwKICAiY29uZmlndXJhdGlvbiIgOiAiUmVsZWFzZSIsCiAgImZyYW1ld29yayIgOiAibmV0Y29yZWFwcDIuMSIsCiAgImZ1bmN0aW9uLXJ1bnRpbWUiOiJkb3RuZXRjb3JlMi4xIiwKICAiZnVuY3Rpb24tbWVtb3J5LXNpemUiIDogMjU2LAogICJmdW5jdGlvbi10aW1lb3V0IiA6IDMwLA==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>s/\\/\\\\/g</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -1802,8 +1805,6 @@
         <entry>%s/ListQuarterlyPayoutQuery/ListQuarterQuery/g</entry>
         <entry>action RenameElement</entry>
         <entry>nohl</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>%s/ListQuarterQuery/GetQuarterQuery/g</entry>
         <entry>%s/GetQuarterQueryH/GetPreviousQuarterQueryH/g</entry>
         <entry>%s/GetQuarterQuery/GetPreviousQuarterQuery/g</entry>
@@ -1814,6 +1815,8 @@
         <entry>action ShowErrorDescription</entry>
         <entry>s/\\/\\/g</entry>
         <entry>s/\\/\\\\/g</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
