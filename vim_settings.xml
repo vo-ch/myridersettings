@@ -341,6 +341,13 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/AnswerController.cs" timestamp="1551801337056">
         <mark key="'" line="42" column="20" />
       </file>
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging/Helpers/LogLevelHelper.cs" timestamp="1552651685186">
+        <mark key="'" line="12" column="28" />
+        <mark key="[" line="12" column="141" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" timestamp="1551802265891">
         <mark key="'" line="64" column="27" />
       </file>
@@ -493,11 +500,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/test/Auth.API.IntegrationTests/Domain/Queries/Region/V2/ListRegionQueryHandlerTests.cs" timestamp="1551213093749">
         <mark key="'" line="46" column="43" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Startup.cs" timestamp="1552648859156">
-        <mark key="'" line="23" column="46" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Startup.cs" timestamp="1552651754914">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="44" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.DataAccessLayer/Converter/LocalUserConverter.cs" timestamp="1550604804310">
         <mark key="'" line="9" column="61" />
@@ -957,6 +965,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A315A376-1873-4D2D-88D5-C156B0F05BB6/8b/9e565e08/ServiceCollectionExtensions.cs" timestamp="1549644449375">
         <mark key="'" line="29" column="29" />
       </file>
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging/Extensions/LogLevelExtensions.cs" timestamp="1552651036036">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+      </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/aws-lambda-tools-defaults.json" timestamp="1552495149650">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1061,7 +1075,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="42" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/AccountingDbContext.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/85/d618ce01/DbContext.cs" />
       <jump line="79" column="27" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterControllerTests.cs" />
       <jump line="414" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterControllerTests.cs" />
@@ -1159,15 +1172,16 @@
       <jump line="26" column="133" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Startup.cs" />
       <jump line="17" column="32" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Startup.cs" />
       <jump line="49" column="28" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8EE46566-F4F1-4059-8008-32D2B20FA878/aa/63f612e6/ConsoleLoggerExtensions.cs" />
-      <jump line="23" column="46" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Startup.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1D2EF1A7-7D30-481C-BE77-01312EB6C181/dd/065d7e02/LogLevel.cs" />
+      <jump line="23" column="26" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Startup.cs" />
+      <jump line="11" column="28" filename="C:/projects/Accounting/Infra/Accounting.Logging/Helpers/LogLevelHelper.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>RegistrationPercentage</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTG9nZ2luZygpCg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5WYWxpZGF0aW9uLlJlcXVpcmVtZW50czsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -1718,16 +1732,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3W10ge25ldyBDb25zb2xlTG9nZ2VyUHJvdmlkZXIoKF8sIF9fKSA9PiB0cnVlLCB0cnVlKX0=</text>
+        <text encoding="base64">RW51bS5QYXJzZTxMb2dMZXZlbD4obG9nTGV2ZWwp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDdXJyZW5jeUlkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>SaveQuarterlyInstructorPayoutDetails</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRyYWN0LlJlcXVpcmVzRW51bVZhbHVlRGVmaW5lZDxJbnZhbGlkT3BlcmF0aW9uRXhjZXB0aW9uPih0eXBlb2YoTG9nTGV2ZWwpLCBsb2dMZXZlbCwgJCJJbnZhbGlkIExvZ0xldmVsIHZhbHVlIDoge2xvZ0xldmVsfSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTG9nZ2luZygpCg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5WYWxpZGF0aW9uLlJlcXVpcmVtZW50czsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1759,28 +1773,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuRGVwZW5kZW5jeUluamVjdGlvbi5FeHRlbnNpb25zOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHJlYWRvbmx5IElMb2dnZXJQcm92aWRlciBMb2dnZXJQcm92aWRlciA9IG5ldyBDb25zb2xlTG9nZ2VyUHJvdmlkZXIoKF8sIF9fKSA9PiB0cnVlLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnRyYWN0LlJlcXVpcmVzRW51bVZhbHVlRGVmaW5lZDxJbnZhbGlkT3BlcmF0aW9uRXhjZXB0aW9uPih0eXBlb2YoTG9nTGV2ZWwpLCBsb2dMZXZlbCwgJCJJbnZhbGlkIExvZ0xldmVsIHZhbHVlIDoge2xvZ0xldmVsfSIpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>RevenueAmount</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZy5Db25zb2xlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZyBsb2dMZXZlbCA9IEVudmlyb25tZW50SGVscGVyLkdldEVudmlyb25tZW50VmFyaWFibGVBY3Jvc3NUYXJnZXRzKCJMb2dMZXZlbCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHJlYWRvbmx5IExvZ2dlckZhY3RvcnkgTXlMb2dnZXJGYWN0b3J5ID0gbmV3IExvZ2dlckZhY3RvcnkobmV3W10ge25ldyBDb25zb2xlTG9nZ2VyUHJvdmlkZXIoKF8sIF9fKSA9PiB0cnVlLCB0cnVlKX0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTG9nZ2luZygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuRGVwZW5kZW5jeUluamVjdGlvbi5FeHRlbnNpb25zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTG9nZ2luZyhidWlsZGVyID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGJ1aWxkZXIuU2VydmljZXMuVHJ5QWRkRW51bWVyYWJsZShTZXJ2aWNlRGVzY3JpcHRvci5TaW5nbGV0b24oXyA9PiBMb2dnZXJQcm92aWRlcikpOwogICAgICAgICAgICAgICAgYnVpbGRlci5BZGRGaWx0ZXIobGV2ZWwgPT4gbGV2ZWwgPj0gTG9nTGV2ZWwuRGVidWcpOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHJlYWRvbmx5IElMb2dnZXJQcm92aWRlciBMb2dnZXJQcm92aWRlciA9IG5ldyBDb25zb2xlTG9nZ2VyUHJvdmlkZXIoKF8sIF9fKSA9PiB0cnVlLCB0cnVlKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1794,10 +1808,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZy5Db25zb2xlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIuQWRkQ29uZmlndXJhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHJlYWRvbmx5IExvZ2dlckZhY3RvcnkgTXlMb2dnZXJGYWN0b3J5ID0gbmV3IExvZ2dlckZhY3RvcnkobmV3W10ge25ldyBDb25zb2xlTG9nZ2VyUHJvdmlkZXIoKF8sIF9fKSA9PiB0cnVlLCB0cnVlKX0pOwo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
