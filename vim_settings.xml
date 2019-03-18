@@ -104,9 +104,15 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/Data/PaymentsDb/DesignTimePaymentsDbContextFactory.cs" timestamp="1552902028320">
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/Data/PaymentsDb/DesignTimePaymentsDbContextFactory.cs" timestamp="1552903611806">
+        <mark key="'" line="9" column="74" />
         <mark key="[" line="13" column="65" />
         <mark key="]" line="13" column="95" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1552902619143">
+        <mark key="'" line="45" column="37" />
+        <mark key="[" line="45" column="37" />
+        <mark key="]" line="45" column="52" />
       </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Accounting.B2bRegistrationIngester.Tests.csproj" timestamp="1552901110295">
         <mark key="[" line="14" column="0" />
@@ -132,6 +138,13 @@
       <file name="/20190312140706_AddInstructorPayoutsTable.cs" timestamp="1552401823323">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="63" column="39" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1552903575376">
+        <mark key="'" line="32" column="66" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="52" />
+        <mark key="." line="31" column="52" />
+        <mark key="^" line="31" column="52" />
       </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Accounting.B2bRegistrationIngester.csproj" timestamp="1552495630903">
         <mark key="[" line="8" column="0" />
@@ -180,6 +193,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/PostgreSqlFixture.cs" timestamp="1552902672429">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="39" />
+      </file>
       <file name="/auth.public.ClientClaims [auth@localhost]" timestamp="1552668642368">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,12 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="77" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
-      <jump line="27" column="51" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
-      <jump line="24" column="48" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
-      <jump line="37" column="43" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
-      <jump line="32" column="64" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/CsodRegistration.cs" />
       <jump line="52" column="22" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
       <jump line="19" column="77" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/DependencyInjection/AccountingRepositoryExtensions.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7D20342E-D1FA-4CCB-B9F4-07DC69F9791F/6/NpgsqlDbContextOptionsExtensions.cs" />
@@ -288,13 +299,19 @@
       <jump line="24" column="34" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Startup.cs" />
       <jump line="19" column="44" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Data/PaymentsDbContextOptionsFactory.cs" />
       <jump line="9" column="55" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Data/PaymentsDbContextOptionsFactory.cs" />
+      <jump line="7" column="91" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/Data/PaymentsDb/DesignTimePaymentsDbContextFactory.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentsDbContext.cs" />
+      <jump line="42" column="37" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
+      <jump line="32" column="66" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
+      <jump line="9" column="74" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/Data/PaymentsDb/DesignTimePaymentsDbContextFactory.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">YWxsQnlJbnN0cnVjdG9yLlN1bShhID0+IGEuQ291bnQp</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuSW50ZWdyYXRpb25UZXN0cy5Db3JlLkZpeHR1cmVzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Payments</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
@@ -845,16 +862,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG1zU2VydmljZSwg</text>
+        <text>Payments</text>
       </register>
       <register name="/" type="4">
-        <text>Clients</text>
+        <text>PaymentDbContext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1vcSIgVmVyc2lvbj0iNC4xMC4xIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkRGJDb250ZXh0PFBheW1lbnRzRGJDb250ZXh0PihidWlsZGVyID0+IGJ1aWxkZXIuVXNlTnBnc3FsKF9jb25uZWN0aW9uU3RyaW5nKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuSW50ZWdyYXRpb25UZXN0cy5Db3JlLkZpeHR1cmVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElMbXNTZXJ2aWNlPj4oKS5PYmplY3QpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -886,28 +903,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkPE1vY2s8SUxtc1NlcnZpY2U+PigpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuSW50ZWdyYXRpb25UZXN0cy5Db3JlLkZpeHR1cmVzOwo=</text>
       </register>
       <register name="s" type="4">
         <text>RevenueAmount</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5MaW5xOwp1c2luZyBTeXN0ZW0uVGhyZWFkaW5nLlRhc2tzOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5JbnN0cnVjdG9yUGF5b3V0RGV0YWlsc0NhbGN1bGF0b3I7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQW1hem9uLkxhbWJkYS5Db3JlOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5MaW5xOwp1c2luZyBTeXN0ZW0uVGhyZWFkaW5nLlRhc2tzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgQ3Rvcl9JTG1zU2VydmljZU51bGxfVGhyb3dzQXJndW1lbnROdWxsRXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgSUFjY291bnRpbmdSZXBvc2l0b3J5IGFjY291bnRpbmdSZXBvc2l0b3J5ID0gbmV3IE1vY2s8SUFjY291bnRpbmdSZXBvc2l0b3J5PigpLk9iamVjdDsKICAgICAgICAgICAgSUxhbWJkYUxvZ2dlciBsYW1iZGFMb2dnZXIgPSBuZXcgTW9jazxJTGFtYmRhTG9nZ2VyPigpLk9iamVjdDsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+CiAgICAgICAgICAgICAgICBuZXcgRnVuY3Rpb24oYWNjb3VudGluZ1JlcG9zaXRvcnksIGxhbWJkYUxvZ2dlcikpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKGxtc1NlcnZpY2UpLCBleGNlcHRpb24uTWVzc2FnZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5JbnN0cnVjdG9yUGF5b3V0RGV0YWlsc0NhbGN1bGF0b3I7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -921,30 +938,29 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUxtc1NlcnZpY2UgbG1zU2VydmljZSA9IG5ldyBNb2NrPElMbXNTZXJ2aWNlPigpLk9iamVjdDsK</text>
+        <text encoding="base64">dXNpbmcgQW1hem9uLkxhbWJkYS5Db3JlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUxtc1NlcnZpY2UgbG1zU2VydmljZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgQ3Rvcl9JTG1zU2VydmljZU51bGxfVGhyb3dzQXJndW1lbnROdWxsRXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgSUFjY291bnRpbmdSZXBvc2l0b3J5IGFjY291bnRpbmdSZXBvc2l0b3J5ID0gbmV3IE1vY2s8SUFjY291bnRpbmdSZXBvc2l0b3J5PigpLk9iamVjdDsKICAgICAgICAgICAgSUxhbWJkYUxvZ2dlciBsYW1iZGFMb2dnZXIgPSBuZXcgTW9jazxJTGFtYmRhTG9nZ2VyPigpLk9iamVjdDsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+CiAgICAgICAgICAgICAgICBuZXcgRnVuY3Rpb24oYWNjb3VudGluZ1JlcG9zaXRvcnksIGxhbWJkYUxvZ2dlcikpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKGxtc1NlcnZpY2UpLCBleGNlcHRpb24uTWVzc2FnZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>%s/PaymentDbContext/PaymentsDbContext/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Clients</last-search>
+      <last-search>PaymentDbContext</last-search>
       <last-offset />
-      <last-pattern>Clients</last-pattern>
-      <last-replace>\\\\</last-replace>
-      <last-substitute>\\</last-substitute>
+      <last-pattern>PaymentDbContext</last-pattern>
+      <last-replace>PaymentsDbContext</last-replace>
+      <last-substitute>PaymentDbContext</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>postgreSqlFixture</entry>
         <entry>connect</entry>
         <entry>sort</entry>
         <entry>,</entry>
@@ -964,9 +980,9 @@
         <entry>AuthSection.Clients</entry>
         <entry>testserver</entry>
         <entry>Clients</entry>
+        <entry>PaymentDbContext</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ListQuarterlyPayoutQueryHandler/ListQuarterQueryHandler/g</entry>
         <entry>%s/ListQuarterQueryHandler/GetQuarterQueryHandler/g</entry>
         <entry>%s/GetQuarter/GetPreviousQuarter/g</entry>
         <entry>%s/ListQuarterlyPayoutQuery/ListQuarterQuery/g</entry>
@@ -986,6 +1002,7 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>%s/PaymentDbContext/PaymentsDbContext/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
