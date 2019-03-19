@@ -587,10 +587,11 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstrunctorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Data/AccountingRepository.cs" timestamp="1553008111346">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="C:/projects/Accounting/Worker/InstrunctorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Data/AccountingRepository.cs" timestamp="1553009197266">
+        <mark key="'" line="44" column="2" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/20190312152319_AddInstructorPayoutDetailsTable.cs" timestamp="1552404418477">
         <mark key="[" line="55" column="41" />
@@ -1244,8 +1245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="91" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/Data/PaymentsDb/DesignTimePaymentsDbContextFactory.cs" />
-      <jump line="42" column="37" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="32" column="66" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
       <jump line="9" column="74" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/Data/PaymentsDb/DesignTimePaymentsDbContextFactory.cs" />
@@ -1344,13 +1343,15 @@
       <jump line="12" column="39" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Services/InstructorPayoutService.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/IAccountingRepository.cs" />
       <jump line="21" column="39" filename="C:/projects/Accounting/Worker/InstrunctorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/InstructorPayoutService.cs" />
+      <jump line="40" column="67" filename="C:/projects/Accounting/Worker/InstrunctorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Data/AccountingRepository.cs" />
+      <jump line="44" column="2" filename="C:/projects/Accounting/Worker/InstrunctorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Data/AccountingRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">VGFzazxJTGlzdDxJbnN0cnVjdG9yUGF5b3V0RGV0YWlsPj4gR2V0SW5zdHJ1Y3RvclBheW91dERldGFpbHMoaW50IGluc3RydWN0b3JJZCwgaW50IHF1YXJ0ZXJJZCk=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHQuRGF0YWJhc2UuVHJhbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">LCBjb250ZXh0ID0+IGNvbnRleHQuQXR0YWNoKGN1cnJlbmN5</text>
@@ -1910,7 +1911,7 @@
         <text>Task AddInstructorPayout(InstructorPayout instructorPayout)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHQuRGF0YWJhc2UuVHJhbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1942,28 +1943,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxib29sPiBHZXRJbnN0cnVjdG9yUGF5b3V0KGludCBpbnN0cnVjdG9ySWQsIGludCBxdWFydGVySWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHQuRGF0YWJhc2UuVHJhbnMK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX2FjY291bnRpbmdEYkNvbnRleHQuU2F2ZUNoYW5nZXNBc3luYygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxib29sPiBHZXRJbnN0cnVjdG9yUGF5b3V0KGludCBpbnN0cnVjdG9ySWQsIGludCBxdWFydGVySWQpCg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">VGFzazxib29sPiBIYXNJbnN0cnVjdG9yUGF5b3V0KGludCBpbnN0cnVjdG9ySWQsIGludCBxdWFydGVySWQp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxSb290TmFtZXNwYWNlPkFjY291bnRpbmcuSW5zdHJ1bmN0b3JQYXlvdXRSZXBvcnRHZW5lcmF0b3IuVGVzdHM8L1Jvb3ROYW1lc3BhY2U+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX2FjY291bnRpbmdEYkNvbnRleHQuU2F2ZUNoYW5nZXNBc3luYygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxSb290TmFtZXNwYWNlPkFjY291bnRpbmcuSW5zdHJ1bmN0b3JQYXlvdXRSZXBvcnRHZW5lcmF0b3I8L1Jvb3ROYW1lc3BhY2U+Cg==</text>
+        <text encoding="base64">ICAgIDxSb290TmFtZXNwYWNlPkFjY291bnRpbmcuSW5zdHJ1bmN0b3JQYXlvdXRSZXBvcnRHZW5lcmF0b3IuVGVzdHM8L1Jvb3ROYW1lc3BhY2U+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QoKTsK</text>
+        <text encoding="base64">ICAgIDxSb290TmFtZXNwYWNlPkFjY291bnRpbmcuSW5zdHJ1bmN0b3JQYXlvdXRSZXBvcnRHZW5lcmF0b3I8L1Jvb3ROYW1lc3BhY2U+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TZWxlY3QoKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1977,16 +1978,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dJbmZvKGNvbnRleHQsICJDYWxjdWxhdGluZyBpbnN0cnVjdG9ycyBwYXlvdXQgZGV0YWlscyIpOwogICAgICAgICAgICBJTGlzdDxJbnN0cnVjdG9yUGF5b3V0RGV0YWlsPiBpbnN0cnVjdG9yUGF5b3V0RGV0YWlscyA9CiAgICAgICAgICAgICAgICBhd2FpdCBfYWNjb3VudGluZ1JlcG9zaXRvcnkuQ2FsY3VsYXRlSW5zdHJ1Y3RvclBheW91dERldGFpbHMoaW5wdXREYXRhLlF1YXJ0ZXJJZCk7CgogICAgICAgICAgICBfbGFtYmRhTG9nZ2VyLkxvZ0luZm8oY29udGV4dCwgJCJTYXZpbmcge2luc3RydWN0b3JQYXlvdXREZXRhaWxzLkNvdW50fSBpbnN0cnVjdG9ycyBwYXlvdXQgZGV0YWlscyIpOwogICAgICAgICAgICBhd2FpdCBfYWNjb3VudGluZ1JlcG9zaXRvcnkuU2F2ZVF1YXJ0ZXJseUluc3RydWN0b3JQYXlvdXREZXRhaWxzKGluc3RydWN0b3JQYXlvdXREZXRhaWxzLCBpbnB1dERhdGEuUXVhcnRlcklkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dJbmZvKGNvbnRleHQsICJDYWxjdWxhdGluZyBpbnN0cnVjdG9ycyBwYXlvdXQgZGV0YWlscyIpOwogICAgICAgICAgICBJTGlzdDxJbnN0cnVjdG9yUGF5b3V0RGV0YWlsPiBpbnN0cnVjdG9yUGF5b3V0RGV0YWlscyA9CiAgICAgICAgICAgICAgICBhd2FpdCBfYWNjb3VudGluZ1JlcG9zaXRvcnkuQ2FsY3VsYXRlSW5zdHJ1Y3RvclBheW91dERldGFpbHMoaW5wdXREYXRhLlF1YXJ0ZXJJZCk7CgogICAgICAgICAgICBfbGFtYmRhTG9nZ2VyLkxvZ0luZm8oY29udGV4dCwgJCJTYXZpbmcge2luc3RydWN0b3JQYXlvdXREZXRhaWxzLkNvdW50fSBpbnN0cnVjdG9ycyBwYXlvdXQgZGV0YWlscyIpOwogICAgICAgICAgICBhd2FpdCBfYWNjb3VudGluZ1JlcG9zaXRvcnkuU2F2ZVF1YXJ0ZXJseUluc3RydWN0b3JQYXlvdXREZXRhaWxzKGluc3RydWN0b3JQYXlvdXREZXRhaWxzLCBpbnB1dERhdGEuUXVhcnRlcklkKTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -2040,8 +2041,8 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action RenameElement</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
