@@ -309,6 +309,9 @@
       <file name="/auth.public.ApiScopes [auth@localhost]" timestamp="1553078145621">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/06/62b3f540/PropertyBuilder`1.cs" timestamp="1553082518935">
+        <mark key="'" line="298" column="125" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/CalculateCourseCompletionCommandHandler.cs" timestamp="1549551639150">
         <mark key="'" line="8" column="71" />
       </file>
@@ -770,6 +773,9 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" timestamp="1551788468789">
         <mark key="'" line="105" column="55" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/8a/d00f91ca/EnumToStringConverter`1.cs" timestamp="1553082484343">
+        <mark key="'" line="17" column="50" />
+      </file>
       <file name="C:/projects/Auth-Api/Auth/src/Auth.API/Data/ConfigDbContext/Migrations/ConfigurationDbContextModelSnapshot.cs" timestamp="1550503694849">
         <mark key="'" line="0" column="0" />
       </file>
@@ -800,6 +806,13 @@
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/profile-section/stores/ProfileStore.ts" timestamp="1547137122939">
         <mark key="'" line="100" column="17" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/InstructorPayoutMap.cs" timestamp="1553082491663">
+        <mark key="'" line="25" column="27" />
+        <mark key="[" line="25" column="69" />
+        <mark key="]" line="25" column="74" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="25" column="74" />
       </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsMessageMother.cs" timestamp="1551102896233">
         <mark key="'" line="11" column="21" />
@@ -957,17 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="28" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.Tests.Core/ObjectMothers/QuarterMother.cs" />
-      <jump line="15" column="66" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.Tests.Core/ObjectMothers/QuarterMother.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.Tests.Core/Helpers/DateTimeHelper.cs" />
-      <jump line="158" column="67" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
-      <jump line="106" column="8" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
-      <jump line="106" column="64" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
-      <jump line="25" column="27" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
-      <jump line="17" column="47" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/FunctionTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/Fixtures/ServiceProviderFixture.cs" />
-      <jump line="154" column="57" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
-      <jump line="61" column="46" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="16" column="77" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.Tests.Core/ObjectMothers/CsodRegistrationMother.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/CsodRegistration.cs" />
       <jump line="62" column="18" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests/FunctionTests.cs" />
@@ -1057,6 +1059,17 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/AccountingRepository.cs" />
       <jump line="60" column="78" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Function.cs" />
       <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Services/S3CsvService.cs" />
+      <jump line="17" column="50" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/8a/d00f91ca/EnumToStringConverter`1.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/f6/0eca252e/ValueConverter`2.cs" />
+      <jump line="25" column="27" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/InstructorPayoutMap.cs" />
+      <jump line="290" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/06/62b3f540/PropertyBuilder`1.cs" />
+      <jump line="272" column="61" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/06/62b3f540/PropertyBuilder`1.cs" />
+      <jump line="270" column="60" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/06/62b3f540/PropertyBuilder`1.cs" />
+      <jump line="268" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/06/62b3f540/PropertyBuilder`1.cs" />
+      <jump line="309" column="44" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/06/62b3f540/PropertyBuilder`1.cs" />
+      <jump line="308" column="60" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/06/62b3f540/PropertyBuilder`1.cs" />
+      <jump line="305" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/06/62b3f540/PropertyBuilder`1.cs" />
+      <jump line="298" column="125" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/06/62b3f540/PropertyBuilder`1.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1617,7 +1630,7 @@
         <text>Trace</text>
       </register>
       <register name="/" type="4">
-        <text>percent</text>
+        <text encoding="base64">XDxUUHJvdmlkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dUcmFjZShjb250ZXh0LCAiRU5EIFByb2Nlc3NNZXNzYWdlIik7Cg==</text>
@@ -1703,17 +1716,16 @@
       </register>
     </registers>
     <search>
-      <last-search>percent</last-search>
+      <last-search encoding="base64">XDxUUHJvdmlkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>percent</last-pattern>
+      <last-pattern encoding="base64">XDxUUHJvdmlkZXJcPg==</last-pattern>
       <last-replace>PaymentsDbContext</last-replace>
       <last-substitute>PaymentDbContext</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>List</entry>
         <entry>GetQuarter</entry>
         <entry>ListQuarterlyPayoutQuery</entry>
         <entry>migra</entry>
@@ -1733,6 +1745,7 @@
         <entry>getcu</entry>
         <entry>dispose</entry>
         <entry>percent</entry>
+        <entry encoding="base64">XDxUUHJvdmlkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ListQuarterQueryHandler/GetQuarterQueryHandler/g</entry>
