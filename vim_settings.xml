@@ -633,6 +633,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/341DFE22-562E-4DB3-8729-B233A8CD1A5F/a2/48ca6485/EnvironmentAugments.cs" timestamp="1548855209721">
         <mark key="'" line="72" column="39" />
       </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/IAccountingRepository.cs" timestamp="1553077944649">
+        <mark key="[" line="10" column="103" />
+        <mark key="]" line="10" column="103" />
+        <mark key="." line="10" column="103" />
+        <mark key="^" line="10" column="7" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/fc/9f6e6a15/Stream.cs" timestamp="1550065317936">
         <mark key="'" line="130" column="29" />
       </file>
@@ -820,15 +826,22 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/ActivityHelper.cs" timestamp="1549468965301">
         <mark key="'" line="47" column="27" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" timestamp="1553075528727">
-        <mark key="'" line="82" column="31" />
-        <mark key="[" line="82" column="111" />
-        <mark key="]" line="82" column="113" />
-        <mark key="^" line="82" column="113" />
-        <mark key="." line="82" column="113" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" timestamp="1553077981326">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/32C7DA0B-DE3E-4433-B1FA-3A6000248638/41/7f6ed53c/ServiceProviderServiceExtensions.cs" timestamp="1548945344830">
         <mark key="'" line="59" column="20" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.Tests/FunctionTest.cs" timestamp="1552901509616">
+        <mark key="'" line="32" column="23" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="27" column="70" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="C:/projects/UI-Web/node_modules/mobx-react-router/types.d.ts" timestamp="1547027694148">
         <mark key="'" line="7" column="50" />
@@ -942,7 +955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Helpers/DateTimeHelper.cs" />
       <jump line="15" column="54" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/QuarterMother.cs" />
       <jump line="6" column="61" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Helpers/DateTimeHelper.cs" />
       <jump line="13" column="49" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/QuarterMother.cs" />
@@ -1042,13 +1054,14 @@
       <jump line="83" column="53" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/AccountingDbContextModelSnapshot.cs" />
       <jump line="81" column="31" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/InstructorPayoutDetail.cs" />
+      <jump line="12" column="40" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/src/Accounting.InstructorPayoutDetailsCalculator/Data/AccountingRepository.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>, Action onBeforeTransactionCommit</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxib29sPiBIYXNQcmV2aW91c0luc3RydWN0b3JQYXlvdXREZXRhaWxzQ2FsY3VsYXRlZChpbnQgcXVhcnRlcklkKQogICAgICAgIHsKICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KGRvdWJsZSkg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">LCBjb250ZXh0ID0+IGNvbnRleHQuQXR0YWNoKGN1cnJlbmN5</text>
@@ -1599,7 +1612,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KGRvdWJsZSkg</text>
+        <text>, int quarterId</text>
       </register>
       <register name="/" type="4">
         <text>percent</text>
@@ -1608,7 +1621,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNHcmVhdGVyVGhhblplcm8oaW5zdHJ1Y3RvcklkLCBuYW1lb2YoaW5zdHJ1Y3RvcklkKSk7CiAgICAgICAgICAgIENvbnRyYWN0LlJlcXVpcmVzR3JlYXRlclRoYW5aZXJvKHF1YXJ0ZXJJZCwgbmFtZW9mKHF1YXJ0ZXJJZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgSUxhbWJkYUxvZ2dlciA9IEFjY291bnRpbmcuTG9nZ2luZy5JTGFtYmRhTG9nZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1639,29 +1652,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCBvbkJlZm9yZVRyYW5zYWN0aW9uQ29tbWl0OiAoKSA9PgogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxib29sPiBIYXNQcmV2aW91c0luc3RydWN0b3JQYXlvdXREZXRhaWxzQ2FsY3VsYXRlZChpbnQgcXVhcnRlcklkKQogICAgICAgIHsKICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX2FjY291bnRpbmdSZXBvc2l0b3J5LkFkZEluc3RydWN0b3JQYXlvdXQobnVsbCwgb25CZWZvcmVUcmFuc2FjdGlvbkNvbW1pdDogKCkgPT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">VGFzazxib29sPiBIYXNJbnN0cnVjdG9yUGF5b3V0KGludCBpbnN0cnVjdG9ySWQsIGludCBxdWFydGVySWQp</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>, int quarterId</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQmVmb3JlVHJhbnNhY3Rpb25Db21taXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYXN5bmMgVGFzazxib29sPiBIYXNQcmV2aW91c0luc3RydWN0b3JQYXlvdXREZXRhaWxzQ2FsY3VsYXRlZChpbnQgcXVhcnRlcklkKQogICAgICAgIHsKICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKG9uQmVmb3JlVHJhbnNhY3Rpb25Db21taXQsIG5hbWVvZihvbkJlZm9yZVRyYW5zYWN0aW9uQ29tbWl0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNHcmVhdGVyVGhhblplcm8ocXVhcnRlcklkLCBuYW1lb2YocXVhcnRlcklkKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciBwcmV2UmVjb3JkcyA9IF9hY2NvdW50aW5nRGJDb250ZXh0Lkluc3RydWN0b3JQYXlvdXREZXRhaWxzLldoZXJlKHggPT4geC5RdWFydGVySWQgPT0gcXVhcnRlcklkKTsKICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHQuSW5zdHJ1Y3RvclBheW91dERldGFpbHMuUmVtb3ZlUmFuZ2UocHJldlJlY29yZHMpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1674,11 +1687,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">JiYKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJlZ2V4LklzTWF0Y2goeC5JbnN0cnVjdG9ySWQsIEAiXlswLTlcLl0rJCIp</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgSUxhbWJkYUxvZ2dlciA9IEFjY291bnRpbmcuTG9nZ2luZy5JTGFtYmRhTG9nZ2VyOwo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
