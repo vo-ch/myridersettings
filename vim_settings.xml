@@ -536,6 +536,12 @@
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" timestamp="1552661329234">
         <mark key="'" line="27" column="55" />
       </file>
+      <file name="C:/projects/Accounting/Worker/InstrunctorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Views/InstructorPayoutReport.cshtml" timestamp="1553159913306">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="75" column="4" />
+        <mark key="^" line="75" column="4" />
+        <mark key="." line="75" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/096F5552-39DF-4E70-AD1A-11EB1BE7D14B/27/9dc10352/IFindFluentExtensions.cs" timestamp="1549538638703">
         <mark key="'" line="174" column="44" />
       </file>
@@ -970,8 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="53" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.Tests/DependencyInjection/AccountingRepositoryExtensionsTests.cs" />
-      <jump line="99" column="53" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.Tests/DependencyInjection/AccountingRepositoryExtensionsTests.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1D2EF1A7-7D30-481C-BE77-01312EB6C181/ba/22ca9b79/ILoggerFactory.cs" />
       <jump line="20" column="90" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.Tests/Data/AccountingRepositoryTests.cs" />
       <jump line="18" column="56" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.Tests/Data/AccountingRepositoryTests.cs" />
@@ -1070,13 +1074,15 @@
       <jump line="131" column="69" filename="C:/projects/accounting2/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="133" column="43" filename="C:/projects/accounting2/Accounting/Web/API/test/Accounting.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/31/6a522250/DatabaseFacade.cs" />
+      <jump line="0" column="19" filename="C:/projects/Accounting/Worker/InstrunctorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Views/InstructorPayoutReport.cshtml" />
+      <jump line="12" column="0" filename="C:/projects/Accounting/Worker/InstrunctorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Views/InstructorPayoutReport.cshtml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBDYWxjdWxhdGVJbnN0cnVjdG9yUGF5b3V0RGV0YWlsc19RdWFydGVySWRaZXJvX1Rocm93c0FyZ3VtZW50RXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgdmFyIHBheW1lbnRzRGJDb250ZXh0ID0gbmV3IE1vY2s8UGF5bWVudHNEYkNvbnRleHQ+KG5ldyBEYkNvbnRleHRPcHRpb25zQnVpbGRlcjxQYXltZW50c0RiQ29udGV4dD4oKS5PcHRpb25zKS5PYmplY3Q7CiAgICAgICAgICAgIHZhciBhY2NvdW50aW5nRGJDb250ZXh0ID0gbmV3IE1vY2s8QWNjb3VudGluZ0RiQ29udGV4dD4obmV3IERiQ29udGV4dE9wdGlvbnNCdWlsZGVyPEFjY291bnRpbmdEYkNvbnRleHQ+KCkuT3B0aW9ucykuT2JqZWN0OwogICAgICAgICAgICB2YXIgYWNjb3VudGluZ1JlcG9zaXRvcnkgPSBuZXcgQWNjb3VudGluZ1JlcG9zaXRvcnkocGF5bWVudHNEYkNvbnRleHQsIGFjY291bnRpbmdEYkNvbnRleHQpOwogICAgICAgICAgICBpbnQgcXVhcnRlcklkID0gMDsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICBhd2FpdCBBc3NlcnQuVGhyb3dzQXN5bmM8QXJndW1lbnRFeGNlcHRpb24+KAogICAgICAgICAgICAgICAgYXN5bmMgKCkgPT4gYXdhaXQgYWNjb3VudGluZ1JlcG9zaXRvcnkuQ2FsY3VsYXRlSW5zdHJ1Y3RvclBheW91dERldGFpbHMocXVhcnRlcklkKSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">OiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">LCBjb250ZXh0ID0+IGNvbnRleHQuQXR0YWNoKGN1cnJlbmN5</text>
@@ -1627,7 +1633,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text encoding="base64">PC9BY2NvdW50aW5nLkRhdGEuRW50aXR5Lkluc3RydWN0b3JQYXlvdXQ+</text>
       </register>
       <register name="/" type="4">
         <text>descrip</text>
@@ -1636,7 +1642,7 @@
         <text>an3kc2IsZxGzSakG54t7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1668,28 +1674,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTc2MzYzOS9ob3ctdG8tZGVhbC13aXRoLXBhZ2UtYnJlYWtzLXdoZW4tcHJpbnRpbmctYS1sYXJnZS1odG1sLXRhYmxlKi8K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgcHVibGljIHN0cmluZyBDdXJyZW5jeUNvZGUgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">bW9jayBtb2NrKCltb2MsICAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2sgQ2FsY3VsYXRlSW5zdHJ1Y3RvclBheW91dERldGFpbHNfUXVhcnRlcklkWmVyb19UaHJvd3NBcmd1bWVudEV4Y2VwdGlvbigpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIHZhciBwYXltZW50c0RiQ29udGV4dCA9IG5ldyBNb2NrPFBheW1lbnRzRGJDb250ZXh0PihuZXcgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8UGF5bWVudHNEYkNvbnRleHQ+KCkuT3B0aW9ucykuT2JqZWN0OwogICAgICAgICAgICB2YXIgYWNjb3VudGluZ0RiQ29udGV4dCA9IG5ldyBNb2NrPEFjY291bnRpbmdEYkNvbnRleHQ+KG5ldyBEYkNvbnRleHRPcHRpb25zQnVpbGRlcjxBY2NvdW50aW5nRGJDb250ZXh0PigpLk9wdGlvbnMpLk9iamVjdDsKICAgICAgICAgICAgdmFyIGFjY291bnRpbmdSZXBvc2l0b3J5ID0gbmV3IEFjY291bnRpbmdSZXBvc2l0b3J5KHBheW1lbnRzRGJDb250ZXh0LCBhY2NvdW50aW5nRGJDb250ZXh0KTsKICAgICAgICAgICAgaW50IHF1YXJ0ZXJJZCA9IDA7CgogICA8SUxvYWRpbmdTdGF0dXNTdG9yZT4gICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgIGZzLGEgOiAgICAgICAgYXdhaXQgQXNzZXJ0LlRocm93c0FzeW5jPEFyZ3VtZW50RXhjZXB0aW9uPigKICAgICAgICAgICAgICAgIGxAbXFoZjpmICxhbGhhICB4ZGpzeW5jICgpID0+IGF3YWl0IGFjY291bnRpbmdSZXBvc2l0b3J5LkNhbGN1bGF0ZUluc3RydWN0b3JQYXlvdXREZXRhaWxzKHF1YXJ0ZXJJZCkpOwogICAgICAgIH1JOkkgCiwge2soLCBjcmVhdGVBcHApCg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">VGFzazxib29sPiBIYXNJbnN0cnVjdG9yUGF5b3V0KGludCBpbnN0cnVjdG9ySWQsIGludCBxdWFydGVySWQp</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYm9vbCBJc0RlZmF1bHRBdHRyaWJ1dGUoKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIHRoaXMuRXF1YWxzKChvYmplY3QpIFN0cmluZ1ZhbHVlQXR0cmlidXRlLkRlZmF1bHQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">QHVzaW5nIE1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYm9vbCBJc0RlZmF1bHRBdHRyaWJ1dGUoKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIHRoaXMuRXF1YWxzKChvYmplY3QpIFN0cmluZ1ZhbHVlQXR0cmlidXRlLkRlZmF1bHQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">QERiTG9nZ2VyQ2F0ZWdvcnkuTW9kZWwgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGVzY3JpcHRpb25BdHRyaWJ1dGUoKQogICAgICAgICAgICA6IHRoaXMoc3RyaW5nLkVtcHR5KQogICAgICAgIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1703,16 +1709,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgcHVibGljIHN0cmluZyBDdXJyZW5jeUNvZGUgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHJlYWRvbmx5IERlc2NyaXB0aW9uQXR0cmlidXRlIERlZmF1bHQgPSBuZXcgRGVzY3JpcHRpb25BdHRyaWJ1dGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgYm9vbCBJc0RlZmF1bHRBdHRyaWJ1dGUoKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIHRoaXMuRXF1YWxzKChvYmplY3QpIFN0cmluZ1ZhbHVlQXR0cmlidXRlLkRlZmF1bHQpOwogICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -1761,13 +1767,13 @@
         <entry>s/\\/\\\\/g</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>%s/PaymentDbContext/PaymentsDbContext/g</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>%s/this.//g</entry>
         <entry>%s/this\.//g</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
