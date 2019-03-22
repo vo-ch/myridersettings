@@ -10,11 +10,6 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/Worker/RegistrationDomainIngester/src/Auth.RegistrationDomainIngester/Program.cs" timestamp="1553183139376">
-        <mark key="'" line="21" column="23" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="27" column="65" />
-      </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/PdfReportService.cs" timestamp="1553188706874">
         <mark key="'" line="43" column="30" />
         <mark key="[" line="43" column="39" />
@@ -45,6 +40,13 @@
         <mark key="]" line="35" column="3" />
         <mark key="^" line="35" column="3" />
         <mark key="." line="35" column="3" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1553255363920">
+        <mark key="'" line="17" column="66" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="139" column="77" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Accounting.Data.DbMigration.csproj" timestamp="1552917429506">
         <mark key="[" line="3" column="37" />
@@ -206,6 +208,12 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/ServiceProviderFixtureBase.cs" timestamp="1553255313965">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+      </file>
       <file name="C:/projects/accounting2/Accounting/Web/API/src/Accounting.Api/appsettings.Local.json" timestamp="1553095640157">
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="41" />
@@ -213,9 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="44" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Attributes/StringValueAttribute.cs" />
-      <jump line="5" column="48" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Attributes/StringValueAttribute.cs" />
-      <jump line="12" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/91/f3cec14f/Attribute.cs" />
       <jump line="16" column="12" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Attributes/StringValueAttribute.cs" />
       <jump line="27" column="16" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Attributes/StringValueAttribute.cs" />
       <jump line="25" column="36" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/InstructorPayoutMap.cs" />
@@ -313,13 +318,16 @@
       <jump line="21" column="63" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/20190305105155_AddQuartersAndQuarterlyPayoutsTables.cs" />
       <jump line="110" column="52" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/AccountingDbContextModelSnapshot.cs" />
       <jump line="134" column="40" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/AccountingDbContextModelSnapshot.cs" />
+      <jump line="153" column="59" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
+      <jump line="146" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
+      <jump line="18" column="66" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBDYWxjdWxhdGVJbnN0cnVjdG9yUGF5b3V0RGV0YWlsc19RdWFydGVySWRaZXJvX1Rocm93c0FyZ3VtZW50RXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgdmFyIHBheW1lbnRzRGJDb250ZXh0ID0gbmV3IE1vY2s8UGF5bWVudHNEYkNvbnRleHQ+KG5ldyBEYkNvbnRleHRPcHRpb25zQnVpbGRlcjxQYXltZW50c0RiQ29udGV4dD4oKS5PcHRpb25zKS5PYmplY3Q7CiAgICAgICAgICAgIHZhciBhY2NvdW50aW5nRGJDb250ZXh0ID0gbmV3IE1vY2s8QWNjb3VudGluZ0RiQ29udGV4dD4obmV3IERiQ29udGV4dE9wdGlvbnNCdWlsZGVyPEFjY291bnRpbmdEYkNvbnRleHQ+KCkuT3B0aW9ucykuT2JqZWN0OwogICAgICAgICAgICB2YXIgYWNjb3VudGluZ1JlcG9zaXRvcnkgPSBuZXcgQWNjb3VudGluZ1JlcG9zaXRvcnkocGF5bWVudHNEYkNvbnRleHQsIGFjY291bnRpbmdEYkNvbnRleHQpOwogICAgICAgICAgICBpbnQgcXVhcnRlcklkID0gMDsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICBhd2FpdCBBc3NlcnQuVGhyb3dzQXN5bmM8QXJndW1lbnRFeGNlcHRpb24+KAogICAgICAgICAgICAgICAgYXN5bmMgKCkgPT4gYXdhaXQgYWNjb3VudGluZ1JlcG9zaXRvcnkuQ2FsY3VsYXRlSW5zdHJ1Y3RvclBheW91dERldGFpbHMocXVhcnRlcklkKSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5JbnN0cnVjdG9yUGF5b3V0RGV0YWlsc0NhbGN1bGF0b3IuSW50ZWdyYXRpb25UZXN0cy5Db3JlLkRhdGE7Cg==</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">LCBjb250ZXh0ID0+IGNvbnRleHQuQXR0YWNoKGN1cnJlbmN5</text>
@@ -870,16 +878,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Base</text>
       </register>
       <register name="/" type="4">
         <text>timestamp without time zone</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb252ZXJzaW9uPHN0cmluZz4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9wdGlvbnNCdWlsZGVyID0gbmV3IERiQ29udGV4dE9wdGlvbnNCdWlsZGVyPEFjY291bnRpbmdEYkNvbnRleHQ+KCk7CiAgICAgICAgICAgIG9wdGlvbnNCdWlsZGVyLlVzZU5wZ3NxbChfY29ubmVjdGlvblN0cmluZywgc3FsID0+IHNxbC5NaWdyYXRpb25zQXNzZW1ibHkodHlwZW9mKERlc2lnblRpbWVBY2NvdW50aW5nRGJDb250ZXh0RmFjdG9yeSkuQXNzZW1ibHkuRnVsbE5hbWUpKTsKCiAgICAgICAgICAgIHJldHVybiBvcHRpb25zQnVpbGRlci5PcHRpb25zOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5JbnN0cnVjdG9yUGF5b3V0RGV0YWlsc0NhbGN1bGF0b3IuSW50ZWdyYXRpb25UZXN0cy5Db3JlLkRhdGE7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -910,29 +918,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3Rlc3RNaWdyYXRpb25zQXNzZW1ibHkgPSB0ZXN0TWlncmF0aW9uc0Fzc2VtYmx5Owo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IHN0cmluZyBfdGVzdE1pZ3JhdGlvbnNBc3NlbWJseTsK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">VGFzazxib29sPiBIYXNJbnN0cnVjdG9yUGF5b3V0KGludCBpbnN0cnVjdG9ySWQsIGludCBxdWFydGVySWQp</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9wdGlvbnNCdWlsZGVyID0gUGF5bWVudHNEYkNvbnRleHRPcHRpb25zRmFjdG9yeS5DcmVhdGVEYkNvbnRleHRPcHRpb25zQnVpbGRlcigKICAgICAgICAgICAgICAgICAgICBfdGVzdE1pZ3JhdGlvbnNBc3NlbWJseSwKICAgICAgICAgICAgICAgICAgICBfY29ubmVjdGlvblN0cmluZyk7CgogICAgICAgICAgICByZXR1cm4gb3B0aW9uc0J1aWxkZXIuT3B0aW9uczsK</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKQ==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -945,11 +953,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb252ZXJzaW9uKAogICAgICAgICAgICAgICAgICAgIHYgPT4gdi5Ub1N0cmluZygpLlRvVW5kZXJzY29yZUNhc2UoKSwKICAgICAgICAgICAgICAgICAgICB2ID0+IChRdWFydGVybHlQYXlvdXRTdGF0dXMpIEVudW0uUGFyc2UodHlwZW9mKFF1YXJ0ZXJseVBheW91dFN0YXR1cyksIHYuVG9QYXNjYWxDYXNlKCksIHRydWUpKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJ0aW1lc3RhbXAgd2l0aG91dCB0aW1lIHpvbmUiKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2ID0+IHYuVG9TdHJpbmcoKS5Ub1VuZGVyc2NvcmVDYXNlKCksCiAgICAgICAgICAgICAgICAgICAgdiA9PiAoSW5zdHJ1Y3RvclBheW91dFN0YXR1cykgRW51bS5QYXJzZSh0eXBlb2YoSW5zdHJ1Y3RvclBheW91dFN0YXR1cyksIHYuVG9QYXNjYWxDYXNlKCksIHRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
