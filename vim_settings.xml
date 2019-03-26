@@ -110,8 +110,8 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553526618382">
         <mark key="'" line="12" column="65" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" timestamp="1553600454054">
-        <mark key="'" line="294" column="8" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" timestamp="1553601100500">
+        <mark key="'" line="248" column="69" />
         <mark key="[" line="175" column="72" />
         <mark key="]" line="175" column="72" />
         <mark key="." line="175" column="72" />
@@ -370,6 +370,13 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1553601199509">
+        <mark key="'" line="42" column="44" />
+        <mark key="[" line="37" column="94" />
+        <mark key="]" line="37" column="94" />
+        <mark key="^" line="37" column="116" />
+        <mark key="." line="37" column="94" />
+      </file>
       <file name="/payments.accounting.instructor_payouts [payments@localhost]" timestamp="1553527803815">
         <mark key="[" line="0" column="0" />
       </file>
@@ -395,13 +402,15 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/34588816-2597-440F-B2AB-7F5A3A230030/68/1b39d475/EntityFrameworkQueryableExtensions.cs" timestamp="1553601181191">
+        <mark key="[" line="2067" column="16" />
+        <mark key="]" line="2067" column="74" />
+      </file>
       <file name="/instructor_payouts [payments@localhost]" timestamp="1553504862661">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="52" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/AccountingDbContextModelSnapshot.cs" />
-      <jump line="134" column="40" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/Migrations/AccountingDbContextModelSnapshot.cs" />
       <jump line="153" column="59" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="146" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="18" column="66" filename="C:/projects/Accounting/Worker/InstructorPayoutDetailsCalculator/test/Accounting.InstructorPayoutDetailsCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
@@ -500,13 +509,15 @@
       <jump line="240" column="70" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="284" column="8" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
+      <jump line="248" column="69" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
+      <jump line="43" column="44" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">YWN0dWFsTGlzdAogICAgICAgICAgICAgICAgICAgIC5GaXJzdCh4ID0+IHguSW5zdHJ1Y3RvcklkID09IGV4cGVjdGVkSW5zdHJ1Y3RvclBheW91dC5JbnN0cnVjdG9ySWQgJiYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4LlF1YXJ0ZXJJZCA9PSBleHBlY3RlZEluc3RydWN0b3JQYXlvdXQuUXVhcnRlcklkKQ==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2l0aFMzVXJsKG51bGwpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW9uUHJvcGVydHlQYXRoIA==</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">LCBjb250ZXh0ID0+IGNvbnRleHQuQXR0YWNoKGN1cnJlbmN5</text>
@@ -1057,13 +1068,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Details</text>
+        <text encoding="base64">aW9uUHJvcGVydHlQYXRoIA==</text>
       </register>
       <register name="/" type="4">
         <text>internal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuV2l0aFMzVXJsKG51bGwpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">RXhwcmVzc2lvbjxGdW5jPFRFbnRpdHksIFRQcm9wZXJ0eT4+IG5hdmlnYXRpb25Qcm9wZXJ0eVBhdGg=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
