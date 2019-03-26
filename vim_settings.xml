@@ -103,12 +103,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="12" column="9" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" timestamp="1553590328466">
-        <mark key="'" line="137" column="78" />
-        <mark key="[" line="133" column="117" />
-        <mark key="]" line="133" column="159" />
-        <mark key="^" line="133" column="113" />
-        <mark key="." line="133" column="117" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" timestamp="1553591511655">
+        <mark key="'" line="187" column="47" />
+        <mark key="[" line="182" column="44" />
+        <mark key="]" line="182" column="47" />
+        <mark key="^" line="182" column="47" />
+        <mark key="." line="182" column="47" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553526618382">
         <mark key="'" line="12" column="65" />
@@ -235,6 +235,10 @@
         <mark key="]" line="24" column="68" />
         <mark key="^" line="26" column="58" />
         <mark key="." line="26" column="58" />
+      </file>
+      <file name="/FunctionTests.cs" timestamp="1553591330905">
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="313" column="9" />
       </file>
       <file name="/a.sql" timestamp="1553520575408">
         <mark key="[" line="0" column="0" />
@@ -373,10 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="60" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Function.cs" />
-      <jump line="39" column="51" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/InstructorPayoutService.cs" />
-      <jump line="8" column="45" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/PdfReportService.cs" />
-      <jump line="24" column="34" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/PdfReportService.cs" />
       <jump line="21" column="52" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Startup.cs" />
       <jump line="22" column="39" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/FunctionTest.cs" />
       <jump line="49" column="50" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Function.cs" />
@@ -473,13 +473,17 @@
       <jump line="94" column="41" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" />
       <jump line="1428" column="47" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3416F7F4-F4EC-454A-B354-95DE7423B688/dc/7da51d01/Convert.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3416F7F4-F4EC-454A-B354-95DE7423B688/18/64aac894/NumberStyles.cs" />
+      <jump line="258" column="26" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/Builders/CsodRegistrationBuilder.cs" />
+      <jump line="184" column="47" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/ObjectMothers/InstructorPayoutDetailMother.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">VGFzazxJbnN0cnVjdG9yUGF5b3V0PiBHZXRJbnN0cnVjdG9yUGF5b3V0KGludCBxdWFydGVySWQsIGludCBpbnN0cnVjdG9ySWQp</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>InstructorPayoutAlreadyCalculatedException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4cGVjdGVkSW5zdHJ1Y3RvclBheW91dCA9IEluc3RydWN0b3JQYXlvdXRNb3RoZXIuQ3JlYXRlKCkuQnVpbGQoKTsK</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">LCBjb250ZXh0ID0+IGNvbnRleHQuQXR0YWNoKGN1cnJlbmN5</text>
@@ -1035,11 +1039,11 @@
       <register name="/" type="4">
         <text>internal</text>
       </register>
-      <register name="0" type="4">
-        <text>InstructorPayoutAlreadyCalculatedException</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4cGVjdGVkSW5zdHJ1Y3RvclBheW91dCA9IEluc3RydWN0b3JQYXlvdXRNb3RoZXIuQ3JlYXRlKCkuQnVpbGQoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dGVyCiAgICAgICAgICAgICAgICAuR3JvdXBCeSh4ID0+IENvbnZlcnQuVG9JbnQ=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnN0cnVjdG9ySWQ6IDEsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1070,8 +1074,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQW1hem9uLlMzOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">dGVyCiAgICAgICAgICAgICAgICAuR3JvdXBCeSh4ID0+IENvbnZlcnQuVG9JbnQ=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
@@ -1083,16 +1087,16 @@
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQW1hem9uLlMzLk1vZGVsOwo=</text>
+        <text encoding="base64">dXNpbmcgQW1hem9uLlMzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5zdHJ1Y3Rvci1wYXlvdXQtNTkyLTFfMjUtMDMtMTktMTctNTktNDMtOTM5LnBkZgo=</text>
+        <text encoding="base64">dXNpbmcgQW1hem9uLlMzLk1vZGVsOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW5zdHJ1Y3Rvci1wYXlvdXQtNTkyLTFfMjUtMDMtMTktMTctNTktNDMtOTM5LnBkZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHQuSW5zdHJ1Y3RvclBheW91dHMuVXBkYXRlKGluc3RydWN0b3JQYXlvdXQpOwo=</text>
+        <text encoding="base64">aW5zdHJ1Y3Rvci1wYXlvdXQtNTkyLTFfMjUtMDMtMTktMTctNTktNDMtOTM5LnBkZgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1106,10 +1110,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FtYXpvblMzID0gYW1hem9uUzM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHQuSW5zdHJ1Y3RvclBheW91dHMuVXBkYXRlKGluc3RydWN0b3JQYXlvdXQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElBbWF6b25TMyBfYW1hem9uUzM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FtYXpvblMzID0gYW1hem9uUzM7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
