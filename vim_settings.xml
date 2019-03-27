@@ -58,12 +58,12 @@
         <mark key="]" line="3" column="38" />
         <mark key="." line="3" column="38" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1553686267745">
-        <mark key="'" line="51" column="63" />
-        <mark key="[" line="46" column="86" />
-        <mark key="]" line="46" column="86" />
-        <mark key="^" line="46" column="86" />
-        <mark key="." line="46" column="86" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1553692082042">
+        <mark key="'" line="54" column="63" />
+        <mark key="[" line="36" column="65" />
+        <mark key="]" line="36" column="79" />
+        <mark key="^" line="36" column="79" />
+        <mark key="." line="36" column="79" />
       </file>
       <file name="C:/projects/accounting2/Accounting/Web/API/test/Accounting.Api.IntegrationTests/appsettings.Local.json" timestamp="1553094744099">
         <mark key="[" line="23" column="0" />
@@ -123,12 +123,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC94F7E4-3163-4768-AD5C-8901EC225467/f0/6fb3ef6f/AWS4PreSignedUrlSigner.cs" timestamp="1553685294759">
         <mark key="'" line="88" column="38" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" timestamp="1553691122925">
-        <mark key="'" line="50" column="81" />
-        <mark key="[" line="129" column="92" />
-        <mark key="]" line="129" column="92" />
-        <mark key="." line="129" column="92" />
-        <mark key="^" line="129" column="73" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" timestamp="1553692029088">
+        <mark key="'" line="130" column="47" />
+        <mark key="[" line="130" column="94" />
+        <mark key="]" line="130" column="119" />
+        <mark key="." line="130" column="119" />
+        <mark key="^" line="130" column="119" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC94F7E4-3163-4768-AD5C-8901EC225467/5b/445b506d/AmazonServiceClient.cs" timestamp="1553683894057">
         <mark key="'" line="403" column="38" />
@@ -309,9 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="49" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
-      <jump line="195" column="36" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/Builders/InstructorPayoutBuilder.cs" />
       <jump line="221" column="28" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="222" column="21" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="263" column="40" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
@@ -409,13 +406,16 @@
       <jump line="38" column="88" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" />
       <jump line="115" column="51" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" />
       <jump line="44" column="81" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" />
+      <jump line="129" column="47" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6B202FC-1A2C-4CA3-A4A8-B1499F63D564/6d/236d4e88/ITransferUtility.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dUcmFjZShsYW1iZGFDb250ZXh0LCAiRU5EIEdldENvdXJzZSIpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, currentDate</text>
+        <text>InstructorPayoutHttpService</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -966,13 +966,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, currentDate</text>
+        <text>InstructorPayoutHttpService</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
-      <register name="0" type="4">
-        <text>_dateTime.UtcNow</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkPE1vY2s8SUluc3RydWN0b3JQYXlvdXRIdHRwU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNjb3BlZChzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJSW5zdHJ1Y3RvclBheW91dEh0dHBTZXJ2aWNlPj4oKS5PYmplY3QpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -1036,7 +1036,7 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1089,9 +1089,9 @@
         <entry>reg</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
