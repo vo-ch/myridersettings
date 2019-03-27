@@ -123,12 +123,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC94F7E4-3163-4768-AD5C-8901EC225467/f0/6fb3ef6f/AWS4PreSignedUrlSigner.cs" timestamp="1553685294759">
         <mark key="'" line="88" column="38" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" timestamp="1553686645216">
-        <mark key="'" line="115" column="51" />
-        <mark key="[" line="102" column="52" />
-        <mark key="]" line="102" column="61" />
-        <mark key="^" line="102" column="61" />
-        <mark key="." line="102" column="61" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" timestamp="1553689057148">
+        <mark key="'" line="46" column="81" />
+        <mark key="[" line="34" column="16" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DC94F7E4-3163-4768-AD5C-8901EC225467/5b/445b506d/AmazonServiceClient.cs" timestamp="1553683894057">
         <mark key="'" line="403" column="38" />
@@ -309,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="46" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="226" column="49" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="195" column="36" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/Builders/InstructorPayoutBuilder.cs" />
@@ -409,13 +408,14 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/InstructorPayoutService.cs" />
       <jump line="38" column="88" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" />
       <jump line="115" column="51" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" />
+      <jump line="44" column="81" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dUcmFjZShsYW1iZGFDb250ZXh0LCAiRU5EIEdldENvdXJzZSIpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s3TransferUtility</text>
+        <text>ILambdaContext</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -966,13 +966,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s3TransferUtility</text>
+        <text>ILambdaContext</text>
       </register>
       <register name="/" type="4">
         <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKHMzVHJhbnNmZXJVdGlsaXR5LCBuYW1lb2YoczNUcmFuc2ZlclV0aWxpdHkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2RhdGVUaW1lTW9jayA9IFNlcnZpY2VQcm92aWRlci5HZXRSZXF1aXJlZFNlcnZpY2U8SUxhbWJkYUNvbnRleHQ+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGZpbGVOYW1lID0KICAgICAgICAgICAgICAgICQiaW5zdHJ1Y3Rvci1wYXlvdXQte2lucHV0RGF0YS5JbnN0cnVjdG9ySWR9LXtpbnB1dERhdGEuUXVhcnRlcklkfV97RGF0ZVRpbWUuVXRjTm93OmRkLU1NLXl5LUhILW1tLXNzLWZmZn0ucGRmIjsK</text>
