@@ -73,8 +73,8 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" timestamp="1553892512752">
-        <mark key="'" line="278" column="26" />
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" timestamp="1553894609979">
+        <mark key="'" line="281" column="32" />
         <mark key="[" line="278" column="26" />
         <mark key="]" line="278" column="70" />
         <mark key="^" line="278" column="72" />
@@ -103,6 +103,10 @@
         <mark key="[" line="8" column="53" />
         <mark key="]" line="8" column="71" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Middlewares/CyberUExceptionMiddlewareTests.cs" timestamp="1553894291129">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="65" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/IPdfService.cs" timestamp="1553781474263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -110,7 +114,7 @@
         <mark key="^" line="8" column="92" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553892888616">
-        <mark key="'" line="49" column="40" />
+        <mark key="'" line="54" column="40" />
         <mark key="[" line="45" column="17" />
         <mark key="]" line="45" column="17" />
         <mark key="^" line="33" column="41" />
@@ -132,6 +136,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="60" column="70" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/HttpContextBuilder.cs" timestamp="1553894260237">
+        <mark key="'" line="7" column="23" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Extensions/PdfServiceExtensions.cs" timestamp="1553880048682">
         <mark key="'" line="32" column="38" />
@@ -276,6 +283,9 @@
         <mark key="^" line="75" column="39" />
         <mark key="." line="75" column="39" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/HttpContextMother.cs" timestamp="1553894269527">
+        <mark key="'" line="4" column="23" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetailReport/ListInstructorPayoutDetailQueryResult.cs" timestamp="1553774750917">
         <mark key="[" line="8" column="41" />
         <mark key="]" line="8" column="40" />
@@ -347,8 +357,10 @@
         <mark key="^" line="258" column="151" />
         <mark key="." line="258" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553888747363">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1553895045032">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/FunctionTest.cs" timestamp="1553876307414">
         <mark key="'" line="39" column="22" />
@@ -356,6 +368,9 @@
         <mark key="]" line="109" column="0" />
         <mark key="^" line="95" column="46" />
         <mark key="." line="109" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1553894616424">
+        <mark key="'" line="32" column="24" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQueryHandler.cs" timestamp="1553785515557">
         <mark key="[" line="75" column="68" />
@@ -455,12 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQuery.cs" />
-      <jump line="38" column="16" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQueryHandler.cs" />
-      <jump line="232" column="8" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
-      <jump line="245" column="23" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
-      <jump line="39" column="75" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQueryHandler.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.PdfGenerator/Implementations/DinkToPdfGenerator.cs" />
       <jump line="64" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
       <jump line="247" column="85" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
       <jump line="3" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
@@ -555,13 +564,19 @@
       <jump line="16" column="39" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Templating/Implementations/RazorTemplateService.cs" />
       <jump line="54" column="40" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
+      <jump line="7" column="23" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/HttpContextBuilder.cs" />
+      <jump line="4" column="23" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/HttpContextMother.cs" />
+      <jump line="295" column="36" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="31" column="50" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
+      <jump line="281" column="32" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="32" column="24" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>AddAccountingServices</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gSHR0cENvbnRleHRNb3RoZXIuQ3JlYXRlKCkuQnVpbGQoKTsK</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -593,8 +608,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxfdGVtcGxhdGVTZXJ2aWNlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>InstructorPayoutDetailControllerTests</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gSHR0cENvbnRleHRNb3RoZXIuQ3JlYXRlKCkuQnVpbGQoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBGb290ZXJTZXR0aW5ncwogICAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAgICAgRm9udE5hbWUgPSAiTXVzZW9TYW5zLTkwMCIsCi8vICAgICAgICAgICAgICAgICAgICBIdG1VcmwgPSAkIntfaHR0cENvbnRleHRBY2Nlc3Nvci5IdHRwQ29udGV4dC5SZXF1ZXN0LlNjaGVtZX06Ly97X2h0dHBDb250ZXh0QWNjZXNzb3IuSHR0cENvbnRleHQuUmVxdWVzdC5Ib3N0fS97SW5zdHJ1Y3RvclBheW91dFJlcG9ydEZvb3Rlckh0bWxQYXRofSIKICAgICAgICAgICAgICAgIH0K</text>
