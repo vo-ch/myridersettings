@@ -73,12 +73,12 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" timestamp="1553880665297">
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" timestamp="1553880679255">
         <mark key="'" line="292" column="46" />
         <mark key="[" line="278" column="71" />
-        <mark key="]" line="278" column="72" />
+        <mark key="]" line="278" column="71" />
         <mark key="^" line="278" column="72" />
-        <mark key="." line="278" column="72" />
+        <mark key="." line="278" column="71" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/Data/AccountingRepositoryTests.cs" timestamp="1553879680894">
         <mark key="[" line="10" column="25" />
@@ -115,6 +115,9 @@
         <mark key="]" line="33" column="51" />
         <mark key="." line="33" column="55" />
         <mark key="^" line="33" column="41" />
+      </file>
+      <file name="/quarters [payments@localhost]" timestamp="1553880759265">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/Services/InstructorPayoutServiceTests.cs" timestamp="1553879511776">
         <mark key="'" line="204" column="103" />
@@ -229,7 +232,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="42" column="18" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Assembly/CustomAssemblyLoadContext.cs" timestamp="1553880060631" />
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/DependencyInjection/AccountingServiceExtensionsTests.cs" timestamp="1553879427148">
         <mark key="'" line="84" column="111" />
         <mark key="[" line="89" column="0" />
@@ -554,7 +556,7 @@
         <text>AddAccountingServices</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">QGxhYmVsV29yZHNbMF0gQGxhYmVsV29yZHNbMV0g</text>
+        <text>2</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -581,7 +583,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QGxhYmVsV29yZHNbMF0gQGxhYmVsV29yZHNbMV0g</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>AddAuthService</text>
@@ -650,7 +652,7 @@
       <last-replace>AddAccountingServices</last-replace>
       <last-substitute>AddAuthService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
