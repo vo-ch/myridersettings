@@ -73,10 +73,10 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" timestamp="1553888614350">
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" timestamp="1553892512752">
         <mark key="'" line="278" column="26" />
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="53" />
+        <mark key="[" line="278" column="26" />
+        <mark key="]" line="278" column="70" />
         <mark key="^" line="278" column="72" />
         <mark key="." line="278" column="71" />
       </file>
@@ -109,12 +109,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="92" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553889566869">
-        <mark key="'" line="54" column="40" />
-        <mark key="[" line="33" column="51" />
-        <mark key="]" line="33" column="51" />
-        <mark key="." line="33" column="55" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553892888616">
+        <mark key="'" line="49" column="40" />
+        <mark key="[" line="45" column="17" />
+        <mark key="]" line="45" column="17" />
         <mark key="^" line="33" column="41" />
+        <mark key="." line="45" column="17" />
       </file>
       <file name="/quarters [payments@localhost]" timestamp="1553880759265">
         <mark key="[" line="0" column="0" />
@@ -560,8 +560,8 @@
       <register name="a" type="4">
         <text>AddAccountingServices</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -588,7 +588,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfdGVtcGxhdGVTZXJ2aWNlXD4=</text>
@@ -597,34 +597,34 @@
         <text>InstructorPayoutDetailControllerTests</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBGb290ZXJTZXR0aW5ncwogICAgICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAgICAgRm9udE5hbWUgPSAiTXVzZW9TYW5zLTkwMCIsCi8vICAgICAgICAgICAgICAgICAgICBIdG1VcmwgPSAkIntfaHR0cENvbnRleHRBY2Nlc3Nvci5IdHRwQ29udGV4dC5SZXF1ZXN0LlNjaGVtZX06Ly97X2h0dHBDb250ZXh0QWNjZXNzb3IuSHR0cENvbnRleHQuUmVxdWVzdC5Ib3N0fS97SW5zdHJ1Y3RvclBheW91dFJlcG9ydEZvb3Rlckh0bWxQYXRofSIKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>df.!~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRleHQgPSBuZXcgQ3VzdG9tQXNzZW1ibHlMb2FkQ29udGV4dCgpOwogICAgICAgICAgICBjb250ZXh0LkxvYWRVbm1hbmFnZWRMaWJyYXJ5KFBhdGguQ29tYmluZShEaXJlY3RvcnkuR2V0Q3VycmVudERpcmVjdG9yeSgpLCAibGlid2todG1sdG94LmRsbCIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gbmV3IExpc3RJbnN0cnVjdG9yUGF5b3V0RGV0YWlsUXVlcnkoCiAgICAgICAgICAgICAgICBtb2RlbC5JbnN0cnVjdG9ySWQsCiAgICAgICAgICAgICAgICBtb2RlbC5RdWFydGVySWQsCiAgICAgICAgICAgICAgICBtb2RlbC5QYWdlTnVtYmVyLAogICAgICAgICAgICAgICAgbW9kZWwuUGFnZVNpemUsCiAgICAgICAgICAgICAgICBtb2RlbC5Tb3J0QnksCiAgICAgICAgICAgICAgICBtb2RlbC5Tb3J0T3JkZXIsCiAgICAgICAgICAgICAgICBtb2RlbC5FeHBvcnQpOwoKICAgICAgICAgICAgYXdhaXQgX3Byb2Nlc3Nvci5FeGVjdXRlUXVlcnkocXVlcnksIHRva2VuKTsKCiAgICAgICAgICAgIGlmIChtb2RlbC5FeHBvcnQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGJ5dGVbXSBwZGZDb250ZW50ID0gYXdhaXQgX3BkZlNlcnZpY2UuQ3JlYXRlSW5zdHJ1Y3RvclBheW91dFJlcG9ydChxdWVyeS5SZXN1bHQpOwogICAgICAgICAgICAgICAgcmV0dXJuIEZpbGUocGRmQ29udGVudCwgTWVkaWFUeXBlTmFtZXMuQXBwbGljYXRpb24uUGRmLCAiaW5zdHJ1Y3Rvci1leHBvcnQucGRmIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTGlzdEluc3RydWN0b3JQYXlvdXREZXRhaWxSZXNwb25zZS5Gcm9tKHF1ZXJ5LlJlc3VsdCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRleHQgPSBuZXcgQ3VzdG9tQXNzZW1ibHlMb2FkQ29udGV4dCgpOwogICAgICAgICAgICBjb250ZXh0LkxvYWRVbm1hbmFnZWRMaWJyYXJ5KFBhdGguQ29tYmluZShEaXJlY3RvcnkuR2V0Q3VycmVudERpcmVjdG9yeSgpLCAibGlid2todG1sdG94LmRsbCIpKTsK</text>
       </register>
       <register name="s" type="4">
         <text>pdfkit_page_count</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gbmV3IExpc3RJbnN0cnVjdG9yUGF5b3V0RGV0YWlsUXVlcnkoCiAgICAgICAgICAgICAgICBtb2RlbC5JbnN0cnVjdG9ySWQsCiAgICAgICAgICAgICAgICBtb2RlbC5RdWFydGVySWQsCiAgICAgICAgICAgICAgICBtb2RlbC5QYWdlTnVtYmVyLAogICAgICAgICAgICAgICAgbW9kZWwuUGFnZVNpemUsCiAgICAgICAgICAgICAgICBtb2RlbC5Tb3J0QnksCiAgICAgICAgICAgICAgICBtb2RlbC5Tb3J0T3JkZXIsCiAgICAgICAgICAgICAgICBtb2RlbC5FeHBvcnQpOwoKICAgICAgICAgICAgYXdhaXQgX3Byb2Nlc3Nvci5FeGVjdXRlUXVlcnkocXVlcnksIHRva2VuKTsKCiAgICAgICAgICAgIGlmIChtb2RlbC5FeHBvcnQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGJ5dGVbXSBwZGZDb250ZW50ID0gYXdhaXQgX3BkZlNlcnZpY2UuQ3JlYXRlSW5zdHJ1Y3RvclBheW91dFJlcG9ydChxdWVyeS5SZXN1bHQpOwogICAgICAgICAgICAgICAgcmV0dXJuIEZpbGUocGRmQ29udGVudCwgTWVkaWFUeXBlTmFtZXMuQXBwbGljYXRpb24uUGRmLCAiaW5zdHJ1Y3Rvci1leHBvcnQucGRmIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTGlzdEluc3RydWN0b3JQYXlvdXREZXRhaWxSZXNwb25zZS5Gcm9tKHF1ZXJ5LlJlc3VsdCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5JbnN0cnVjdG9yUGF5b3V0UmVwb3J0R2VuZXJhdG9yLlNlcnZpY2VzOwp1c2luZyBBY2NvdW50aW5nLkluc3RydWN0b3JQYXlvdXRSZXBvcnRHZW5lcmF0b3IuU2VydmljZXMuSHR0cC5BY2NvdW50aW5nOwp1c2luZyBBbWF6b24uTGFtYmRhLkNvcmU7CnVzaW5nIE1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlOwp1c2luZyBNb3E7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5JbnN0cnVjdG9yUGF5b3V0UmVwb3J0R2VuZXJhdG9yLlNlcnZpY2VzOwp1c2luZyBBY2NvdW50aW5nLkluc3RydWN0b3JQYXlvdXRSZXBvcnRHZW5lcmF0b3IuU2VydmljZXMuSHR0cC5BY2NvdW50aW5nOwp1c2luZyBBbWF6b24uTGFtYmRhLkNvcmU7CnVzaW5nIE1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlOwp1c2luZyBNb3E7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWNjb3VudGluZ1JlcG9zaXRvcnlUZXN0cygpCiAgICAgICAgewogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -638,16 +638,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHRNb2NrID0gbmV3IE1vY2s8QWNjb3VudGluZ0RiQ29udGV4dD4oCiAgICAgICAgICAgICAgICBuZXcgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8QWNjb3VudGluZ0RiQ29udGV4dD4oKS5PcHRpb25zKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWNjb3VudGluZ1JlcG9zaXRvcnlUZXN0cygpCiAgICAgICAgewogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHRNb2NrID0gbmV3IE1vY2s8QWNjb3VudGluZ0RiQ29udGV4dD4oCiAgICAgICAgICAgICAgICBuZXcgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8QWNjb3VudGluZ0RiQ29udGV4dD4oKS5PcHRpb25zKTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/AddAuthService/AddAccountingServices/g</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -698,11 +698,11 @@
         <entry>%s/$ASSETS_CF/https://d2ujqwp3hb8j8i.cloudfront.net</entry>
         <entry>%s/$ASSETS_CF/https:\/\/d2ujqwp3hb8j8i.cloudfront.net/g</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
         <entry>%s/AddAuthService/AddAccountingServices/g</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
