@@ -109,8 +109,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="92" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553889159420">
-        <mark key="'" line="59" column="56" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553889566869">
+        <mark key="'" line="54" column="40" />
         <mark key="[" line="33" column="51" />
         <mark key="]" line="33" column="51" />
         <mark key="." line="33" column="55" />
@@ -452,9 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="71" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailM2mController.cs" />
-      <jump line="49" column="69" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailM2mController.cs" />
-      <jump line="39" column="47" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailController.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQuery.cs" />
       <jump line="38" column="16" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQueryHandler.cs" />
       <jump line="232" column="8" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
@@ -549,9 +546,12 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
       <jump line="278" column="26" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
       <jump line="13" column="29" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
-      <jump line="35" column="26" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
-      <jump line="59" column="56" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Templating/Contracts/ITemplateService.cs" />
+      <jump line="35" column="26" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
+      <jump line="59" column="35" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
+      <jump line="16" column="39" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Templating/Implementations/RazorTemplateService.cs" />
+      <jump line="54" column="40" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -588,7 +588,7 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbnN0cnVjdG9yUGF5b3V0UmVwb3J0VGVtcGxhdGVQYXRoXD4=</text>
+        <text encoding="base64">XDxfdGVtcGxhdGVTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>InstructorPayoutDetailControllerTests</text>
@@ -648,9 +648,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbnN0cnVjdG9yUGF5b3V0UmVwb3J0VGVtcGxhdGVQYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxfdGVtcGxhdGVTZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbnN0cnVjdG9yUGF5b3V0UmVwb3J0VGVtcGxhdGVQYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfdGVtcGxhdGVTZXJ2aWNlXD4=</last-pattern>
       <last-replace>AddAccountingServices</last-replace>
       <last-substitute>AddAuthService</last-substitute>
       <last-dir>1</last-dir>
@@ -658,7 +658,6 @@
     </search>
     <history>
       <history-search>
-        <entry>s3</entry>
         <entry>internal</entry>
         <entry>url</entry>
         <entry>\#\{threeCDNFonts\}</entry>
@@ -678,6 +677,7 @@
         <entry encoding="base64">XDxhdXRoQmFzZVVybFw+</entry>
         <entry>AddAuthService</entry>
         <entry encoding="base64">XDxJbnN0cnVjdG9yUGF5b3V0UmVwb3J0VGVtcGxhdGVQYXRoXD4=</entry>
+        <entry encoding="base64">XDxfdGVtcGxhdGVTZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>let @a</entry>
