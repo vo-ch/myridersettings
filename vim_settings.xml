@@ -73,10 +73,10 @@
         <mark key="^" line="6" column="49" />
         <mark key="." line="6" column="49" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" timestamp="1553880679255">
-        <mark key="'" line="292" column="46" />
-        <mark key="[" line="278" column="71" />
-        <mark key="]" line="278" column="71" />
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" timestamp="1553888614350">
+        <mark key="'" line="278" column="26" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="53" />
         <mark key="^" line="278" column="72" />
         <mark key="." line="278" column="71" />
       </file>
@@ -109,8 +109,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="92" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553875230032">
-        <mark key="'" line="49" column="61" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553889159420">
+        <mark key="'" line="59" column="56" />
         <mark key="[" line="33" column="51" />
         <mark key="]" line="33" column="51" />
         <mark key="." line="33" column="55" />
@@ -347,6 +347,9 @@
         <mark key="^" line="258" column="151" />
         <mark key="." line="258" column="43" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553888747363">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/FunctionTest.cs" timestamp="1553876307414">
         <mark key="'" line="39" column="22" />
         <mark key="[" line="109" column="0" />
@@ -425,11 +428,10 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1553880018447">
-        <mark key="[" line="91" column="108" />
-        <mark key="]" line="92" column="11" />
-        <mark key="^" line="92" column="11" />
-        <mark key="." line="92" column="11" />
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1553888774556">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.Local.json" timestamp="1553532121494">
         <mark key="[" line="16" column="0" />
@@ -450,12 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="55" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Services/Lms/LmsService.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Function.cs" />
-      <jump line="39" column="45" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailM2mController.cs" />
-      <jump line="76" column="22" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetailReport/ListInstructorPayoutDetailReportQueryHandler.cs" />
-      <jump line="10" column="27" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetailReport/ListInstructorPayoutDetailReportQueryResult.cs" />
-      <jump line="75" column="22" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetailReport/ListInstructorPayoutDetailReportQueryHandler.cs" />
       <jump line="50" column="71" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailM2mController.cs" />
       <jump line="49" column="69" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailM2mController.cs" />
       <jump line="39" column="47" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailController.cs" />
@@ -550,13 +546,19 @@
       <jump line="292" column="46" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
       <jump line="244" column="13" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="278" column="26" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="13" column="29" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
+      <jump line="35" column="26" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
+      <jump line="59" column="56" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Templating/Contracts/ITemplateService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>AddAccountingServices</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -586,40 +588,40 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>AddAuthService</text>
+        <text encoding="base64">XDxJbnN0cnVjdG9yUGF5b3V0UmVwb3J0VGVtcGxhdGVQYXRoXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>labelWords</text>
+        <text>InstructorPayoutDetailControllerTests</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gbmV3IExpc3RJbnN0cnVjdG9yUGF5b3V0RGV0YWlsUXVlcnkoCiAgICAgICAgICAgICAgICBtb2RlbC5JbnN0cnVjdG9ySWQsCiAgICAgICAgICAgICAgICBtb2RlbC5RdWFydGVySWQsCiAgICAgICAgICAgICAgICBtb2RlbC5QYWdlTnVtYmVyLAogICAgICAgICAgICAgICAgbW9kZWwuUGFnZVNpemUsCiAgICAgICAgICAgICAgICBtb2RlbC5Tb3J0QnksCiAgICAgICAgICAgICAgICBtb2RlbC5Tb3J0T3JkZXIsCiAgICAgICAgICAgICAgICBtb2RlbC5FeHBvcnQpOwoKICAgICAgICAgICAgYXdhaXQgX3Byb2Nlc3Nvci5FeGVjdXRlUXVlcnkocXVlcnksIHRva2VuKTsKCiAgICAgICAgICAgIGlmIChtb2RlbC5FeHBvcnQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGJ5dGVbXSBwZGZDb250ZW50ID0gYXdhaXQgX3BkZlNlcnZpY2UuQ3JlYXRlSW5zdHJ1Y3RvclBheW91dFJlcG9ydChxdWVyeS5SZXN1bHQpOwogICAgICAgICAgICAgICAgcmV0dXJuIEZpbGUocGRmQ29udGVudCwgTWVkaWFUeXBlTmFtZXMuQXBwbGljYXRpb24uUGRmLCAiaW5zdHJ1Y3Rvci1leHBvcnQucGRmIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTGlzdEluc3RydWN0b3JQYXlvdXREZXRhaWxSZXNwb25zZS5Gcm9tKHF1ZXJ5LlJlc3VsdCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>df.!~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbnRleHQgPSBuZXcgQ3VzdG9tQXNzZW1ibHlMb2FkQ29udGV4dCgpOwogICAgICAgICAgICBjb250ZXh0LkxvYWRVbm1hbmFnZWRMaWJyYXJ5KFBhdGguQ29tYmluZShEaXJlY3RvcnkuR2V0Q3VycmVudERpcmVjdG9yeSgpLCAibGlid2todG1sdG94LmRsbCIpKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5JbnN0cnVjdG9yUGF5b3V0UmVwb3J0R2VuZXJhdG9yLlNlcnZpY2VzOwp1c2luZyBBY2NvdW50aW5nLkluc3RydWN0b3JQYXlvdXRSZXBvcnRHZW5lcmF0b3IuU2VydmljZXMuSHR0cC5BY2NvdW50aW5nOwp1c2luZyBBbWF6b24uTGFtYmRhLkNvcmU7CnVzaW5nIE1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlOwp1c2luZyBNb3E7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gbmV3IExpc3RJbnN0cnVjdG9yUGF5b3V0RGV0YWlsUXVlcnkoCiAgICAgICAgICAgICAgICBtb2RlbC5JbnN0cnVjdG9ySWQsCiAgICAgICAgICAgICAgICBtb2RlbC5RdWFydGVySWQsCiAgICAgICAgICAgICAgICBtb2RlbC5QYWdlTnVtYmVyLAogICAgICAgICAgICAgICAgbW9kZWwuUGFnZVNpemUsCiAgICAgICAgICAgICAgICBtb2RlbC5Tb3J0QnksCiAgICAgICAgICAgICAgICBtb2RlbC5Tb3J0T3JkZXIsCiAgICAgICAgICAgICAgICBtb2RlbC5FeHBvcnQpOwoKICAgICAgICAgICAgYXdhaXQgX3Byb2Nlc3Nvci5FeGVjdXRlUXVlcnkocXVlcnksIHRva2VuKTsKCiAgICAgICAgICAgIGlmIChtb2RlbC5FeHBvcnQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGJ5dGVbXSBwZGZDb250ZW50ID0gYXdhaXQgX3BkZlNlcnZpY2UuQ3JlYXRlSW5zdHJ1Y3RvclBheW91dFJlcG9ydChxdWVyeS5SZXN1bHQpOwogICAgICAgICAgICAgICAgcmV0dXJuIEZpbGUocGRmQ29udGVudCwgTWVkaWFUeXBlTmFtZXMuQXBwbGljYXRpb24uUGRmLCAiaW5zdHJ1Y3Rvci1leHBvcnQucGRmIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gTGlzdEluc3RydWN0b3JQYXlvdXREZXRhaWxSZXNwb25zZS5Gcm9tKHF1ZXJ5LlJlc3VsdCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>pdfkit_page_count</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWNjb3VudGluZ1JlcG9zaXRvcnlUZXN0cygpCiAgICAgICAgewogICAgICAgIH0K</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5JbnN0cnVjdG9yUGF5b3V0UmVwb3J0R2VuZXJhdG9yLlNlcnZpY2VzOwp1c2luZyBBY2NvdW50aW5nLkluc3RydWN0b3JQYXlvdXRSZXBvcnRHZW5lcmF0b3IuU2VydmljZXMuSHR0cC5BY2NvdW50aW5nOwp1c2luZyBBbWF6b24uTGFtYmRhLkNvcmU7CnVzaW5nIE1pY3Jvc29mdC5FbnRpdHlGcmFtZXdvcmtDb3JlOwp1c2luZyBNb3E7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHRNb2NrID0gbmV3IE1vY2s8QWNjb3VudGluZ0RiQ29udGV4dD4oCiAgICAgICAgICAgICAgICBuZXcgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8QWNjb3VudGluZ0RiQ29udGV4dD4oKS5PcHRpb25zKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWNjb3VudGluZ1JlcG9zaXRvcnlUZXN0cygpCiAgICAgICAgewogICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -633,10 +635,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IE1vY2s8QWNjb3VudGluZ0RiQ29udGV4dD4gX2FjY291bnRpbmdEYkNvbnRleHRNb2NrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FjY291bnRpbmdEYkNvbnRleHRNb2NrID0gbmV3IE1vY2s8QWNjb3VudGluZ0RiQ29udGV4dD4oCiAgICAgICAgICAgICAgICBuZXcgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8QWNjb3VudGluZ0RiQ29udGV4dD4oKS5PcHRpb25zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IE1vY2s8PiBfbGFtYmRhTG9nZ2VyTW9jazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
@@ -646,17 +648,16 @@
       </register>
     </registers>
     <search>
-      <last-search>AddAuthService</last-search>
+      <last-search encoding="base64">XDxJbnN0cnVjdG9yUGF5b3V0UmVwb3J0VGVtcGxhdGVQYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern>AddAuthService</last-pattern>
+      <last-pattern encoding="base64">XDxJbnN0cnVjdG9yUGF5b3V0UmVwb3J0VGVtcGxhdGVQYXRoXD4=</last-pattern>
       <last-replace>AddAccountingServices</last-replace>
       <last-substitute>AddAuthService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>timestamp without time zone</entry>
         <entry>s3</entry>
         <entry>internal</entry>
         <entry>url</entry>
@@ -676,6 +677,7 @@
         <entry encoding="base64">XDx0b3RhbHNcPg==</entry>
         <entry encoding="base64">XDxhdXRoQmFzZVVybFw+</entry>
         <entry>AddAuthService</entry>
+        <entry encoding="base64">XDxJbnN0cnVjdG9yUGF5b3V0UmVwb3J0VGVtcGxhdGVQYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>let @a</entry>
