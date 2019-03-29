@@ -340,12 +340,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" timestamp="1553880612624">
-        <mark key="'" line="245" column="12" />
-        <mark key="[" line="244" column="4" />
-        <mark key="]" line="244" column="13" />
-        <mark key="^" line="244" column="13" />
-        <mark key="." line="244" column="13" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" timestamp="1553886962563">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="258" column="43" />
+        <mark key="]" line="258" column="43" />
+        <mark key="^" line="258" column="151" />
+        <mark key="." line="258" column="43" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/FunctionTest.cs" timestamp="1553876307414">
         <mark key="'" line="39" column="22" />
@@ -450,8 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="20" filename="C:/projects/UI-Web/ClientApp/themes/three/styles/text/fonts.scss" />
-      <jump line="106" column="12" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport_Mock.html" />
       <jump line="48" column="55" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Services/Lms/LmsService.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Function.cs" />
       <jump line="39" column="45" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailM2mController.cs" />
@@ -550,13 +548,15 @@
       <jump line="83" column="111" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/DependencyInjection/AccountingServiceExtensionsTests.cs" />
       <jump line="32" column="38" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Extensions/PdfServiceExtensions.cs" />
       <jump line="292" column="46" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="244" column="13" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>AddAccountingServices</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>?</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -583,7 +583,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>AddAuthService</text>
