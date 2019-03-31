@@ -116,12 +116,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="92" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1554039072206">
-        <mark key="'" line="55" column="40" />
-        <mark key="[" line="50" column="64" />
-        <mark key="]" line="50" column="64" />
-        <mark key="^" line="50" column="62" />
-        <mark key="." line="50" column="64" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1554039992334">
+        <mark key="'" line="50" column="62" />
+        <mark key="[" line="15" column="72" />
+        <mark key="]" line="15" column="149" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="/quarters [payments@localhost]" timestamp="1553880759265">
         <mark key="[" line="0" column="0" />
@@ -388,6 +388,9 @@
         <mark key="^" line="95" column="46" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="/C# Console" timestamp="1554039666990">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1553982894307">
         <mark key="'" line="17" column="23" />
         <mark key="[" line="90" column="23" />
@@ -506,7 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Function.cs" />
       <jump line="31" column="15" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Function.cs" />
       <jump line="29" column="89" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/Services/InstructorPayoutServiceTests.cs" />
       <jump line="18" column="65" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/Services/InstructorPayoutServiceTests.cs" />
@@ -606,13 +608,14 @@
       <jump line="38" column="51" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
       <jump line="17" column="23" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
       <jump line="281" column="26" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="50" column="62" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>AddAccountingServices</text>
       </register>
       <register name="&quot;" type="4">
-        <text>://{_httpContextAccessor.HttpContext.Request.Host}/{InstructorPayoutReportFooterHtmlPath}</text>
+        <text>Path.Combine(&quot;Services&quot;,&quot;Pdf&quot;,&quot;Templates&quot;,&quot;InstructorPayoutReportFooter.html&quot;)</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -639,13 +642,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>://{_httpContextAccessor.HttpContext.Request.Host}/{InstructorPayoutReportFooterHtmlPath}</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="4">
-        <text>InstructorPayoutReport</text>
+        <text>Path.Combine(&quot;Services&quot;,&quot;Pdf&quot;,&quot;Templates&quot;,&quot;InstructorPayoutReportFooter.html&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
