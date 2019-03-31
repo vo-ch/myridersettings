@@ -116,12 +116,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="92" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1553964390563">
-        <mark key="'" line="54" column="40" />
-        <mark key="[" line="45" column="17" />
-        <mark key="]" line="45" column="17" />
-        <mark key="^" line="33" column="41" />
-        <mark key="." line="45" column="17" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1554039072206">
+        <mark key="'" line="55" column="40" />
+        <mark key="[" line="50" column="64" />
+        <mark key="]" line="50" column="64" />
+        <mark key="^" line="50" column="62" />
+        <mark key="." line="50" column="64" />
       </file>
       <file name="/quarters [payments@localhost]" timestamp="1553880759265">
         <mark key="[" line="0" column="0" />
@@ -612,7 +612,7 @@
         <text>AddAccountingServices</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;http://localhost&quot;</text>
+        <text>://{_httpContextAccessor.HttpContext.Request.Host}/{InstructorPayoutReportFooterHtmlPath}</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -639,13 +639,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://localhost&quot;</text>
+        <text>://{_httpContextAccessor.HttpContext.Request.Host}/{InstructorPayoutReportFooterHtmlPath}</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Rlc3RTZXJ2ZXIuRGlzcG9zZSgpOwo=</text>
+      <register name="0" type="4">
+        <text>InstructorPayoutReport</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
