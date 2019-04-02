@@ -199,10 +199,10 @@
         <mark key="^" line="258" column="151" />
         <mark key="." line="258" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554127927305">
+      <file name="/Dummy.txt" timestamp="1554196318571">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/FunctionTest.cs" timestamp="1553876307414">
         <mark key="'" line="39" column="22" />
@@ -248,6 +248,13 @@
       <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Startup.cs" timestamp="1553878313362">
         <mark key="'" line="26" column="29" />
       </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Readme.md" timestamp="1554196202487">
+        <mark key="'" line="55" column="29" />
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
+        <mark key="^" line="55" column="7" />
+      </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/test/Accounting.B2bRegistrationPriceSetter.Tests/FunctionTests.cs" timestamp="1553879587741">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="76" />
@@ -271,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="26" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/InstructorPayoutService.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
       <jump line="156" column="47" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/Services/InstructorPayoutServiceTests.cs" />
       <jump line="66" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/Services/InstructorPayoutServiceTests.cs" />
@@ -371,13 +377,14 @@
       <jump line="29" column="112" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/DependencyInjection/AccountingRepositoryExtensionsTests.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/DependencyInjection/AccountingRepositoryExtensions.cs" />
       <jump line="41" column="67" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Function.cs" />
+      <jump line="55" column="29" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Readme.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>AddAccountingServices</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AccountingRepositoryExtensions</text>
+        <text>integration tests added</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -404,13 +411,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>connectionString</text>
+        <text>integration tests added</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>calcu</text>
       </register>
       <register name="0" type="4">
-        <text>AccountingRepositoryExtensions</text>
+        <text>PayoutDetailsCalculator</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5Mb2dnaW5nOwo=</text>
@@ -463,23 +470,20 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>%s/PayoutDetailsCalculator/PayoutReportGenerator/g</text>
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>calcu</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
-      <last-replace>AddAccountingServices</last-replace>
-      <last-substitute>AddAuthService</last-substitute>
+      <last-pattern>calcu</last-pattern>
+      <last-replace>PayoutReportGenerator</last-replace>
+      <last-substitute>PayoutDetailsCalculator</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\#\{threeCDNFonts\}</entry>
-        <entry>#{threeCDNFonts}</entry>
-        <entry>#{$threeCDNFonts}</entry>
         <entry>$ASSETS_CF</entry>
         <entry encoding="base64">XDxiYXNlUXVlcnlcPg==</entry>
         <entry>letter</entry>
@@ -497,10 +501,11 @@
         <entry encoding="base64">XDxfdGVtcGxhdGVTZXJ2aWNlXD4=</entry>
         <entry>appset</entry>
         <entry>json</entry>
+        <entry>/PayoutDetailsCalculator/PayoutReportGenerator/g</entry>
+        <entry>PayoutDetailsCalculator</entry>
+        <entry>calcu</entry>
       </history-search>
       <history-cmd>
-        <entry>let @a</entry>
-        <entry>s/\\/\\/g</entry>
         <entry>s/\\/\\\\/g</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>%s/PaymentDbContext/PaymentsDbContext/g</entry>
@@ -519,6 +524,8 @@
         <entry>action RenameElement</entry>
         <entry>reg</entry>
         <entry>action GotoImplementation</entry>
+        <entry>s%/PayoutDetailsCalculator/PayoutReportGenerator/g</entry>
+        <entry>%s/PayoutDetailsCalculator/PayoutReportGenerator/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
