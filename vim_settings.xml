@@ -86,6 +86,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="60" column="70" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ListInstructorPayoutDetailQueryHandler.cs" timestamp="1554210211265">
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="22" column="79" />
+        <mark key="." line="22" column="79" />
+        <mark key="^" line="22" column="79" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/HttpContextBuilder.cs" timestamp="1553894260237">
         <mark key="'" line="7" column="23" />
       </file>
@@ -112,6 +118,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="21" column="18" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ListInstructorPayoutDetailQueryResult.cs" timestamp="1554210260333">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" timestamp="1553697650630">
         <mark key="'" line="130" column="67" />
@@ -401,7 +413,7 @@
         <text>AddAccountingServices</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Start</text>
+        <text>ListInstructorPayoutDetail</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -428,7 +440,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Start</text>
+        <text>ListInstructorPayoutDetail</text>
       </register>
       <register name="/" type="4">
         <text>calcu</text>
