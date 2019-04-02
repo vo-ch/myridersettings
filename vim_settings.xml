@@ -127,6 +127,13 @@
         <mark key="." line="13" column="102" />
         <mark key="^" line="13" column="102" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQuery.cs" timestamp="1554209600286">
+        <mark key="'" line="7" column="51" />
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Resources/InstructorPayoutReportContent.Designer.cs" timestamp="1553794115306">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="46" />
@@ -154,12 +161,6 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="107" column="133" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Program.cs" timestamp="1553975104997">
-        <mark key="'" line="16" column="29" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailController.cs" timestamp="1554207902505">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="18" column="42" />
@@ -173,6 +174,12 @@
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/HttpContextMother.cs" timestamp="1553894269527">
         <mark key="'" line="4" column="23" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Pagination/PaginatedQuery.cs" timestamp="1554209586150">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="21" column="40" />
+        <mark key="." line="21" column="40" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Startup.cs" timestamp="1553878529576">
         <mark key="'" line="34" column="21" />
@@ -255,6 +262,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/96EE8D1B-889D-4F26-B7BD-4CC3F07CA395/b8/c8a61f7e/WebHost.cs" timestamp="1553974192327">
         <mark key="'" line="159" column="26" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ListInstructorPayoutDetailQuery.cs" timestamp="1554209470658">
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="27" />
+        <mark key="^" line="35" column="27" />
+      </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Startup.cs" timestamp="1553878313362">
         <mark key="'" line="26" column="29" />
       </file>
@@ -269,12 +282,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="76" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1553965695115">
-        <mark key="'" line="23" column="33" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Data/IAccountingRepository.cs" timestamp="1553678419577">
         <mark key="'" line="5" column="21" />
         <mark key="[" line="7" column="0" />
@@ -288,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
       <jump line="156" column="47" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/Services/InstructorPayoutServiceTests.cs" />
       <jump line="66" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/Services/InstructorPayoutServiceTests.cs" />
       <jump line="71" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.Tests/Services/InstructorPayoutServiceTests.cs" />
@@ -388,13 +394,14 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/DependencyInjection/AccountingRepositoryExtensions.cs" />
       <jump line="41" column="67" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Function.cs" />
       <jump line="55" column="29" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Readme.md" />
+      <jump line="7" column="51" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQuery.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>AddAccountingServices</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtBcGlDb250cm9sbGVyXQogICAgW0FwaVZlcnNpb24oIjEuMCIpXQogICAgW1JvdXRlKCJ2e3ZlcnNpb246YXBpVmVyc2lvbn0vaW5zdHJ1Y3RvclBheW91dERldGFpbHMiKV0KICAgIFtBdXRob3JpemUoUG9saWN5ID0gUG9saWN5LkFkbWluT25seSldCg==</text>
+      <register name="&quot;" type="4">
+        <text>Start</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -421,43 +428,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>integration tests added</text>
+        <text>Start</text>
       </register>
       <register name="/" type="4">
         <text>calcu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtBcGlDb250cm9sbGVyXQogICAgW0FwaVZlcnNpb24oIjEuMCIpXQogICAgW1JvdXRlKCJ2e3ZlcnNpb246YXBpVmVyc2lvbn0vaW5zdHJ1Y3RvclBheW91dERldGFpbHMiKV0KICAgIFtBdXRob3JpemUoUG9saWN5ID0gUG9saWN5LkFkbWluT25seSldCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWU/IFN0YXJ0RGF0ZSB7IGdldDsgcHJpdmF0ZSBzZXQ7IH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEluc3RydWN0b3JJZCB7IGdldDsgcHJpdmF0ZSBzZXQ7IH0K</text>
       </register>
       <register name="q" type="4">
         <text>df.!~</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5Mb2dnaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5zdHJ1Y3RvcklkID0gaW5zdHJ1Y3RvcklkOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcgPSBuZXcgTnBnc3FsQ29ubmVjdGlvblN0cmluZ0J1aWxkZXIoKS5Db25uZWN0aW9uU3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluc3RydWN0b3JJZCwK</text>
       </register>
       <register name="s" type="4">
         <text>pdfkit_page_count</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcgPSAiIjsK</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5Mb2dnaW5nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcgPSBuZXcgTnBnc3FsQ29ubmVjdGlvblN0cmluZ0J1aWxkZXIoKS5Db25uZWN0aW9uU3RyaW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcgPSAiIjsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -471,10 +478,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvbm5lY3Rpb25TdHJpbmcgPSAiIjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29udGVudCBVcGRhdGU9Ind3d3Jvb3RcKipcKiI+CiAgICAgICAgICAgIDxDb3B5VG9PdXRwdXREaXJlY3Rvcnk+QWx3YXlzPC9Db3B5VG9PdXRwdXREaXJlY3Rvcnk+CiAgICAgICAgPC9Db250ZW50PgogICAgICAgIDxDb250ZW50IFVwZGF0ZT0iYXBwc2V0dGluZ3MuanNvbiI+CiAgICAgICAgICA8Q29weVRvUHVibGlzaERpcmVjdG9yeT5QcmVzZXJ2ZU5ld2VzdDwvQ29weVRvUHVibGlzaERpcmVjdG9yeT4KICAgICAgICAgIDxDb3B5VG9PdXRwdXREaXJlY3Rvcnk+QWx3YXlzPC9Db3B5VG9PdXRwdXREaXJlY3Rvcnk+CiAgICAgICAgPC9Db250ZW50PgogICAgICAgIDxDb250ZW50IFVwZGF0ZT0iYXBwc2V0dGluZ3MuTG9jYWwuanNvbiI+CiAgICAgICAgICA8Q29weVRvUHVibGlzaERpcmVjdG9yeT5QcmVzZXJ2ZU5ld2VzdDwvQ29weVRvUHVibGlzaERpcmVjdG9yeT4KICAgICAgICAgIDxDb3B5VG9PdXRwdXREaXJlY3Rvcnk+QWx3YXlzPC9Db3B5VG9PdXRwdXREaXJlY3Rvcnk+CiAgICAgICAgPC9Db250ZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzID0gbnVsbDsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
