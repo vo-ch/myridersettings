@@ -168,6 +168,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/96EE8D1B-889D-4F26-B7BD-4CC3F07CA395/b8/c8a61f7e/WebHost.cs" timestamp="1553974192327">
         <mark key="'" line="159" column="26" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/Quarter.cs" timestamp="1554282538610">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ListInstructorPayoutDetailQuery.cs" timestamp="1554209470658">
         <mark key="[" line="35" column="25" />
         <mark key="]" line="35" column="27" />
@@ -204,17 +210,15 @@
         <mark key="." line="5" column="111" />
         <mark key="^" line="5" column="111" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" timestamp="1554279402038">
-        <mark key="'" line="22" column="109" />
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="46" column="16" />
-        <mark key="." line="46" column="16" />
-        <mark key="^" line="46" column="48" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" timestamp="1554282614543">
+        <mark key="'" line="48" column="28" />
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="16" />
+        <mark key="." line="48" column="16" />
+        <mark key="^" line="48" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
-      <jump line="278" column="26" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
       <jump line="13" column="29" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Templating/Contracts/ITemplateService.cs" />
       <jump line="35" column="26" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
@@ -313,13 +317,15 @@
       <jump line="5" column="80" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryResult.cs" />
       <jump line="7" column="52" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQuery.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Pagination/PaginatedQuery.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/Quarter.cs" />
+      <jump line="48" column="28" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>B2bRegistrationSummaryItemResponseBase</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cXVhcnRlcklkID0g</text>
+        <text>(st</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -346,7 +352,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cXVhcnRlcklkID0g</text>
+        <text>(st</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURW50aXR5XD4=</text>
