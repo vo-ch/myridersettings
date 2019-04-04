@@ -13,11 +13,6 @@
         <mark key="." line="147" column="11" />
         <mark key="^" line="146" column="50" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/InstructorPayoutDetail/ListInstructorPayoutDetailPagingResponseMeta.cs" timestamp="1554368133346">
-        <mark key="'" line="6" column="78" />
-        <mark key="[" line="6" column="64" />
-        <mark key="]" line="6" column="81" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByDomain/B2bRegistrationSummaryByInstructorQueryHandler.cs" timestamp="1554394201902">
         <mark key="'" line="51" column="33" />
         <mark key="[" line="51" column="43" />
@@ -263,10 +258,9 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Quarter/GetQuarterQuery.cs" timestamp="1554300820712">
         <mark key="'" line="16" column="35" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQueryHandler.cs" timestamp="1554383330216">
-        <mark key="'" line="21" column="67" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="125" column="65" />
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailM2MControllerTests.cs" timestamp="1554396858121">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="56" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/QuarterlyPayout/NoB2bRegistrationFoundException.cs" timestamp="1554300608800">
         <mark key="'" line="8" column="54" />
@@ -428,7 +422,7 @@
         <text>throw new InvalidSortException()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CU-5002: integration tests added</text>
+        <text>InstructorPayoutDetailM2MControllerTests</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
