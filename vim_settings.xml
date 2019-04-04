@@ -63,12 +63,6 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByInstructor/B2bRegistrationSummaryByInstructorQueryResult.cs" timestamp="1554370799060">
-        <mark key="'" line="2" column="82" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/Dummy.cs" timestamp="1554383519812">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,12 +119,6 @@
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryRequest.cs" timestamp="1554362784683">
-        <mark key="'" line="22" column="37" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="55" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandlerBase.cs" timestamp="1554387647923">
         <mark key="[" line="62" column="0" />
@@ -252,7 +240,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554395004155">
+      <file name="/Dummy.txt" timestamp="1554395745434">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -279,12 +267,6 @@
         <mark key="'" line="21" column="67" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="125" column="65" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryBase.cs" timestamp="1554381831967">
-        <mark key="'" line="7" column="67" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/QuarterlyPayout/NoB2bRegistrationFoundException.cs" timestamp="1554300608800">
         <mark key="'" line="8" column="54" />
@@ -328,6 +310,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1554395873076" />
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Resources/ExceptionMessages.Designer.cs" timestamp="1554301192631">
         <mark key="'" line="24" column="17" />
       </file>
@@ -531,7 +514,7 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/ByInstructor/ByDomain/g</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -575,7 +558,6 @@
         <entry>%s/$ASSETS_CF/https://d2ujqwp3hb8j8i.cloudfront.net</entry>
         <entry>%s/$ASSETS_CF/https:\/\/d2ujqwp3hb8j8i.cloudfront.net/g</entry>
         <entry>%s/AddAuthService/AddAccountingServices/g</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>s%/PayoutDetailsCalculator/PayoutReportGenerator/g</entry>
         <entry>%s/PayoutDetailsCalculator/PayoutReportGenerator/g</entry>
         <entry>reg</entry>
@@ -583,10 +565,11 @@
         <entry>%s/TResponseItem/B2bRegistrationSummaryItemResponseBase/g</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>%s/ByInstructor/ByCourse/g</entry>
         <entry>%s/ByInstructor/ByDomain/g</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
