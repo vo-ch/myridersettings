@@ -39,6 +39,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="35" column="68" />
       </file>
+      <file name="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/B2BTransactionSummaryPage.jsx" timestamp="1554370275772">
+        <mark key="'" line="242" column="23" />
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="167" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryByCourseItemResponse.cs" timestamp="1554278686712">
         <mark key="[" line="2" column="104" />
         <mark key="]" line="3" column="3" />
@@ -180,6 +185,9 @@
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="85" />
       </file>
+      <file name="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/stores/B2BTransactionSummaryStore.js" timestamp="1554370304431">
+        <mark key="'" line="70" column="40" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutDetailController.cs" timestamp="1554366255417">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="31" column="9" />
@@ -296,16 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="54" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" />
-      <jump line="45" column="41" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" />
-      <jump line="51" column="33" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" />
-      <jump line="25" column="46" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" />
-      <jump line="62" column="56" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" />
-      <jump line="5" column="68" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryResult.cs" />
-      <jump line="24" column="101" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" />
-      <jump line="63" column="35" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" />
-      <jump line="5" column="22" filename="C:/projects/Accounting/Infra/Accounting.Domain/Resolvers/IHandlerResolver.cs" />
-      <jump line="31" column="67" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationSummaryQueryHandler.cs" />
       <jump line="8" column="54" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/QuarterlyPayout/NoB2bRegistrationFoundException.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Resources/ExceptionMessages.resx" />
       <jump line="15" column="19" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/ExceptionCode.cs" />
@@ -396,6 +394,16 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Pagination/PaginatedQueryResult.cs" />
       <jump line="10" column="52" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryResponse.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/Sorting/SortingResponse.cs" />
+      <jump line="2" column="7" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/stores/B2BTransactionSummaryStore.js" />
+      <jump line="68" column="23" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/stores/B2BTransactionSummaryStore.js" />
+      <jump line="79" column="11" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/stores/B2BTransactionSummaryStore.js" />
+      <jump line="0" column="0" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/B2BTransactionSummaryPage.jsx" />
+      <jump line="45" column="20" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/B2BTransactionSummaryPage.jsx" />
+      <jump line="55" column="19" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/B2BTransactionSummaryPage.jsx" />
+      <jump line="65" column="22" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/B2BTransactionSummaryPage.jsx" />
+      <jump line="242" column="23" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/B2BTransactionSummaryPage.jsx" />
+      <jump line="70" column="40" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/stores/B2BTransactionSummaryStore.js" />
+      <jump line="13" column="6" filename="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/stores/B2BTransactionSummaryStore.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -432,7 +440,7 @@
         <text>ListInstructorPayoutDetailResponse</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCMmJSZWdpc3RyYXRpb25TdW1tYXJ5SXRlbVJlc3BvbnNlQmFzZVw+</text>
+        <text>dataList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBCMmJSZWdpc3RyYXRpb25TdW1tYXJ5UmVzcG9uc2UuRnJvbShxdWVyeS5SZXN1bHQpOwo=</text>
@@ -492,20 +500,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCMmJSZWdpc3RyYXRpb25TdW1tYXJ5SXRlbVJlc3BvbnNlQmFzZVw+</last-search>
+      <last-search>dataList</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCMmJSZWdpc3RyYXRpb25TdW1tYXJ5SXRlbVJlc3BvbnNlQmFzZVw+</last-pattern>
+      <last-pattern>dataList</last-pattern>
       <last-replace>PayoutReportGenerator</last-replace>
       <last-substitute>PayoutDetailsCalculator</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBZGRIdHRwQ29udGV4dEFjY2Vzc29yXD4=</entry>
-        <entry encoding="base64">XDx0YWJsZVw+</entry>
-        <entry encoding="base64">XDxsb2dvXD4=</entry>
-        <entry>font-siz</entry>
         <entry encoding="base64">XDx0b3RhbHNcPg==</entry>
         <entry encoding="base64">XDxhdXRoQmFzZVVybFw+</entry>
         <entry>AddAuthService</entry>
@@ -522,6 +526,10 @@
         <entry encoding="base64">XDxUUmVzcG9uc2VJdGVtXD4=</entry>
         <entry encoding="base64">XDxUUXVlcnlSZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxCMmJSZWdpc3RyYXRpb25TdW1tYXJ5SXRlbVJlc3BvbnNlQmFzZVw+</entry>
+        <entry encoding="base64">XDxTb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxnZXRFbXB0eUZpbHRlclw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVEYXRhTGlzdFw+</entry>
+        <entry>dataList</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoSuperMethod</entry>
