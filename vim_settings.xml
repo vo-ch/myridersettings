@@ -19,12 +19,11 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DomainExtensions.cs" timestamp="1554371469300">
         <mark key="'" line="55" column="79" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationsController.cs" timestamp="1554460885766">
-        <mark key="'" line="47" column="44" />
-        <mark key="[" line="41" column="9" />
-        <mark key="]" line="42" column="11" />
-        <mark key="^" line="42" column="11" />
-        <mark key="." line="42" column="11" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationsController.cs" timestamp="1554467420553">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="53" column="79" />
+        <mark key="^" line="43" column="30" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/B2bRegistrationSummaryQueryBase.cs" timestamp="1554456600501">
         <mark key="[" line="7" column="33" />
@@ -243,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="41" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryResponse.cs" />
       <jump line="11" column="30" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryResponse.cs" />
       <jump line="19" column="43" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryResponse.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/Pagination/PagingResponseMeta.cs" />
@@ -342,7 +340,8 @@
       <jump line="7" column="94" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/Summary/B2bRegistrationSummaryResponse.cs" />
       <jump line="12" column="58" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationResponse.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ListInstructorPayoutDetailQueryResult.cs" />
-      <jump line="47" column="44" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationsController.cs" />
+      <jump line="47" column="25" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationsController.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35D1D668-9205-4C08-8AC0-8401C2EDB00B/1d/d4211a1f/Controller.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -352,8 +351,8 @@
             Meta = meta,
         }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEIyYlJlZ2lzdHJhdGlvblF1ZXJ5QmFzZTxCMmJSZWdpc3RyYXRpb25TdW1tYXJ5UXVlcnlSZXN1bHRCYXNlPiBxdWVyeSA9IENyZWF0ZUIyYlJlZ2lzdHJhdGlvblN1bW1hcnlRdWVyeShtb2RlbCk7CiAgICAgICAgICAgICAgICBhd2FpdCBfcHJvY2Vzc29yLkV4ZWN1dGVRdWVyeShxdWVyeSwgdG9rZW4pOwogICAgICAgICAgICAgICAgcmV0dXJuIEpzb24oQjJiUmVnaXN0cmF0aW9uU3VtbWFyeVJlc3BvbnNlLkZyb20ocXVlcnkuUmVzdWx0KSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -380,43 +379,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>_con</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">LldoZXJlKHggPT4geC5SZWdpc3RyYXRpb25EYXRlID49IHN0YXJ0RGF0ZSAmJiB4LlJlZ2lzdHJhdGlvbkRhdGUgPD0gZW5kRGF0ZSk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBCMmJSZWdpc3RyYXRpb25TdW1tYXJ5UmVzcG9uc2UuRnJvbShxdWVyeS5SZXN1bHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBCMmJSZWdpc3RyYXRpb25TdW1tYXJ5UmVzcG9uc2UuRnJvbShxdWVyeS5SZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEIyYlJlZ2lzdHJhdGlvblF1ZXJ5QmFzZTxCMmJSZWdpc3RyYXRpb25TdW1tYXJ5UXVlcnlSZXN1bHRCYXNlPiBxdWVyeSA9IENyZWF0ZUIyYlJlZ2lzdHJhdGlvblN1bW1hcnlRdWVyeShtb2RlbCk7CiAgICAgICAgICAgICAgICBhd2FpdCBfcHJvY2Vzc29yLkV4ZWN1dGVRdWVyeShxdWVyeSwgdG9rZW4pOwogICAgICAgICAgICAgICAgcmV0dXJuIEpzb24oQjJiUmVnaXN0cmF0aW9uU3VtbWFyeVJlc3BvbnNlLkZyb20ocXVlcnkuUmVzdWx0KSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>~jh</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEIyYlJlZ2lzdHJhdGlvblF1ZXJ5IHF1ZXJ5ID0gbmV3IEIyYlJlZ2lzdHJhdGlvblF1ZXJ5KG1vZGVsKTsKICAgICAgICAgICAgICAgIGF3YWl0IF9wcm9jZXNzb3IuRXhlY3V0ZVF1ZXJ5KHF1ZXJ5LCB0b2tlbik7CiAgICAgICAgICAgICAgICByZXR1cm4gSnNvbihCMmJSZWdpc3RyYXRpb25SZXNwb25zZS5Gcm9tKHF1ZXJ5LlJlc3VsdCkpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFJlZ2lzdHJhdGlvbkNvdW50IHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgZG91YmxlIFJldmVudWVBbW91bnQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgQ3VycmVuY3lDb2RlIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>B2bRegistrationSummaryRequest request</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuRG9tYWluLlF1ZXJpZXMuQjJiUmVnaXN0cmF0aW9uLlN1bW1hcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1vZGVsLkV4cG9ydCkKICAgICAgICAgICAgewogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlSZXNwb25zZS5Gcm9tKHF1ZXJ5LlJlc3VsdCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5EYXRhLkVudGl0eTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBCMmJSZWdpc3RyYXRpb25TdW1tYXJ5UmVzcG9uc2UuRnJvbShxdWVyeS5SZXN1bHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQjJiUmVnaXN0cmF0aW9uUXVlcnlCYXNlPEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlRdWVyeVJlc3VsdEJhc2U+IHF1ZXJ5ID0gQ3JlYXRlQjJiUmVnaXN0cmF0aW9uU3VtbWFyeVF1ZXJ5KG1vZGVsKTsKICAgICAgICAgICAgYXdhaXQgX3Byb2Nlc3Nvci5FeGVjdXRlUXVlcnkocXVlcnksIHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFJlZ2lzdHJhdGlvbkNvdW50IHsgZ2V0OyBzZXQ7IH0KICAgICAgICBwdWJsaWMgZG91YmxlIFJldmVudWVBbW91bnQgeyBnZXQ7IHNldDsgfQogICAgICAgIHB1YmxpYyBzdHJpbmcgQ3VycmVuY3lDb2RlIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -430,10 +429,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuRG9tYWluLlF1ZXJpZXMuQjJiUmVnaXN0cmF0aW9uLlN1bW1hcnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgbnVsbDogcmV0dXJuIG5ldyBCMmJSZWdpc3RyYXRpb25RdWVyeShyZXF1ZXN0KTsK</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5EYXRhLkVudGl0eTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
