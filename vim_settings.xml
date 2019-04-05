@@ -206,6 +206,10 @@
       <file name="/payments.accounting.instructor_payouts [payments@localhost]" timestamp="1554478263239">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1554495028600">
+        <mark key="[" line="91" column="30" />
+        <mark key="]" line="91" column="54" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Resources/ExceptionMessages.Designer.cs" timestamp="1554301192631">
         <mark key="'" line="24" column="17" />
       </file>
@@ -309,6 +313,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Assembly/CustomAssemblyLoadContext.cs" timestamp="1554495040274">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/HttpContextMother.cs" timestamp="1553894269527">
         <mark key="'" line="4" column="23" />
       </file>
@@ -350,8 +360,8 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554478477342">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1554495156362">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -497,7 +507,7 @@
         <text>B2bRegistrationRequest</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>internal</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -524,7 +534,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>internal</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXREb21haW5MaXN0SXRlbVJlc3BvbnNlQnVpbGRlclw+</text>
