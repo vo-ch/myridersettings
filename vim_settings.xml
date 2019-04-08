@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/PaginatedQueryHandlerBase.cs" timestamp="1554387445680">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="29" column="70" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Resources/ExceptionMessages.resx" timestamp="1554301082244">
         <mark key="[" line="147" column="11" />
         <mark key="]" line="147" column="11" />
@@ -22,12 +26,21 @@
         <mark key="." line="23" column="112" />
         <mark key="^" line="39" column="19" />
       </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Function.cs" timestamp="1554133580153">
+        <mark key="'" line="41" column="67" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DomainExtensions.cs" timestamp="1554371469300">
         <mark key="'" line="55" column="79" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" timestamp="1554480073169">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="49" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Pagination/PaginatedQueryResult.cs" timestamp="1554210890225">
+        <mark key="'" line="8" column="28" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByCourse/B2bRegistrationSummaryByInstructorQueryHandler.cs" timestamp="1554393677235">
+        <mark key="'" line="11" column="8" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationsController.cs" timestamp="1554470300118">
         <mark key="'" line="55" column="87" />
@@ -39,6 +52,12 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/GetDomainListResponseMother.cs" timestamp="1554490997393">
         <mark key="'" line="17" column="20" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryByCourseItemResponse.cs" timestamp="1554278686712">
+        <mark key="[" line="2" column="104" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
       <file name="/Dummy.cs" timestamp="1554471856173">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,13 +66,28 @@
         <mark key="]" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
+      <file name="C:/projects/Accounting/Infra/Accounting.Exception/Base/CyberUNotFoundException.cs" timestamp="1554300875538">
+        <mark key="'" line="4" column="51" />
+      </file>
       <file name="/ListQuarterQueryHandler.cs" timestamp="1554387019398">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="20" column="14" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/Enums/B2bRegistrationSummaryRequestGroupByValue.cs" timestamp="1554307112269">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/DependencyInjection/AccountingRepositoryExtensionsTests.cs" timestamp="1554127827487">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="77" column="14" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationQueryBase.cs" timestamp="1554469784115">
+        <mark key="[" line="8" column="87" />
+        <mark key="]" line="8" column="94" />
+        <mark key="^" line="8" column="94" />
+        <mark key="." line="8" column="94" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" timestamp="1554480369875">
         <mark key="'" line="34" column="44" />
@@ -61,6 +95,19 @@
         <mark key="]" line="21" column="63" />
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByCourse/B2bRegistrationSummaryByInstructorQuery.cs" timestamp="1554393658422">
+        <mark key="'" line="4" column="17" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByInstructor/B2bRegistrationSummaryByInstructorQueryHandler.cs" timestamp="1554477843755">
+        <mark key="'" line="39" column="105" />
+        <mark key="[" line="39" column="108" />
+        <mark key="]" line="39" column="119" />
+        <mark key="." line="39" column="119" />
+        <mark key="^" line="39" column="119" />
+      </file>
+      <file name="/quarters [payments@localhost]" timestamp="1554705608092">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/PaginatedQueryHandlerExtensions.cs" timestamp="1554392171203">
         <mark key="[" line="65" column="54" />
@@ -70,6 +117,9 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="/payments.public.currencies [payments@localhost]" timestamp="1554218018089">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryItemResponseBase.cs" timestamp="1554459786236">
         <mark key="[" line="2" column="17" />
@@ -88,6 +138,24 @@
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/HttpContextBuilder.cs" timestamp="1553894260237">
         <mark key="'" line="7" column="23" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1554371251058">
+        <mark key="'" line="82" column="25" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByDomain/B2BRegistrationSummaryByDomainQueryHandler.cs" timestamp="1554457944331">
+        <mark key="'" line="11" column="60" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DatabaseExtensions.cs" timestamp="1553973994188">
+        <mark key="'" line="12" column="43" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryByDomainItemResponse.cs" timestamp="1554278741376">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ListInstructorPayoutDetailQueryResult.cs" timestamp="1554456108768">
         <mark key="'" line="5" column="17" />
@@ -108,6 +176,12 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="43" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/ListInstructorPayoutDetailRequestMother.cs" timestamp="1554480460300">
+        <mark key="'" line="12" column="43" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/B2bRegistration/CurrencyNotFoundException.cs" timestamp="1554300873352">
+        <mark key="'" line="5" column="52" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryResponse.cs" timestamp="1554459802851">
         <mark key="'" line="6" column="52" />
         <mark key="[" line="2" column="0" />
@@ -117,6 +191,32 @@
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Domain/Processors/IProcessor.cs" timestamp="1554458309788">
         <mark key="'" line="11" column="120" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/QuarterlyPayout/NoDomainIncludedInPayoutFoundException.cs" timestamp="1554300648014">
+        <mark key="'" line="5" column="17" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQueryResult.cs" timestamp="1554210868226">
+        <mark key="'" line="5" column="65" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationRequest.cs" timestamp="1554480557478">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="56" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6E21B7A-B43C-4BB1-A0D4-81F744410052/9b/06e334f0/Queryable.cs" timestamp="1554385644520">
+        <mark key="[" line="241" column="6" />
+        <mark key="]" line="241" column="48" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Accounting.Api.csproj" timestamp="1554457087624">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Assembly/CustomAssemblyLoadContext.cs" timestamp="1554495040274">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandlerTests.cs" timestamp="1554300647260">
         <mark key="'" line="58" column="37" />
@@ -145,180 +245,6 @@
         <mark key="." line="26" column="44" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryItemResponse.cs" timestamp="1554278391450">
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="33" />
-        <mark key="^" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Accounting.Api.IntegrationTests.csproj" timestamp="1554454304163">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" timestamp="1554490803813">
-        <mark key="'" line="187" column="71" />
-        <mark key="[" line="187" column="70" />
-        <mark key="]" line="187" column="70" />
-        <mark key="." line="187" column="70" />
-      </file>
-      <file name="/C# Console" timestamp="1554039666990">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentsDbContext.cs" timestamp="1554217910292">
-        <mark key="'" line="13" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" timestamp="1553975661085">
-        <mark key="'" line="26" column="11" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Quarter/GetQuarterQuery.cs" timestamp="1554300820712">
-        <mark key="'" line="16" column="35" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailM2MControllerTests.cs" timestamp="1554396858121">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="56" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/17/709dbd66/MvcCoreServiceCollectionExtensions.cs" timestamp="1553862355453">
-        <mark key="'" line="115" column="53" />
-      </file>
-      <file name="/payments.accounting.quarters [payments@localhost]" timestamp="1554478278973">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/96EE8D1B-889D-4F26-B7BD-4CC3F07CA395/b8/c8a61f7e/WebHost.cs" timestamp="1553974192327">
-        <mark key="'" line="159" column="26" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByDomain/B2BRegistrationSummaryByDomainQueryResult.cs" timestamp="1554458021538">
-        <mark key="'" line="2" column="85" />
-      </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Startup.cs" timestamp="1553878313362">
-        <mark key="'" line="26" column="29" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/B2bRegistrationSummaryQueryHandlerBase.cs" timestamp="1554474229513">
-        <mark key="'" line="45" column="45" />
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="41" column="16" />
-        <mark key="^" line="41" column="54" />
-        <mark key="." line="41" column="16" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/Summary/B2bRegistrationSummaryResponse.cs" timestamp="1554460353848">
-        <mark key="'" line="7" column="94" />
-      </file>
-      <file name="/payments.accounting.instructor_payouts [payments@localhost]" timestamp="1554478263239">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1554495028600">
-        <mark key="[" line="91" column="30" />
-        <mark key="]" line="91" column="54" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Resources/ExceptionMessages.Designer.cs" timestamp="1554301192631">
-        <mark key="'" line="24" column="17" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/ListInstructorPayoutDetailResponse.cs" timestamp="1554368112943">
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-      </file>
-      <file name="/PaginatedQueryHandlerBase.cs" timestamp="1554387445680">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="29" column="70" />
-      </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Function.cs" timestamp="1554133580153">
-        <mark key="'" line="41" column="67" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Pagination/PaginatedQueryResult.cs" timestamp="1554210890225">
-        <mark key="'" line="8" column="28" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByCourse/B2bRegistrationSummaryByInstructorQueryHandler.cs" timestamp="1554393677235">
-        <mark key="'" line="11" column="8" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryByCourseItemResponse.cs" timestamp="1554278686712">
-        <mark key="[" line="2" column="104" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-      </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Exception/Base/CyberUNotFoundException.cs" timestamp="1554300875538">
-        <mark key="'" line="4" column="51" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/Enums/B2bRegistrationSummaryRequestGroupByValue.cs" timestamp="1554307112269">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/B2bRegistrationQueryBase.cs" timestamp="1554469784115">
-        <mark key="[" line="8" column="87" />
-        <mark key="]" line="8" column="94" />
-        <mark key="^" line="8" column="94" />
-        <mark key="." line="8" column="94" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByCourse/B2bRegistrationSummaryByInstructorQuery.cs" timestamp="1554393658422">
-        <mark key="'" line="4" column="17" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByInstructor/B2bRegistrationSummaryByInstructorQueryHandler.cs" timestamp="1554477843755">
-        <mark key="'" line="39" column="105" />
-        <mark key="[" line="39" column="108" />
-        <mark key="]" line="39" column="119" />
-        <mark key="." line="39" column="119" />
-        <mark key="^" line="39" column="119" />
-      </file>
-      <file name="/quarters [payments@localhost]" timestamp="1554100346176">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payments.public.currencies [payments@localhost]" timestamp="1554218018089">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1554371251058">
-        <mark key="'" line="82" column="25" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByDomain/B2BRegistrationSummaryByDomainQueryHandler.cs" timestamp="1554457944331">
-        <mark key="'" line="11" column="60" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DatabaseExtensions.cs" timestamp="1553973994188">
-        <mark key="'" line="12" column="43" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryByDomainItemResponse.cs" timestamp="1554278741376">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/ListInstructorPayoutDetailRequestMother.cs" timestamp="1554480460300">
-        <mark key="'" line="12" column="43" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/B2bRegistration/CurrencyNotFoundException.cs" timestamp="1554300873352">
-        <mark key="'" line="5" column="52" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/QuarterlyPayout/NoDomainIncludedInPayoutFoundException.cs" timestamp="1554300648014">
-        <mark key="'" line="5" column="17" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQueryResult.cs" timestamp="1554210868226">
-        <mark key="'" line="5" column="65" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationRequest.cs" timestamp="1554480557478">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="56" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6E21B7A-B43C-4BB1-A0D4-81F744410052/9b/06e334f0/Queryable.cs" timestamp="1554385644520">
-        <mark key="[" line="241" column="6" />
-        <mark key="]" line="241" column="48" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Accounting.Api.csproj" timestamp="1554457087624">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Assembly/CustomAssemblyLoadContext.cs" timestamp="1554495040274">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/HttpContextMother.cs" timestamp="1553894269527">
         <mark key="'" line="4" column="23" />
       </file>
@@ -327,6 +253,12 @@
         <mark key="]" line="17" column="48" />
         <mark key="." line="18" column="43" />
         <mark key="^" line="28" column="48" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationSummaryItemResponse.cs" timestamp="1554278391450">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/Pagination/PagingResponseMeta.cs" timestamp="1554210909412">
         <mark key="'" line="5" column="17" />
@@ -360,6 +292,17 @@
         <mark key="." line="5" column="44" />
         <mark key="^" line="5" column="44" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Accounting.Api.IntegrationTests.csproj" timestamp="1554454304163">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" timestamp="1554490803813">
+        <mark key="'" line="187" column="71" />
+        <mark key="[" line="187" column="70" />
+        <mark key="]" line="187" column="70" />
+        <mark key="." line="187" column="70" />
+      </file>
       <file name="/Dummy.txt" timestamp="1554495156362">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -368,11 +311,39 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByDomain/B2bRegistrationSummaryByInstructorQueryResult.cs" timestamp="1554394122190">
         <mark key="'" line="2" column="17" />
       </file>
+      <file name="/C# Console" timestamp="1554039666990">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentsDbContext.cs" timestamp="1554217910292">
+        <mark key="'" line="13" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" timestamp="1553975661085">
+        <mark key="'" line="26" column="11" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Quarter/GetQuarterQuery.cs" timestamp="1554300820712">
+        <mark key="'" line="16" column="35" />
+      </file>
       <file name="/currencies [payments@localhost]" timestamp="1554455218131">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailM2MControllerTests.cs" timestamp="1554396858121">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="56" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/QuarterlyPayout/NoB2bRegistrationFoundException.cs" timestamp="1554300608800">
         <mark key="'" line="8" column="54" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/17/709dbd66/MvcCoreServiceCollectionExtensions.cs" timestamp="1553862355453">
+        <mark key="'" line="115" column="53" />
+      </file>
+      <file name="/payments.accounting.quarters [payments@localhost]" timestamp="1554478278973">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/96EE8D1B-889D-4F26-B7BD-4CC3F07CA395/b8/c8a61f7e/WebHost.cs" timestamp="1553974192327">
+        <mark key="'" line="159" column="26" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByDomain/B2BRegistrationSummaryByDomainQueryResult.cs" timestamp="1554458021538">
+        <mark key="'" line="2" column="85" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByInstructor/B2bRegistrationSummaryByInstructorQuery.cs" timestamp="1554469768285">
         <mark key="'" line="4" column="72" />
@@ -387,11 +358,40 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Startup.cs" timestamp="1553878313362">
+        <mark key="'" line="26" column="29" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/B2bRegistrationSummaryQueryHandlerBase.cs" timestamp="1554474229513">
+        <mark key="'" line="45" column="45" />
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="41" column="54" />
+        <mark key="." line="41" column="16" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByCourse/B2bRegistrationSummaryByInstructorQueryResult.cs" timestamp="1554393698462">
         <mark key="'" line="2" column="17" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" timestamp="1554300842328">
         <mark key="'" line="23" column="30" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/Summary/B2bRegistrationSummaryResponse.cs" timestamp="1554460353848">
+        <mark key="'" line="7" column="94" />
+      </file>
+      <file name="/payments.accounting.instructor_payouts [payments@localhost]" timestamp="1554478263239">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1554495028600">
+        <mark key="[" line="91" column="30" />
+        <mark key="]" line="91" column="54" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Resources/ExceptionMessages.Designer.cs" timestamp="1554301192631">
+        <mark key="'" line="24" column="17" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/ListInstructorPayoutDetailResponse.cs" timestamp="1554368112943">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="38" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/IB2bRegistrationQuery.cs" timestamp="1554458325979">
         <mark key="[" line="6" column="42" />
@@ -609,7 +609,7 @@
       <last-replace>B2bRegistrationRequest</last-replace>
       <last-substitute>ListInstructorPayoutDetailRequest</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
