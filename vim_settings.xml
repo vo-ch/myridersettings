@@ -42,12 +42,11 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="77" column="14" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" timestamp="1554729731254">
-        <mark key="'" line="414" column="0" />
-        <mark key="[" line="509" column="0" />
-        <mark key="]" line="509" column="0" />
-        <mark key="." line="509" column="0" />
-        <mark key="^" line="464" column="43" />
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" timestamp="1554731764308">
+        <mark key="[" line="525" column="46" />
+        <mark key="]" line="525" column="44" />
+        <mark key="." line="525" column="44" />
+        <mark key="^" line="525" column="44" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/ListB2bRegistrationRequestBuilder.cs" timestamp="1554717937756">
         <mark key="[" line="10" column="31" />
@@ -371,7 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="86" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationsController.cs" />
       <jump line="64" column="36" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationsController.cs" />
       <jump line="65" column="33" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationsController.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/dc/e6adb1bb/ArgumentException.cs" />
@@ -471,13 +469,14 @@
       <jump line="13" column="62" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ListB2bRegistrationQueryHandler.cs" />
       <jump line="53" column="93" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ListB2bRegistrationQueryHandler.cs" />
       <jump line="29" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
+      <jump line="467" column="123" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>string.IsNullOrEmpty(sortBy)</text>
+        <text>B2bRegistrationSummaryRequestGroupByValue.Course</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgW1RoZW9yeV0KICAgICAgICBbSW5saW5lRGF0YSgiZGVzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKCJEZVNjIildCiAgICAgICAgW0lubGluZURhdGEoIkRFU0MiKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBMaXN0X1NvcnRPcmRlckRlc2NfUmV0dXJuc0Rlc2NlbmRpbmdSZXN1bHQoc3RyaW5nIHNvcnRPcmRlcikKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgdmFyIHF1YXJ0ZXIgPSBhd2FpdCBQZXJzaXN0RW50aXR5KFF1YXJ0ZXJNb3RoZXIuQ3JlYXRlUHJldmlvdXMoRGF0ZVRpbWUuVXRjTm93KS5CdWlsZCgpKTsKICAgICAgICAgICAgdmFyIGluc3RydWN0b3JQYXlvdXQgPSBhd2FpdCBQZXJzaXN0RW50aXR5KEluc3RydWN0b3JQYXlvdXRNb3RoZXIuQ3JlYXRlKCkKICAgICAgICAgICAgICAgIC5XaXRoUXVhcnRlcklkKHF1YXJ0ZXIuSWQpCiAgICAgICAgICAgICAgICAuV2l0aFN0YXR1cyhJbnN0cnVjdG9yUGF5b3V0U3RhdHVzLkNvbXBsZXRlZCkKICAgICAgICAgICAgICAgIC5CdWlsZCgpKTsKCiAgICAgICAgICAgIHZhciBpbnN0cnVjdG9yUGF5b3V0RGV0YWlsMSA9IGF3YWl0IFBlcnNpc3RFbnRpdHkoSW5zdHJ1Y3RvclBheW91dERldGFpbE1vdGhlci5DcmVhdGUoKQogICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9yUGF5b3V0SWQoaW5zdHJ1Y3RvclBheW91dC5JZCkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlVGl0bGUoImFiYyIpCiAgICAgICAgICAgICAgICAuQnVpbGQoKSk7CgogICAgICAgICAgICB2YXIgaW5zdHJ1Y3RvclBheW91dERldGFpbDIgPSBhd2FpdCBQZXJzaXN0RW50aXR5KEluc3RydWN0b3JQYXlvdXREZXRhaWxNb3RoZXIuQ3JlYXRlKCkKICAgICAgICAgICAgICAgIC5XaXRoSW5zdHJ1Y3RvclBheW91dElkKGluc3RydWN0b3JQYXlvdXQuSWQpCiAgICAgICAgICAgICAgICAuV2l0aENvdXJzZVRpdGxlKCJkZWYiKQogICAgICAgICAgICAgICAgLkJ1aWxkKCkpOwoKICAgICAgICAgICAgaW50IHBhZ2VOdW1iZXIgPSAxOwogICAgICAgICAgICBpbnQgcGFnZVNpemUgPSAxOwogICAgICAgICAgICBzdHJpbmcgc29ydEJ5ID0gbmFtZW9mKEluc3RydWN0b3JQYXlvdXREZXRhaWwuQ291cnNlVGl0bGUpOwoKICAgICAgICAgICAgSHR0cENsaWVudCBjbGllbnQgPSBDcmVhdGVBZG1pbkNsaWVudCgpOwoKICAgICAgICAgICAgLy8gQWN0CiAgICAgICAgICAgIEh0dHBSZXNwb25zZU1lc3NhZ2UgcmVzcG9uc2UgPSBhd2FpdCBjbGllbnQuR2V0QXN5bmMoCiAgICAgICAgICAgICAgICAkQCJ2MS9pbnN0cnVjdG9yUGF5b3V0RGV0YWlscz9wYWdlTnVtYmVyPXtwYWdlTnVtYmVyfSZwYWdlU2l6ZT17cGFnZVNpemV9JnNvcnRCeT17c29ydEJ5fSZzb3J0T3JkZXI9e3NvcnRPcmRlcn0maW5zdHJ1Y3RvcklkPXtpbnN0cnVjdG9yUGF5b3V0Lkluc3RydWN0b3JJZH0mcXVhcnRlcklkPXtpbnN0cnVjdG9yUGF5b3V0LlF1YXJ0ZXJJZH0iKTsKCiAgICAgICAgICAgIC8vIEFzc2VydAogICAgICAgICAgICBBc3NlcnQuRXF1YWwoSHR0cFN0YXR1c0NvZGUuT0ssIHJlc3BvbnNlLlN0YXR1c0NvZGUpOwoKICAgICAgICAgICAgdmFyIHJlc3VsdCA9IGF3YWl0IEpzb25IZWxwZXIuRGVzZXJpYWxpemVPYmplY3Q8TGlzdEluc3RydWN0b3JQYXlvdXREZXRhaWxSZXNwb25zZT4ocmVzcG9uc2UpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwocGFnZU51bWJlciwgcmVzdWx0Lk1ldGEuUGFnZU51bWJlcik7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbChwYWdlU2l6ZSwgcmVzdWx0Lk1ldGEuUGFnZVNpemUpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMiwgcmVzdWx0Lk1ldGEuVG90YWwpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMiwgcmVzdWx0Lk1ldGEuVG90YWxQYWdlcyk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgxLCByZXN1bHQuRGF0YS5Db3VudCk7CgovLyAgICAgICAgICAgIENvbXBhcmUoaW5zdHJ1Y3RvclBheW91dERldGFpbDIsIHJlc3VsdC5EYXRhWzBdKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tcGFyZVN1bW1hcnlJdGVtQmFzZShyZWdpc3RyYXRpb25zWzBdLCByZXN1bHQuRGF0YVswXSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -504,16 +503,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Asc</text>
+        <text encoding="base64">QmFzZTxUPg==</text>
       </register>
       <register name="/" type="4">
         <text>theor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiZGVzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKCJEZVNjIildCiAgICAgICAgW0lubGluZURhdGEoIkRFU0MiKV0K</text>
+      <register name="0" type="4">
+        <text>responseType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgW1RoZW9yeV0KICAgICAgICBbSW5saW5lRGF0YSgiZGVzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKCJEZVNjIildCiAgICAgICAgW0lubGluZURhdGEoIkRFU0MiKV0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBMaXN0X1NvcnRPcmRlckRlc2NfUmV0dXJuc0Rlc2NlbmRpbmdSZXN1bHQoc3RyaW5nIHNvcnRPcmRlcikKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgdmFyIHF1YXJ0ZXIgPSBhd2FpdCBQZXJzaXN0RW50aXR5KFF1YXJ0ZXJNb3RoZXIuQ3JlYXRlUHJldmlvdXMoRGF0ZVRpbWUuVXRjTm93KS5CdWlsZCgpKTsKICAgICAgICAgICAgdmFyIGluc3RydWN0b3JQYXlvdXQgPSBhd2FpdCBQZXJzaXN0RW50aXR5KEluc3RydWN0b3JQYXlvdXRNb3RoZXIuQ3JlYXRlKCkKICAgICAgICAgICAgICAgIC5XaXRoUXVhcnRlcklkKHF1YXJ0ZXIuSWQpCiAgICAgICAgICAgICAgICAuV2l0aFN0YXR1cyhJbnN0cnVjdG9yUGF5b3V0U3RhdHVzLkNvbXBsZXRlZCkKICAgICAgICAgICAgICAgIC5CdWlsZCgpKTsKCiAgICAgICAgICAgIHZhciBpbnN0cnVjdG9yUGF5b3V0RGV0YWlsMSA9IGF3YWl0IFBlcnNpc3RFbnRpdHkoSW5zdHJ1Y3RvclBheW91dERldGFpbE1vdGhlci5DcmVhdGUoKQogICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9yUGF5b3V0SWQoaW5zdHJ1Y3RvclBheW91dC5JZCkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlVGl0bGUoImFiYyIpCiAgICAgICAgICAgICAgICAuQnVpbGQoKSk7CgogICAgICAgICAgICB2YXIgaW5zdHJ1Y3RvclBheW91dERldGFpbDIgPSBhd2FpdCBQZXJzaXN0RW50aXR5KEluc3RydWN0b3JQYXlvdXREZXRhaWxNb3RoZXIuQ3JlYXRlKCkKICAgICAgICAgICAgICAgIC5XaXRoSW5zdHJ1Y3RvclBheW91dElkKGluc3RydWN0b3JQYXlvdXQuSWQpCiAgICAgICAgICAgICAgICAuV2l0aENvdXJzZVRpdGxlKCJkZWYiKQogICAgICAgICAgICAgICAgLkJ1aWxkKCkpOwoKICAgICAgICAgICAgaW50IHBhZ2VOdW1iZXIgPSAxOwogICAgICAgICAgICBpbnQgcGFnZVNpemUgPSAxOwogICAgICAgICAgICBzdHJpbmcgc29ydEJ5ID0gbmFtZW9mKEluc3RydWN0b3JQYXlvdXREZXRhaWwuQ291cnNlVGl0bGUpOwoKICAgICAgICAgICAgSHR0cENsaWVudCBjbGllbnQgPSBDcmVhdGVBZG1pbkNsaWVudCgpOwoKICAgICAgICAgICAgLy8gQWN0CiAgICAgICAgICAgIEh0dHBSZXNwb25zZU1lc3NhZ2UgcmVzcG9uc2UgPSBhd2FpdCBjbGllbnQuR2V0QXN5bmMoCiAgICAgICAgICAgICAgICAkQCJ2MS9pbnN0cnVjdG9yUGF5b3V0RGV0YWlscz9wYWdlTnVtYmVyPXtwYWdlTnVtYmVyfSZwYWdlU2l6ZT17cGFnZVNpemV9JnNvcnRCeT17c29ydEJ5fSZzb3J0T3JkZXI9e3NvcnRPcmRlcn0maW5zdHJ1Y3RvcklkPXtpbnN0cnVjdG9yUGF5b3V0Lkluc3RydWN0b3JJZH0mcXVhcnRlcklkPXtpbnN0cnVjdG9yUGF5b3V0LlF1YXJ0ZXJJZH0iKTsKCiAgICAgICAgICAgIC8vIEFzc2VydAogICAgICAgICAgICBBc3NlcnQuRXF1YWwoSHR0cFN0YXR1c0NvZGUuT0ssIHJlc3BvbnNlLlN0YXR1c0NvZGUpOwoKICAgICAgICAgICAgdmFyIHJlc3VsdCA9IGF3YWl0IEpzb25IZWxwZXIuRGVzZXJpYWxpemVPYmplY3Q8TGlzdEluc3RydWN0b3JQYXlvdXREZXRhaWxSZXNwb25zZT4ocmVzcG9uc2UpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwocGFnZU51bWJlciwgcmVzdWx0Lk1ldGEuUGFnZU51bWJlcik7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbChwYWdlU2l6ZSwgcmVzdWx0Lk1ldGEuUGFnZVNpemUpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMiwgcmVzdWx0Lk1ldGEuVG90YWwpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMiwgcmVzdWx0Lk1ldGEuVG90YWxQYWdlcyk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgxLCByZXN1bHQuRGF0YS5Db3VudCk7CgovLyAgICAgICAgICAgIENvbXBhcmUoaW5zdHJ1Y3RvclBheW91dERldGFpbDIsIHJlc3VsdC5EYXRhWzBdKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tcGFyZVN1bW1hcnlJdGVtQmFzZShyZWdpc3RyYXRpb25zWzBdLCByZXN1bHQuRGF0YVswXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -525,28 +524,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YShudWxsKV0KICAgICAgICBbSW5saW5lRGF0YSgiIildCiAgICAgICAgW0lubGluZURhdGEoIiAgIildCiAgICAgICAgW0lubGluZURhdGEoImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKCJBc0MiKV0KICAgICAgICBbSW5saW5lRGF0YSgiQVNDIildCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVCByZXNwb25zZVR5cGUsCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZSkgbnVsbCwK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgcXVlcnkgPSBuZXcgQjJCUmVnaXN0cmF0aW9uU3VtbWFyeUJ5Q291cnNlUXVlcnkocmVxdWVzdCk7CiAgICAgICAgICAgICAgICAgICAgX3Byb2Nlc3Nvci5FeGVjdXRlUXVlcnkocXVlcnksIHRva2VuKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcXVlcnk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPckVtcHR5KHNvcnRCeSkpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHNvcnRCeSA9IG5hbWVvZihCMmJSZWdpc3RyYXRpb25JdGVtUmVzcG9uc2UuQ291cnNlVGl0bGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvcnRpbmdNYXAuQ29udGFpbnNLZXkoZGVmYXVsdFByb3BlcnR5KSA/IHNvcnRpbmdNYXBbZGVmYXVsdFByb3BlcnR5XSA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YShudWxsKV0KICAgICAgICBbSW5saW5lRGF0YSgiIildCiAgICAgICAgW0lubGluZURhdGEoIiAgIildCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0cmluZy5Jc051bGxPckVtcHR5KHNvcnRCeSkpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YShudWxsKV0KICAgICAgICBbSW5saW5lRGF0YSgiIildCiAgICAgICAgW0lubGluZURhdGEoIiAgIildCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhciBpbnN0cnVjdG9yUGF5b3V0RGV0YWlsMiA9IGF3YWl0IFBlcnNpc3RFbnRpdHkoSW5zdHJ1Y3RvclBheW91dERldGFpbE1vdGhlci5DcmVhdGUoKQogICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9yUGF5b3V0SWQoaW5zdHJ1Y3RvclBheW91dC5JZCkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlVGl0bGUoImRlZiIpCiAgICAgICAgICAgICAgICAuQnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiQXNDIildCiAgICAgICAgW0lubGluZURhdGEoIkFTQyIpXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -559,17 +558,16 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluc3RydWN0b3JQYXlvdXQgPSBhd2FpdCBQZXJzaXN0RW50aXR5KEluc3RydWN0b3JQYXlvdXRNb3RoZXIuQ3JlYXRlKCkKICAgICAgICAgICAgICAgIC5XaXRoUXVhcnRlcklkKHF1YXJ0ZXIuSWQpCiAgICAgICAgICAgICAgICAuV2l0aFN0YXR1cyhJbnN0cnVjdG9yUGF5b3V0U3RhdHVzLkNvbXBsZXRlZCkKICAgICAgICAgICAgICAgIC5CdWlsZCgpKTsKCiAgICAgICAgICAgIHZhciBpbnN0cnVjdG9yUGF5b3V0RGV0YWlsMSA9IGF3YWl0IFBlcnNpc3RFbnRpdHkoSW5zdHJ1Y3RvclBheW91dERldGFpbE1vdGhlci5DcmVhdGUoKQogICAgICAgICAgICAgICAgICAgIC5XaXRoSW5zdHJ1Y3RvclBheW91dElkKGluc3RydWN0b3JQYXlvdXQuSWQpCiAgICAgICAgICAgICAgICAgICAgLldpdGhDb3Vyc2VUaXRsZSgiYWJjIikKICAgICAgICAgICAgICAgICAgICAuQnVpbGQoKSk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>,
-                CsodRegistrationMother.Create()
-                    .WithCourseTitle(&quot;name2&quot;)
+      <register name="8" type="4">
+        <text>CsodRegistrationMother.Create()
+                    .WithCourseTitle(&quot;def&quot;)
                     .WithCurrencyId(currency.Id)
                     .WithRegistrationPrice(1.00)
                     .WithRandomRegistrationDate(quarter.StartDate, quarter.EndDate)
                     .Build()</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
