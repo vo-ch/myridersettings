@@ -62,6 +62,12 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Domain/Queries/B2bRegistration/Summary/ByInstructor/B2bRegistrationSummaryByCourseQueryTests.cs" timestamp="1554740242126">
         <mark key="'" line="8" column="17" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1554889603826">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/ListB2bRegistrationRequestBuilder.cs" timestamp="1554717937756">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="10" column="30" />
@@ -184,6 +190,13 @@
         <mark key="]" line="6" column="92" />
         <mark key="^" line="6" column="92" />
         <mark key="." line="6" column="92" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" timestamp="1554888680674">
+        <mark key="'" line="118" column="76" />
+        <mark key="[" line="125" column="70" />
+        <mark key="]" line="125" column="52764" />
+        <mark key="." line="125" column="52764" />
+        <mark key="^" line="125" column="52764" />
       </file>
       <file name="/C# Console" timestamp="1554039666990">
         <mark key="[" line="0" column="0" />
@@ -344,7 +357,12 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Extensions/PdfServiceExtensions.cs" timestamp="1554887168090" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Extensions/PdfServiceExtensions.cs" timestamp="1554889286386">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="34" column="55" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DatabaseExtensions.cs" timestamp="1553973994188">
         <mark key="'" line="12" column="43" />
       </file>
@@ -457,8 +475,8 @@
         <mark key="^" line="117" column="67" />
         <mark key="." line="119" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554887187624">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1554889680716">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -534,8 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
-      <jump line="467" column="123" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="515" column="60" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="358" column="60" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="289" column="60" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
@@ -634,13 +650,15 @@
       <jump line="53" column="22" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/FileStore/S3StoreService.cs" />
       <jump line="74" column="23" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/FileStore/S3StoreService.cs" />
       <jump line="35" column="75" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Function.cs" />
+      <jump line="118" column="76" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Templates/InstructorPayoutReport.cshtml" />
+      <jump line="35" column="1" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Extensions/PdfServiceExtensions.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>ListB2bRegistrationResponse</text>
+        <text>data:application/font-woff;charset=utf-8;base64</text>
       </register>
       <register name="&quot;" type="4">
-        <text>QuarterlyPayoutId</text>
+        <text>convert woff fonts to base64</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -667,16 +685,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>group by registration_price</text>
+        <text>convert woff fonts to base64</text>
       </register>
       <register name="/" type="4">
-        <text>valida</text>
+        <text>data</text>
       </register>
       <register name="0" type="4">
-        <text>QuarterlyPayoutId</text>
+        <text>data:font/truetype;charset=utf-8;base64</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuTW9kZWxzLkIyYlJlZ2lzdHJhdGlvbjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -702,28 +720,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgY29udGV4dCA9IG5ldyBDdXN0b21Bc3NlbWJseUxvYWRDb250ZXh0KCk7Ci8vICAgICAgICAgICAgY29udGV4dC5Mb2FkVW5tYW5hZ2VkTGlicmFyeShQYXRoLkNvbWJpbmUoQXBwQ29udGV4dC5CYXNlRGlyZWN0b3J5LCAibGlid2todG1sdG94LmRsbCIpKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>ListB2bRegistrationSummaryResponse</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUQK</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuTW9kZWxzLkIyYlJlZ2lzdHJhdGlvbjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTXZjKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -737,10 +755,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyZWFtLlBvc2l0aW9uID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTXZjKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuTW9kZWxzLlNvcnRpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
@@ -750,17 +768,16 @@
       </register>
     </registers>
     <search>
-      <last-search>valida</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>valida</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>Domain</last-replace>
       <last-substitute>Course</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVEYXRhTGlzdFw+</entry>
         <entry>dataList</entry>
         <entry>TResponseItem</entry>
         <entry encoding="base64">XDxJbnN0cnVjdG9yTmFtZVw+</entry>
@@ -780,6 +797,7 @@
         <entry encoding="base64">XDxBZGRDc3ZTZXJ2aWNlXD4=</entry>
         <entry>airbr</entry>
         <entry>valida</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
