@@ -49,11 +49,6 @@
       <file name="/Dummy.cs" timestamp="1554824744775">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/B2bRegistrationSummaryQueryBase.cs" timestamp="1554456600501">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByCourse/B2bRegistrationSummaryByCourseQueryHandler.cs" timestamp="1554739785185">
         <mark key="'" line="12" column="67" />
       </file>
@@ -72,11 +67,6 @@
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByCourse/B2BRegistrationSummaryByCourseQueryHandler.cs" timestamp="1554739475687">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="49" />
-        <mark key="." line="56" column="85" />
       </file>
       <file name="/payments.public.csod_registrations [payments@localhost]" timestamp="1554825294890">
         <mark key="[" line="0" column="0" />
@@ -194,11 +184,6 @@
         <mark key="]" line="6" column="92" />
         <mark key="^" line="6" column="92" />
         <mark key="." line="6" column="92" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Accounting.Api.IntegrationTests.csproj" timestamp="1554454304163">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="/C# Console" timestamp="1554039666990">
         <mark key="[" line="0" column="0" />
@@ -353,17 +338,13 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Domain/Queries/B2bRegistration/Summary/ByDomain/B2bRegistrationSummaryByCourseQueryTests.cs" timestamp="1554740391331">
         <mark key="'" line="8" column="17" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1554824002749">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/Summary/ListB2BRegistrationSummaryByCourseItemResponse.cs" timestamp="1554719864259">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/Extensions/PdfServiceExtensions.cs" timestamp="1554887168090" />
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DatabaseExtensions.cs" timestamp="1553973994188">
         <mark key="'" line="12" column="43" />
       </file>
@@ -426,18 +407,8 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayoutDetail/ListInstructorPayoutDetailQueryResult.cs" timestamp="1554210868226">
         <mark key="'" line="5" column="65" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/B2bRegistrationRequest.cs" timestamp="1554716251661">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/CsodRegistrationMother.cs" timestamp="1554725827549">
         <mark key="'" line="8" column="43" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Accounting.Api.csproj" timestamp="1554457087624">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Assembly/CustomAssemblyLoadContext.cs" timestamp="1554883312461" />
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/Summary/ListB2bRegistrationSummaryResponseBase.cs" timestamp="1554802774626">
@@ -486,7 +457,7 @@
         <mark key="^" line="117" column="67" />
         <mark key="." line="119" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554880418667">
+      <file name="/Dummy.txt" timestamp="1554887187624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -775,7 +746,7 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -816,7 +787,6 @@
         <entry>%s/ByInstructor/ByCourse/g</entry>
         <entry>%s/ListInstructorPayoutDetail/B2bRegistration/g</entry>
         <entry>%s/ListInstructorPayoutDetailRequest/B2bRegistrationRequest/g</entry>
-        <entry>action VimVisualSwapSelections</entry>
         <entry>%s/ByCourse/ByInstructor/g</entry>
         <entry>%s/ByInstructor/ByDomain/g</entry>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0bmFtZS9uYW1lL2c=</entry>
@@ -829,8 +799,9 @@
         <entry>nohl</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
