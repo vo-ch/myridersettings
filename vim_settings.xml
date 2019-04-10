@@ -197,8 +197,10 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/B2bRegistration/CurrencyNotFoundException.cs" timestamp="1554300873352">
         <mark key="'" line="5" column="52" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" timestamp="1554903432968">
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/test/Accounting.InstructorPayoutReportGenerator.IntegrationTests/FunctionTests.cs" timestamp="1554907259111">
         <mark key="'" line="96" column="29" />
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="29" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/B2bRegistrationSummaryByDomainItemResponseMother.cs" timestamp="1554724736990">
         <mark key="'" line="11" column="0" />
@@ -364,7 +366,7 @@
         <text>libwkhtmltox.dll</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SubmitQuarterlyPayoutCommand</text>
+        <text>FunctionTests</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
