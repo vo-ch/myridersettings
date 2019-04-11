@@ -29,10 +29,10 @@
         <mark key="^" line="89" column="30" />
         <mark key="." line="402" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1554900425104">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="28" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" timestamp="1554993014135">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="17" />
+        <mark key="." line="41" column="17" />
         <mark key="^" line="36" column="28" />
       </file>
       <file name="/payments.public.csod_registrations [payments@localhost]" timestamp="1554825294890">
@@ -359,7 +359,7 @@
         <text>ListB2bRegistrationRequestMother</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ListInstructorPayoutDetailRequestMother</text>
+        <text>,</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -386,7 +386,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ListInstructorPayoutDetailRequestMother</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>Export_DataRetrieved_ReturnsFileContentResult</text>
@@ -456,7 +456,7 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -500,8 +500,6 @@
         <entry>%s/Course/Instructor/g</entry>
         <entry>%s/Course/Domain/g</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>%s/ListInstructorPayoutDetail/ListB2bRegistration/g</entry>
         <entry>%s/Instructor/Course/g</entry>
         <entry>%s/Instructor/Domain/g</entry>
@@ -512,6 +510,8 @@
         <entry>%s/result.Data[0]/csodRegistration/g</entry>
         <entry>%s/result\.Data\[0\]/csodRegistration/g</entry>
         <entry>nohl</entry>
+        <entry>action VimVisualSwapSelections</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
