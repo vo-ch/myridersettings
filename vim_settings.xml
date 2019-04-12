@@ -230,8 +230,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FEC05B5-7641-44CD-BFC5-CD05BCAAA27B/37/f9832502/AirbrakeExtension.cs" timestamp="1554817293562">
         <mark key="'" line="18" column="31" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Function.cs" timestamp="1554133580153">
-        <mark key="'" line="41" column="67" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Function.cs" timestamp="1555059356895">
+        <mark key="'" line="41" column="63" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Pagination/PaginatedQueryResult.cs" timestamp="1554210890225">
         <mark key="'" line="8" column="28" />
@@ -261,6 +261,12 @@
         <mark key="]" line="299" column="37" />
         <mark key="." line="299" column="0" />
         <mark key="^" line="155" column="35" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" timestamp="1555059541546">
+        <mark key="[" line="105" column="58" />
+        <mark key="]" line="105" column="62" />
+        <mark key="." line="105" column="62" />
+        <mark key="^" line="105" column="62" />
       </file>
       <file name="/payments.public.currencies [payments@localhost]" timestamp="1554218018089">
         <mark key="[" line="0" column="0" />
@@ -387,7 +393,7 @@
         <mark key="^" line="123" column="61" />
         <mark key="." line="123" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554998184344">
+      <file name="/Dummy.txt" timestamp="1555059400738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -431,7 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="59" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Function.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Services/Accounting/AccountingService.cs" />
       <jump line="383" column="21" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="153" column="21" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
@@ -531,13 +536,14 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Data/AccountingRepository.cs" />
       <jump line="54" column="26" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Function.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Models/B2bRegistrationMessage.cs" />
+      <jump line="41" column="63" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Function.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ListB2bRegistrationRequestMother</text>
       </register>
       <register name="&quot;" type="4">
-        <text>removed manual dll load from test startup</text>
+        <text>Round</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -564,7 +570,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>removed manual dll load from test startup</text>
+        <text>Round</text>
       </register>
       <register name="/" type="4">
         <text>Export_DataRetrieved_ReturnsFileContentResult</text>
