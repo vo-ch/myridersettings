@@ -264,12 +264,12 @@
       <file name="/quarters [payments@localhost]" timestamp="1554705608092">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" timestamp="1555078457796">
-        <mark key="'" line="150" column="44" />
-        <mark key="[" line="146" column="70" />
-        <mark key="]" line="147" column="15" />
-        <mark key="." line="147" column="15" />
-        <mark key="^" line="147" column="15" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" timestamp="1555082099827">
+        <mark key="'" line="170" column="18" />
+        <mark key="[" line="170" column="58" />
+        <mark key="]" line="170" column="93" />
+        <mark key="." line="170" column="58" />
+        <mark key="^" line="170" column="57" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" timestamp="1555075921375">
         <mark key="'" line="107" column="53" />
@@ -453,8 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="40" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" />
-      <jump line="33" column="32" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" />
       <jump line="68" column="57" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" />
       <jump line="533" column="39" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="8" column="22" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/CsodRegistrationMother.cs" />
@@ -553,13 +551,15 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/Builders/CsodRegistrationBuilder.cs" />
       <jump line="147" column="44" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="12" column="37" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/ObjectMothers/CsodRegistrationMother.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
+      <jump line="170" column="18" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ObjectId.GenerateNewId().ToString()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>RandomHelper.NewString(&quot;id&quot;)</text>
+        <text encoding="base64">Y29udGV4dCA9PiBjb250ZXh0LkF0dGFjaChjdXJyZW5jeSk=</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -586,16 +586,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RandomHelper.NewString(&quot;id&quot;)</text>
+        <text encoding="base64">Y29udGV4dCA9PiBjb250ZXh0LkF0dGFjaChjdXJyZW5jeSk=</text>
       </register>
       <register name="/" type="4">
-        <text>Theory</text>
+        <text encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZyB0aXRsZSA9IFJhbmRvbUhlbHBlci5OZXdTdHJpbmcoInRpdGxlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1YXJ0ZXJseVBheW91dCA9IGF3YWl0IFBlcnNpc3RFbnRpdHkoCiAgICAgICAgICAgICAgICBRdWFydGVybHlQYXlvdXRNb3RoZXIuQ3JlYXRlKCkKICAgICAgICAgICAgICAgICAgICAuV2l0aFF1YXJ0ZXJJZChxdWFydGVyLklkKQogICAgICAgICAgICAgICAgICAgIC5XaXRoQ3VycmVuY3lJZChjdXJyZW5jeS5JZCkKICAgICAgICAgICAgICAgICAgICAuV2l0aFN0YXR1cyhRdWFydGVybHlQYXlvdXRTdGF0dXMuU3VibWl0dGVkKQogICAgICAgICAgICAgICAgICAgIC5CdWlsZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZWdpc3RyYXRpb24gPSBDc29kUmVnaXN0cmF0aW9uTW90aGVyCiAgICAgICAgICAgICAgICAgICAgLkNyZWF0ZSgpCiAgICAgICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgICAgIC5XaXRoQ3VycmVuY3koY3VycmVuY3kpCiAgICAgICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25EYXRlKHF1YXJ0ZXIuU3RhcnREYXRlLCBxdWFydGVyLkVuZERhdGUpCiAgICAgICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCiAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -612,7 +612,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDEwMCwgaW5zdHJ1Y3RvclBheW91dHMuU3VtKHggPT4geC5QYXlvdXREZXRhaWxzWzBdLlJlZ2lzdHJhdGlvblBlcmNlbnRhZ2UpKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
@@ -624,16 +624,16 @@
         <text>ListB2bRegistration</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDAsIG9yaWdpbmFsSW5zdHJ1Y3RvclBheW91dENvdW50KTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKGV4cGVjdGVkSW5zdHJ1Y3RvclBheW91dHMuQ291bnQsIGF3YWl0IEdldEVudGl0eUNvdW50PEluc3RydWN0b3JQYXlvdXQ+KCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMCwgb3JpZ2luYWxJbnN0cnVjdG9yUGF5b3V0RGV0YWlsc0NvdW50KTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKGV4cGVjdGVkSW5zdHJ1Y3RvclBheW91dHMuU3VtKHggPT4geC5QYXlvdXREZXRhaWxzLkNvdW50KSwgYXdhaXQgR2V0RW50aXR5Q291bnQ8SW5zdHJ1Y3RvclBheW91dERldGFpbD4oKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZWdpc3RyYXRpb24gPSBDc29kUmVnaXN0cmF0aW9uTW90aGVyCiAgICAgICAgICAgICAgICAgICAgLkNyZWF0ZSgpCiAgICAgICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgICAgIC5XaXRoQ3VycmVuY3koY3VycmVuY3kpCiAgICAgICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25EYXRlKHF1YXJ0ZXIuU3RhcnREYXRlLCBxdWFydGVyLkVuZERhdGUpCiAgICAgICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCiAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZ2lzdHJhdGlvbnMuQWRkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZWdpc3RyYXRpb24gPSBDc29kUmVnaXN0cmF0aW9uTW90aGVyCiAgICAgICAgICAgICAgICAgICAgLkNyZWF0ZSgpCiAgICAgICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgICAgIC5XaXRoQ3VycmVuY3koY3VycmVuY3kpCiAgICAgICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25EYXRlKHF1YXJ0ZXIuU3RhcnREYXRlLCBxdWFydGVyLkVuZERhdGUpCiAgICAgICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCiAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -647,10 +647,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENzb2RSZWdpc3RyYXRpb25Nb3RoZXIKICAgICAgICAgICAgICAgICAgICAuQ3JlYXRlKCkKICAgICAgICAgICAgICAgICAgICAuV2l0aEluc3RydWN0b3JJZCgiMSIpCiAgICAgICAgICAgICAgICAgICAgLldpdGhDdXJyZW5jeShjdXJyZW5jeSkKICAgICAgICAgICAgICAgICAgICAuV2l0aFJhbmRvbVJlZ2lzdHJhdGlvbkRhdGUocXVhcnRlci5TdGFydERhdGUsIHF1YXJ0ZXIuRW5kRGF0ZSkKICAgICAgICAgICAgICAgICAgICAuV2l0aFJhbmRvbVJlZ2lzdHJhdGlvblByaWNlKCkKICAgICAgICAgICAgICAgICAgICAuQnVpbGQoKSk7ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENzb2RSZWdpc3RyYXRpb25Nb3RoZXIKICAgICAgICAgICAgICAgICAgICAuQ3JlYXRlKCkKICAgICAgICAgICAgICAgICAgICAuV2l0aEluc3RydWN0b3JJZCgiMSIpCiAgICAgICAgICAgICAgICAgICAgLldpdGhDdXJyZW5jeShjdXJyZW5jeSkKICAgICAgICAgICAgICAgICAgICAuV2l0aFJhbmRvbVJlZ2lzdHJhdGlvbkRhdGUocXVhcnRlci5TdGFydERhdGUsIHF1YXJ0ZXIuRW5kRGF0ZSkKICAgICAgICAgICAgICAgICAgICAuV2l0aFJhbmRvbVJlZ2lzdHJhdGlvblByaWNlKCkKICAgICAgICAgICAgICAgICAgICAuQnVpbGQoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
@@ -660,9 +660,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Theory</last-search>
+      <last-search encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern>Theory</last-pattern>
+      <last-pattern encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</last-pattern>
       <last-replace>csodRegistration</last-replace>
       <last-substitute>result\.Data\[0\]</last-substitute>
       <last-dir>1</last-dir>
@@ -670,7 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>theor</entry>
         <entry encoding="base64">XDxMaXN0QjJiUmVnaXN0cmF0aW9uU3VtbWFyeVJlc3BvbnNlQmFzZVw+</entry>
         <entry>quarterly</entry>
         <entry>Course</entry>
@@ -690,6 +689,7 @@
         <entry>Export_DataRetrieved_ReturnsFileContentResult</entry>
         <entry encoding="base64">XDxNYXRoXD4=</entry>
         <entry>Theory</entry>
+        <entry encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ByCourse/ByInstructor/g</entry>
