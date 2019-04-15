@@ -15,9 +15,9 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DomainExtensions.cs" timestamp="1554371469300">
         <mark key="'" line="55" column="79" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" timestamp="1555318265103">
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" timestamp="1555319012662">
         <mark key="'" line="68" column="54" />
-        <mark key="[" line="68" column="39" />
+        <mark key="[" line="68" column="40" />
         <mark key="]" line="68" column="71" />
         <mark key="." line="68" column="71" />
         <mark key="^" line="68" column="71" />
@@ -46,12 +46,12 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByCourse/B2bRegistrationSummaryByCourseQueryHandler.cs" timestamp="1554739785185">
         <mark key="'" line="12" column="67" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" timestamp="1554991660455">
-        <mark key="'" line="1356" column="8" />
-        <mark key="[" line="402" column="0" />
-        <mark key="]" line="402" column="0" />
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" timestamp="1555319066188">
+        <mark key="'" line="1433" column="93" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
         <mark key="^" line="89" column="30" />
-        <mark key="." line="402" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Domain/Queries/B2bRegistration/Summary/ByInstructor/B2bRegistrationSummaryByCourseQueryTests.cs" timestamp="1554740242126">
         <mark key="'" line="8" column="17" />
@@ -434,9 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="691" column="15" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
-      <jump line="762" column="15" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
-      <jump line="886" column="8" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="1018" column="8" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="1017" column="8" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="1077" column="8" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
@@ -534,13 +531,16 @@
       <jump line="192" column="108" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="163" column="46" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" />
       <jump line="68" column="54" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
+      <jump line="586" column="25" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
+      <jump line="1434" column="93" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>ObjectId.GenerateNewId().ToString()</text>
+        <text>MediaTypeNames.Application.Octet</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>CsvService.CsvMimeType</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuU2VydmljZXMuQ3N2Owo=</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -570,40 +570,40 @@
         <text>CsvService.CsvMimeType</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</text>
+        <text>CsvService.CsvMimeType</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgzMyldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuU2VydmljZXMuQ3N2Owo=</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIENzdk1pbWVUeXBlID0gInRleHQvY3N2IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIENzdk1pbWVUeXBlID0gInRleHQvY3N2IjsK</text>
       </register>
       <register name="s" type="4">
-        <text>ListB2bRegistration</text>
+        <text>CsvService.CsvMimeType</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZyB0aXRsZSA9IDsKICAgICAgICAgICAgICAgIHN0cmluZyBjb3Vyc2VJZCA9IDsKCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>ObjectId.GenerateNewId().ToString()</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -617,30 +617,29 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgc2ltaWxhckNvdXJzZXM7IGorKykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgc2ltaWxhckNvdXJzZXM7IGorKykK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>%s/CsvService.CsvMimeType/MediaTypeNames.Application.Octet/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</last-search>
+      <last-search>CsvService.CsvMimeType</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</last-pattern>
-      <last-replace>csodRegistration</last-replace>
-      <last-substitute>result\.Data\[0\]</last-substitute>
+      <last-pattern>CsvService.CsvMimeType</last-pattern>
+      <last-replace>MediaTypeNames.Application.Octet</last-replace>
+      <last-substitute>CsvService.CsvMimeType</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMaXN0QjJiUmVnaXN0cmF0aW9uU3VtbWFyeVJlc3BvbnNlQmFzZVw+</entry>
         <entry>quarterly</entry>
         <entry>Course</entry>
         <entry encoding="base64">XDxBZGRDc3ZTZXJ2aWNlXD4=</entry>
@@ -660,9 +659,9 @@
         <entry encoding="base64">XDxNYXRoXD4=</entry>
         <entry>Theory</entry>
         <entry encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</entry>
+        <entry>CsvService.CsvMimeType</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ByCourse/ByInstructor/g</entry>
         <entry>%s/ByInstructor/ByDomain/g</entry>
         <entry encoding="base64">JzwsJz5zL2ZpcnN0bmFtZS9uYW1lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0NvdXJzZS9Eb21haW4vZw==</entry>
@@ -682,6 +681,7 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
+        <entry>%s/CsvService.CsvMimeType/MediaTypeNames.Application.Octet/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
