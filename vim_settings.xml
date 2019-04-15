@@ -258,6 +258,13 @@
       <file name="/quarters [payments@localhost]" timestamp="1554705608092">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" timestamp="1555333439422">
+        <mark key="'" line="201" column="52" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="^" line="158" column="48" />
+        <mark key="." line="214" column="0" />
+      </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" timestamp="1555314797359">
         <mark key="'" line="163" column="46" />
         <mark key="[" line="163" column="109" />
@@ -435,14 +442,22 @@
         <mark key="." line="15" column="40" />
         <mark key="^" line="11" column="42" />
       </file>
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1555333270144">
+        <mark key="[" line="113" column="28" />
+        <mark key="]" line="113" column="52" />
+        <mark key="^" line="113" column="52" />
+        <mark key="." line="113" column="52" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/test/Accounting.B2bRegistrationPriceSetter.IntegrationTests/FunctionTests.cs" timestamp="1555333228011">
+        <mark key="'" line="122" column="38" />
+        <mark key="[" line="122" column="38" />
+        <mark key="]" line="122" column="59" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Domain/Queries/B2bRegistration/Summary/ByInstructor/B2bRegistrationSummaryByCourseQueryHandlerTests.cs" timestamp="1554740139544">
         <mark key="'" line="12" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1077" column="8" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
-      <jump line="1076" column="8" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
-      <jump line="1108" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="1113" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="1143" column="86" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="1328" column="8" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
@@ -529,7 +544,6 @@
       <jump line="12" column="37" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/ObjectMothers/CsodRegistrationMother.cs" />
       <jump line="170" column="18" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="188" column="73" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="24" column="47" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
       <jump line="26" column="25" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
       <jump line="192" column="108" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
@@ -540,13 +554,17 @@
       <jump line="1434" column="93" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="12" column="75" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByCourse/B2bRegistrationSummaryByCourseQueryHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/B2bRegistrationSummaryQueryHandlerBase.cs" />
+      <jump line="222" column="100" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
+      <jump line="207" column="52" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
+      <jump line="122" column="38" filename="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/test/Accounting.B2bRegistrationPriceSetter.IntegrationTests/FunctionTests.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>MediaTypeNames.Application.Octet</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlZ2lzdHJhdGlvbnMgPSBhd2FpdCBQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnMoCiAgICAgICAgICAgICAgICBFbnVtZXJhYmxlLlJhbmdlKDEsIDEwMDApCiAgICAgICAgICAgICAgICAgICAgLlNlbGVjdCh4ID0+CiAgICAgICAgICAgICAgICAgICAgICAgIENzb2RSZWdpc3RyYXRpb25Nb3RoZXIuQ3JlYXRlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoSW5zdHJ1Y3RvcklkKCIxIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoQ3VycmVuY3koY3VycmVuY3kpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuV2l0aFJhbmRvbVJlZ2lzdHJhdGlvbkRhdGUocXVhcnRlci5TdGFydERhdGUsIHF1YXJ0ZXIuRW5kRGF0ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoUmFuZG9tUmVnaXN0cmF0aW9uUHJpY2UoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCkpCiAgICAgICAgICAgICAgICAgICAgLlRvTGlzdCgpLCBjb250ZXh0ID0+IGNvbnRleHQuQXR0YWNoKGN1cnJlbmN5KSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -573,43 +591,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text>CsvService.CsvMimeType</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">dXBkYXRlIGNzb2RfcmVnaXN0cmF0aW9ucyBzZXQgcmVnaXN0cmF0aW9uX3ByaWNlID0gNS4wMCwgY3VycmVuY3lfaWQgPSAxIHdoZXJlIHRydWU7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">SUxpc3Q8Q3NvZFJlZ2lzdHJhdGlvbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5BcGkuU2VydmljZXMuQ3N2Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgUGVyc2lzdENzb2RSZWdpc3RyYXRpb25zKHJlZ2lzdHJhdGlvbnMpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIENzdk1pbWVUeXBlID0gInRleHQvY3N2IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgoK</text>
       </register>
-      <register name="s" type="4">
-        <text>CsvService.CsvMimeType</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlVGl0bGUoUmFuZG9tSGVscGVyLk5ld1N0cmluZygidGl0bGUiKSkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlUmVsZWFzZUlkKE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKS5Ub1N0cmluZygpKQogICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgLldpdGhDdXJyZW5jeShjdXJyZW5jeSkKICAgICAgICAgICAgICAgIC5XaXRoUmFuZG9tUmVnaXN0cmF0aW9uRGF0ZShxdWFydGVyLlN0YXJ0RGF0ZSwgcXVhcnRlci5FbmREYXRlKQogICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgUGVyc2lzdENzb2RSZWdpc3RyYXRpb25zKHJlZ2lzdHJhdGlvbnMsIGNvbnRleHQgPT4gY29udGV4dC5BdHRhY2goY3VycmVuY3kpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZyB0aXRsZSA9IDsKICAgICAgICAgICAgICAgIHN0cmluZyBjb3Vyc2VJZCA9IDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgUGVyc2lzdENzb2RSZWdpc3RyYXRpb25zKHJlZ2lzdHJhdGlvbnMsIGNvbnRleHQgPT4gY29udGV4dC5BdHRhY2goY3VycmVuY3kpKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>ObjectId.GenerateNewId().ToString()</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlZ2lzdHJhdGlvbnMgPSBuZXcgTGlzdDxDc29kUmVnaXN0cmF0aW9uPigpOwoKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjb3Vyc2VzTnVtYmVyOyBpKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciByZWdpc3RyYXRpb24gPSBDc29kUmVnaXN0cmF0aW9uTW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlKCkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlVGl0bGUoUmFuZG9tSGVscGVyLk5ld1N0cmluZygidGl0bGUiKSkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlUmVsZWFzZUlkKE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKS5Ub1N0cmluZygpKQogICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgLldpdGhDdXJyZW5jeShjdXJyZW5jeSkKICAgICAgICAgICAgICAgIC5XaXRoUmFuZG9tUmVnaXN0cmF0aW9uRGF0ZShxdWFydGVyLlN0YXJ0RGF0ZSwgcXVhcnRlci5FbmREYXRlKQogICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsKCiAgICAgICAgICAgICAgICByZWdpc3RyYXRpb25zLkFkZChyZWdpc3RyYXRpb24pOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoSW5zdHJ1Y3RvcklkKCIxIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoQ3VycmVuY3koY3VycmVuY3kpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuV2l0aFJhbmRvbVJlZ2lzdHJhdGlvbkRhdGUocXVhcnRlci5TdGFydERhdGUsIHF1YXJ0ZXIuRW5kRGF0ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoUmFuZG9tUmVnaXN0cmF0aW9uUHJpY2UoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -623,16 +641,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgc2ltaWxhckNvdXJzZXM7IGorKykK</text>
+      <register name="9" type="4">
+        <text encoding="base64">LCBjb250ZXh0ID0+IGNvbnRleHQuQXR0YWNoKGN1cnJlbmN5KQ==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/CsvService.CsvMimeType/MediaTypeNames.Application.Octet/g</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -684,10 +702,10 @@
         <entry>nohl</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
         <entry>%s/CsvService.CsvMimeType/MediaTypeNames.Application.Octet/g</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
