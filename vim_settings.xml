@@ -32,10 +32,10 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/GetDomainListResponseMother.cs" timestamp="1554490997393">
         <mark key="'" line="17" column="20" />
       </file>
-      <file name="/Dummy.cs" timestamp="1555082976214">
+      <file name="/Dummy.cs" timestamp="1555315224930">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Models/B2bRegistration/ListB2bRegistrationResponseTestsCopy.cs" timestamp="1554985481145">
         <mark key="[" line="7" column="17" />
@@ -164,7 +164,7 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" timestamp="1555077062434">
         <mark key="'" line="159" column="24" />
       </file>
-      <file name="/C# Console" timestamp="1555083533174">
+      <file name="/C# Console" timestamp="1555315011711">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentsDbContext.cs" timestamp="1554217910292">
@@ -267,15 +267,8 @@
       <file name="/quarters [payments@localhost]" timestamp="1554705608092">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" timestamp="1555083568546">
-        <mark key="'" line="188" column="73" />
-        <mark key="[" line="192" column="116" />
-        <mark key="]" line="192" column="119" />
-        <mark key="." line="192" column="119" />
-        <mark key="^" line="192" column="119" />
-      </file>
-      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" timestamp="1555082881859">
-        <mark key="'" line="163" column="98" />
+      <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" timestamp="1555314797359">
+        <mark key="'" line="163" column="46" />
         <mark key="[" line="163" column="109" />
         <mark key="]" line="163" column="109" />
         <mark key="^" line="163" column="109" />
@@ -412,10 +405,10 @@
         <mark key="^" line="123" column="61" />
         <mark key="." line="123" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555083834653">
+      <file name="/Dummy.txt" timestamp="1555316230923">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByDomain/B2bRegistrationSummaryByInstructorQueryResult.cs" timestamp="1554394122190">
         <mark key="'" line="2" column="17" />
@@ -462,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="690" column="15" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="687" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="691" column="15" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="762" column="15" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
@@ -557,18 +549,19 @@
       <jump line="147" column="44" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="12" column="37" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/ObjectMothers/CsodRegistrationMother.cs" />
       <jump line="170" column="18" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
-      <jump line="163" column="98" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" />
       <jump line="188" column="73" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="24" column="47" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
       <jump line="26" column="25" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Pdf/PdfService.cs" />
+      <jump line="192" column="108" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
+      <jump line="163" column="46" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ObjectId.GenerateNewId().ToString()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Accounting.B2bRegistrationPriceSetter</text>
+        <text encoding="base64">Zml4IA==</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -595,51 +588,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNyZWF0ZSBzY29wZSBmb3IgZXZlcnkgbGFtYmRhIGNhbGw=</text>
+        <text encoding="base64">Zml4IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>payoutDetail.RegistrationPercentage</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgzMyldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="123" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="125" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="45" code="0" mods="0" />
-          <key char="81" code="0" mods="0" />
-          <key char="49" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDEwMCwgaW5zdHJ1Y3RvclBheW91dHMuU3VtKHggPT4geC5QYXlvdXREZXRhaWxzWzBdLlJlZ2lzdHJhdGlvblBlcmNlbnRhZ2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZyB0aXRsZSA9IDsKICAgICAgICAgICAgICAgIHN0cmluZyBjb3Vyc2VJZCA9IDsKCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>ObjectId.GenerateNewId().ToString()</text>
       </register>
       <register name="s" type="4">
         <text>ListB2bRegistration</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDAsIG9yaWdpbmFsSW5zdHJ1Y3RvclBheW91dENvdW50KTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKGV4cGVjdGVkSW5zdHJ1Y3RvclBheW91dHMuQ291bnQsIGF3YWl0IEdldEVudGl0eUNvdW50PEluc3RydWN0b3JQYXlvdXQ+KCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMCwgb3JpZ2luYWxJbnN0cnVjdG9yUGF5b3V0RGV0YWlsc0NvdW50KTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKGV4cGVjdGVkSW5zdHJ1Y3RvclBheW91dHMuU3VtKHggPT4geC5QYXlvdXREZXRhaWxzLkNvdW50KSwgYXdhaXQgR2V0RW50aXR5Q291bnQ8SW5zdHJ1Y3RvclBheW91dERldGFpbD4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZWdpc3RyYXRpb24gPSBDc29kUmVnaXN0cmF0aW9uTW90aGVyCiAgICAgICAgICAgICAgICAgICAgLkNyZWF0ZSgpCiAgICAgICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgICAgIC5XaXRoQ3VycmVuY3koY3VycmVuY3kpCiAgICAgICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25EYXRlKHF1YXJ0ZXIuU3RhcnREYXRlLCBxdWFydGVyLkVuZERhdGUpCiAgICAgICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCiAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgc2ltaWxhckNvdXJzZXM7IGorKykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -656,16 +638,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzaW1pbGFyQ291cnNlcyA+IDEpIHNpbWlsYXJDb3Vyc2VzLS07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -713,7 +695,6 @@
         <entry>%s/Instructor/Domain/g</entry>
         <entry encoding="base64">JzwsJz5zL0luc3RydWN0b3IvQ291cnNlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0luc3RydWN0b3IvRG9tYWluL2c=</entry>
-        <entry>action RenameElement</entry>
         <entry>%s/result.Data[0]/csodRegistration/g</entry>
         <entry>%s/result\.Data\[0\]/csodRegistration/g</entry>
         <entry>nohl</entry>
@@ -721,6 +702,7 @@
         <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
