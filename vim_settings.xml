@@ -9,6 +9,13 @@
       <file name="/payments.accounting.quarterly_payouts [payments@localhost]" timestamp="1554884451140">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Properties/launchSettings.json" timestamp="1555424468998">
+        <mark key="'" line="5" column="148" />
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="148" />
+        <mark key="." line="5" column="148" />
+        <mark key="^" line="5" column="148" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/Pagination/PagingRequest.cs" timestamp="1554306687651">
         <mark key="'" line="4" column="33" />
       </file>
@@ -490,7 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="475" column="60" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B2250D1-FB76-44B9-8AF1-AB5ED79E762F/28/9fa5bd76/EntityFrameworkServiceCollectionExtensions.cs" />
       <jump line="480" column="24" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9B2250D1-FB76-44B9-8AF1-AB5ED79E762F/28/9fa5bd76/EntityFrameworkServiceCollectionExtensions.cs" />
       <jump line="16" column="65" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailM2MControllerTests.cs" />
       <jump line="100" column="49" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" />
@@ -590,13 +596,14 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/195B0601-950C-42ED-9FE3-213820A7AFB5/b1/4c85ee49/LambdaLogger.cs" />
       <jump line="20" column="48" filename="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Attributes/InterceptorAttribute.cs" />
       <jump line="43" column="28" filename="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Function.cs" />
+      <jump line="5" column="148" filename="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Properties/launchSettings.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>lambdaLogger.LogTrace(_lambdaContext,</text>
       </register>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>.\\bin\\Debug\\netcoreapp2.1</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -623,10 +630,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>.\\bin\\Debug\\netcoreapp2.1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdWJsaWNcPg==</text>
+        <text>\\</text>
       </register>
       <register name="0" type="4">
         <text>{_method.DeclaringType.FullName}.{_method.Name}</text>
@@ -683,22 +690,20 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>s/\\/\\\\/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdWJsaWNcPg==</last-search>
+      <last-search>\\</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdWJsaWNcPg==</last-pattern>
-      <last-replace>MediaTypeNames.Application.Octet</last-replace>
-      <last-substitute>CsvService.CsvMimeType</last-substitute>
+      <last-pattern>\\</last-pattern>
+      <last-replace>\\\\</last-replace>
+      <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>airbr</entry>
-        <entry>valida</entry>
         <entry>data</entry>
         <entry>letter</entry>
         <entry encoding="base64">XDxXaXRoTGFiZWxcPg==</entry>
@@ -717,10 +722,10 @@
         <entry encoding="base64">XDxkb21haW5CYXNlXD4=</entry>
         <entry>decima</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry>\/</entry>
+        <entry>\\</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ByInstructor/ByDomain/g</entry>
-        <entry encoding="base64">JzwsJz5zL2ZpcnN0bmFtZS9uYW1lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0NvdXJzZS9Eb21haW4vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0NvdXJzZS9JbnN0cnVjdG9yL2c=</entry>
         <entry>%s/Course/Instructor/g</entry>
@@ -739,6 +744,8 @@
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>s/\//\/\//g</entry>
+        <entry>s/\\/\\\\/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
