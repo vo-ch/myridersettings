@@ -189,11 +189,11 @@
       <file name="/C# Console" timestamp="1555315011711">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Attributes/InterceptorAttribute.cs" timestamp="1555419792291">
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="35" column="28" />
-        <mark key="^" line="35" column="28" />
-        <mark key="." line="35" column="28" />
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Attributes/InterceptorAttribute.cs" timestamp="1555425680411">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+        <mark key="." line="20" column="50" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentsDbContext.cs" timestamp="1554217910292">
         <mark key="'" line="13" column="27" />
@@ -603,7 +603,7 @@
         <text>lambdaLogger.LogTrace(_lambdaContext,</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.\\bin\\Debug\\netcoreapp2.1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -630,7 +630,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.\\bin\\Debug\\netcoreapp2.1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -690,7 +690,7 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>s/\\/\\\\/g</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -738,7 +738,6 @@
         <entry>%s/result.Data[0]/csodRegistration/g</entry>
         <entry>%s/result\.Data\[0\]/csodRegistration/g</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>%s/CsvService.CsvMimeType/MediaTypeNames.Application.Octet/g</entry>
         <entry>nohl</entry>
         <entry>action GotoImplementation</entry>
@@ -746,6 +745,7 @@
         <entry>action ShowErrorDescription</entry>
         <entry>s/\//\/\//g</entry>
         <entry>s/\\/\\\\/g</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
