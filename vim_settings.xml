@@ -142,6 +142,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FEC05B5-7641-44CD-BFC5-CD05BCAAA27B/53/7e51c805/AirbrakeMiddleware.cs" timestamp="1554817302621">
         <mark key="'" line="29" column="49" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01f8e213-5ecc-4708-bead-67f184c26463/console_1.sql" timestamp="1555322177290">
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="18" column="74" />
+        <mark key="." line="18" column="74" />
+        <mark key="^" line="18" column="74" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Models/B2bRegistration/ListInstructorPayoutDetailItemResponseTests.cs" timestamp="1554987105715">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="43" />
@@ -171,11 +177,11 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" timestamp="1555077062434">
         <mark key="'" line="159" column="24" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Attributes/InterceptorAttribute.cs" timestamp="1555436112336">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="63" column="58" />
-        <mark key="." line="28" column="0" />
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Attributes/InterceptorAttribute.cs" timestamp="1555481099938">
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="15" />
+        <mark key="^" line="21" column="66" />
+        <mark key="." line="55" column="15" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentsDbContext.cs" timestamp="1554217910292">
         <mark key="'" line="13" column="27" />
@@ -560,8 +566,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dEZWJ1ZyhfbGFtYmRhQ29udGV4dCwgJCJPbkV4aXQhISEhISEhIHtfbWV0aG9kLkRlY2xhcmluZ1R5cGUuRnVsbE5hbWV9LntfbWV0aG9kLk5hbWV9Iik7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmlydHVhbCA=</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -588,7 +594,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;test&quot;</text>
+        <text encoding="base64">dmlydHVhbCA=</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -647,7 +653,7 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -698,11 +704,11 @@
         <entry>%s/CsvService.CsvMimeType/MediaTypeNames.Application.Octet/g</entry>
         <entry>nohl</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action RenameElement</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>s/\//\/\//g</entry>
         <entry>s/\\/\\\\/g</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
