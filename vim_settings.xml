@@ -87,6 +87,11 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Domain/Queries/B2bRegistration/Summary/ByDomain/B2bRegistrationSummaryByCourseQueryHandlerTests.cs" timestamp="1554740367833">
         <mark key="'" line="15" column="33" />
       </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Services/Auth/AuthService.cs" timestamp="1555492333457">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Domain/Resolvers/IHandlerResolver.cs" timestamp="1554289117507">
         <mark key="'" line="5" column="22" />
       </file>
@@ -277,12 +282,12 @@
         <mark key="^" line="296" column="11" />
         <mark key="." line="296" column="11" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Logging/Attributes/LoggedAttribute.cs" timestamp="1555490252981">
-        <mark key="'" line="32" column="42" />
-        <mark key="[" line="27" column="64" />
-        <mark key="]" line="27" column="64" />
-        <mark key="." line="27" column="64" />
-        <mark key="^" line="27" column="64" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging/Attributes/LoggedAttribute.cs" timestamp="1555492662717">
+        <mark key="'" line="62" column="50" />
+        <mark key="[" line="62" column="49" />
+        <mark key="]" line="62" column="49" />
+        <mark key="^" line="62" column="38" />
+        <mark key="." line="62" column="49" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Exception/Base/CyberUNotFoundException.cs" timestamp="1554300875538">
         <mark key="'" line="4" column="51" />
@@ -374,12 +379,12 @@
         <mark key="^" line="35" column="55" />
         <mark key="." line="114" column="55" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Function.cs" timestamp="1555490139292">
-        <mark key="'" line="57" column="20" />
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="24" />
-        <mark key="." line="57" column="24" />
-        <mark key="^" line="57" column="24" />
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Function.cs" timestamp="1555492260191">
+        <mark key="'" line="58" column="14" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="^" line="159" column="52" />
+        <mark key="." line="157" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/B2bRegistrationSummaryByDomainItemResponseMother.cs" timestamp="1554724736990">
         <mark key="'" line="11" column="0" />
@@ -490,7 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41FF9904-11FC-44E2-ABB3-76207A9A54A4/69/b8ee607b/Math.cs" />
       <jump line="105" column="53" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" />
       <jump line="56" column="88" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" />
       <jump line="44" column="57" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Function.cs" />
@@ -589,14 +593,15 @@
       <jump line="39" column="42" filename="C:/projects/Accounting/Infra/Accounting.Logging/Attributes/LoggedAttribute.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4B47B422-BC4C-4615-BBDE-BE1DF9B21B0D/50/24a65e8e/ServiceProviderServiceExtensions.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Logging/Attributes/LoggedAttribute.cs" />
-      <jump line="57" column="20" filename="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Function.cs" />
+      <jump line="57" column="14" filename="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Function.cs" />
+      <jump line="62" column="50" filename="C:/projects/Accounting/Infra/Accounting.Logging/Attributes/LoggedAttribute.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>(</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICBbTG9nZ2VkXQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_lambdaLogger</text>
+        <text>&quot;</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -623,7 +628,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_lambdaLogger</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
@@ -632,19 +637,19 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHJlYWRvbmx5IElTZXJ2aWNlUHJvdmlkZXIgU2VydmljZVByb3ZpZGVyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElMYW1iZGFMb2dnZXIgX2xhbWJkYUxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dUcmFjZShsYW1iZGFDb250ZXh0LCAiRU5EIEdldERvbWFpbkxpc3QiKTsK</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElMYW1iZGFDb250ZXh0IF9sYW1iZGFDb250ZXh0Owo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIF9sYW1iZGFMb2dnZXIuTG9nVHJhY2UobGFtYmRhQ29udGV4dCwgIlNUQVJUIEdldERvbWFpbkxpc3QiKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIExvZ2dlZEF0dHJpYnV0ZSgpCiAgICAgICAgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlVGl0bGUoUmFuZG9tSGVscGVyLk5ld1N0cmluZygidGl0bGUiKSkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlUmVsZWFzZUlkKE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKS5Ub1N0cmluZygpKQogICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgLldpdGhDdXJyZW5jeShjdXJyZW5jeSkKICAgICAgICAgICAgICAgIC5XaXRoUmFuZG9tUmVnaXN0cmF0aW9uRGF0ZShxdWFydGVyLlN0YXJ0RGF0ZSwgcXVhcnRlci5FbmREYXRlKQogICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCg==</text>
@@ -653,13 +658,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTG9nZ2VkQXR0cmlidXRlKEZ1bmM8SUxhbWJkYUxvZ2dlcj4gbG9nZ2VyRmFjdG9yeSkKICAgICAgICB7CiAgICAgICAgICAgIF9sYW1iZGFMb2dnZXIgPSBsb2dnZXJGYWN0b3J5KCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dEZWJ1ZyhsYW1iZGFDb250ZXh0LCAiRU5EIFNldFJlZ2lzdHJhdGlvblByaWNlIik7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gQXR0cmlidXRlIHNob3VsZCBiZSAicmVnaXN0ZXJlZCIgYnkgYWRkaW5nIGFzIG1vZHVsZSBvciBhc3NlbWJseSBjdXN0b20gYXR0cmlidXRlClttb2R1bGU6IExvZ2dlZF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dEZWJ1ZyhsYW1iZGFDb250ZXh0LCAiU1RBUlQgU2V0UmVnaXN0cmF0aW9uUHJpY2UiKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -673,10 +678,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0cmluZyBNZXRob2ROYW1lID0+ICQie19tZXRob2QuRGVjbGFyaW5nVHlwZS5GdWxsTmFtZX0ue19tZXRob2QuTmFtZX0iOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1ldGhvZERlY29yYXRvci5Gb2R5IiBWZXJzaW9uPSIxLjAuMiIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dEZWJ1ZyhsYW1iZGFDb250ZXh0LCAiRU5EIEVuc3VyZVJlZ2lzdHJhdGlvblByaWNlSXNOb3RTZXQiKTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
