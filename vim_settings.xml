@@ -38,6 +38,10 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/GetDomainListResponseMother.cs" timestamp="1554490997393">
         <mark key="'" line="17" column="20" />
       </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Accounting.B2bRegistrationIngester.Tests.csproj" timestamp="1555502042156">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="23" />
+      </file>
       <file name="/Dummy.cs" timestamp="1555434219580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -105,6 +109,11 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/InstructorPayout.cs" timestamp="1555339136936">
         <mark key="'" line="25" column="25" />
       </file>
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Accounting.Logging.Tests.csproj" timestamp="1555502044627">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" timestamp="1555337794679">
         <mark key="[" line="62" column="26" />
         <mark key="]" line="62" column="53" />
@@ -125,6 +134,13 @@
       </file>
       <file name="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/stores/B2BTransactionSummaryStore.js" timestamp="1554370304431">
         <mark key="'" line="70" column="40" />
+      </file>
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" timestamp="1555504127673">
+        <mark key="'" line="69" column="35" />
+        <mark key="[" line="83" column="66" />
+        <mark key="]" line="84" column="44" />
+        <mark key="." line="84" column="44" />
+        <mark key="^" line="84" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FEC05B5-7641-44CD-BFC5-CD05BCAAA27B/53/7e51c805/AirbrakeMiddleware.cs" timestamp="1554817302621">
         <mark key="'" line="29" column="49" />
@@ -223,10 +239,10 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByCourse/B2bRegistrationSummaryByInstructorQueryHandler.cs" timestamp="1554393677235">
         <mark key="'" line="11" column="8" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Logging/Attributes/LoggedAttribute.cs" timestamp="1555492662717">
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging/Attributes/LoggedAttribute.cs" timestamp="1555503150832">
         <mark key="'" line="62" column="50" />
-        <mark key="[" line="62" column="49" />
-        <mark key="]" line="62" column="49" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="106" />
         <mark key="^" line="62" column="38" />
         <mark key="." line="62" column="49" />
       </file>
@@ -327,7 +343,7 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/CsodRegistrationMother.cs" timestamp="1554909750137">
         <mark key="'" line="8" column="22" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Logging/Accounting.Logging.csproj" timestamp="1555500617837">
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging/Accounting.Logging.csproj" timestamp="1555501668615">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="71" />
         <mark key="." line="9" column="0" />
@@ -367,11 +383,6 @@
       <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/ObjectMothers/CsodRegistrationMother.cs" timestamp="1555078379084">
         <mark key="'" line="12" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45FD4001-751F-4A69-9B97-A634CF434A11/c4/9e1d1385/MethodDecoratorAttribute.cs" timestamp="1555429567566">
-        <mark key="'" line="13" column="25" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="5" />
-      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Logging/Options/LambdaLoggerOptions.cs" timestamp="1555499819365">
         <mark key="'" line="6" column="21" />
       </file>
@@ -399,9 +410,9 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Logging.Benchmark/TargetWithAttribute.cs" timestamp="1555499594358">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="18" column="44" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging.Benchmark/TargetWithAttribute.cs" timestamp="1555501626313">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="21" column="53" />
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
@@ -410,9 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="94" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" />
-      <jump line="272" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
-      <jump line="124" column="67" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="108" column="53" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Data/AccountingRepository.cs" />
       <jump line="63" column="0" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
       <jump line="524" column="43" filename="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.IntegrationTests/FunctionTests.cs" />
@@ -510,13 +518,18 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Logging.Benchmark/TargetRaw.cs" />
       <jump line="24" column="6" filename="C:/projects/Accounting/Infra/Accounting.Logging.Benchmark/Program.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8B65DBE5-458B-4D44-8CF3-C60F38D71B29/38/71f9b07b/ClrJobAttribute.cs" />
+      <jump line="35" column="16" filename="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" />
+      <jump line="58" column="26" filename="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" />
+      <jump line="66" column="35" filename="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBbTG9nZ2VkXQo=</text>
+      <register name="a" type="4">
+        <text>$@&quot;method: Exec.
+                        {nameof(ILambdaLogger)} is null.
+                        Target class should implement {nameof(ILogged)} interface&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9IkZvZHkiIFZlcnNpb249IjQuMi4xIiAvPgogICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iTWV0aG9kRGVjb3JhdG9yLkZvZHkiIFZlcnNpb249IjEuMC4yIiAvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -543,43 +556,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, MonoJob, CoreRtJob</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>\\</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9IkZvZHkiIFZlcnNpb249IjQuMi4xIiAvPgogICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iTWV0aG9kRGVjb3JhdG9yLkZvZHkiIFZlcnNpb249IjEuMC4yIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBFeGVjX0xhbWJkYUNvbnRleHROdWxsX1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvbigpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIHZhciB0YXJnZXQgPSBuZXcgVGVzdFRhcmdldChfbGFtYmRhTG9nZ2VyTW9jay5PYmplY3QpOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBBc3NlcnQuVGhyb3dzPEFyZ3VtZW50TnVsbEV4Y2VwdGlvbj4oKCkgPT4KICAgICAgICAgICAgICAgIHRhcmdldC5FeGVjKDEsIG51bGwpKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKAogICAgICAgICAgICAgICAgJEAibWV0aG9kOiBFeGVjLiBPbmUgb2YgdGFyZ2V0IG1ldGhvZCBwYXJhbWV0ZXJzIHNob3VsZCBiZSB7bmFtZW9mKElMYW1iZGFDb250ZXh0KX0iLAogICAgICAgICAgICAgICAgZXhjZXB0aW9uLk1lc3NhZ2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1kNS5Db21wdXRlSGFzaChkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PgogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKAogICAgICAgICAgICAgICAgJEAibWV0aG9kOiBFeGVjLiBPbmUgb2YgdGFyZ2V0IG1ldGhvZCBwYXJhbWV0ZXJzIHNob3VsZCBiZSB7bmFtZW9mKElMYW1iZGFDb250ZXh0KX0iLAogICAgICAgICAgICAgICAgZXhjZXB0aW9uLk1lc3NhZ2UpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCJtZXRob2Q6IEV4ZWNJbnZhbGlkLiBPbmUgb2YgdGFyZ2V0IG1ldGhvZCBwYXJhbWV0ZXJzIHNob3VsZCBiZSB7bmFtZW9mKElMYW1iZGFDb250ZXh0KX0iOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>$@&quot;method: Exec.
+                        {nameof(ILambdaLogger)} is null.
+                        Target class should implement {nameof(ILogged)} interface&quot;</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlVGl0bGUoUmFuZG9tSGVscGVyLk5ld1N0cmluZygidGl0bGUiKSkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlUmVsZWFzZUlkKE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKS5Ub1N0cmluZygpKQogICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgLldpdGhDdXJyZW5jeShjdXJyZW5jeSkKICAgICAgICAgICAgICAgIC5XaXRoUmFuZG9tUmVnaXN0cmF0aW9uRGF0ZShxdWFydGVyLlN0YXJ0RGF0ZSwgcXVhcnRlci5FbmREYXRlKQogICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbR2xvYmFsU2V0dXBdCiAgICAgICAgcHVibGljIHZvaWQgU2V0dXAoKQogICAgICAgIHsKICAgICAgICAgICAgZGF0YSA9IG5ldyBieXRlW05dOwogICAgICAgICAgICBuZXcgUmFuZG9tKDQyKS5OZXh0Qnl0ZXMoZGF0YSk7CiAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>$@&quot;method: ExecInvalid. One of target method parameters should be {nameof(ILambdaContext)}&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJ5dGVbXSBkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKGV4Y2VwdGlvbi5NZXNzYWdlLCAkIm1ldGhvZDogRXhlYy4gT25lIG9mIHRhcmdldCBtZXRob2QgcGFyYW1ldGVycyBzaG91bGQgYmUge25hbWVvZihJTGFtYmRhQ29udGV4dCl9Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFNIQTI1NiBzaGEyNTYgPSBTSEEyNTYuQ3JlYXRlKCk7CiAgICAgICAgcHJpdmF0ZSBNRDUgbWQ1ID0gTUQ1LkNyZWF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKGV4Y2VwdGlvbi5NZXNzYWdlLCAkQCJtZXRob2Q6IEV4ZWMuCiAgICAgICAgICAgICAgICAgICAgICAgIHtuYW1lb2YoSUxhbWJkYUxvZ2dlcil9IGlzIG51bGwuCiAgICAgICAgICAgICAgICAgICAgICAgIFRhcmdldCBjbGFzcyBzaG91bGQgaW1wbGVtZW50IHtuYW1lb2YoSUxvZ2dlZCl9IGludGVyZmFjZSIpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5Mb2dnaW5nLkV4dGVuc2lvbnM7Cg==</text>
+      <register name="7" type="4">
+        <text>$@&quot;method: Exec. One of target method parameters should be {nameof(ILambdaContext)}&quot;</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -592,11 +607,13 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>$@&quot;method: Exec.
+                        {nameof(ILambdaLogger)} is null.
+                        Target class should implement {nameof(ILogged)} interface&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xhbWJkYUxvZ2dlci5Mb2dUcmFjZShsYW1iZGFDb250ZXh0LCAiRU5EIFJ1biIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRocm93czxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+CiAgICAgICAgICAgICAgICB0YXJnZXQuRXhlYygxLCBfbGFtYmRhQ29udGV4dE1vY2suT2JqZWN0KSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
