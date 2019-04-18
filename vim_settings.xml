@@ -484,8 +484,8 @@
         <mark key="^" line="123" column="61" />
         <mark key="." line="123" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555513373138">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1555597440101">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -650,7 +650,7 @@
                         Target class should implement {nameof(ILogged)} interface&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>xmlns=&quot;http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd&quot;</text>
+        <text>AOP logging added to price setter lambda</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -677,7 +677,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>xmlns=&quot;http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd&quot;</text>
+        <text>AOP logging added to price setter lambda</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaHJvd3NBc3luY1w+</text>
