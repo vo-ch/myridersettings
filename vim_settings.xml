@@ -52,7 +52,6 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
       </file>
-      <file name="/Program.cs" timestamp="1555512928508" />
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Models/B2bRegistration/ListB2bRegistrationResponseTestsCopy.cs" timestamp="1554985481145">
         <mark key="[" line="7" column="17" />
         <mark key="]" line="7" column="55" />
@@ -327,6 +326,12 @@
         <mark key="]" line="29" column="16" />
         <mark key="." line="29" column="16" />
         <mark key="^" line="29" column="16" />
+      </file>
+      <file name="C:/projects/Accounting/Shared/Lambda/.nuspec" timestamp="1555595386030">
+        <mark key="[" line="1" column="74" />
+        <mark key="]" line="1" column="74" />
+        <mark key="^" line="5" column="53" />
+        <mark key="." line="1" column="74" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Authentication/Handlers/ClientAuthenticationHandler.cs" timestamp="1555577085099">
         <mark key="'" line="51" column="17" />
@@ -645,7 +650,7 @@
                         Target class should implement {nameof(ILogged)} interface&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MyProject..Test</text>
+        <text>xmlns=&quot;http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd&quot;</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -672,7 +677,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MyProject..Test</text>
+        <text>xmlns=&quot;http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaHJvd3NBc3luY1w+</text>
@@ -681,34 +686,34 @@
         <text>Cyberu.Lambda.Template</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5Db25maWd1cmF0aW9uLkhlbHBlcnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cGFja2FnZVR5cGUgbmFtZT0iVGVtcGxhdGUiPjwvcGFja2FnZVR5cGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxhZGQga2V5PSJteWdldC9jdV9mZWVkIiB2YWx1ZT0iaHR0cHM6Ly93d3cubXlnZXQub3JnL0YvY3VfZmVlZC9hcGkvdjMvaW5kZXguanNvbiIgLz4K</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5Db25maWd1cmF0aW9uLkhlbHBlcnM7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgSUxhbWJkYUxvZ2dlciA9IEFjY291bnRpbmcuTG9nZ2luZy5JTGFtYmRhTG9nZ2VyOwo=</text>
+        <text encoding="base64">CTxhZGQga2V5PSJteWdldC9jdV9mZWVkIiB2YWx1ZT0iaHR0cHM6Ly93d3cubXlnZXQub3JnL0YvY3VfZmVlZC9hcGkvdjMvaW5kZXguanNvbiIgLz4K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlVGl0bGUoUmFuZG9tSGVscGVyLk5ld1N0cmluZygidGl0bGUiKSkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlUmVsZWFzZUlkKE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKS5Ub1N0cmluZygpKQogICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgLldpdGhDdXJyZW5jeShjdXJyZW5jeSkKICAgICAgICAgICAgICAgIC5XaXRoUmFuZG9tUmVnaXN0cmF0aW9uRGF0ZShxdWFydGVyLlN0YXJ0RGF0ZSwgcXVhcnRlci5FbmREYXRlKQogICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRydWUoZXhjZXB0aW9uLk1lc3NhZ2UgPT0gbmFtZW9mKGxhbWJkYUNvbnRleHQpKTsK</text>
+        <text encoding="base64">dXNpbmcgSUxhbWJkYUxvZ2dlciA9IEFjY291bnRpbmcuTG9nZ2luZy5JTGFtYmRhTG9nZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGFyZ2V0LkV4ZWNBc3luY1Rocm93KHN1bW1hdG9yTW9jay5PYmplY3QsIF9sYW1iZGFDb250ZXh0TW9jay5PYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRydWUoZXhjZXB0aW9uLk1lc3NhZ2UgPT0gbmFtZW9mKGxhbWJkYUNvbnRleHQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKCiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGFyZ2V0LkV4ZWNBc3luY1Rocm93KHN1bW1hdG9yTW9jay5PYmplY3QsIF9sYW1iZGFDb250ZXh0TW9jay5PYmplY3QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsKCiAgICAgICAgICAgIH0KICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZShlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -722,10 +727,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
