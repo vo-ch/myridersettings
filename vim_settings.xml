@@ -208,12 +208,11 @@
       <file name="C:/projects/NewCMS/src/views/reports/b2b-transaction-summary/stores/B2BTransactionSummaryStore.js" timestamp="1554370304431">
         <mark key="'" line="70" column="40" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" timestamp="1555930738740">
-        <mark key="'" line="259" column="16" />
-        <mark key="[" line="92" column="20" />
-        <mark key="]" line="92" column="33" />
-        <mark key="." line="262" column="43" />
-        <mark key="^" line="262" column="43" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" timestamp="1555937437787">
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
+        <mark key="^" line="122" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FEC05B5-7641-44CD-BFC5-CD05BCAAA27B/53/7e51c805/AirbrakeMiddleware.cs" timestamp="1554817302621">
         <mark key="'" line="29" column="49" />
@@ -229,6 +228,12 @@
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/B2bRegistrationSummaryByInstructorQueryResultMother - Copy - Copy.cs" timestamp="1554986061290">
         <mark key="'" line="6" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests.Core/Accounting.Logging.Tests.Core/TestTarget.cs" timestamp="1555937449877">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Models/B2bRegistration/ListB2bRegistrationSummaryResponseTests.cs" timestamp="1554986764091">
         <mark key="'" line="30" column="45" />
@@ -616,10 +621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="45" filename="C:/projects/Accounting/Infra/Accounting.Logging.Benchmark/Program.cs" />
-      <jump line="22" column="37" filename="C:/projects/Accounting/Infra/Accounting.Logging/CyberULambdaLogger.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87DAEA5C-C5D0-47D4-A6BB-FF8954AA1C4A/9a/4e3a44ab/OptionsManager`1.cs" />
-      <jump line="34" column="64" filename="C:/projects/Accounting/Infra/Accounting.Logging.Benchmark/Program.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87DAEA5C-C5D0-47D4-A6BB-FF8954AA1C4A/ee/252a3784/OptionsWrapper`1.cs" />
       <jump line="35" column="49" filename="C:/projects/Accounting/Infra/Accounting.Logging.Benchmark/Program.cs" />
       <jump line="6" column="21" filename="C:/projects/Accounting/Infra/Accounting.Logging/Options/LambdaLoggerOptions.cs" />
@@ -716,15 +717,17 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9C7A17BB-5DDC-410C-BAAB-2223C5BA5FF0/34/e0135dd4/ICallback.cs" />
       <jump line="157" column="32" filename="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" />
       <jump line="259" column="16" filename="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" />
+      <jump line="161" column="40" filename="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" />
+      <jump line="124" column="20" filename="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" />
+      <jump line="164" column="8" filename="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" />
+      <jump line="227" column="22" filename="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>$@&quot;method: Exec.
-                        {nameof(ILambdaLogger)} is null.
-                        Target class should implement {nameof(ILogged)} interface&quot;</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNsYXNzIFRlc3RUYXJnZXQ6IElMb2dnZWQKICAgICAgICB7CiAgICAgICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUxhbWJkYUxvZ2dlciBfbGFtYmRhTG9nZ2VyOwoKICAgICAgICAgICAgcHVibGljIFRlc3RUYXJnZXQoSUxhbWJkYUxvZ2dlciBsYW1iZGFMb2dnZXIpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9sYW1iZGFMb2dnZXIgPSBsYW1iZGFMb2dnZXI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFtMb2dnZWRdCiAgICAgICAgICAgIHB1YmxpYyBpbnQgRXhlYyhpbnQgbWF4LCBJTGFtYmRhQ29udGV4dCBsYW1iZGFDb250ZXh0KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpbnQgc3VtID0gRW51bWVyYWJsZS5SYW5nZSgxLCBtYXgpLlN1bSh4ID0+IHgpOwogICAgICAgICAgICAgICAgcmV0dXJuIHN1bTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgW0xvZ2dlZF0KICAgICAgICAgICAgcHVibGljIGludCBFeGVjKElTdW1tYXRvciBzdW1tYXRvciwgSUxhbWJkYUNvbnRleHQgbGFtYmRhQ29udGV4dCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaW50IHN1bSA9IHN1bW1hdG9yLlN1bSgpOwogICAgICAgICAgICAgICAgcmV0dXJuIHN1bTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgW0xvZ2dlZF0KICAgICAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8aW50PiBFeGVjQXN5bmMoSVN1bW1hdG9yIHN1bW1hdG9yLCBJTGFtYmRhQ29udGV4dCBsYW1iZGFDb250ZXh0KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpbnQgc3VtID0gYXdhaXQgU3VtQXN5bmMoc3VtbWF0b3IsIGxhbWJkYUNvbnRleHQpOwogICAgICAgICAgICAgICAgcmV0dXJuIHN1bTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgW0xvZ2dlZF0KICAgICAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8aW50PiBFeGVjQXN5bmNUaHJvdyhJU3VtbWF0b3Igc3VtbWF0b3IsIElMYW1iZGFDb250ZXh0IGxhbWJkYUNvbnRleHQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGludCBzdW0gPSBhd2FpdCBTdW1Bc3luY1Rocm93KHN1bW1hdG9yLCBsYW1iZGFDb250ZXh0KTsKICAgICAgICAgICAgICAgIHJldHVybiBzdW07CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFtMb2dnZWRdCiAgICAgICAgICAgIHByaXZhdGUgYXN5bmMgVGFzazxpbnQ+IFN1bUFzeW5jKElTdW1tYXRvciBzdW1tYXRvciwgSUxhbWJkYUNvbnRleHQgbGFtYmRhQ29udGV4dCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIGF3YWl0IFRhc2suUnVuKGFzeW5jICgpID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgYXdhaXQgVGFzay5EZWxheSgxMDAwKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3VtbWF0b3IuU3VtKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgW0xvZ2dlZF0KICAgICAgICAgICAgcHJpdmF0ZSBhc3luYyBUYXNrPGludD4gU3VtQXN5bmNUaHJvdyhJU3VtbWF0b3Igc3VtbWF0b3IsIElMYW1iZGFDb250ZXh0IGxhbWJkYUNvbnRleHQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCBUYXNrLlJ1bigoKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3VtbWF0b3IuU3VtKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQoKCiAgICAgICAgICAgIFtMb2dnZWRdCiAgICAgICAgICAgIHB1YmxpYyBpbnQgRXhlY0ludmFsaWQoaW50IG1heCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaW50IHN1bSA9IEVudW1lcmFibGUuUmFuZ2UoMSwgbWF4KS5TdW0oeCA9PiB4KTsKICAgICAgICAgICAgICAgIHJldHVybiBzdW07CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBJTGFtYmRhTG9nZ2VyIExvZ2dlciA9PiBfbGFtYmRhTG9nZ2VyOwogICAgICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LogLevel.Debug</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -751,43 +754,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Debug</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>LogLevel.Debug</text>
+        <text>_lambdaContextMock</text>
       </register>
       <register name="0" type="4">
-        <text>LogLevel.Debug</text>
+        <text>TestTarget</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W21vZHVsZTogTG9nZ2VkXQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBUZXN0VGFyZ2V0CiAgICB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CjwhLS0gICAgPEl0ZW1Hcm91cD4tLT4KPCEtLSAgICAgICAgPENvbnRlbnQgSW5jbHVkZT0iYXBwc2V0dGluZ3MuanNvbiI+LS0+CjwhLS0gICAgICAgICAgICA8Q29weVRvT3V0cHV0RGlyZWN0b3J5PkFsd2F5czwvQ29weVRvT3V0cHV0RGlyZWN0b3J5Pi0tPgo8IS0tICAgICAgICA8L0NvbnRlbnQ+LS0+CjwhLS0gICAgPC9JdGVtR3JvdXA+LS0+Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNsYXNzIFRlc3RUYXJnZXQ6IElMb2dnZWQKICAgICAgICB7CiAgICAgICAgICAgIHByaXZhdGUgcmVhZG9ubHkgSUxhbWJkYUxvZ2dlciBfbGFtYmRhTG9nZ2VyOwoKICAgICAgICAgICAgcHVibGljIFRlc3RUYXJnZXQoSUxhbWJkYUxvZ2dlciBsYW1iZGFMb2dnZXIpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9sYW1iZGFMb2dnZXIgPSBsYW1iZGFMb2dnZXI7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFtMb2dnZWRdCiAgICAgICAgICAgIHB1YmxpYyBpbnQgRXhlYyhpbnQgbWF4LCBJTGFtYmRhQ29udGV4dCBsYW1iZGFDb250ZXh0KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpbnQgc3VtID0gRW51bWVyYWJsZS5SYW5nZSgxLCBtYXgpLlN1bSh4ID0+IHgpOwogICAgICAgICAgICAgICAgcmV0dXJuIHN1bTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgW0xvZ2dlZF0KICAgICAgICAgICAgcHVibGljIGludCBFeGVjKElTdW1tYXRvciBzdW1tYXRvciwgSUxhbWJkYUNvbnRleHQgbGFtYmRhQ29udGV4dCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaW50IHN1bSA9IHN1bW1hdG9yLlN1bSgpOwogICAgICAgICAgICAgICAgcmV0dXJuIHN1bTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgW0xvZ2dlZF0KICAgICAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8aW50PiBFeGVjQXN5bmMoSVN1bW1hdG9yIHN1bW1hdG9yLCBJTGFtYmRhQ29udGV4dCBsYW1iZGFDb250ZXh0KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpbnQgc3VtID0gYXdhaXQgU3VtQXN5bmMoc3VtbWF0b3IsIGxhbWJkYUNvbnRleHQpOwogICAgICAgICAgICAgICAgcmV0dXJuIHN1bTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgW0xvZ2dlZF0KICAgICAgICAgICAgcHVibGljIGFzeW5jIFRhc2s8aW50PiBFeGVjQXN5bmNUaHJvdyhJU3VtbWF0b3Igc3VtbWF0b3IsIElMYW1iZGFDb250ZXh0IGxhbWJkYUNvbnRleHQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGludCBzdW0gPSBhd2FpdCBTdW1Bc3luY1Rocm93KHN1bW1hdG9yLCBsYW1iZGFDb250ZXh0KTsKICAgICAgICAgICAgICAgIHJldHVybiBzdW07CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFtMb2dnZWRdCiAgICAgICAgICAgIHByaXZhdGUgYXN5bmMgVGFzazxpbnQ+IFN1bUFzeW5jKElTdW1tYXRvciBzdW1tYXRvciwgSUxhbWJkYUNvbnRleHQgbGFtYmRhQ29udGV4dCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIGF3YWl0IFRhc2suUnVuKGFzeW5jICgpID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgYXdhaXQgVGFzay5EZWxheSgxMDAwKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3VtbWF0b3IuU3VtKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgW0xvZ2dlZF0KICAgICAgICAgICAgcHJpdmF0ZSBhc3luYyBUYXNrPGludD4gU3VtQXN5bmNUaHJvdyhJU3VtbWF0b3Igc3VtbWF0b3IsIElMYW1iZGFDb250ZXh0IGxhbWJkYUNvbnRleHQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBhd2FpdCBUYXNrLlJ1bigoKSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gc3VtbWF0b3IuU3VtKCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQoKCiAgICAgICAgICAgIFtMb2dnZWRdCiAgICAgICAgICAgIHB1YmxpYyBpbnQgRXhlY0ludmFsaWQoaW50IG1heCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaW50IHN1bSA9IEVudW1lcmFibGUuUmFuZ2UoMSwgbWF4KS5TdW0oeCA9PiB4KTsKICAgICAgICAgICAgICAgIHJldHVybiBzdW07CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyBJTGFtYmRhTG9nZ2VyIExvZ2dlciA9PiBfbGFtYmRhTG9nZ2VyOwogICAgICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxJdGVtR3JvdXA+CiAgICAgICAgPE5vbmUgVXBkYXRlPSJhcHBzZXR0aW5ncy5Mb2NhbC5qc29uIj4KICAgICAgICAgICAgPENvcHlUb091dHB1dERpcmVjdG9yeT5BbHdheXM8L0NvcHlUb091dHB1dERpcmVjdG9yeT4KICAgICAgICA8L05vbmU+CiAgICA8L0l0ZW1Hcm91cD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlVGl0bGUoUmFuZG9tSGVscGVyLk5ld1N0cmluZygidGl0bGUiKSkKICAgICAgICAgICAgICAgIC5XaXRoQ291cnNlUmVsZWFzZUlkKE9iamVjdElkLkdlbmVyYXRlTmV3SWQoKS5Ub1N0cmluZygpKQogICAgICAgICAgICAgICAgLldpdGhJbnN0cnVjdG9ySWQoIjEiKQogICAgICAgICAgICAgICAgLldpdGhDdXJyZW5jeShjdXJyZW5jeSkKICAgICAgICAgICAgICAgIC5XaXRoUmFuZG9tUmVnaXN0cmF0aW9uRGF0ZShxdWFydGVyLlN0YXJ0RGF0ZSwgcXVhcnRlci5FbmREYXRlKQogICAgICAgICAgICAgICAgLldpdGhSYW5kb21SZWdpc3RyYXRpb25QcmljZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxJdGVtR3JvdXA+CiAgICA8L0l0ZW1Hcm91cD4K</text>
+        <text encoding="base64">W21vZHVsZTogTG9nZ2VkXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Tm9uZSBVcGRhdGU9ImFwcHNldHRpbmdzLkxvY2FsLmpzb24iPgogICAgICAgICAgICA8Q29weVRvT3V0cHV0RGlyZWN0b3J5PkFsd2F5czwvQ29weVRvT3V0cHV0RGlyZWN0b3J5PgogICAgICAgIDwvTm9uZT4K</text>
+        <text encoding="base64">CjwhLS0gICAgPEl0ZW1Hcm91cD4tLT4KPCEtLSAgICAgICAgPENvbnRlbnQgSW5jbHVkZT0iYXBwc2V0dGluZ3MuanNvbiI+LS0+CjwhLS0gICAgICAgICAgICA8Q29weVRvT3V0cHV0RGlyZWN0b3J5PkFsd2F5czwvQ29weVRvT3V0cHV0RGlyZWN0b3J5Pi0tPgo8IS0tICAgICAgICA8L0NvbnRlbnQ+LS0+CjwhLS0gICAgPC9JdGVtR3JvdXA+LS0+Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxQcm9wZXJ0eUdyb3VwPgogICAgICAgIDxUYXJnZXRGcmFtZXdvcms+bmV0Y29yZWFwcDIuMTwvVGFyZ2V0RnJhbWV3b3JrPgoKICAgICAgICA8SXNQYWNrYWJsZT5mYWxzZTwvSXNQYWNrYWJsZT4KICAgIDwvUHJvcGVydHlHcm91cD4KCiAgICA8SXRlbUdyb3VwPgogICAgICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1pY3Jvc29mdC5ORVQuVGVzdC5TZGsiIFZlcnNpb249IjE1LjkuMCIgLz4KICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJ4dW5pdCIgVmVyc2lvbj0iMi40LjAiIC8+CiAgICAgICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0ieHVuaXQucnVubmVyLnZpc3VhbHN0dWRpbyIgVmVyc2lvbj0iMi40LjAiIC8+CiAgICA8L0l0ZW1Hcm91cD4K</text>
+        <text encoding="base64">ICAgIDxJdGVtR3JvdXA+CiAgICAgICAgPE5vbmUgVXBkYXRlPSJhcHBzZXR0aW5ncy5Mb2NhbC5qc29uIj4KICAgICAgICAgICAgPENvcHlUb091dHB1dERpcmVjdG9yeT5BbHdheXM8L0NvcHlUb091dHB1dERpcmVjdG9yeT4KICAgICAgICA8L05vbmU+CiAgICA8L0l0ZW1Hcm91cD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxQcm9wZXJ0eUdyb3VwPgogICAgICAgIDxUYXJnZXRGcmFtZXdvcms+bmV0Y29yZWFwcDIuMTwvVGFyZ2V0RnJhbWV3b3JrPgoKICAgICAgICA8SXNQYWNrYWJsZT5mYWxzZTwvSXNQYWNrYWJsZT4KICAgIDwvUHJvcGVydHlHcm91cD4KCiAgICA8SXRlbUdyb3VwPgogICAgICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1pY3Jvc29mdC5ORVQuVGVzdC5TZGsiIFZlcnNpb249IjE1LjkuMCIgLz4KICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJ4dW5pdCIgVmVyc2lvbj0iMi40LjAiIC8+CiAgICAgICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0ieHVuaXQucnVubmVyLnZpc3VhbHN0dWRpbyIgVmVyc2lvbj0iMi40LjAiIC8+CiAgICA8L0l0ZW1Hcm91cD4KCg==</text>
+        <text encoding="base64">ICAgIDxJdGVtR3JvdXA+CiAgICA8L0l0ZW1Hcm91cD4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -801,31 +804,29 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8VGFyZ2V0RnJhbWV3b3JrPm5ldGNvcmVhcHAyLjE8L1RhcmdldEZyYW1ld29yaz4K</text>
+        <text encoding="base64">ICAgICAgICA8Tm9uZSBVcGRhdGU9ImFwcHNldHRpbmdzLkxvY2FsLmpzb24iPgogICAgICAgICAgICA8Q29weVRvT3V0cHV0RGlyZWN0b3J5PkFsd2F5czwvQ29weVRvT3V0cHV0RGlyZWN0b3J5PgogICAgICAgIDwvTm9uZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkiUGF5bWVudENvbm5lY3Rpb24iOiAiW1BPU1RHUkVTUUxfQ09OTkVDVElPTl9TVFJJTkddIiwKICAgICAgICAiTG9nTGV2ZWwiOiAiTm9uZS9EZWJ1Zy9JbmZvcm1hdGlvbi9XYXJuaW5nL0Vycm9yL0NyaXRpY2FsIgogICAgICAgICJBdXRoQmFzZVVybCI6ICJbQVVUSF9CQVNFX1VSTF0iLAogICAgICAgICJBdXRoQ2xpZW50SWQiOiAiW0FVVEhfQ0xJRU5UX0lEXSIsCiAgICAgICAgIkF1dGhDbGllbnRTZWNyZXQiOiAiW0FVVEhfQkFDS0VORF9DTElFTlRfU0VDUkVUXSIsCiAgICAgICAgIlVOV1JBUF9BR0dSRUdBVEVfRVhDRVBUSU9OUyI6ICIxIgo=</text>
+        <text encoding="base64">ICAgIDxQcm9wZXJ0eUdyb3VwPgogICAgICAgIDxUYXJnZXRGcmFtZXdvcms+bmV0Y29yZWFwcDIuMTwvVGFyZ2V0RnJhbWV3b3JrPgoKICAgICAgICA8SXNQYWNrYWJsZT5mYWxzZTwvSXNQYWNrYWJsZT4KICAgIDwvUHJvcGVydHlHcm91cD4KCiAgICA8SXRlbUdyb3VwPgogICAgICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1pY3Jvc29mdC5ORVQuVGVzdC5TZGsiIFZlcnNpb249IjE1LjkuMCIgLz4KICAgICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJ4dW5pdCIgVmVyc2lvbj0iMi40LjAiIC8+CiAgICAgICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0ieHVuaXQucnVubmVyLnZpc3VhbHN0dWRpbyIgVmVyc2lvbj0iMi40LjAiIC8+CiAgICA8L0l0ZW1Hcm91cD4K</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text encoding="base64">JzwsJz5zL19sYW1iZGFDb250ZXh0TW9jay9sYW1iZGFDb250ZXh0TW9jay9n</text>
       </register>
     </registers>
     <search>
-      <last-search>LogLevel.Debug</last-search>
+      <last-search>_lambdaContextMock</last-search>
       <last-offset />
-      <last-pattern>LogLevel.Debug</last-pattern>
-      <last-replace>LogLevel.Trace</last-replace>
-      <last-substitute>LogLevel.Debug</last-substitute>
+      <last-pattern>_lambdaContextMock</last-pattern>
+      <last-replace>lambdaContextMock</last-replace>
+      <last-substitute>_lambdaContextMock</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Export_DataRetrieved_ReturnsFileContentResult</entry>
-        <entry encoding="base64">XDxNYXRoXD4=</entry>
         <entry>Theory</entry>
         <entry encoding="base64">XDxQZXJzaXN0Q3NvZFJlZ2lzdHJhdGlvbnNcPg==</entry>
         <entry>CsvService.CsvMimeType</entry>
@@ -844,10 +845,10 @@
         <entry encoding="base64">XDxsaXN0Mlw+</entry>
         <entry encoding="base64">XDxsaXN0M1w+</entry>
         <entry>LogLevel.Debug</entry>
+        <entry>_lambdaLoggerMock</entry>
+        <entry>_lambdaContextMock</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0NvdXJzZS9JbnN0cnVjdG9yL2c=</entry>
-        <entry>%s/Course/Instructor/g</entry>
         <entry>%s/Course/Domain/g</entry>
         <entry>%s/ListInstructorPayoutDetail/ListB2bRegistration/g</entry>
         <entry>%s/Instructor/Course/g</entry>
@@ -866,6 +867,8 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>%s/LogLevel.Debug/LogLevel.Trace/g</entry>
         <entry>action CommentByLineComment</entry>
+        <entry encoding="base64">JzwsJz5zL19sYW1iZGFMb2dnZXJNb2NrL2xhbWJkYUxvZ2dlck1vY2svZw==</entry>
+        <entry encoding="base64">JzwsJz5zL19sYW1iZGFDb250ZXh0TW9jay9sYW1iZGFDb250ZXh0TW9jay9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
