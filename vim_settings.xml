@@ -349,7 +349,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Configuration.Tests/FunctionRunnerTest.cs" timestamp="1556027429957">
+      <file name="C:/projects/Accounting/Infra/Accounting.Configuration.Tests/FunctionRunnerTest.cs" timestamp="1556027702126">
         <mark key="'" line="81" column="34" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -385,7 +385,7 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Configuration/FunctionRunner.cs" timestamp="1556027195454">
+      <file name="C:/projects/Accounting/Infra/Accounting.Configuration/FunctionRunner.cs" timestamp="1556028405293">
         <mark key="[" line="27" column="31" />
         <mark key="]" line="27" column="32" />
         <mark key="^" line="20" column="87" />
@@ -513,7 +513,7 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByDomain/B2bRegistrationSummaryByInstructorQuery.cs" timestamp="1554394079817">
         <mark key="'" line="4" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555944424049">
+      <file name="/Dummy.txt" timestamp="1556028470554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -686,8 +686,8 @@
       <register name="a" type="4">
         <text encoding="base64">bmV3IE1vY2s8SUxhbWJkYUNvbnRleHQ+KCkuT2JqZWN0</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+      <register name="&quot;" type="4">
+        <text>added ability to specify log level for 'Logged' attribute</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -714,7 +714,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>WithOutput</text>
+        <text>added ability to specify log level for 'Logged' attribute</text>
       </register>
       <register name="/" type="4">
         <text>Run_</text>
