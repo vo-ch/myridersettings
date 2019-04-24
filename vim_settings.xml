@@ -111,11 +111,11 @@
         <mark key="^" line="68" column="42" />
         <mark key="." line="68" column="42" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration/FunctionRunner.cs" timestamp="1556100246116">
-        <mark key="[" line="24" column="70" />
-        <mark key="]" line="24" column="70" />
-        <mark key="^" line="24" column="61" />
-        <mark key="." line="24" column="72" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration/FunctionRunner.cs" timestamp="1556102616491">
+        <mark key="[" line="30" column="75" />
+        <mark key="]" line="31" column="11" />
+        <mark key="^" line="31" column="11" />
+        <mark key="." line="31" column="11" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Accounting.Logging.Tests.csproj" timestamp="1555938925470">
         <mark key="[" line="20" column="0" />
@@ -489,11 +489,11 @@
         <mark key="^" line="20" column="45" />
         <mark key="." line="20" column="45" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration.Tests/FunctionRunnerTest.cs" timestamp="1556100370790">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="104" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="22" column="100" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration.Tests/FunctionRunnerTest.cs" timestamp="1556102679238">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="28" column="7" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests.Core/Accounting.Logging.Tests.Core/Accounting.Logging.Tests.Core.csproj" timestamp="1555938923462">
         <mark key="[" line="11" column="0" />
@@ -687,7 +687,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlcnZpY2VzID0gbmV3IFNlcnZpY2VDb2xsZWN0aW9uKCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFRyYW5zaWVudChfID0+IGZ1bmNNb2NrLk9iamVjdCk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJ1bm5lciA9IG5ldyBGdW5jdGlvblJ1bm5lcjxJRnVuY3Rpb248b2JqZWN0Piwgb2JqZWN0PihzZXJ2aWNlcy5CdWlsZFNlcnZpY2VQcm92aWRlcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY01vY2suVmVyaWZ5KHggPT4geC5FeGVjdXRlKGxhbWJkYUlucHV0LCBsYW1iZGFDb250ZXh0KSwgVGltZXMuT25jZSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -714,43 +714,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fakeStartup</text>
+        <text>evnt</text>
       </register>
       <register name="/" type="4">
         <text>cert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlcnZpY2VzID0gbmV3IFNlcnZpY2VDb2xsZWN0aW9uKCk7CiAgICAgICAgICAgIHN0YXJ0dXAuQ29uZmlndXJlU2VydmljZXMoc2VydmljZXMpOwoKICAgICAgICAgICAgU2VydmljZVByb3ZpZGVyID0gc2VydmljZXMuQnVpbGRTZXJ2aWNlUHJvdmlkZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBSdW5fRXhlY3V0ZXNGdW5jdGlvbigpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIHZhciBmdW5jTW9jayA9IG5ldyBNb2NrPElGdW5jdGlvbjxvYmplY3Q+PigpOwogICAgICAgICAgICB2YXIgbGFtYmRhQ29udGV4dCA9IG5ldyBNb2NrPElMYW1iZGFDb250ZXh0PigpLk9iamVjdDsKICAgICAgICAgICAgdmFyIGxhbWJkYUlucHV0ID0gbmV3IG9iamVjdCgpOwoKICAgICAgICAgICAgdmFyIHNlcnZpY2VzID0gbmV3IFNlcnZpY2VDb2xsZWN0aW9uKCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFRyYW5zaWVudChfID0+IGZ1bmNNb2NrLk9iamVjdCk7CgogICAgICAgICAgICB2YXIgcnVubmVyID0gbmV3IEZ1bmN0aW9uUnVubmVyPElGdW5jdGlvbjxvYmplY3Q+LCBvYmplY3Q+KHNlcnZpY2VzLkJ1aWxkU2VydmljZVByb3ZpZGVyKCkpOwogICAgICAgICAgICBmdW5jTW9jay5WZXJpZnkoeCA9PiB4LkV4ZWN1dGUobGFtYmRhSW5wdXQsIGxhbWJkYUNvbnRleHQpLCBUaW1lcy5OZXZlcik7CgogICAgICAgICAgICAvLyBBY3QKICAgICAgICAgICAgYXdhaXQgcnVubmVyLlJ1bihsYW1iZGFJbnB1dCwgbGFtYmRhQ29udGV4dCk7CgogICAgICAgICAgICAvLyBBc3NlcnQKICAgICAgICAgICAgZnVuY01vY2suVmVyaWZ5KHggPT4geC5FeGVjdXRlKGxhbWJkYUlucHV0LCBsYW1iZGFDb250ZXh0KSwgVGltZXMuT25jZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY01vY2suVmVyaWZ5KHggPT4geC5FeGVjdXRlKGxhbWJkYUlucHV0LCBsYW1iZGFDb250ZXh0KSwgVGltZXMuT25jZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZha2VTdGFydHVwID0gbmV3IEZha2VTdGFydHVwKHNlcnZpY2VzID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY01vY2suVmVyaWZ5KHggPT4geC5FeGVjdXRlKGxhbWJkYUlucHV0LCBsYW1iZGFDb250ZXh0KSwgVGltZXMuTmV2ZXIpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlcnZpY2VzLkFkZFRyYW5zaWVudChfID0+IGZ1bmNNb2NrLk9iamVjdCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5MYW1iZGEuQ29uZmlndXJhdGlvbi5UZXN0cy5GYWtlczsK</text>
       </register>
-      <register name="s" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJ1bm5lciA9IG5ldyBGdW5jdGlvblJ1bm5lcjxJRnVuY3Rpb248b2JqZWN0Piwgb2JqZWN0PihzZXJ2aWNlcy5CdWlsZFNlcnZpY2VQcm92aWRlcigpKTsK</text>
+      <register name="s" type="4">
+        <text>services.BuildServiceProvider()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlcnZpY2VDb2xsZWN0aW9uID0gbmV3IFNlcnZpY2VDb2xsZWN0aW9uKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRElTUExBWT06MCB0ZXJtaW5hdG9yICZzZXJ2aWNlcy5BZGRUcmFuc2llbnQoXyA9PiBmdW5jTW9jay5PYmplY3QpOwogICAgICAgICAgICB2YXIgZmFrZVN0YXJ0dXAgPSBuZXcgRmFrZVN0YXJ0dXAoc2VydmljZXMgPT4KICAgICAgICAgICAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkVHJhbnNpZW50KF8gPT4gZnVuY01vY2suT2JqZWN0KTsKICAgICAgICAgICAgdmFyIGZha2VTdGFydHVwID0gbmV3IEZha2VTdGFydHVwKHNlcnZpY2VzID0+CiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -764,10 +764,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlcnZpY2VzID0gbmV3IFNlcnZpY2VDb2xsZWN0aW9uKCk7CiAgICAgICAgICAgIHNlcnZpY2VQcm92aWRlci5Db25maWd1cmVTZXJ2aWNlcyhzZXJ2aWNlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJ1bm5lciA9IG5ldyBGdW5jdGlvblJ1bm5lcjxJRnVuY3Rpb248b2JqZWN0Piwgb2JqZWN0PihzZXJ2aWNlcy5CdWlsZFNlcnZpY2VQcm92aWRlcigpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZVByb3ZpZGVyID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJ1bm5lciA9IG5ldyBGdW5jdGlvblJ1bm5lcjxJRnVuY3Rpb248b2JqZWN0LCBvYmplY3Q+LCBvYmplY3QsIG9iamVjdD4oZmFrZVN0YXJ0dXApOwo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
