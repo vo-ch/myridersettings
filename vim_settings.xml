@@ -198,12 +198,12 @@
       <file name="C:/projects/Accounting/Infra/Accounting.Logging/Extensions/LambdaLoggerExtensions.cs" timestamp="1555426292461">
         <mark key="'" line="10" column="35" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Test.Core/InstanceMethodAsync.cs" timestamp="1556196208046">
-        <mark key="'" line="23" column="94" />
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="54" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="12" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Test.Core/InstanceMethodAsync.cs" timestamp="1556197301778">
+        <mark key="'" line="25" column="57" />
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="61" />
+        <mark key="^" line="25" column="61" />
+        <mark key="." line="25" column="61" />
       </file>
       <file name="/Dummy.txt" timestamp="1556111592385">
         <mark key="[" line="0" column="24" />
@@ -477,9 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Configuration/FunctionWithOutputRunner.cs" />
-      <jump line="13" column="40" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" />
-      <jump line="13" column="26" filename="C:/projects/Accounting/Infra/Accounting.Configuration.Tests/FunctionWithOutputRunnerTest.cs" />
       <jump line="23" column="15" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/appsettings.Local.json" />
       <jump line="17" column="44" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" />
       <jump line="14" column="23" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Program.cs" />
@@ -577,13 +574,16 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5406A456-CF73-4443-B3D0-2A7D123287F1/28/84d4215f/Task.cs" />
       <jump line="22" column="94" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/InstanceMethodAsync.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/cb/3d70d24d/Task.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/13/f801c652/TaskAwaiter.cs" />
+      <jump line="23" column="32" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/InstanceMethodAsync.cs" />
+      <jump line="25" column="57" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/InstanceMethodAsync.cs" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsIHN0YXRpYyBjbGFzcyBTcGVjaW1lbkJ1aWxkZXJDb21wb3NlcgogICAgewogICAgICAgIGludGVybmFsIHN0YXRpYyBvYmplY3QgQ3JlYXRlQW5vbnltb3VzKHRoaXMgSVNwZWNpbWVuQnVpbGRlciBidWlsZGVyLCBvYmplY3QgcmVxdWVzdCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgU3BlY2ltZW5Db250ZXh0KGJ1aWxkZXIpLlJlc29sdmUocmVxdWVzdCk7CiAgICAgICAgfQogICAgfQo=</text>
+      <register name="a" type="4">
+        <text>this.Method.Invoke(this.Owner, parameters.ToArray())</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>resultTask</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -610,7 +610,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>resultTask</text>
       </register>
       <register name="/" type="4">
         <text>dover</text>
@@ -618,35 +618,35 @@
       <register name="0" type="4">
         <text>IAsyncResult</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTcGVjaW1lbkJ1aWxkZXJDb21wb3NlcgogICAgewogICAgICAgIAogICAgfQo=</text>
+      <register name="1" type="4">
+        <text>this.Method.Invoke(this.Owner, parameters.ToArray())</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5Eb1ZlcmlmeShtZXRob2QsIGlzUmV0dXJuVmFsdWVEZWZlcmFibGUsIGlzUmV0dXJuVmFsdWVUYXNrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXN5bmNDb250ZXh0LlJ1blRhc2soTXlBc3luY01ldGhvZCkuUmVzdWx0Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kSW5mbyA9IHRoaXMuUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY01ldGhvZChtZXRob2RJbmZvKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBTcGVjaW1lbkJ1aWxkZXJDb21wb3NlcgogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>services.BuildServiceProvider()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kSW5mbyA9IHRoaXMuUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY1R5cGUobWV0aG9kSW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5Eb1ZlcmlmeShtZXRob2QsIGlzUmV0dXJuVmFsdWVEZWZlcmFibGUsIGlzUmV0dXJuVmFsdWVUYXNrKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kSW5mbyA9IHR5cGVvZihHdWFyZENsYXVzZUFzc2VydGlvbikKICAgICAgICAgICAgICAgIC5HZXRNZXRob2QoIlJlc29sdmVVbmNsb3NlZEdlbmVyaWNUeXBlIiwgbmV3IFR5cGVbXSB7IHR5cGVvZihpbnQpLCB0eXBlb2Yoc3RyaW5nKSB9LCBCaW5kaW5nRmxhZ3MuTm9uUHVibGljIHwgQmluZGluZ0ZsYWdzLkluc3RhbmNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kSW5mbyA9IHRoaXMuUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY01ldGhvZChtZXRob2RJbmZvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1ldGhvZEluZm8gUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY1R5cGUoTWV0aG9kSW5mbyBtZXRob2RJbmZvKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIChNZXRob2RJbmZvKXRoaXMuUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY1R5cGUobWV0aG9kSW5mbywgdCA9PiB0LkdldE1ldGhvZHMoKSk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIE1ldGhvZEJhc2UgUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY1R5cGUoCiAgICAgICAgICAgIE1ldGhvZEJhc2UgbWV0aG9kLCBGdW5jPFR5cGUsIElFbnVtZXJhYmxlPE1ldGhvZEJhc2U+PiBtZXRob2RTZXRUb01hdGNoKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKCFtZXRob2QuUmVmbGVjdGVkVHlwZS5Db250YWluc0dlbmVyaWNQYXJhbWV0ZXJzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gbWV0aG9kOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgYXV0b0dlbmVyaWNUeXBlID0gbmV3IEF1dG9HZW5lcmljVHlwZSh0aGlzLkJ1aWxkZXIsIG1ldGhvZC5SZWZsZWN0ZWRUeXBlKTsKICAgICAgICAgICAgcmV0dXJuIG1ldGhvZFNldFRvTWF0Y2goYXV0b0dlbmVyaWNUeXBlLlZhbHVlKS5TaW5nbGUoYyA9PiBJc01hdGNoZWQoYywgbWV0aG9kLCBhdXRvR2VuZXJpY1R5cGUpKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kSW5mbyA9IHRoaXMuUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY1R5cGUobWV0aG9kSW5mbyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBNZXRob2RJbmZvRXh0ZW5zaW9ucwogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kSW5mbyA9IHR5cGVvZihHdWFyZENsYXVzZUFzc2VydGlvbikKICAgICAgICAgICAgICAgIC5HZXRNZXRob2QoIlJlc29sdmVVbmNsb3NlZEdlbmVyaWNUeXBlIiwgbmV3IFR5cGVbXSB7IHR5cGVvZihpbnQpLCB0eXBlb2Yoc3RyaW5nKSB9LCBCaW5kaW5nRmxhZ3MuTm9uUHVibGljIHwgQmluZGluZ0ZsYWdzLkluc3RhbmNlKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -660,10 +660,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1ldGhvZEluZm8gUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY1R5cGUoTWV0aG9kSW5mbyBtZXRob2RJbmZvKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIChNZXRob2RJbmZvKXRoaXMuUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY1R5cGUobWV0aG9kSW5mbywgdCA9PiB0LkdldE1ldGhvZHMoKSk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIE1ldGhvZEJhc2UgUmVzb2x2ZVVuY2xvc2VkR2VuZXJpY1R5cGUoCiAgICAgICAgICAgIE1ldGhvZEJhc2UgbWV0aG9kLCBGdW5jPFR5cGUsIElFbnVtZXJhYmxlPE1ldGhvZEJhc2U+PiBtZXRob2RTZXRUb01hdGNoKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKCFtZXRob2QuUmVmbGVjdGVkVHlwZS5Db250YWluc0dlbmVyaWNQYXJhbWV0ZXJzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gbWV0aG9kOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgYXV0b0dlbmVyaWNUeXBlID0gbmV3IEF1dG9HZW5lcmljVHlwZSh0aGlzLkJ1aWxkZXIsIG1ldGhvZC5SZWZsZWN0ZWRUeXBlKTsKICAgICAgICAgICAgcmV0dXJuIG1ldGhvZFNldFRvTWF0Y2goYXV0b0dlbmVyaWNUeXBlLlZhbHVlKS5TaW5nbGUoYyA9PiBJc01hdGNoZWQoYywgbWV0aG9kLCBhdXRvR2VuZXJpY1R5cGUpKTsKICAgICAgICB9Cgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHZhciBhc3NlcnRpb24gPSBuZXcgR3VhcmRDbGF1c2VBc3NlcnRpb24oZml4dHVyZSk7CiAgICAgICAgICAgIHZhciBtZXRob2QgPSB0eXBlb2YoRnVuY3Rpb24pLkdldE1ldGhvZChuYW1lb2YoRnVuY3Rpb24uRXhlY3V0ZSkpOwogICAgICAgICAgICBhc3NlcnRpb24u</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBNZXRob2RJbmZvRXh0ZW5zaW9ucwogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
