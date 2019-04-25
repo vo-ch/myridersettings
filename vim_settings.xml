@@ -661,12 +661,12 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" timestamp="1556206100576">
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" timestamp="1556207746434">
         <mark key="'" line="18" column="36" />
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -775,8 +775,8 @@
       <register name="a" type="4">
         <text>B2bRegistrationMessageMother.CreateFromCsodRegistration(csodRegistration).Build()</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoKCkK</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -812,34 +812,34 @@
         <text encoding="base64">SVBvc3Rwcm9jZXNzQ29tcG9zZXI8U1FTRXZlbnQ+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoKCkK</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5CMmJSZWdpc3RyYXRpb25Jbmdlc3Rlci5TZXJ2aWNlcy5MbXMuTW9kZWxzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGdldAogICAgICAgIH0K</text>
+        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5CMmJSZWdpc3RyYXRpb25Jbmdlc3Rlci5TZXJ2aWNlcy5MbXMuTW9kZWxzOwo=</text>
       </register>
       <register name="s" type="4">
         <text>services.BuildServiceProvider()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmUgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGdldAogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmUgICAKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>B2bRegistrationMessageMother.CreateFromCsodRegistration(csodRegistration).Build()</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -853,10 +853,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpeHR1cmUgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQWNjb3VudGluZy5CMmJSZWdpc3RyYXRpb25Jbmdlc3Rlci5UZXN0cy5Db3JlLkJ1aWxkZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpeHR1cmUgPSA7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
