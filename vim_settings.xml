@@ -401,8 +401,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556286088389">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1556286789601">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Test.Core/GuardClauseAssertion/InstanceMethodAsync.cs" timestamp="1556201497753">
         <mark key="[" line="9" column="4" />
@@ -596,7 +598,7 @@
         <text>GetCourseResponseAttribute</text>
       </register>
       <register name="&quot;" type="4">
-        <text>FixtureFactory</text>
+        <text>221: FunctionRunner added arguments validation; pass service provider as an argument; renamed infrastructure projects related to lambda;</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -623,7 +625,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FixtureFactory</text>
+        <text>221: FunctionRunner added arguments validation; pass service provider as an argument; renamed infrastructure projects related to lambda;</text>
       </register>
       <register name="/" type="4">
         <text>fixt</text>
