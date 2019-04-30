@@ -116,12 +116,12 @@
         <mark key="^" line="18" column="45" />
         <mark key="." line="18" column="45" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/GetCourseResponseMother.cs" timestamp="1556611049198">
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/GetCourseResponseMother.cs" timestamp="1556613235931">
         <mark key="'" line="21" column="32" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="23" column="79" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="40" />
+        <mark key="^" line="21" column="40" />
+        <mark key="." line="21" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/1C/Fixture.cs" timestamp="1556274259295">
         <mark key="'" line="240" column="35" />
@@ -156,12 +156,12 @@
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/DependencyInjection/AccountingRepositoryExtensions.cs" timestamp="1554993405134">
         <mark key="'" line="17" column="26" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/GetPublisherResponseMother.cs" timestamp="1556285991050">
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/GetPublisherResponseMother.cs" timestamp="1556613263492">
         <mark key="'" line="18" column="32" />
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="32" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/B2bRegistrationSummaryByInstructorQueryResultMother - Copy - Copy.cs" timestamp="1554986061290">
         <mark key="'" line="6" column="0" />
@@ -404,12 +404,11 @@
       <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/test/Accounting.InstructorPayoutBreakdownCalculator.Tests.Core/ObjectMothers/CsodRegistrationMother.cs" timestamp="1555078379084">
         <mark key="'" line="12" column="37" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/Fixtures/PostprocessComposerExtensions.cs" timestamp="1556611252682">
-        <mark key="'" line="16" column="28" />
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="16" column="37" />
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/Fixtures/PostprocessComposerExtensions.cs" timestamp="1556613415207">
+        <mark key="[" line="34" column="58" />
+        <mark key="]" line="34" column="58" />
+        <mark key="." line="34" column="58" />
+        <mark key="^" line="34" column="58" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Logging/Options/LambdaLoggerOptions.cs" timestamp="1555499819365">
         <mark key="'" line="6" column="21" />
@@ -571,7 +570,7 @@
         <text encoding="base64">RXhwcmVzc2lvbjxGdW5jPFQsIFRQcm9wZXJ0eT4+IHByb3BlcnR5UGlja2VyLA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>TRecord</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -598,43 +597,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TRecord</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZXNzYWdlQXR0cmlidXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElQb3N0cHJvY2Vzc0NvbXBvc2VyPFRQYXJlbnQ+IFdpdGhSZWNvcmQ8VFBhcmVudCwgVFJlY29yZD4oCiAgICAgICAgICAgIHRoaXMgSVBvc3Rwcm9jZXNzQ29tcG9zZXI8VFBhcmVudD4gY29tcG9zZXIsCiAgICAgICAgICAgIEV4cHJlc3Npb248RnVuYzxUUGFyZW50LCBJQ29sbGVjdGlvbjxUUmVjb3JkPj4+IHByb3BlcnR5UGlja2VyLAogICAgICAgICAgICBUUmVjb3JkIHJlY29yZCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBjb21wb3Nlci5XaXRoKHByb3BlcnR5UGlja2VyLCBuZXcgTGlzdDxUUmVjb3JkPnsgcmVjb3JkIH0pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZSBUTGlzdDogSUNvbGxlY3Rpb248VFJlY29yZD4sIG5ldygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpeHR1cmUoKS5DcmVhdGU8aW50PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElQb3N0cHJvY2Vzc0NvbXBvc2VyPFRQYXJlbnQ+IFdpdGhSZWNvcmQ8VFBhcmVudCwgVFJlY29yZD4oCg==</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoKHggPT4geC5SZWNvcmRzLAogICAgICAgICAgICAgICAgICAgIG5ldyBMaXN0PFNRU0V2ZW50LlNRU01lc3NhZ2U+KCkge1Nxc01lc3NhZ2VNb3RoZXIuQ29tcG9zZShiMkJSZWdpc3RyYXRpb25NZXNzYWdlKS5DcmVhdGUoKX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcGVydHlQaWNrZXIuUmV0dXJuVHlwZTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZpeHR1cmUoKS5DcmVhdGU8aW50PigpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSUxpc3Q8QjJiUmVnaXN0cmF0aW9uU3VtbWFyeUJ5Q291cnNlSXRlbVJlc3BvbnNlPiBjc3ZEYXRhID0KICAgICAgICAgICAgICAgIGF3YWl0IFRlc3RzLkNvcmUuSGVscGVycy5Dc3ZIZWxwZXIuRGVzZXJpYWxpemVDc3Y8QjJiUmVnaXN0cmF0aW9uU3VtbWFyeUJ5Q291cnNlSXRlbVJlc3BvbnNlLCBCMmJSZWdpc3RyYXRpb25TdW1tYXJ5QnlDb3Vyc2VJdGVtUmVzcG9uc2VNYXA+KAogICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLAogICAgICAgICAgICAgICAgICAgIG5ldyBCMmJSZWdpc3RyYXRpb25TdW1tYXJ5QnlDb3Vyc2VJdGVtUmVzcG9uc2VNYXAoKSwKICAgICAgICAgICAgICAgICAgICBoYXNIZWFkZXJSZWNvcmQ6IHRydWUpOwoKICAgICAgICAgICAgQ29tcGFyZShuZXcgQjJiUmVnaXN0cmF0aW9uU3VtbWFyeUJ5Q291cnNlSXRlbVJlc3BvbnNlKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQ291cnNlTmFtZSA9ICJkZWYiLAogICAgICAgICAgICAgICAgQ3VycmVuY3lDb2RlID0gY3VycmVuY3kuQ29kZSwKICAgICAgICAgICAgICAgIFJldmVudWVBbW91bnQgPSAyLAogICAgICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ291bnQgPSAxLAogICAgICAgICAgICB9LCBjc3ZEYXRhWzBdKTsKCiAgICAgICAgICAgIENvbXBhcmUobmV3IEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZSgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIENvdXJzZU5hbWUgPSAiYWJjIiwKICAgICAgICAgICAgICAgIEN1cnJlbmN5Q29kZSA9IGN1cnJlbmN5LkNvZGUsCiAgICAgICAgICAgICAgICBSZXZlbnVlQW1vdW50ID0gNCwKICAgICAgICAgICAgICAgIFJlZ2lzdHJhdGlvbkNvdW50ID0gMiwKICAgICAgICAgICAgfSwgY3N2RGF0YVsxXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIEFkZFJhbmdlPFQ+KElDb2xsZWN0aW9uPFQ+IGNvbGxlY3Rpb24sIElFbnVtZXJhYmxlPFQ+IHJlY29yZHMpCiAgICAgICAgewogICAgICAgICAgICBpZiAoY29sbGVjdGlvbiBpcyBMaXN0PFQ+IGxpc3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxpc3QuQWRkUmFuZ2UocmVjb3Jkcyk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGZvcmVhY2ggKHZhciByZWNvcmQgaW4gcmVjb3JkcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgY29sbGVjdGlvbi5BZGQocmVjb3JkKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoKHggPT4geC5SZWNvcmRzLAogICAgICAgICAgICAgICAgICAgIG5ldyBMaXN0PFNRU0V2ZW50LlNRU01lc3NhZ2U+KCkge1Nxc01lc3NhZ2VNb3RoZXIuQ29tcG9zZShiMkJSZWdpc3RyYXRpb25NZXNzYWdlKS5DcmVhdGUoKX0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBvc2VyLkRvKHggPT4gQWRkUmFuZ2UoZ2V0VGFyZ2V0KHgpLCByZWNvcmRzLlNlbGVjdChyID0+IHIuQ3JlYXRlKCkpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnVuYzxUUGFyZW50LCBJQ29sbGVjdGlvbjxUUmVjb3JkPj4gZ2V0VGFyZ2V0LAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIEFkZFJhbmdlPFQ+KElDb2xsZWN0aW9uPFQ+IGNvbGxlY3Rpb24sIElFbnVtZXJhYmxlPFQ+IHJlY29yZHMpCiAgICAgICAgewogICAgICAgICAgICBpZiAoY29sbGVjdGlvbiBpcyBMaXN0PFQ+IGxpc3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGxpc3QuQWRkUmFuZ2UocmVjb3Jkcyk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGZvcmVhY2ggKHZhciByZWNvcmQgaW4gcmVjb3JkcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgY29sbGVjdGlvbi5BZGQocmVjb3JkKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBvc2VyLkRvKHggPT4gQWRkUmFuZ2UoZ2V0VGFyZ2V0KHgpLCByZWNvcmRzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBvc2VyLkRvKHggPT4gQWRkUmFuZ2UoZ2V0VGFyZ2V0KHgpLCByZWNvcmRzLlNlbGVjdChyID0+IHIuQ3JlYXRlKCkpKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -651,7 +650,7 @@
         <text encoding="base64">ICAgICAgICAgICAgRnVuYzxUUGFyZW50LCBJQ29sbGVjdGlvbjxUUmVjb3JkPj4gZ2V0VGFyZ2V0LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBvc2VyLkRvKHggPT4gZ2V0VGFyZ2V0KHgpLkFkZChyZWNvcmQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXBvc2VyLkRvKHggPT4gQWRkUmFuZ2UoZ2V0VGFyZ2V0KHgpLCByZWNvcmRzKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
