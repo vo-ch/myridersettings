@@ -21,13 +21,6 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/GetDomainListResponseMother.cs" timestamp="1554490997393">
         <mark key="'" line="17" column="20" />
       </file>
-      <file name="/Dummy.cs" timestamp="1556293553609">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/CsodRegistrationMother.cs" timestamp="1556293715519">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="50" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByCourse/B2bRegistrationSummaryByCourseQueryHandler.cs" timestamp="1555322072382">
         <mark key="'" line="12" column="75" />
       </file>
@@ -53,8 +46,12 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ListInstructorPayoutDetailQueryHandler.cs" timestamp="1554456062350">
         <mark key="'" line="22" column="17" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/17/NullReferenceBehaviorExpectation.cs" timestamp="1556201305037">
-        <mark key="'" line="57" column="39" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/17/NullReferenceBehaviorExpectation.cs" timestamp="1556616798609">
+        <mark key="'" line="73" column="35" />
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="73" column="36" />
+        <mark key="." line="73" column="36" />
+        <mark key="^" line="73" column="36" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Domain/Resolvers/IHandlerResolver.cs" timestamp="1554289117507">
         <mark key="'" line="5" column="22" />
@@ -180,8 +177,8 @@
         <mark key="." line="13" column="85" />
         <mark key="^" line="13" column="85" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Test.Core/GuardClauseAssertion/GuardClauseAssertionAsync.cs" timestamp="1556615203491">
-        <mark key="'" line="72" column="42" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Test.Core/GuardClauseAssertion/GuardClauseAssertionAsync.cs" timestamp="1556615851036">
+        <mark key="'" line="103" column="113" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -195,8 +192,8 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentsDbContext.cs" timestamp="1554217910292">
         <mark key="'" line="13" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" timestamp="1556201191679">
-        <mark key="'" line="79" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" timestamp="1556615888861">
+        <mark key="'" line="34" column="30" />
         <mark key="[" line="79" column="17" />
         <mark key="]" line="79" column="16" />
         <mark key="." line="79" column="16" />
@@ -250,6 +247,13 @@
       </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Services/Auth/Extensions/AuthServiceExtensions.cs" timestamp="1555576997604">
         <mark key="'" line="23" column="43" />
+      </file>
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Services/Lms/LmsService.cs" timestamp="1556616556342">
+        <mark key="'" line="29" column="36" />
+        <mark key="[" line="29" column="91" />
+        <mark key="]" line="30" column="71" />
+        <mark key="^" line="30" column="71" />
+        <mark key="." line="30" column="71" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FEC05B5-7641-44CD-BFC5-CD05BCAAA27B/37/f9832502/AirbrakeExtension.cs" timestamp="1554817293562">
         <mark key="'" line="18" column="31" />
@@ -318,6 +322,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/14/MethodInvokeCommand.cs" timestamp="1556616809843">
+        <mark key="'" line="82" column="49" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Domain/Queries/B2bRegistration/Summary/ByInstructor/B2bRegistrationSummaryByCourseQueryResultTests.cs" timestamp="1554740220275">
         <mark key="'" line="7" column="46" />
       </file>
@@ -333,12 +340,12 @@
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/DependencyInjection/LmsServiceExtensions.cs" timestamp="1555576856830">
         <mark key="'" line="29" column="55" />
       </file>
-      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" timestamp="1556615740258">
-        <mark key="'" line="50" column="93" />
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="18" />
-        <mark key="^" line="28" column="18" />
-        <mark key="." line="28" column="18" />
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" timestamp="1556616658812">
+        <mark key="'" line="35" column="50" />
+        <mark key="[" line="35" column="103" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/11/IdiomaticAssertion.cs" timestamp="1556117399326">
         <mark key="'" line="163" column="12" />
@@ -397,10 +404,11 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="30" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556290833903">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Test.Core/BehaviorExpectations/NullOrWhitespaceBehaviorExpectation.cs" timestamp="1556616727306">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByDomain/B2bRegistrationSummaryByInstructorQueryResult.cs" timestamp="1554394122190">
         <mark key="'" line="2" column="17" />
@@ -432,6 +440,13 @@
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Exceptions/InstructorPayoutReportAlreadyGeneratedException.cs" timestamp="1554903097556">
         <mark key="'" line="5" column="17" />
       </file>
+      <file name="C:/projects/Accounting/Infra/Accounting.Test.Core/BehaviorExpectations/BehaviorExpectationByName.cs" timestamp="1556616377194">
+        <mark key="'" line="5" column="63" />
+        <mark key="[" line="18" column="60" />
+        <mark key="]" line="18" column="60" />
+        <mark key="." line="18" column="60" />
+        <mark key="^" line="18" column="69" />
+      </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/FunctionTests.cs" timestamp="1556615688630">
         <mark key="'" line="26" column="50" />
         <mark key="[" line="23" column="0" />
@@ -442,7 +457,7 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/ByCourse/B2bRegistrationSummaryByInstructorQueryResult.cs" timestamp="1554393698462">
         <mark key="'" line="2" column="17" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" timestamp="1556117097553">
+      <file name="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" timestamp="1556615818547">
         <mark key="'" line="15" column="51" />
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="31" />
@@ -477,26 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="72" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/GuardClauseAssertionAsync.cs" />
-      <jump line="49" column="51" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.IntegrationTests/FunctionTests.cs" />
-      <jump line="59" column="73" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.IntegrationTests/FunctionTests.cs" />
-      <jump line="15" column="19" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsMessageMother.cs" />
-      <jump line="12" column="34" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/0/ICustomizationComposer.cs" />
-      <jump line="12" column="35" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsMessageMother.cs" />
-      <jump line="36" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/1C/Fixture.cs" />
-      <jump line="349" column="16" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/1C/Fixture.cs" />
-      <jump line="358" column="16" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/1C/Fixture.cs" />
-      <jump line="367" column="16" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/1C/Fixture.cs" />
-      <jump line="14" column="84" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" />
-      <jump line="31" column="56" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" />
-      <jump line="25" column="18" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" />
-      <jump line="44" column="73" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/D2/CompositePostprocessComposer.cs" />
-      <jump line="8" column="67" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/Fixtures/FixtureFactory.cs" />
-      <jump line="19" column="27" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/Fixtures/PostprocessComposerExtensions.cs" />
-      <jump line="16" column="51" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" />
-      <jump line="17" column="17" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/B2bRegistrationMessageMother.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/0/IFactoryComposer.cs" />
       <jump line="16" column="38" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/B2bRegistrationMessageMother.cs" />
       <jump line="240" column="35" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/1C/Fixture.cs" />
       <jump line="7" column="49" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/68644920-D632-4654-A4CD-FAE7509B113A/0/ICustomizationComposer.cs" />
@@ -577,13 +572,33 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/GuardClauseAssertion/Internal/InstanceMethodAsync.cs" />
       <jump line="21" column="41" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
       <jump line="38" column="93" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
+      <jump line="29" column="36" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Services/Lms/LmsService.cs" />
+      <jump line="32" column="47" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
+      <jump line="103" column="113" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/GuardClauseAssertion/GuardClauseAssertionAsync.cs" />
+      <jump line="35" column="30" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/7/EmptyGuidBehaviorExpectation.cs" />
+      <jump line="34" column="30" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" />
+      <jump line="18" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/17/NullReferenceBehaviorExpectation.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" />
+      <jump line="4" column="63" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/BehaviorExpectations/BehaviorExpectationByName.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/0/IBehaviorExpectation.cs" />
+      <jump line="33" column="46" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/1/CompositeBehaviorExpectation.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Services/Lms/LmsService.cs" />
+      <jump line="36" column="72" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
+      <jump line="37" column="78" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
+      <jump line="35" column="50" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
+      <jump line="73" column="35" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/17/NullReferenceBehaviorExpectation.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/0/IGuardClauseCommand.cs" />
+      <jump line="82" column="49" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/14/MethodInvokeCommand.cs" />
+      <jump line="97" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/14/MethodInvokeCommand.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">RXhwcmVzc2lvbjxGdW5jPFQsIFRQcm9wZXJ0eT4+IHByb3BlcnR5UGlja2VyLA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>async Task</text>
+        <text>OrWhitespace</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -610,40 +625,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>async Task</text>
+        <text>OrWhitespace</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZXNzYWdlQXR0cmlidXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpeHR1cmUgPSBuZXcgRml4dHVyZSgpLkN1c3RvbWl6ZShuZXcgQXV0b01vcUN1c3RvbWl6YXRpb24oKSk7CiAgICAgICAgICAgIGZpeHR1cmUuUmVnaXN0ZXIoKCkgPT4gbmV3IFNRU0V2ZW50KCkpOwoKICAgICAgICAgICAgdmFyIGFzc2VydGlvbiA9IG5ldyBBc3luY0d1YXJkQ2xhdXNlQXNzZXJ0aW9uKGZpeHR1cmUpOwogICAgICAgICAgICB2YXIgbWV0aG9kID0gdHlwZW9mKEZ1bmN0aW9uKS5HZXRNZXRob2QobmFtZW9mKEZ1bmN0aW9uLkV4ZWN1dGUpKTsKICAgICAgICAgICAgYXNzZXJ0aW9uLlZlcmlmeShtZXRob2QpOwo=</text>
+      <register name="0" type="4">
+        <text>lambdaContext</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBzdHJpbmcgY291cnNlUmVsZWFzZUlkID0gbnVsbDsKCiAgICAgICAgICAgIHZhciBodHRwQ2xpZW50TW9jayA9IG5ldyBNb2NrPEh0dHBDbGllbnQ+KCk7CiAgICAgICAgICAgIHZhciBsYW1iZGFMb2dnZXJNb2NrID0gbmV3IE1vY2s8SUxhbWJkYUxvZ2dlcj4oKTsKICAgICAgICAgICAgdmFyIGxtc1NlcnZpY2UgPSBuZXcgTG1zU2VydmljZShodHRwQ2xpZW50TW9jay5PYmplY3QsIGxhbWJkYUxvZ2dlck1vY2suT2JqZWN0KTsKCiAgICAgICAgICAgIHZhciBsYW1iZGFDb250ZXh0TW9jayA9IG5ldyBNb2NrPElMYW1iZGFDb250ZXh0PigpOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBhd2FpdCBBc3NlcnQuVGhyb3dzQXN5bmM8QXJndW1lbnRFeGNlcHRpb24+KCgpID0+IGxtc1NlcnZpY2UuR2V0Q291cnNlKGNvdXJzZVJlbGVhc2VJZCwgbGFtYmRhQ29udGV4dE1vY2suT2JqZWN0KSk7CiAgICAgICAgICAgIEFzc2VydC5UcnVlKGV4Y2VwdGlvbi5NZXNzYWdlID09IG5hbWVvZihjb3Vyc2VSZWxlYXNlSWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kLlBhCg==</text>
       </register>
       <register name="q" type="4">
         <text>f,dt)jbb</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZml4dHVyZS5SZWdpc3RlcigoKSA9PiBuZXcgU1FTRXZlbnQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSUxpc3Q8QjJiUmVnaXN0cmF0aW9uU3VtbWFyeUJ5Q291cnNlSXRlbVJlc3BvbnNlPiBjc3ZEYXRhID0KICAgICAgICAgICAgICAgIGF3YWl0IFRlc3RzLkNvcmUuSGVscGVycy5Dc3ZIZWxwZXIuRGVzZXJpYWxpemVDc3Y8QjJiUmVnaXN0cmF0aW9uU3VtbWFyeUJ5Q291cnNlSXRlbVJlc3BvbnNlLCBCMmJSZWdpc3RyYXRpb25TdW1tYXJ5QnlDb3Vyc2VJdGVtUmVzcG9uc2VNYXA+KAogICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLAogICAgICAgICAgICAgICAgICAgIG5ldyBCMmJSZWdpc3RyYXRpb25TdW1tYXJ5QnlDb3Vyc2VJdGVtUmVzcG9uc2VNYXAoKSwKICAgICAgICAgICAgICAgICAgICBoYXNIZWFkZXJSZWNvcmQ6IHRydWUpOwoKICAgICAgICAgICAgQ29tcGFyZShuZXcgQjJiUmVnaXN0cmF0aW9uU3VtbWFyeUJ5Q291cnNlSXRlbVJlc3BvbnNlKCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQ291cnNlTmFtZSA9ICJkZWYiLAogICAgICAgICAgICAgICAgQ3VycmVuY3lDb2RlID0gY3VycmVuY3kuQ29kZSwKICAgICAgICAgICAgICAgIFJldmVudWVBbW91bnQgPSAyLAogICAgICAgICAgICAgICAgUmVnaXN0cmF0aW9uQ291bnQgPSAxLAogICAgICAgICAgICB9LCBjc3ZEYXRhWzBdKTsKCiAgICAgICAgICAgIENvbXBhcmUobmV3IEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZSgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIENvdXJzZU5hbWUgPSAiYWJjIiwKICAgICAgICAgICAgICAgIEN1cnJlbmN5Q29kZSA9IGN1cnJlbmN5LkNvZGUsCiAgICAgICAgICAgICAgICBSZXZlbnVlQW1vdW50ID0gNCwKICAgICAgICAgICAgICAgIFJlZ2lzdHJhdGlvbkNvdW50ID0gMiwKICAgICAgICAgICAgfSwgY3N2RGF0YVsxXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBDdG9yX0h0dHBDbGllbnROdWxsX1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvbigpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIEh0dHBDbGllbnQgaHR0cENsaWVudCA9IG51bGw7CiAgICAgICAgICAgIHZhciBsYW1iZGFMb2dnZXJNb2NrID0gbmV3IE1vY2s8SUxhbWJkYUxvZ2dlcj4oKTsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+IG5ldyBMbXNTZXJ2aWNlKGh0dHBDbGllbnQsIGxhbWJkYUxvZ2dlck1vY2suT2JqZWN0KSk7CiAgICAgICAgICAgIEFzc2VydC5UcnVlKGV4Y2VwdGlvbi5NZXNzYWdlID09IG5hbWVvZihodHRwQ2xpZW50KSk7CiAgICAgICAgfQoKICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBDdG9yX0xhbWJkYUxvZ2dlck51bGxfVGhyb3dzQXJndW1lbnROdWxsRXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgdmFyIGh0dHBDbGllbnRNb2NrID0gbmV3IE1vY2s8SHR0cENsaWVudD4oKTsKICAgICAgICAgICAgSUxhbWJkYUxvZ2dlciBsYW1iZGFMb2dnZXIgPSBudWxsOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBBc3NlcnQuVGhyb3dzPEFyZ3VtZW50TnVsbEV4Y2VwdGlvbj4oKCkgPT4gbmV3IExtc1NlcnZpY2UoaHR0cENsaWVudE1vY2suT2JqZWN0LCBsYW1iZGFMb2dnZXIpKTsKICAgICAgICAgICAgQXNzZXJ0LlRydWUoZXhjZXB0aW9uLk1lc3NhZ2UgPT0gbmFtZW9mKGxhbWJkYUxvZ2dlcikpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1hbmQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBzdHJpbmcgY291cnNlUmVsZWFzZUlkID0gbnVsbDsKCiAgICAgICAgICAgIHZhciBodHRwQ2xpZW50TW9jayA9IG5ldyBNb2NrPEh0dHBDbGllbnQ+KCk7CiAgICAgICAgICAgIHZhciBsYW1iZGFMb2dnZXJNb2NrID0gbmV3IE1vY2s8SUxhbWJkYUxvZ2dlcj4oKTsKICAgICAgICAgICAgdmFyIGxtc1NlcnZpY2UgPSBuZXcgTG1zU2VydmljZShodHRwQ2xpZW50TW9jay5PYmplY3QsIGxhbWJkYUxvZ2dlck1vY2suT2JqZWN0KTsKCiAgICAgICAgICAgIHZhciBsYW1iZGFDb250ZXh0TW9jayA9IG5ldyBNb2NrPElMYW1iZGFDb250ZXh0PigpOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBhd2FpdCBBc3NlcnQuVGhyb3dzQXN5bmM8QXJndW1lbnRFeGNlcHRpb24+KCgpID0+IGxtc1NlcnZpY2UuR2V0Q291cnNlKGNvdXJzZVJlbGVhc2VJZCwgbGFtYmRhQ29udGV4dE1vY2suT2JqZWN0KSk7CiAgICAgICAgICAgIEFzc2VydC5UcnVlKGV4Y2VwdGlvbi5NZXNzYWdlID09IG5hbWVvZihjb3Vyc2VSZWxlYXNlSWQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgRml4dHVyZSBGaXh0dXJlCiAgICAgICAgewogICAgICAgICAgICBnZXQKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGZpeHR1cmUgPSBGaXh0dXJlRmFjdG9yeS5OZXc7Ci8vICAgICAgICAgICAgICAgIGZpeHR1cmUuQ3VzdG9taXplPFNRU0V2ZW50Pih4ID0+IHguV2l0aChyID0+IHIuUmVjb3JkcywgbmV3IExpc3Q8U1FTRXZlbnQuU1FTTWVzc2FnZT4oKSkpOwogICAgICAgICAgICAgICAgcmV0dXJuIGZpeHR1cmU7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZml4dHVyZS5SZWdpc3RlcigoKSA9PiBuZXcgU1FTRXZlbnQoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -660,16 +675,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIG9iamVjdCBDcmVhdGVPd25lcihQcm9wZXJ0eUluZm8gcHJvcGVydHkpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gdGhpcy5DcmVhdGVPd25lcihwcm9wZXJ0eS5HZXRTZXRNZXRob2QoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBDdG9yX0h0dHBDbGllbnROdWxsX1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvbigpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIEh0dHBDbGllbnQgaHR0cENsaWVudCA9IG51bGw7CiAgICAgICAgICAgIHZhciBsYW1iZGFMb2dnZXJNb2NrID0gbmV3IE1vY2s8SUxhbWJkYUxvZ2dlcj4oKTsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+IG5ldyBMbXNTZXJ2aWNlKGh0dHBDbGllbnQsIGxhbWJkYUxvZ2dlck1vY2suT2JqZWN0KSk7CiAgICAgICAgICAgIEFzc2VydC5UcnVlKGV4Y2VwdGlvbi5NZXNzYWdlID09IG5hbWVvZihodHRwQ2xpZW50KSk7CiAgICAgICAgfQoKICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBDdG9yX0xhbWJkYUxvZ2dlck51bGxfVGhyb3dzQXJndW1lbnROdWxsRXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgdmFyIGh0dHBDbGllbnRNb2NrID0gbmV3IE1vY2s8SHR0cENsaWVudD4oKTsKICAgICAgICAgICAgSUxhbWJkYUxvZ2dlciBsYW1iZGFMb2dnZXIgPSBudWxsOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBBc3NlcnQuVGhyb3dzPEFyZ3VtZW50TnVsbEV4Y2VwdGlvbj4oKCkgPT4gbmV3IExtc1NlcnZpY2UoaHR0cENsaWVudE1vY2suT2JqZWN0LCBsYW1iZGFMb2dnZXIpKTsKICAgICAgICAgICAgQXNzZXJ0LlRydWUoZXhjZXB0aW9uLk1lc3NhZ2UgPT0gbmFtZW9mKGxhbWJkYUxvZ2dlcikpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoKHggPT4geC5EYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -717,7 +732,6 @@
         <entry encoding="base64">JzwsJz5zL19sYW1iZGFDb250ZXh0TW9jay9sYW1iZGFDb250ZXh0TW9jay9n</entry>
         <entry>s/1/2/g</entry>
         <entry>%s/Run_/Run_WithOutput_/g</entry>
-        <entry>action GotoImplementation</entry>
         <entry encoding="base64">JzwsJz5zL0J5Q291cnNlL0J5SW5zdHJ1Y3Rvci9n</entry>
         <entry encoding="base64">JzwsJz5zL0NvdXJzZS9JbnN0cnVjdG9yL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0NvdXJzZS9Eb21haW4vZw==</entry>
@@ -725,6 +739,7 @@
         <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
