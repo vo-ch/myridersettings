@@ -186,12 +186,12 @@
         <mark key="^" line="17" column="56" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration.Tests/FunctionRunnerTest.cs" timestamp="1556111318915">
-        <mark key="'" line="108" column="84" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="108" column="84" />
-        <mark key="." line="16" column="0" />
+      <file name="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration.Tests/FunctionRunnerTest.cs" timestamp="1556638428107">
+        <mark key="'" line="220" column="29" />
+        <mark key="[" line="220" column="29" />
+        <mark key="]" line="220" column="29" />
+        <mark key="^" line="238" column="39" />
+        <mark key="." line="220" column="29" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests.Core/Accounting.Logging.Tests.Core/TestTarget.cs" timestamp="1555942665733">
         <mark key="'" line="55" column="13" />
@@ -228,7 +228,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556634555981">
+      <file name="/Dummy.txt" timestamp="1556638921738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" timestamp="1556631632693">
@@ -292,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7903ADC8-9C02-47EC-9EA8-EF5CB4D4661F/fb/dd59c71a/SQSEvent.cs" />
-      <jump line="99" column="67" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.IntegrationTests/FunctionTests.cs" />
       <jump line="19" column="74" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsMessageMother.cs" />
       <jump line="15" column="78" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" />
@@ -392,13 +390,15 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration/FunctionRunner.cs" />
       <jump line="9" column="27" filename="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration/FunctionRunner.cs" />
       <jump line="10" column="49" filename="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Program.cs" />
+      <jump line="191" column="8" filename="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration.Tests/FunctionRunnerTest.cs" />
+      <jump line="220" column="29" filename="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration.Tests/FunctionRunnerTest.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQXJyYW5nZQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWludCBpID0gLTI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmV3IG9iamVjdCgpLCA=</text>
       </register>
       <register name="d" type="4">
         <text>Task SetS3UrlToInstructorPayout(InstructorPayout record, string s3Url)</text>
@@ -425,43 +425,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXZudCwg</text>
+        <text encoding="base64">bmV3IG9iamVjdCgpLCA=</text>
       </register>
       <register name="/" type="4">
         <text>NullReferenceBehaviorExpectation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgRnVuY3Rpb25SdW5uZXIuUnVuKGV2bnQsIGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBSdW5fQ3JlYXRlc1NlcGFyYXRlRElTY29wZUZvckVhY2hGdW5jdGlvbkV4ZWN1dGlvbigpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIElTY29wZWQgc2NvcGVkMSA9IG51bGw7CiAgICAgICAgICAgIElTY29wZWQgc2NvcGVkMiA9IG51bGw7CiAgICAgICAgICAgIElUcmFuc2llbnQgdHJhbnNpZW50MSA9IG51bGw7CiAgICAgICAgICAgIElUcmFuc2llbnQgdHJhbnNpZW50MiA9IG51bGw7CgoKICAgICAgICAgICAgdmFyIHNlcnZpY2VzID0gbmV3IFNlcnZpY2VDb2xsZWN0aW9uKCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFRyYW5zaWVudChzcCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzY29wZWQxID0gc3AuR2V0U2VydmljZTxJU2NvcGVkPigpOwogICAgICAgICAgICAgICAgdHJhbnNpZW50MSA9IHNwLkdldFNlcnZpY2U8SVRyYW5zaWVudD4oKTsKCiAgICAgICAgICAgICAgICBzY29wZWQyID0gc3AuR2V0U2VydmljZTxJU2NvcGVkPigpOwogICAgICAgICAgICAgICAgdHJhbnNpZW50MiA9IHNwLkdldFNlcnZpY2U8SVRyYW5zaWVudD4oKTsKCiAgICAgICAgICAgICAgICByZXR1cm4gbmV3IE1vY2s8SUZ1bmN0aW9uPG9iamVjdD4+KCkuT2JqZWN0OwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2NvcGVkKF8gPT4gbmV3IE1vY2s8SVNjb3BlZD4oKS5PYmplY3QpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGRUcmFuc2llbnQoXyA9PiBuZXcgTW9jazxJVHJhbnNpZW50PigpLk9iamVjdCk7CgogICAgICAgICAgICB2YXIgcnVubmVyID0gbmV3IEZ1bmN0aW9uUnVubmVyPElGdW5jdGlvbjxvYmplY3Q+LCBvYmplY3Q+KHNlcnZpY2VzLkJ1aWxkU2VydmljZVByb3ZpZGVyKCkpOwoKICAgICAgICAgICAgLy8gQWN0CiAgICAgICAgICAgIGF3YWl0IHJ1bm5lci5SdW4obmV3IG9iamVjdCgpLCBuZXcgTW9jazxJTGFtYmRhQ29udGV4dD4oKS5PYmplY3QpOwoKICAgICAgICAgICAgSVNjb3BlZCBzY29wZWRQcmV2MSA9IHNjb3BlZDE7CiAgICAgICAgICAgIElTY29wZWQgc2NvcGVkUHJldjIgPSBzY29wZWQyOwoKICAgICAgICAgICAgYXdhaXQgcnVubmVyLlJ1bihuZXcgb2JqZWN0KCksIG5ldyBNb2NrPElMYW1iZGFDb250ZXh0PigpLk9iamVjdCk7CgogICAgICAgICAgICAvLyBBc3NlcnQKICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoc2NvcGVkUHJldjEpOwogICAgICAgICAgICBBc3NlcnQuTm90TnVsbChzY29wZWRQcmV2Mik7CiAgICAgICAgICAgIEFzc2VydC5Ob3ROdWxsKHNjb3BlZDEpOwogICAgICAgICAgICBBc3NlcnQuTm90TnVsbChzY29wZWQyKTsKCiAgICAgICAgICAgIEFzc2VydC5Ob3RFcXVhbCh0cmFuc2llbnQxLCB0cmFuc2llbnQyKTsKCiAgICAgICAgICAgIEFzc2VydC5FcXVhbChzY29wZWRQcmV2MSwgc2NvcGVkUHJldjIpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoc2NvcGVkMSwgc2NvcGVkMik7CgogICAgICAgICAgICBBc3NlcnQuTm90RXF1YWwoc2NvcGVkUHJldjEsIHNjb3BlZDEpOwogICAgICAgICAgICBBc3NlcnQuTm90RXF1YWwoc2NvcGVkUHJldjIsIHNjb3BlZDIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdWludCBpID0gLTI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxhbWJkYUlucHV0ID0gbmV3IG9iamVjdCgpOwo=</text>
       </register>
       <register name="q" type="4">
-        <text>f,dt)jbb</text>
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="87" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxhbWJkYUlucHV0ID0gbmV3IG9iamVjdCgpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3NlcnZpY2VQcm92aWRlci5HZXRSZXF1aXJlZFNlcnZpY2U8RnVuY3Rpb24+KCkuRXhlY3V0ZShjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdWludCBpID0gLTI7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3NlcnZpY2VQcm92aWRlciA9IHNlcnZpY2VzLkJ1aWxkU2VydmljZVByb3ZpZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3NlcnZpY2VQcm92aWRlci5HZXRSZXF1aXJlZFNlcnZpY2U8RnVuY3Rpb24+KCkuRXhlY3V0ZShjb250ZXh0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKGxhbWJkYUlucHV0LCBuYW1lb2YobGFtYmRhSW5wdXQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBJU2VydmljZVByb3ZpZGVyIF9zZXJ2aWNlUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3NlcnZpY2VQcm92aWRlciA9IHNlcnZpY2VzLkJ1aWxkU2VydmljZVByb3ZpZGVyKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -475,10 +488,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgSUxhbWJkYUxvZ2dlciA9IEFjY291bnRpbmcuTGFtYmRhLkxvZ2dpbmcuSUxhbWJkYUxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKGxhbWJkYUlucHV0LCBuYW1lb2YobGFtYmRhSW5wdXQpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgSUxhbWJkYUxvZ2dlciA9IEFjY291bnRpbmcuTG9nZ2luZy5JTGFtYmRhTG9nZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBJU2VydmljZVByb3ZpZGVyIF9zZXJ2aWNlUHJvdmlkZXI7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
