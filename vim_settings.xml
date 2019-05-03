@@ -225,9 +225,6 @@
         <mark key="^" line="238" column="39" />
         <mark key="." line="220" column="29" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/Summary/ListB2bRegistrationSummaryResponse.cs" timestamp="1556792270556">
-        <mark key="'" line="9" column="82" />
-      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests.Core/Accounting.Logging.Tests.Core/TestTarget.cs" timestamp="1555942665733">
         <mark key="'" line="55" column="13" />
         <mark key="[" line="35" column="23" />
@@ -269,8 +266,12 @@
       <file name="/Dummy.txt" timestamp="1556807203274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" timestamp="1556886050259">
-        <mark key="'" line="31" column="62" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" timestamp="1556887785027">
+        <mark key="'" line="47" column="52" />
+        <mark key="[" line="84" column="60" />
+        <mark key="]" line="84" column="70" />
+        <mark key="." line="84" column="70" />
+        <mark key="^" line="84" column="70" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" timestamp="1556631632693">
         <mark key="'" line="34" column="28" />
@@ -343,9 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="76" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
-      <jump line="29" column="37" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Services/Lms/LmsService.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
       <jump line="29" column="40" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/BehaviorExpectations/NullOrWhitespaceBehaviorExpectation.cs" />
       <jump line="28" column="24" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/b4/4262b8bf/ArgumentException.cs" />
@@ -443,13 +441,16 @@
       <jump line="11" column="47" filename="C:/projects/Accounting/Worker/QuarterlyPayoutFinalizer/src/Accounting.QuarterlyPayoutFinalizer/Program.cs" />
       <jump line="31" column="62" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
       <jump line="67" column="47" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
+      <jump line="42" column="61" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
+      <jump line="43" column="52" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Entities/RegistrationDomain.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TriggerInput</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ListDomainQuery</text>
+        <text>e</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -476,16 +477,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>FunctionRunner</text>
       </register>
       <register name="0" type="4">
-        <text>TriggerInput</text>
+        <text>orderedQueryable</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBJU2VydmljZVByb3ZpZGVyIF9zZXJ2aWNlUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VRdWVyeS5UaGVuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -504,28 +505,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3NlcnZpY2VQcm92aWRlciA9IHNlcnZpY2VzLkJ1aWxkU2VydmljZVByb3ZpZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRTb3J0RXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3NlcnZpY2VQcm92aWRlci5HZXRSZXF1aXJlZFNlcnZpY2U8RnVuY3Rpb24+KCkuRXhlY3V0ZShpbnB1dCwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGRhdGEuU2VsZWN0KHggPT4gKQo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBGdW5jdGlvblJ1bm5lcjxGdW5jdGlvbiwgSW5zdHJ1Y3RvclBheW91dFJlcG9ydElucHV0LCBJbnN0cnVjdG9yUGF5b3V0UmVwb3J0T3V0cHV0PiBGdW5jdGlvblJ1bm5lcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IF9zZXJ2aWNlUHJvdmlkZXIuR2V0UmVxdWlyZWRTZXJ2aWNlPEZ1bmN0aW9uPigpLkV4ZWN1dGUoaW5wdXREYXRhLCBjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBJU2VydmljZVByb3ZpZGVyIF9zZXJ2aWNlUHJvdmlkZXI7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX3NlcnZpY2VQcm92aWRlciA9IHNlcnZpY2VzLkJ1aWxkU2VydmljZVByb3ZpZGVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBJU2VydmljZVByb3ZpZGVyIF9zZXJ2aWNlUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3NlcnZpY2VQcm92aWRlci5HZXRSZXF1aXJlZFNlcnZpY2U8RnVuY3Rpb24+KCkuRXhlY3V0ZShpbnB1dCwgY29udGV4dCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBJU2VydmljZVByb3ZpZGVyIF9zZXJ2aWNlUHJvdmlkZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IF9zZXJ2aWNlUHJvdmlkZXIuR2V0UmVxdWlyZWRTZXJ2aWNlPEZ1bmN0aW9uPigpLkV4ZWN1dGUoaW5wdXREYXRhLCBjb250ZXh0KTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -542,13 +543,13 @@
         <text encoding="base64">ICAgICAgICAgICAgX3NlcnZpY2VQcm92aWRlciA9IHNlcnZpY2VzLkJ1aWxkU2VydmljZVByb3ZpZGVyKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHJldHVybiBfc2VydmljZVByb3ZpZGVyLkdldFJlcXVpcmVkU2VydmljZTxGdW5jdGlvbj4oKS5FeGVjdXRlKGlucHV0RGF0YSwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBJU2VydmljZVByb3ZpZGVyIF9zZXJ2aWNlUHJvdmlkZXI7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/FunctionRunner/FunctionWithOutputRunner/g</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -599,11 +600,11 @@
         <entry>action GotoImplementation</entry>
         <entry encoding="base64">JzwsJz5zL0dldENvdXJzZS9HZXRQdWJsaXNoZXIvZw==</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action RenameElement</entry>
         <entry>%s/NullReferenceBehaviorExpectation/NullBehaviorExpectation/g</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>%s/IFunction/IFunctionWithOutput/g</entry>
         <entry>%s/FunctionRunner/FunctionWithOutputRunner/g</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
