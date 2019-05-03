@@ -266,12 +266,12 @@
       <file name="/Dummy.txt" timestamp="1556807203274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" timestamp="1556887785027">
-        <mark key="'" line="47" column="52" />
-        <mark key="[" line="84" column="60" />
-        <mark key="]" line="84" column="70" />
-        <mark key="." line="84" column="70" />
-        <mark key="^" line="84" column="70" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" timestamp="1556890021253">
+        <mark key="'" line="85" column="48" />
+        <mark key="[" line="113" column="82" />
+        <mark key="]" line="113" column="86" />
+        <mark key="." line="113" column="86" />
+        <mark key="^" line="113" column="86" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" timestamp="1556631632693">
         <mark key="'" line="34" column="28" />
@@ -279,6 +279,12 @@
         <mark key="]" line="343" column="56" />
         <mark key="." line="79" column="16" />
         <mark key="^" line="79" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/72268182-d628-43a2-a7ec-46d81a3d1c01/console_1.sql" timestamp="1556889882775">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/Fixtures/PostprocessComposerExtensions.cs" timestamp="1556613415207">
         <mark key="[" line="34" column="58" />
@@ -344,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="40" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/BehaviorExpectations/NullOrWhitespaceBehaviorExpectation.cs" />
       <jump line="28" column="24" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/b4/4262b8bf/ArgumentException.cs" />
       <jump line="23" column="24" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
@@ -444,13 +449,14 @@
       <jump line="42" column="61" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
       <jump line="43" column="52" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Entities/RegistrationDomain.cs" />
+      <jump line="132" column="48" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TriggerInput</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>;</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -477,13 +483,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>FunctionRunner</text>
       </register>
-      <register name="0" type="4">
-        <text>orderedQueryable</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPyBtdWx0aU9yZGVyZWRRdWVyeS5UaGVuQnkoeCA9PiB4LkRvbWFpblVybC5Ub0xvd2VyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2VRdWVyeS5UaGVuCg==</text>
@@ -601,9 +607,9 @@
         <entry encoding="base64">JzwsJz5zL0dldENvdXJzZS9HZXRQdWJsaXNoZXIvZw==</entry>
         <entry>action CommentByLineComment</entry>
         <entry>%s/NullReferenceBehaviorExpectation/NullBehaviorExpectation/g</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>%s/IFunction/IFunctionWithOutput/g</entry>
         <entry>%s/FunctionRunner/FunctionWithOutputRunner/g</entry>
+        <entry>action ShowErrorDescription</entry>
         <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
