@@ -309,11 +309,12 @@
         <mark key="." line="113" column="65" />
         <mark key="^" line="113" column="65" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" timestamp="1557154697177">
-        <mark key="[" line="10" column="51" />
-        <mark key="]" line="10" column="60" />
-        <mark key="." line="10" column="60" />
-        <mark key="^" line="10" column="60" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" timestamp="1557156431187">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="64" />
       </file>
       <file name="C:/projects/NewCMS/src/sources/ConfigSource.js" timestamp="1557129064513">
         <mark key="'" line="2" column="28" />
@@ -371,8 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="85" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/7b/9b318441/ArgumentNullException.cs" />
       <jump line="20" column="35" filename="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/test/Accounting.B2bRegistrationPriceSetter.Tests/Services/Auth/Extensions/AuthServiceExtensionsTests.cs" />
       <jump line="13" column="47" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/bb/c0c835e7/ArgumentNullException.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/dc/e6adb1bb/ArgumentException.cs" />
@@ -471,13 +470,15 @@
       <jump line="312" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
       <jump line="292" column="21" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
       <jump line="278" column="26" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="10" column="64" filename="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiaW5jbHVkZVBheW91dCIsICJkZXNjIildCiAgICAgICAgW0lubGluZURhdGEoInNlYXRDb3VudCIsICJkZXNjIildCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AG-x-icu</text>
+        <text>az-Latn-x-icu</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -504,7 +505,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AG-x-icu</text>
+        <text>az-Latn-x-icu</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
