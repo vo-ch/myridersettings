@@ -212,6 +212,9 @@
         <mark key="^" line="238" column="39" />
         <mark key="." line="220" column="29" />
       </file>
+      <file name="/a.sql" timestamp="1557152057525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/Domain/V2/UpdateDomainCommandHandler.cs" timestamp="1556890683578">
         <mark key="'" line="22" column="22" />
         <mark key="[" line="42" column="68" />
@@ -262,7 +265,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557140696232">
+      <file name="/Dummy.txt" timestamp="1557151952691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" timestamp="1556897167630">
@@ -279,11 +282,11 @@
         <mark key="." line="79" column="16" />
         <mark key="^" line="79" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/72268182-d628-43a2-a7ec-46d81a3d1c01/console_1.sql" timestamp="1557149420224">
-        <mark key="[" line="0" column="67" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/72268182-d628-43a2-a7ec-46d81a3d1c01/console_1.sql" timestamp="1557152503473">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="50" />
       </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/src/Accounting.B2bRegistrationPriceSetter/Program.cs" timestamp="1556805640936">
         <mark key="'" line="10" column="45" />
@@ -305,6 +308,12 @@
         <mark key="]" line="113" column="65" />
         <mark key="." line="113" column="65" />
         <mark key="^" line="113" column="65" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" timestamp="1557152929296">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="53" />
+        <mark key="." line="10" column="53" />
+        <mark key="^" line="10" column="53" />
       </file>
       <file name="C:/projects/NewCMS/src/sources/ConfigSource.js" timestamp="1557129064513">
         <mark key="'" line="2" column="28" />
@@ -468,7 +477,7 @@
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiaW5jbHVkZVBheW91dCIsICJkZXNjIildCiAgICAgICAgW0lubGluZURhdGEoInNlYXRDb3VudCIsICJkZXNjIildCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>utf8_unicode_ci</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -495,67 +504,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>utf8_unicode_ci</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
       </register>
-      <register name="0" type="4">
-        <text>en_US</text>
+      <register name="0" type="2">
+        <text encoding="base64">U0VMRUNUICoKRlJPTSBwZ19jb2xsYXRpb247Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBjb21wdXRlZAo=</text>
+        <text encoding="base64">ICAgIGNvbHVtbjIgZGF0YXR5cGUsCiAgICBjb2x1bW4zIGRhdGF0eXBlLAogICAuLi4uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="97" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="78" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBjb21wdXRlZAo=</text>
+        <text encoding="base64">Y3JlYXRlIGRhdGFiYXNlIGxhdGluMV90ZXN0IFdJVEggZW5jb2RpbmcgJ0xBVElOMSc7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBjb21wdXRlZAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiaW5jbHVkZVBheW91dCIsICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YSgic2VhdENvdW50IiwgImFzYyIpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CUBjb21wdXRlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKEh0dHBTdGF0dXNDb2RlLk9LLCBwdXRSZXNwb25zZS5TdGF0dXNDb2RlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKEh0dHBTdGF0dXNDb2RlLk9LLCByZXNwb25zZS5TdGF0dXNDb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKEh0dHBTdGF0dXNDb2RlLk9LLCBwdXRSZXNwb25zZS5TdGF0dXNDb2RlKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -569,16 +567,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVnaXN0cmF0aW9uRG9tYWluCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKEh0dHBTdGF0dXNDb2RlLk9LLCByZXNwb25zZS5TdGF0dXNDb2RlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tcGFyZShyZWdpc3RyYXRpb25Eb21haW4zLCByZXN1bHQuRGF0YVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQXNzZXJ0Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
     <search>
@@ -631,9 +629,9 @@
         <entry>%s/NullReferenceBehaviorExpectation/NullBehaviorExpectation/g</entry>
         <entry>%s/IFunction/IFunctionWithOutput/g</entry>
         <entry>%s/FunctionRunner/FunctionWithOutputRunner/g</entry>
-        <entry>action RenameElement</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
