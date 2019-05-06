@@ -38,6 +38,9 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
+      <file name="C:/projects/NewCMS/src/views/reports/transactions/stores/TransactionsB2BStore.js" timestamp="1557132881253">
+        <mark key="'" line="55" column="28" />
+      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Logging/Attributes/LoggedAttribute.cs" timestamp="1555942150001">
         <mark key="'" line="44" column="26" />
         <mark key="[" line="61" column="118" />
@@ -380,6 +383,9 @@
       <file name="/auth.public.RegistrationDomains [auth@localhost]" timestamp="1556894057849">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/projects/NewCMS/src/views/reports/transactions/stores/AbstractTransactionStore.js" timestamp="1557132920745">
+        <mark key="'" line="50" column="27" />
+      </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" timestamp="1556627039566">
         <mark key="'" line="17" column="22" />
         <mark key="[" line="4" column="0" />
@@ -389,13 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="48" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Test.Randomizer/RandomHelper.cs" />
-      <jump line="95" column="21" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
-      <jump line="29" column="49" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
-      <jump line="38" column="78" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
-      <jump line="55" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
-      <jump line="53" column="77" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
       <jump line="40" column="21" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/Fixtures/PostprocessComposerExtensions.cs" />
       <jump line="61" column="65" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/DependencyInjection/AccountingRepositoryExtensionsTests.cs" />
       <jump line="43" column="53" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/DependencyInjection/AccountingRepositoryExtensionsTests.cs" />
@@ -489,6 +488,13 @@
       <jump line="6" column="59" filename="C:/projects/NewCMS/scripts/copy-config-source.js" />
       <jump line="2" column="28" filename="C:/projects/NewCMS/src/sources/ConfigSource.js" />
       <jump line="0" column="0" filename="C:/projects/NewCMS/src/configSource.local.json" />
+      <jump line="8" column="37" filename="C:/projects/NewCMS/src/views/reports/transactions/stores/AbstractTransactionStore.js" />
+      <jump line="5" column="6" filename="C:/projects/NewCMS/src/views/reports/transactions/stores/TransactionsB2BStore.js" />
+      <jump line="55" column="28" filename="C:/projects/NewCMS/src/views/reports/transactions/stores/TransactionsB2BStore.js" />
+      <jump line="151" column="38" filename="C:/projects/NewCMS/src/views/reports/transactions/stores/AbstractTransactionStore.js" />
+      <jump line="0" column="0" filename="C:/projects/NewCMS/src/views/reports/transactions/stores/TransactionsFilterModel.js" />
+      <jump line="50" column="27" filename="C:/projects/NewCMS/src/views/reports/transactions/stores/AbstractTransactionStore.js" />
+      <jump line="150" column="4" filename="C:/projects/NewCMS/src/views/reports/transactions/stores/AbstractTransactionStore.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -525,7 +531,7 @@
         <text>https://auth.staging.cyberu.io/v2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdTb3VyY2VcPg==</text>
+        <text encoding="base64">XDxSRVBPUlRfVFlQRVw+</text>
       </register>
       <register name="0" type="4">
         <text>model</text>
@@ -609,9 +615,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWdTb3VyY2VcPg==</last-search>
+      <last-search encoding="base64">XDxSRVBPUlRfVFlQRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdTb3VyY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSRVBPUlRfVFlQRVw+</last-pattern>
       <last-replace>FunctionWithOutputRunner</last-replace>
       <last-substitute>FunctionRunner</last-substitute>
       <last-dir>1</last-dir>
@@ -619,7 +625,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXRob2RJbmZvXD4=</entry>
         <entry>verify</entry>
         <entry>A Guard Clause test was performed on a method that returns a Task,</entry>
         <entry encoding="base64">XDxUYXNrUmV0dXJuTWV0aG9kSW52b2tlQ29tbWFuZFw+</entry>
@@ -639,6 +644,7 @@
         <entry>IFunction</entry>
         <entry>FunctionRunner</entry>
         <entry encoding="base64">XDxjb25maWdTb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxSRVBPUlRfVFlQRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
