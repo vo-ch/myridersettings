@@ -41,6 +41,9 @@
       <file name="C:/projects/NewCMS/src/views/reports/transactions/stores/TransactionsB2BStore.js" timestamp="1557132881253">
         <mark key="'" line="55" column="28" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" timestamp="1557145608893">
+        <mark key="'" line="278" column="26" />
+      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Logging/Attributes/LoggedAttribute.cs" timestamp="1555942150001">
         <mark key="'" line="44" column="26" />
         <mark key="[" line="61" column="118" />
@@ -111,11 +114,9 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="C:/projects/Accounting/Worker/QuarterlyPayoutFinalizer/src/Accounting.QuarterlyPayoutFinalizer/Program.cs" timestamp="1556807187010">
-        <mark key="'" line="11" column="47" />
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="12" />
-        <mark key="." line="23" column="12" />
-        <mark key="^" line="21" column="51" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
       </file>
       <file name="C:/projects/NewCMS/src/views/reports/transactions/TransactionsB2CReportPage.jsx" timestamp="1557134467704">
         <mark key="'" line="28" column="26" />
@@ -409,10 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="40" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" />
-      <jump line="18" column="23" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/AutoFixture/AutoFixtureFactory.cs" />
-      <jump line="20" column="82" filename="C:/projects/Accounting/Infra/Accounting.Test.Core/AutoFixture/AutoFixtureFactory.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/1/CompositeBehaviorExpectation.cs" />
       <jump line="18" column="85" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/7b/9b318441/ArgumentNullException.cs" />
       <jump line="20" column="35" filename="C:/projects/Accounting/Worker/B2bRegistrationPriceSetter/test/Accounting.B2bRegistrationPriceSetter.Tests/Services/Auth/Extensions/AuthServiceExtensionsTests.cs" />
@@ -509,6 +506,10 @@
       <jump line="29" column="50" filename="C:/projects/NewCMS/src/views/reports/transactions/stores/AbstractTransactionStore.js" />
       <jump line="0" column="0" filename="C:/projects/NewCMS/src/sources/TransactionsSource.js" />
       <jump line="154" column="36" filename="C:/projects/NewCMS/src/views/reports/transactions/stores/AbstractTransactionStore.js" />
+      <jump line="228" column="15" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="312" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="292" column="21" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
+      <jump line="278" column="26" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/InstructorPayoutDetailControllerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -545,7 +546,7 @@
         <text>https://auth.staging.cyberu.io/v2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb3VyY2VcPg==</text>
+        <text>export</text>
       </register>
       <register name="0" type="4">
         <text>model</text>
@@ -629,9 +630,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb3VyY2VcPg==</last-search>
+      <last-search>export</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb3VyY2VcPg==</last-pattern>
+      <last-pattern>export</last-pattern>
       <last-replace>FunctionWithOutputRunner</last-replace>
       <last-substitute>FunctionRunner</last-substitute>
       <last-dir>1</last-dir>
@@ -639,8 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUYXNrUmV0dXJuTWV0aG9kSW52b2tlQ29tbWFuZFw+</entry>
-        <entry>dove</entry>
         <entry>dover</entry>
         <entry>mother</entry>
         <entry>static</entry>
@@ -659,6 +658,8 @@
         <entry encoding="base64">XDxSRVBPUlRfVFlQRVw+</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
+        <entry>pdf</entry>
+        <entry>export</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
