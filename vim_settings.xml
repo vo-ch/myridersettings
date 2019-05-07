@@ -8,6 +8,9 @@
         <mark key="]" line="96" column="4" />
         <mark key="." line="95" column="4" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1557217829073">
+        <mark key="'" line="291" column="68" />
+      </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/Function.cs" timestamp="1556805584872">
         <mark key="[" line="15" column="38" />
         <mark key="]" line="15" column="121" />
@@ -146,13 +149,11 @@
       <file name="C:/projects/NewCMS/src/views/reports/transactions/stores/TransactionsFilterModel.js" timestamp="1557135535289">
         <mark key="'" line="41" column="27" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" timestamp="1557217896438">
+        <mark key="'" line="46" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/dc/e6adb1bb/ArgumentException.cs" />
-      <jump line="34" column="28" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F1450378-B8AB-4E59-ABED-3C7D26D36E8C/F/GuardClauseAssertion.cs" />
-      <jump line="41" column="50" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/Services/Lms/LmsServiceTests.cs" />
-      <jump line="25" column="0" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/DependencyInjection/AccountingRepositoryExtensionsTests.cs" />
-      <jump line="15" column="67" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests/FunctionTests.cs" />
       <jump line="17" column="42" filename="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/Program.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration/FunctionRunner.cs" />
       <jump line="9" column="27" filename="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration/FunctionRunner.cs" />
@@ -248,6 +249,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" />
       <jump line="425" column="53" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/DomainControllerTests.cs" />
       <jump line="423" column="25" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/DomainControllerTests.cs" />
+      <jump line="90" column="9" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="291" column="68" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="25" column="27" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
+      <jump line="46" column="26" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
+      <jump line="108" column="28" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -284,7 +290,7 @@
         <text>.ToLower()</text>
       </register>
       <register name="/" type="4">
-        <text>export</text>
+        <text>migrate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VMRUNUICoKRlJPTSBwZ19jb2xsYXRpb247Cgo=</text>
@@ -357,9 +363,9 @@
       </register>
     </registers>
     <search>
-      <last-search>export</last-search>
+      <last-search>migrate</last-search>
       <last-offset />
-      <last-pattern>export</last-pattern>
+      <last-pattern>migrate</last-pattern>
       <last-replace>FunctionWithOutputRunner</last-replace>
       <last-substitute>FunctionRunner</last-substitute>
       <last-dir>1</last-dir>
@@ -367,7 +373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dover</entry>
         <entry>mother</entry>
         <entry>static</entry>
         <entry>fixt</entry>
@@ -387,6 +392,7 @@
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry>pdf</entry>
         <entry>export</entry>
+        <entry>migrate</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
