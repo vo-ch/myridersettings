@@ -81,9 +81,9 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V1/StatementController.cs" timestamp="1557327288911">
         <mark key="'" line="89" column="30" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1557491181580">
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1557498217915">
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="249" column="15" />
         <mark key="." line="249" column="0" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Program.cs" timestamp="1556807119238">
@@ -233,11 +233,11 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="C:/projects/NewCMS/src/configSource.local.json" timestamp="1557497061062">
+      <file name="C:/projects/NewCMS/src/configSource.local.json" timestamp="1557498060639">
         <mark key="'" line="102" column="51" />
-        <mark key="[" line="125" column="56" />
-        <mark key="]" line="125" column="57" />
-        <mark key="." line="125" column="57" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
         <mark key="^" line="113" column="65" />
       </file>
       <file name="C:/projects/NewCMS/src/sources/ConfigSource.js" timestamp="1557129064513">
@@ -404,8 +404,12 @@
         <mark key="^" line="103" column="37" />
         <mark key="." line="103" column="37" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1557496838131">
-        <mark key="'" line="8" column="34" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1557498256448">
+        <mark key="'" line="47" column="30" />
+        <mark key="[" line="119" column="15" />
+        <mark key="]" line="120" column="11" />
+        <mark key="^" line="120" column="11" />
+        <mark key="." line="120" column="11" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Mothers/RegistrationDomainMother.cs" timestamp="1556895564057">
         <mark key="'" line="9" column="34" />
@@ -510,6 +514,10 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="53" />
       </file>
+      <file name="C:/projects/NewCMS/src/configSource.example.json" timestamp="1557498045672">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="150" column="13" />
+      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Test.Core/BehaviorExpectations/BehaviorExpectationByName.cs" timestamp="1556616377194">
         <mark key="'" line="5" column="63" />
         <mark key="[" line="18" column="60" />
@@ -552,7 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="41" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/CsodRegistration.cs" />
       <jump line="38" column="56" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
       <jump line="93" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
@@ -652,13 +659,14 @@
       <jump line="8" column="34" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="47" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
       <jump line="99" column="21" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
+      <jump line="47" column="30" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>where &quot;DomainUrl&quot; = 'adtrav.csod.com'</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUNvcnMoeCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55SGVhZGVyKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55TWV0aG9kKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55T3JpZ2luKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93Q3JlZGVudGlhbHMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUNvcnMoeCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55SGVhZGVyKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55TWV0aG9kKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55T3JpZ2luKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93Q3JlZGVudGlhbHMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -688,13 +696,13 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>step</text>
+        <text>configure(</text>
       </register>
-      <register name="0" type="4">
-        <text>https://auth-vchmuzh.cyberu.io/v2</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJImIyYnJlZ2lzdHJhdGlvbnMiOiB7CgkJCQkiZmV0Y2giOiAiL2IyYnJlZ2lzdHJhdGlvbnMiLAoJCQkJImV4cG9ydCI6ICIvYjJicmVnaXN0cmF0aW9ucy9leHBvcnQiCgkJCX0sCgkJCSJpbnN0cnVjdG9yUGF5b3V0cyI6IHsKCQkJCSJwYXRoIjogIi9pbnN0cnVjdG9yUGF5b3V0cyIKCQkJfSwKCQkJImluc3RydWN0b3JQYXlvdXREZXRhaWxzIjogewoJCQkJInBhdGgiOiAiL2luc3RydWN0b3JQYXlvdXREZXRhaWxzIgoJCQl9LAoJCQkicXVhcnRlcmx5UGF5b3V0cyI6IHsKCQkJCSJwYXRoIjogIi9xdWFydGVybHlQYXlvdXRzIgoJCQl9LAoJCQkicXVhcnRlcmx5UGF5b3V0c0VzdGltYXRpb24iOiB7CgkJCQkicGF0aCI6ICIvcXVhcnRlcmx5UGF5b3V0cy9lc3RpbWF0aW9uIgoJCQl9LAoJCQkicXVhcnRlcnMiOiB7CgkJCQkicGF0aCI6ICIvcXVhcnRlcnMiCgkJCX0sCgkJCSJxdWFydGVyc1ByZXZpb3VzIjogewoJCQkJInBhdGgiOiAiL3F1YXJ0ZXJzL3ByZXZpb3VzIgoJCQl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJCQkJImIyYnJlZ2lzdHJhdGlvbnMiOiB7CgkJCQkJCQkJImZldGNoIjogIi9iMmJyZWdpc3RyYXRpb25zIiwKCQkJCQkJCQkiZXhwb3J0IjogIi9iMmJyZWdpc3RyYXRpb25zL2V4cG9ydCIKCQkJCQkJfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -712,29 +720,29 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">eCA9PgogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHguQWRkUG9saWN5KCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">eCA9PgogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiaW5jbHVkZVBheW91dCIsICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YSgic2VhdENvdW50IiwgImFzYyIpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5hbWVzRGljdGlvbmFyeSA9IG5ldyBEaWN0aW9uYXJ5PGludCwgc3RyaW5nPigpIHt7MSwgIkFsZXgifSwgezIsICJTdGVwaGFuIn0sIHszLCAiVGhvbWFzIn19Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHguQWRkUG9saWN5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWVzRGljdGlvbmFyeSA9IG51bGw7CiAgICAgICAgICAgICAgICB2YXIgcmVzdWx0ID0gKERpY3Rpb25hcnkgPCBpbnQsIHN0cmluZyA9ICIiID4pZm9ybWF0dGVyLkRlc2VyaWFsaXplKHN0cmVhbSk7CiAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgaXRlbSBpbiByZXN1bHQuVmFsdWVzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0pOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5hbWVzRGljdGlvbmFyeSA9IG5ldyBEaWN0aW9uYXJ5PGludCwgc3RyaW5nPigpIHt7MSwgIkFsZXgifSwgezIsICJTdGVwaGFuIn0sIHszLCAiVGhvbWFzIn19Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgQXNzZXJ0LlRocm93c0FzeW5jPEFyZ3VtZW50TnVsbEV4Y2VwdGlvbj4oKCkgPT4gKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWVzRGljdGlvbmFyeSA9IG51bGw7CiAgICAgICAgICAgICAgICB2YXIgcmVzdWx0ID0gKERpY3Rpb25hcnkgPCBpbnQsIHN0cmluZyA9ICIiID4pZm9ybWF0dGVyLkRlc2VyaWFsaXplKHN0cmVhbSk7CiAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgaXRlbSBpbiByZXN1bHQuVmFsdWVzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKG5hbWVvZihkb21haW4pLCBlcnJvci5NZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgQXNzZXJ0LlRocm93c0FzeW5jPEFyZ3VtZW50TnVsbEV4Y2VwdGlvbj4oKCkgPT4gKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -748,10 +756,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIEFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKG5hbWVvZihkb21haW4pLCBlcnJvci5NZXNzYWdlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2RvbWFpblNlcnZpY2UuQ3JlYXRlSWZOb3RFeGlzdHMoZG9tYWluKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIEFzc2VydAo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
@@ -761,9 +769,9 @@
       </register>
     </registers>
     <search>
-      <last-search>step</last-search>
+      <last-search>configure(</last-search>
       <last-offset />
-      <last-pattern>step</last-pattern>
+      <last-pattern>configure(</last-pattern>
       <last-replace>-vchmuzh</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -771,7 +779,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRVBPUlRfVFlQRVw+</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry>pdf</entry>
@@ -791,6 +798,7 @@
         <entry>.staging</entry>
         <entry>AwsSte</entry>
         <entry>step</entry>
+        <entry>configure(</entry>
       </history-search>
       <history-cmd>
         <entry>s/\\/\\\\/g</entry>
