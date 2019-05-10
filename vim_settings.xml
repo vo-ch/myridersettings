@@ -72,6 +72,11 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V1/StatementController.cs" timestamp="1557327288911">
         <mark key="'" line="89" column="30" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1557491181580">
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+      </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Program.cs" timestamp="1556807119238">
         <mark key="'" line="12" column="54" />
         <mark key="[" line="30" column="0" />
@@ -449,6 +454,11 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="/Dummy.txt" timestamp="1557323925460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/lrs/StatementsService.ts" timestamp="1557327652172">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="37" />
@@ -601,8 +611,8 @@
       <register name="a" type="4">
         <text>where &quot;DomainUrl&quot; = 'adtrav.csod.com'</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>SaveTranscriptCommand</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -629,16 +639,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>176</text>
+        <text>AllowAnyMethod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYWxjdWxhdGVDb3Vyc2VDb21wbGV0aW9uQ29tbWFuZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>CalculateCourseCompletionCommand</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHguQWxsb3dBbnlNZXRob2QoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5hbWVzRGljdGlvbmFyeSA9IG5ldyBEaWN0aW9uYXJ5PGludCwgc3RyaW5nPigpIHt7MSwgIkFsZXgifSwgezIsICJTdGVwaGFuIn0sIHszLCAiVGhvbWFzIn19Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -656,29 +666,29 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWVzRGljdGlvbmFyeSA9IG51bGw7CiAgICAgICAgICAgICAgICB2YXIgcmVzdWx0ID0gKERpY3Rpb25hcnkgPCBpbnQsIHN0cmluZyA9ICIiID4pZm9ybWF0dGVyLkRlc2VyaWFsaXplKHN0cmVhbSk7CiAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgaXRlbSBpbiByZXN1bHQuVmFsdWVzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0pOwogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">eCA9PgogICAgICAgICAgICB7CgogICAgICAgICAgICB9</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgQXNzZXJ0LlRocm93c0FzeW5jPEFyZ3VtZW50TnVsbEV4Y2VwdGlvbj4oKCkgPT4gKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHguQWRkUG9saWN5KCk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiaW5jbHVkZVBheW91dCIsICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YSgic2VhdENvdW50IiwgImFzYyIpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKG5hbWVvZihkb21haW4pLCBlcnJvci5NZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5hbWVzRGljdGlvbmFyeSA9IG5ldyBEaWN0aW9uYXJ5PGludCwgc3RyaW5nPigpIHt7MSwgIkFsZXgifSwgezIsICJTdGVwaGFuIn0sIHszLCAiVGhvbWFzIn19Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIEFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWVzRGljdGlvbmFyeSA9IG51bGw7CiAgICAgICAgICAgICAgICB2YXIgcmVzdWx0ID0gKERpY3Rpb25hcnkgPCBpbnQsIHN0cmluZyA9ICIiID4pZm9ybWF0dGVyLkRlc2VyaWFsaXplKHN0cmVhbSk7CiAgICAgICAgICAgICAgICBmb3JlYWNoICh2YXIgaXRlbSBpbiByZXN1bHQuVmFsdWVzKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGl0ZW0pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2RvbWFpblNlcnZpY2UuQ3JlYXRlSWZOb3RFeGlzdHMoZG9tYWluKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgQXNzZXJ0LlRocm93c0FzeW5jPEFyZ3VtZW50TnVsbEV4Y2VwdGlvbj4oKCkgPT4gKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKG5hbWVvZihkb21haW4pLCBlcnJvci5NZXNzYWdlKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -692,10 +702,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nW10gcmVzdWx0TGluZXMgPSByZXN1bHQuU3BsaXQoRW52aXJvbm1lbnQuTmV3TGluZSk7CiAgICAgICAgICAgIEFzc2VydC5Ob3ROdWxsKHJlc3VsdExpbmVzKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDIsIHJlc3VsdExpbmVzLkxlbmd0aCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgiVXNlciBJZCxFbWFpbCxGaXJzdCBOYW1lLExhc3QgTmFtZSxQdWJsaXNoZXIgSWQsU2lnbnVwIFNvdXJjZXMsU2lnbiBVcCBTb3VyY2UsTGFzdCBMb2cgSW4gRGF0ZSxTaWduIFVwIERhdGUsQmlvLEhlYWRsaW5lIiwgcmVzdWx0TGluZXNbMF0pOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIEFzc2VydAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3VsdCA9IAogICAgICAgICAgICAgICAgY3N2U2VydmljZS5FeHBvcnQoCiAgICAgICAgICAgICAgICAgICAgbGlzdFRvRXhwb3J0OiBFbnVtZXJhYmxlLkVtcHR5PFVzZXJQcm9maWxlRGV0YWlsc01vZGVsPigpLAogICAgICAgICAgICAgICAgICAgIGluY2x1ZGVIZWFkZXJMaW5lOiB0cnVlLAogICAgICAgICAgICAgICAgICAgIGRlbGltZXRlcjogIiwiLAogICAgICAgICAgICAgICAgICAgIG5hbWVIaWRlUHJvcDogbnVsbCwKICAgICAgICAgICAgICAgICAgICBjb2x1bW5zOiBudWxsKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2RvbWFpblNlcnZpY2UuQ3JlYXRlSWZOb3RFeGlzdHMoZG9tYWluKTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
