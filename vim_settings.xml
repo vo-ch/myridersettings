@@ -78,6 +78,9 @@
         <mark key="." line="73" column="36" />
         <mark key="^" line="73" column="36" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/CourseTranscript.cs" timestamp="1557499335202">
+        <mark key="'" line="5" column="41" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V1/StatementController.cs" timestamp="1557327288911">
         <mark key="'" line="89" column="30" />
       </file>
@@ -411,8 +414,16 @@
         <mark key="^" line="120" column="11" />
         <mark key="." line="120" column="11" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" timestamp="1557499286696">
+        <mark key="'" line="76" column="75" />
+        <mark key="[" line="68" column="28" />
+        <mark key="]" line="68" column="45" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Mothers/RegistrationDomainMother.cs" timestamp="1556895564057">
         <mark key="'" line="9" column="34" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" timestamp="1557499714597">
+        <mark key="'" line="16" column="28" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/QuarterlyPayout.cs" timestamp="1557325739759">
         <mark key="'" line="10" column="15" />
@@ -443,6 +454,11 @@
         <mark key="[" line="51" column="26" />
         <mark key="]" line="51" column="47" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" timestamp="1557499967528">
+        <mark key="'" line="32" column="54" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="34" />
+      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Lambda.Configuration.Tests/FunctionRunnerTest.cs" timestamp="1556804830092">
         <mark key="'" line="378" column="0" />
         <mark key="[" line="378" column="0" />
@@ -467,8 +483,8 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1557480426248">
-        <mark key="'" line="417" column="55" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" timestamp="1557500016728">
+        <mark key="'" line="436" column="51" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Test.Core/InstanceMethodAsync.cs" timestamp="1556199835780">
         <mark key="'" line="9" column="71" />
@@ -560,21 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/CsodRegistration.cs" />
-      <jump line="38" column="56" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
-      <jump line="93" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
-      <jump line="36" column="55" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
-      <jump line="79" column="51" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
-      <jump line="15" column="22" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/PaymentsDbContext.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/QuizBuilder.cs" />
-      <jump line="19" column="23" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Course.cs" />
-      <jump line="12" column="23" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Chapter.cs" />
-      <jump line="11" column="27" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Lesson.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/ActivitySummaryBase.cs" />
-      <jump line="89" column="30" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V1/StatementController.cs" />
-      <jump line="27" column="25" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Mongo/IMongoDbContext.cs" />
-      <jump line="18" column="20" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Statement.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/ActorReference.cs" />
       <jump line="24" column="20" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Statement.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/ObjectReference.cs" />
       <jump line="28" column="20" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Statement.cs" />
@@ -631,7 +632,6 @@
       <jump line="46" column="25" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Transcript/SaveTranscriptCommandHandler.cs" />
       <jump line="296" column="39" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgress.ts" />
-      <jump line="436" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="417" column="55" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/models/course/ICourseState.ts" />
       <jump line="20" column="36" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/ListQuarterlyPayoutQueryHandler.cs" />
@@ -660,13 +660,29 @@
       <jump line="47" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
       <jump line="99" column="21" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
       <jump line="47" column="30" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/QueryBase.cs" />
+      <jump line="76" column="75" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" />
+      <jump line="70" column="36" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
+      <jump line="5" column="41" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/CourseTranscript.cs" />
+      <jump line="18" column="28" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
+      <jump line="42" column="21" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/Models/AiccGetParamResponse.cs" />
+      <jump line="49" column="22" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
+      <jump line="16" column="28" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
+      <jump line="116" column="40" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
+      <jump line="42" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
+      <jump line="101" column="23" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
+      <jump line="41" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
+      <jump line="90" column="33" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
+      <jump line="32" column="54" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
+      <jump line="436" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUNvcnMoeCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55SGVhZGVyKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55TWV0aG9kKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55T3JpZ2luKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93Q3JlZGVudGlhbHMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUNvcnMoeCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55SGVhZGVyKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55TWV0aG9kKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55T3JpZ2luKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93Q3JlZGVudGlhbHMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>GetTranscriptQuery</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -696,10 +712,10 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>configure(</text>
+        <text>attemp</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJImIyYnJlZ2lzdHJhdGlvbnMiOiB7CgkJCQkiZmV0Y2giOiAiL2IyYnJlZ2lzdHJhdGlvbnMiLAoJCQkJImV4cG9ydCI6ICIvYjJicmVnaXN0cmF0aW9ucy9leHBvcnQiCgkJCX0sCgkJCSJpbnN0cnVjdG9yUGF5b3V0cyI6IHsKCQkJCSJwYXRoIjogIi9pbnN0cnVjdG9yUGF5b3V0cyIKCQkJfSwKCQkJImluc3RydWN0b3JQYXlvdXREZXRhaWxzIjogewoJCQkJInBhdGgiOiAiL2luc3RydWN0b3JQYXlvdXREZXRhaWxzIgoJCQl9LAoJCQkicXVhcnRlcmx5UGF5b3V0cyI6IHsKCQkJCSJwYXRoIjogIi9xdWFydGVybHlQYXlvdXRzIgoJCQl9LAoJCQkicXVhcnRlcmx5UGF5b3V0c0VzdGltYXRpb24iOiB7CgkJCQkicGF0aCI6ICIvcXVhcnRlcmx5UGF5b3V0cy9lc3RpbWF0aW9uIgoJCQl9LAoJCQkicXVhcnRlcnMiOiB7CgkJCQkicGF0aCI6ICIvcXVhcnRlcnMiCgkJCX0sCgkJCSJxdWFydGVyc1ByZXZpb3VzIjogewoJCQkJInBhdGgiOiAiL3F1YXJ0ZXJzL3ByZXZpb3VzIgoJCQl9Cg==</text>
+      <register name="0" type="4">
+        <text>GetTranscriptQuery</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJImIyYnJlZ2lzdHJhdGlvbnMiOiB7CgkJCQkJCQkJImZldGNoIjogIi9iMmJyZWdpc3RyYXRpb25zIiwKCQkJCQkJCQkiZXhwb3J0IjogIi9iMmJyZWdpc3RyYXRpb25zL2V4cG9ydCIKCQkJCQkJfQo=</text>
@@ -765,13 +781,13 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>configure(</last-search>
+      <last-search>attemp</last-search>
       <last-offset />
-      <last-pattern>configure(</last-pattern>
+      <last-pattern>attemp</last-pattern>
       <last-replace>-vchmuzh</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
@@ -779,8 +795,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
-        <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry>pdf</entry>
         <entry>export</entry>
         <entry>migrate</entry>
@@ -799,6 +813,8 @@
         <entry>AwsSte</entry>
         <entry>step</entry>
         <entry>configure(</entry>
+        <entry encoding="base64">XDxDb3Vyc2VfQ29tcGxldGVkX1N0YXR1c1w+</entry>
+        <entry>attemp</entry>
       </history-search>
       <history-cmd>
         <entry>s/\\/\\\\/g</entry>
@@ -818,9 +834,9 @@
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
         <entry encoding="base64">JzwsJz5zLzMwNzIvMjU2MC9n</entry>
-        <entry>action GotoImplementation</entry>
         <entry>%s/.staging/-vchmuzh/g</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
