@@ -52,12 +52,11 @@
       <file name="C:/projects/NewCMS/src/views/reports/transactions/stores/TransactionsB2BStore.js" timestamp="1557132881253">
         <mark key="'" line="55" column="28" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1557756378937">
-        <mark key="'" line="149" column="32" />
-        <mark key="[" line="154" column="66" />
-        <mark key="]" line="154" column="66" />
-        <mark key="^" line="154" column="66" />
-        <mark key="." line="154" column="66" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1557757425718">
+        <mark key="'" line="160" column="22" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="55" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="C:/projects/NewCMS/src/sources/PayoutPoolSource.js" timestamp="1557495510028">
         <mark key="'" line="15" column="13" />
@@ -688,8 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="75" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" />
-      <jump line="70" column="36" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
       <jump line="5" column="41" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/CourseTranscript.cs" />
       <jump line="18" column="28" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
       <jump line="42" column="21" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
@@ -771,7 +768,6 @@
       <jump line="41" column="38" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" />
       <jump line="128" column="35" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="157" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="58" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="40" column="58" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Transcript/SaveTranscriptCommandHandler.cs" />
       <jump line="102" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Transcript/SaveTranscriptCommandHandler.cs" />
       <jump line="93" column="64" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Transcript/SaveTranscriptCommandHandler.cs" />
@@ -788,13 +784,16 @@
       <jump line="47" column="12" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="59" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="149" column="32" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
+      <jump line="58" column="65" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
+      <jump line="160" column="22" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
+      <jump line="21" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUNvcnMoeCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55SGVhZGVyKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55TWV0aG9kKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55T3JpZ2luKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93Q3JlZGVudGlhbHMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>course.IsCompleted</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2V0T25JbnNlcnQoeCA9PiB4LklzQ3NvZCwgaXNDc29kKQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -821,7 +820,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>course.IsCompleted</text>
+        <text>wereCourseCompleted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRCMmJDb21wbGV0ZWRDb3Vyc2VzQ291bnRSZXF1ZXN0XD4=</text>
@@ -830,7 +829,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2V0KHggPT4geC5Jc0NvbXBsZXRlZCwgY291cnNlLklzQ29tcGxldGVkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2V0T25JbnNlcnQoeCA9PiB4LklzQ3NvZCwgaXNDc29kKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -861,16 +860,16 @@
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiaW5jbHVkZVBheW91dCIsICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YSgic2VhdENvdW50IiwgImFzYyIpXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbCB3ZXJlQ291cnNlQ29tcGxldGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCB3ZXJlQ291cnNlQ29tcGxldGVkID0gY291cnNlLklzQ29tcGxldGVkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9rKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCB3ZXJlQ291cnNlQ29tcGxldGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9rKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -884,10 +883,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
