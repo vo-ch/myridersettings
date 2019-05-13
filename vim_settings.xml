@@ -52,8 +52,8 @@
       <file name="C:/projects/NewCMS/src/views/reports/transactions/stores/TransactionsB2BStore.js" timestamp="1557132881253">
         <mark key="'" line="55" column="28" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1557760257665">
-        <mark key="'" line="157" column="31" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1557762427551">
+        <mark key="'" line="154" column="45" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="55" />
         <mark key="." line="144" column="0" />
@@ -416,6 +416,9 @@
         <mark key="[" line="86" column="33" />
         <mark key="]" line="86" column="50" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/CompleteAttemptCommandHandler.cs" timestamp="1557762638978">
+        <mark key="'" line="41" column="16" />
+      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Configuration.Tests/FunctionRunnerTest.cs" timestamp="1556027702126">
         <mark key="'" line="81" column="34" />
         <mark key="[" line="0" column="0" />
@@ -512,11 +515,6 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" timestamp="1557499714597">
         <mark key="'" line="16" column="28" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/ListTranscriptQueryHandler.cs" timestamp="1557750672174">
-        <mark key="'" line="22" column="106" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="46" column="57" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/QuarterlyPayout.cs" timestamp="1557325739759">
         <mark key="'" line="10" column="15" />
@@ -673,6 +671,11 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommandHandler.cs" timestamp="1557762577029">
+        <mark key="'" line="26" column="79" />
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="47" />
+      </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/test/Accounting.B2bRegistrationIngester.Tests.Core/ObjectMothers/SqsEventMother.cs" timestamp="1556627039566">
         <mark key="'" line="17" column="22" />
         <mark key="[" line="4" column="0" />
@@ -692,19 +695,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="21" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/Models/AiccGetParamResponse.cs" />
-      <jump line="49" column="22" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
-      <jump line="16" column="28" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
-      <jump line="116" column="40" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" />
-      <jump line="42" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="101" column="23" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="41" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="90" column="33" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
       <jump line="32" column="54" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
       <jump line="436" column="51" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
       <jump line="139" column="33" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommand.cs" />
       <jump line="49" column="37" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="84" column="37" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="87" column="35" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
@@ -792,13 +785,23 @@
       <jump line="144" column="42" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="19" column="74" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="157" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommand.cs" />
+      <jump line="154" column="45" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Course.cs" />
+      <jump line="29" column="30" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommandHandler.cs" />
+      <jump line="69" column="83" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommandHandler.cs" />
+      <jump line="44" column="57" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommandHandler.cs" />
+      <jump line="26" column="79" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommandHandler.cs" />
+      <jump line="58" column="28" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/CompleteAttemptCommandHandler.cs" />
+      <jump line="41" column="16" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/CompleteAttemptCommandHandler.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Attempt.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUNvcnMoeCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55SGVhZGVyKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55TWV0aG9kKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55T3JpZ2luKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93Q3JlZGVudGlhbHMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CompleteQuizCommand</text>
+        <text>CompleteAttemptCommand</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
