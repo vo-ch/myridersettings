@@ -84,10 +84,14 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V1/StatementController.cs" timestamp="1557327288911">
         <mark key="'" line="89" column="30" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1557498217915">
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="249" column="15" />
-        <mark key="." line="249" column="0" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1557736891683">
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="235" column="89" />
+        <mark key="." line="230" column="0" />
+        <mark key="^" line="229" column="15" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/Security/Policy.cs" timestamp="1557736518332">
+        <mark key="'" line="2" column="22" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutReportGenerator/src/Accounting.InstructorPayoutReportGenerator/Program.cs" timestamp="1556807119238">
         <mark key="'" line="12" column="54" />
@@ -280,8 +284,8 @@
         <mark key="^" line="55" column="57" />
         <mark key="." line="55" column="57" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1557222463970">
-        <mark key="'" line="302" column="73" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1557736913266">
+        <mark key="'" line="205" column="28" />
         <mark key="[" line="302" column="78" />
         <mark key="]" line="302" column="78" />
         <mark key="." line="302" column="90" />
@@ -407,10 +411,13 @@
         <mark key="^" line="103" column="37" />
         <mark key="." line="103" column="37" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1557498256448">
-        <mark key="'" line="47" column="30" />
-        <mark key="[" line="119" column="15" />
-        <mark key="]" line="120" column="11" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/DomainM2MController.cs" timestamp="1557736514799">
+        <mark key="'" line="19" column="32" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1557736887445">
+        <mark key="'" line="84" column="35" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="88" column="89" />
         <mark key="^" line="120" column="11" />
         <mark key="." line="120" column="11" />
       </file>
@@ -581,13 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="6" filename="C:/projects/UI-Web/ClientApp/views/course/player/stores/CourseProgressStore.ts" />
-      <jump line="581" column="61" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="573" column="20" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="398" column="40" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="396" column="78" filename="C:/projects/UI-Web/ClientApp/views/course/quiz/stores/CourseQuizStore.ts" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/models/course/quiz/final-quiz/IFinalQuizScore.ts" />
-      <jump line="31" column="49" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" />
       <jump line="13" column="48" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/ListQuarterlyPayoutResponse.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/ListQuarterlyPayoutItemResponse.cs" />
       <jump line="25" column="27" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Course.cs" />
@@ -681,13 +681,20 @@
       <jump line="22" column="106" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/ListTranscriptQueryHandler.cs" />
       <jump line="36" column="70" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/IAiccService.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/75DCB0D4-205E-42AD-8496-24FEE29EEC94/6/IdentityServerAuthenticationDefaults.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/Security/Policy.cs" />
+      <jump line="19" column="32" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/DomainM2MController.cs" />
+      <jump line="2" column="22" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/Security/Policy.cs" />
+      <jump line="84" column="35" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Security/Policy.cs" />
+      <jump line="205" column="28" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUNvcnMoeCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55SGVhZGVyKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55TWV0aG9kKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55T3JpZ2luKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93Q3JlZGVudGlhbHMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ListTranscriptQuery</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnMuQWRkUG9saWN5KAogICAgICAgICAgICAgICAgICAgIFBvbGljeS5BZG1pbk9yTTJNLAogICAgICAgICAgICAgICAgICAgIHBvbGljeSA9PiBwb2xpY3kuUmVxdWlyZUFzc2VydGlvbihjb250ZXh0ID0+CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQuVXNlci5IYXNDbGFpbShKd3RDbGFpbVR5cGVzLkNsaWVudElkLCBDb25maWd1cmF0aW9uLkdldFNlY3Rpb24oQXV0aFNlcnZpY2VFeHRlbnNpb25zLkF1dGhTZXJ2aWNlU2VjdGlvbikuR2V0PEF1dGhTZXJ2aWNlT3B0aW9uPigpLkNsaWVudElkKQogICAgICAgICAgICAgICAgICAgICAgICB8fCBjb250ZXh0LlVzZXIuSGFzQ2xhaW0oSnd0Q2xhaW1UeXBlcy5Sb2xlLCBSb2xlcy5BZG1pbikKICAgICAgICAgICAgICAgICAgICAgICAgfHwgY29udGV4dC5Vc2VyLkhhc0NsYWltKEp3dENsYWltVHlwZXMuUm9sZSwgUm9sZXMuU3VwZXJBZG1pbikpKTsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -719,8 +726,8 @@
       <register name="/" type="4">
         <text>attemp</text>
       </register>
-      <register name="0" type="4">
-        <text>GetTranscriptQuery</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnMuQWRkUG9saWN5KAogICAgICAgICAgICAgICAgICAgIFBvbGljeS5BZG1pbk9yTTJNLAogICAgICAgICAgICAgICAgICAgIHBvbGljeSA9PiBwb2xpY3kuUmVxdWlyZUFzc2VydGlvbihjb250ZXh0ID0+CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQuVXNlci5IYXNDbGFpbShKd3RDbGFpbVR5cGVzLkNsaWVudElkLCBDb25maWd1cmF0aW9uLkdldFNlY3Rpb24oQXV0aFNlcnZpY2VFeHRlbnNpb25zLkF1dGhTZXJ2aWNlU2VjdGlvbikuR2V0PEF1dGhTZXJ2aWNlT3B0aW9uPigpLkNsaWVudElkKQogICAgICAgICAgICAgICAgICAgICAgICB8fCBjb250ZXh0LlVzZXIuSGFzQ2xhaW0oSnd0Q2xhaW1UeXBlcy5Sb2xlLCBSb2xlcy5BZG1pbikKICAgICAgICAgICAgICAgICAgICAgICAgfHwgY29udGV4dC5Vc2VyLkhhc0NsYWltKEp3dENsYWltVHlwZXMuUm9sZSwgUm9sZXMuU3VwZXJBZG1pbikpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJImIyYnJlZ2lzdHJhdGlvbnMiOiB7CgkJCQkJCQkJImZldGNoIjogIi9iMmJyZWdpc3RyYXRpb25zIiwKCQkJCQkJCQkiZXhwb3J0IjogIi9iMmJyZWdpc3RyYXRpb25zL2V4cG9ydCIKCQkJCQkJfQo=</text>
@@ -796,7 +803,7 @@
       <last-replace>-vchmuzh</last-replace>
       <last-substitute>.staging</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
