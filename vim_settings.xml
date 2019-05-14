@@ -193,10 +193,10 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1557845190262">
-        <mark key="'" line="61" column="53" />
-        <mark key="[" line="56" column="33" />
-        <mark key="]" line="56" column="45" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1557846149345">
+        <mark key="'" line="120" column="36" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="159" column="5" />
         <mark key="." line="56" column="45" />
         <mark key="^" line="56" column="45" />
       </file>
@@ -690,12 +690,12 @@
         <mark key="." line="2" column="73" />
         <mark key="^" line="2" column="73" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/services/http/lms/CatalogService.ts" timestamp="1557845019216">
+      <file name="C:/projects/UI-Web/ClientApp/services/http/lms/CatalogService.ts" timestamp="1557846178106">
         <mark key="'" line="15" column="78" />
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-        <mark key="^" line="6" column="54" />
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="14" column="54" />
+        <mark key="^" line="14" column="54" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/SaveCourseProgressionResponse.cs" timestamp="1557752617689">
         <mark key="'" line="9" column="19" />
@@ -767,7 +767,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="63" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" />
       <jump line="4" column="41" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/ListTranscriptRequest.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Pagination/V2/PagingRequest.cs" />
       <jump line="109" column="24" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" />
@@ -867,13 +866,14 @@
       <jump line="31" column="12" filename="C:/projects/UI-Web/ClientApp/views/enterprise/views/course-catalog/store/CourseCatalogStore.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/services/http/JsonApiCrudService.ts" />
       <jump line="14" column="78" filename="C:/projects/UI-Web/ClientApp/services/http/lms/CatalogService.ts" />
+      <jump line="120" column="36" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUNvcnMoeCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55SGVhZGVyKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55TWV0aG9kKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93QW55T3JpZ2luKCk7CiAgICAgICAgICAgICAgICB4LkFsbG93Q3JlZGVudGlhbHMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Category</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -900,13 +900,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Category</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRhbG9nU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBvYnNlcnZhYmxlIHByaW1hcnlDYXRlZ29yaWVzOiBJQ2F0ZWdvcnlbXTsK</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgKiBnZXQgcHJpbWFyeSBjb3Vyc2UgY2F0ZWdvcmllcwogICAgICovCiAgICBAYWN0aW9uIGxvYWRQcmltYXJ5Q2F0ZWdvcmllcyA9ICgpOiBQcm9taXNlPHZvaWQ+ID0+IHsKICAgICAgICBpZiAodGhpcy5kYXRhLmxlbmd0aCA+IDAgJiYgIXRoaXMucHJpbWFyeUNhdGVnb3JpZXMpIHsKICAgICAgICAgICAgcmV0dXJuIHRoaXMuY2F0ZWdvcmllcy5nZXRBbGxUb3BMZXZlbCgpLnRoZW4odGhpcy5nZXRQcmltYXJ5Q2F0ZWdvcmllc1N1Y2Nlc3MpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
