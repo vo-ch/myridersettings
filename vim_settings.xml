@@ -52,12 +52,6 @@
       <file name="C:/projects/NewCMS/src/views/reports/transactions/stores/TransactionsB2BStore.js" timestamp="1557132881253">
         <mark key="'" line="55" column="28" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1557762427551">
-        <mark key="'" line="154" column="45" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="55" />
-        <mark key="." line="144" column="0" />
-      </file>
       <file name="C:/projects/NewCMS/src/sources/PayoutPoolSource.js" timestamp="1557495510028">
         <mark key="'" line="15" column="13" />
       </file>
@@ -199,6 +193,7 @@
         <mark key="." line="52" column="33" />
         <mark key="^" line="52" column="33" />
       </file>
+      <file name="/UIWeb.csproj" timestamp="1557923765280" />
       <file name="C:/projects/Accounting/Infra/Accounting.Logging.Tests/Attributes/LoggedAttributeTests.cs" timestamp="1555942798436">
         <mark key="'" line="188" column="28" />
         <mark key="[" line="136" column="29" />
@@ -439,10 +434,10 @@
       <file name="C:/projects/NewCMS/package.json" timestamp="1557495560723">
         <mark key="'" line="45" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1557913686885">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1557924226495">
         <mark key="'" line="170" column="25" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="59" />
+        <mark key="[" line="170" column="17" />
+        <mark key="]" line="170" column="29" />
         <mark key="." line="182" column="0" />
         <mark key="^" line="174" column="57" />
       </file>
@@ -701,7 +696,7 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557496545073">
+      <file name="/Dummy.txt" timestamp="1557923977549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -722,12 +717,6 @@
         <mark key="]" line="6" column="54" />
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/SaveCourseProgressionResponse.cs" timestamp="1557752617689">
-        <mark key="'" line="9" column="19" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" timestamp="1557157571660">
         <mark key="'" line="0" column="0" />
@@ -914,7 +903,7 @@
         <text>|| categories.length === 0</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>RelatedTopics</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -946,8 +935,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjb3Vyc2VfY2F0YWxvZ19pZHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvblVuc2VsZWN0QWxsPXtzdG9yZS51bnNlbGVjdEFsbFRvcGljc30K</text>
+      <register name="0" type="4">
+        <text>RelatedTopics</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGwKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
