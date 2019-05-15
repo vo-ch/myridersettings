@@ -122,12 +122,12 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/ListB2bRegistrationResponse.cs" timestamp="1557493534162">
         <mark key="'" line="7" column="74" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1557908197198">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1557909473490">
         <mark key="'" line="139" column="72" />
-        <mark key="[" line="141" column="20" />
-        <mark key="]" line="141" column="20" />
-        <mark key="." line="141" column="20" />
-        <mark key="^" line="141" column="20" />
+        <mark key="[" line="221" column="37" />
+        <mark key="]" line="221" column="37" />
+        <mark key="." line="221" column="40" />
+        <mark key="^" line="221" column="33" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQuery.cs" timestamp="1557493176380">
         <mark key="'" line="4" column="59" />
@@ -250,12 +250,12 @@
       <file name="C:/projects/NewCMS/package.json" timestamp="1557495560723">
         <mark key="'" line="45" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1557907808821">
-        <mark key="'" line="169" column="32" />
-        <mark key="[" line="175" column="56" />
-        <mark key="]" line="175" column="56" />
-        <mark key="." line="175" column="56" />
-        <mark key="^" line="175" column="56" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1557910094501">
+        <mark key="'" line="177" column="27" />
+        <mark key="[" line="176" column="32" />
+        <mark key="]" line="176" column="55" />
+        <mark key="." line="176" column="55" />
+        <mark key="^" line="176" column="55" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Pagination/PaginatedQuery.cs" timestamp="1557743537966">
         <mark key="'" line="4" column="46" />
@@ -320,12 +320,12 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aicc/AiccService.cs" timestamp="1557499714597">
         <mark key="'" line="16" column="28" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" timestamp="1557906009114">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" timestamp="1557909298499">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="41" column="23" />
+        <mark key="^" line="41" column="23" />
+        <mark key="." line="41" column="23" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.module.scss" timestamp="1557905824727">
         <mark key="'" line="1" column="0" />
@@ -419,12 +419,12 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.module.scss" timestamp="1557907801469">
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.module.scss" timestamp="1557910087982">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="50" column="1" />
         <mark key="]" line="50" column="25" />
-        <mark key="." line="50" column="14" />
-        <mark key="^" line="50" column="14" />
+        <mark key="^" line="47" column="6" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="C:/projects/NewCMS/src/configSource.example.json" timestamp="1557498045672">
         <mark key="[" line="129" column="0" />
@@ -463,8 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="88" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/UserController.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/75DCB0D4-205E-42AD-8496-24FEE29EEC94/6/IdentityServerAuthenticationDefaults.cs" />
       <jump line="79" column="38" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/UserController.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Models/User/User.cs" />
       <jump line="212" column="50" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth0.UserMigration/Program.cs" />
@@ -563,13 +561,15 @@
       <jump line="142" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="139" column="72" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
+      <jump line="176" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
+      <jump line="177" column="27" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>this.loadPrimaryCategories</text>
+        <text>Related Topics</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGFzIFByb21pc2U8dm9pZD4=</text>
+        <text>section-separator__catalog</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -596,16 +596,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFzIFByb21pc2U8dm9pZD4=</text>
+        <text>section-separator__catalog</text>
       </register>
       <register name="/" type="4">
         <text>separato</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbWFyeUNhdGVnb3JpZXM6IHRoaXMucHJpbWFyeUNhdGVnb3JpZXMsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmVsYXRlZC10b3BpY3Mtc2VwYXJhdG9yIA==</text>
       </register>
-      <register name="1" type="4">
-        <text>this.loadPrimaryCategories</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -624,25 +624,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LnJlbGF0ZWQtdG9waWNzLXNlcGFyYXRvciB7CiAgICBoZWlnaHQ6IDFweDsKICAgIGJhY2tncm91bmQ6ICNEOEQ4RDg7Cn0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlc2V0QmVmb3JlRmlsdGVyKCk7CiAgICAgICAgdGhpcy5zZXRMb2NhbExvYWRpbmcoKTsKICAgICAgICByZXR1cm4gdGhpcy5sb2FkRGF0YSgpLnRoZW4odGhpcy5yZXNldExvY2FsTG9hZGluZyk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>loadCourseCatalogsSuccess</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZWZyZXNoRmlsdGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogMzBweCAzMHB4IDAgMzBweDsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGhlaWdodDogMXB4OwogICAgYmFja2dyb3VuZDogI0Q4RDhEODs=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlc2V0QmVmb3JlRmlsdGVyKCk7CiAgICAgICAgdGhpcy5zZXRMb2NhbExvYWRpbmcoKTsKICAgICAgICByZXR1cm4gdGhpcy5sb2FkRGF0YSgpLnRoZW4odGhpcy5yZXNldExvY2FsTG9hZGluZyk7</text>
+        <text>this.loadPrimaryCategories</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -658,11 +658,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZXNldEJlZm9yZUZpbHRlcigpOwogICAgICAgICAgICB0aGlzLnNldExvY2FsTG9hZGluZygpOwogICAgICAgICAgICByZXR1cm4gdGhpcy5sb2FkRGF0YSgpLnRoZW4odGhpcy5yZXNldExvY2FsTG9hZGluZyk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlc2V0QmVmb3JlRmlsdGVyKCk7CiAgICAgICAgdGhpcy5zZXRMb2NhbExvYWRpbmcoKTsKICAgICAgICByZXR1cm4gdGhpcy5sb2FkRGF0YSgpLnRoZW4odGhpcy5yZXNldExvY2FsTG9hZGluZyk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUNhdGVnb3J5IH0gZnJvbSAnQ2xpZW50QXBwL21vZGVscy9jYXRlZ29yeS9JQ2F0ZWdvcnknOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5yZWZyZXNoRmlsdGVyKCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
