@@ -58,6 +58,9 @@
       <file name="/postgres.public.currencies [docker@localhost [2]]" timestamp="1557933834124">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Rating.public.Ratings [docker@localhost [2]]" timestamp="1557997902793">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetB2bCompletedCoursesCountRequest.cs" timestamp="1557743387424">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="42" />
@@ -78,11 +81,10 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="46" column="57" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data/RatingDbContext.cs" timestamp="1557929007318">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="21" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="13" column="21" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Data/RatingDbContext.cs" timestamp="1557998193045">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/QuarterMap.cs" timestamp="1557929437150">
         <mark key="'" line="8" column="4" />
@@ -111,7 +113,7 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="/a.sql" timestamp="1557933913937">
+      <file name="/a.sql" timestamp="1557997533474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/Accounting/.gitignore" timestamp="1557933575802">
@@ -119,10 +121,16 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="269" column="5" />
       </file>
-      <file name="/dummy.sql" timestamp="1557933838898">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01f8e213-5ecc-4708-bead-67f184c26463/console.sql" timestamp="1557998892825">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1557998850907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557934761585">
+      <file name="/Dummy.txt" timestamp="1557997533487">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -156,11 +164,11 @@
         <mark key="." line="4" column="3" />
         <mark key="^" line="4" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" timestamp="1557995195820">
-        <mark key="[" line="11" column="53" />
-        <mark key="]" line="11" column="58" />
-        <mark key="." line="11" column="58" />
-        <mark key="^" line="11" column="58" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" timestamp="1557998890241">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.json" timestamp="1557739394292">
         <mark key="[" line="17" column="2" />
@@ -173,6 +181,9 @@
         <mark key="]" line="3" column="37" />
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
+      </file>
+      <file name="/payments.accounting.quarters [payments@localhost]" timestamp="1557998846666">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Security/Policy.cs" timestamp="1557739483683">
         <mark key="[" line="4" column="0" />
@@ -321,8 +332,8 @@
       <register name="a" type="4">
         <text>|| categories.length === 0</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>default</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0VMRUNUICoKRlJPTSBwZ19jb2xsYXRpb247Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -355,10 +366,10 @@
         <text>AccountingDbContext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSB0YWJsZV9uYW1lIG9yZGVyIGJ5IG5hbWUgY29sbGF0ZSAiZW5fVVMiIDsK</text>
+        <text encoding="base64">U0VMRUNUICoKRlJPTSBwZ19jb2xsYXRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -377,28 +388,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1aWxkZXIgPSBuZXcgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8UmF0aW5nRGJDb250ZXh0PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxCdWlsZGVyLmNvbGxhCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiQ29ubmVjdGlvblN0cmluZ3MiOiB7CiAgICAiQWNjb3VudGluZ0RhdGFiYXNlIjogIlVzZXIgSUQ9cG9zdGdyZXM7UGFzc3dvcmQ9bXlzZWNyZXRwYXNzd29yZDtIb3N0PWxvY2FsaG9zdDtQb3J0PTU0MzI7RGF0YWJhc2U9cG9zdGdyZXM7IgogIH0sCg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
       <register name="s" type="4">
         <text>loadCourseCatalogsSuccess</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1aWxkZXIgPSBuZXcgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8UmF0aW5nRGJDb250ZXh0PigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbC5NaWdyYXRpb25zSGlzdG9yeVRhYmxlKCJfX0VGTWlncmF0aW9uc0hpc3RvcnkiLCAiYWNjb3VudGluZyIpOwo=</text>
+        <text encoding="base64">ICAiQ29ubmVjdGlvblN0cmluZ3MiOiB7CiAgICAiQWNjb3VudGluZ0RhdGFiYXNlIjogIlVzZXIgSUQ9cG9zdGdyZXM7UGFzc3dvcmQ9bXlzZWNyZXRwYXNzd29yZDtIb3N0PWxvY2FsaG9zdDtQb3J0PTU0MzI7RGF0YWJhc2U9cG9zdGdyZXM7IgogIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFJhdGluZ0RiQ29udGV4dCBDcmVhdGVEYkNvbnRleHQoSUxvZ2dlckZhY3RvcnkgbG9nZ2VyRmFjdG9yeSkKICAgICAgICB7Ci8vICAgICAgICAgICAgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8UmF0aW5nRGJDb250ZXh0PiBidWlsZGVyID0gQ3JlYXRlRGJDb250ZXh0T3B0aW9uc0J1aWxkZXIoKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBidWlsZGVyID0gbmV3IERiQ29udGV4dE9wdGlvbnNCdWlsZGVyPFJhdGluZ0RiQ29udGV4dD4oKTsKICAgICAgICAgICAgaWYgKGxvZ2dlckZhY3RvcnkgIT0gbnVsbCkgYnVpbGRlci5Vc2VMb2dnZXJGYWN0b3J5KGxvZ2dlckZhY3RvcnkpOwogICAgICAgICAgICByZXR1cm4gbmV3IFJhdGluZ0RiQ29udGV4dChidWlsZGVyLk9wdGlvbnMpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbC5NaWdyYXRpb25zSGlzdG9yeVRhYmxlKCJfX0VGTWlncmF0aW9uc0hpc3RvcnkiLCAiYWNjb3VudGluZyIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -412,10 +423,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8UmF0aW5nRGJDb250ZXh0PiBidWlsZGVyID0gQ3JlYXRlRGJDb250ZXh0T3B0aW9uc0J1aWxkZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8QWNjb3VudGluZ0RiQ29udGV4dD4gQ3JlYXRlRGJDb250ZXh0T3B0aW9uc0J1aWxkZXIoKQogICAgICAgIHsKICAgICAgICAgICAgSUNvbmZpZ3VyYXRpb25Sb290IGNvbmZpZ3VyYXRpb24gPQogICAgICAgICAgICAgICAgbmV3IENvbmZpZ3VyYXRpb25CdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAuU2V0QmFzZVBhdGgoRGlyZWN0b3J5LkdldEN1cnJlbnREaXJlY3RvcnkoKSkKICAgICAgICAgICAgICAgICAgICAuQWRkSnNvbkZpbGUoImFwcHNldHRpbmdzLmpzb24iKQogICAgICAgICAgICAgICAgICAgIC5BZGRKc29uRmlsZSgiYXBwc2V0dGluZ3MuTG9jYWwuanNvbiIsIG9wdGlvbmFsOiB0cnVlKQogICAgICAgICAgICAgICAgICAgIC5CdWlsZCgpOwoKICAgICAgICAgICAgdmFyIGJ1aWxkZXIgPSBuZXcgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8QWNjb3VudGluZ0RiQ29udGV4dD4oKTsKICAgICAgICAgICAgdmFyIGNvbm5lY3Rpb25TdHJpbmcgPSBjb25maWd1cmF0aW9uLkdldENvbm5lY3Rpb25TdHJpbmcoQUNDT1VOVElOR19EQVRBQkFTRSk7CiAgICAgICAgICAgIGJ1aWxkZXIuVXNlTnBnc3FsKGNvbm5lY3Rpb25TdHJpbmcsIHNxbCA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzcWwuTWlncmF0aW9uc0hpc3RvcnlUYWJsZSgiX19FRk1pZ3JhdGlvbnNIaXN0b3J5IiwgImFjY291bnRpbmciKTsKICAgICAgICAgICAgICAgIHNxbC5NaWdyYXRpb25zQXNzZW1ibHkoTUlHUkFUSU9OX0FTU0VNQkxZKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHJldHVybiBidWlsZGVyOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFJhdGluZ0RiQ29udGV4dCBDcmVhdGVEYkNvbnRleHQoSUxvZ2dlckZhY3RvcnkgbG9nZ2VyRmFjdG9yeSkKICAgICAgICB7Ci8vICAgICAgICAgICAgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8UmF0aW5nRGJDb250ZXh0PiBidWlsZGVyID0gQ3JlYXRlRGJDb250ZXh0T3B0aW9uc0J1aWxkZXIoKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBidWlsZGVyID0gbmV3IERiQ29udGV4dE9wdGlvbnNCdWlsZGVyPFJhdGluZ0RiQ29udGV4dD4oKTsKICAgICAgICAgICAgaWYgKGxvZ2dlckZhY3RvcnkgIT0gbnVsbCkgYnVpbGRlci5Vc2VMb2dnZXJGYWN0b3J5KGxvZ2dlckZhY3RvcnkpOwogICAgICAgICAgICByZXR1cm4gbmV3IFJhdGluZ0RiQ29udGV4dChidWlsZGVyLk9wdGlvbnMpOwogICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
