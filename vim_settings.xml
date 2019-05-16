@@ -88,6 +88,10 @@
         <mark key="[" line="7" column="28" />
         <mark key="]" line="39" column="4" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/DomainController.cs" timestamp="1558015412196">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="42" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/appsettings.Local.json" timestamp="1557933945066">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="4" />
@@ -149,6 +153,9 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
         <mark key="^" line="7" column="5" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" timestamp="1558015452559">
+        <mark key="'" line="34" column="17" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/DesignTimeAccountingDbContextFactory.cs" timestamp="1557931776243">
         <mark key="'" line="10" column="54" />
@@ -231,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="12" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="59" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="149" column="32" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="58" column="65" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
@@ -331,13 +337,14 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/.gitignore" />
       <jump line="19" column="49" filename="C:/projects/Rating/Web/API/src/Rating.Data/RatingDbContext.cs" />
       <jump line="14" column="22" filename="C:/projects/Rating/Web/API/src/Rating.Data/RatingDbContext.cs" />
+      <jump line="34" column="17" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>|| categories.length === 0</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Id</text>
+        <text>ListDomainQuery</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
