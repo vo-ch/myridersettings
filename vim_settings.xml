@@ -3,38 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions - Copy.cs" timestamp="1557220497510">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="35" />
-        <mark key="." line="18" column="35" />
-        <mark key="^" line="18" column="47" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/AuthServiceOption.cs" timestamp="1557739358036">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="4" column="41" />
-        <mark key="." line="4" column="41" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetTranscriptRequest - Copy.cs" timestamp="1557739967924">
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-      </file>
       <file name="/payments.accounting.quarterly_payouts [payments@localhost]" timestamp="1558086013361">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DatabaseModificationExtensions.cs" timestamp="1557222458663">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="35" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="27" column="15" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetCompletedCoursesCountResponse.cs" timestamp="1557740055179">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="35" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="4" column="35" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1557738837656">
+        <mark key="'" line="200" column="40" />
+        <mark key="[" line="302" column="78" />
+        <mark key="]" line="302" column="78" />
+        <mark key="." line="302" column="90" />
+        <mark key="^" line="302" column="25" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data.Entity/Rating.cs" timestamp="1558003208931">
         <mark key="[" line="11" column="25" />
@@ -48,18 +25,40 @@
         <mark key="." line="48" column="59" />
         <mark key="^" line="48" column="59" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Course.cs" timestamp="1557756266223">
+        <mark key="'" line="25" column="27" />
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Accounting.Data.DbMigration.csproj" timestamp="1557932258346">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="37" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data.Entity/Class1.cs" timestamp="1557928348182">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" timestamp="1557924226495">
+        <mark key="'" line="170" column="25" />
+        <mark key="[" line="170" column="17" />
+        <mark key="]" line="170" column="29" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="174" column="57" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetB2bCompletedTranscriptsCountQuery.cs" timestamp="1557750501785">
+        <mark key="'" line="4" column="56" />
+        <mark key="[" line="4" column="56" />
+        <mark key="]" line="4" column="65" />
+        <mark key="^" line="4" column="65" />
+        <mark key="." line="4" column="65" />
       </file>
       <file name="/postgres.public.currencies [docker@localhost [2]]" timestamp="1557933834124">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetB2bCompletedTranscriptsCountQueryHandler.cs" timestamp="1557752393670">
+        <mark key="'" line="23" column="34" />
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="18" />
+        <mark key="." line="23" column="18" />
+        <mark key="^" line="23" column="18" />
       </file>
       <file name="/Rating.public.Ratings [docker@localhost [2]]" timestamp="1557997902793">
         <mark key="[" line="0" column="0" />
@@ -67,11 +66,26 @@
       <file name="/payments.public.csod_registrations [payments@localhost]" timestamp="1558016091626">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetB2bCompletedCoursesCountRequest.cs" timestamp="1557743387424">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-        <mark key="^" line="4" column="42" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1558087854365">
+        <mark key="'" line="8" column="34" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="88" column="89" />
+        <mark key="^" line="120" column="11" />
+        <mark key="." line="120" column="11" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" timestamp="1557752070059">
+        <mark key="'" line="119" column="83" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+        <mark key="^" line="116" column="0" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" timestamp="1557913814334">
+        <mark key="'" line="38" column="44" />
+        <mark key="[" line="38" column="109" />
+        <mark key="]" line="38" column="109" />
+        <mark key="." line="38" column="109" />
+        <mark key="^" line="58" column="34" />
       </file>
       <file name="/utf_test.public.table_name [docker@localhost [2]]" timestamp="1558080139401">
         <mark key="[" line="0" column="0" />
@@ -80,15 +94,18 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="54" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1557739571169">
+        <mark key="'" line="230" column="37" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="234" column="106" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayout/ListInstructorPayoutQueryHandler.cs" timestamp="1558085638233">
         <mark key="'" line="56" column="42" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data/RatingDbContext.cs" timestamp="1558003343123">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="47" />
+      <file name="/payments.accounting.__EFMigrationsHistory [payments@localhost]" timestamp="1558087622440">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/DomainController.cs" timestamp="1558015412196">
         <mark key="[" line="45" column="28" />
@@ -98,23 +115,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="4" />
       </file>
-      <file name="C:/projects/UI-Web/appsettings.Local.json" timestamp="1557841432616">
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="23" />
-        <mark key="." line="59" column="23" />
-        <mark key="^" line="59" column="23" />
-      </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/appsettings.json" timestamp="1557934147869">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetCompletedCoursesCountRequest.cs" timestamp="1557740227269">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
+      <file name="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" timestamp="1557913618573">
+        <mark key="'" line="210" column="12" />
+        <mark key="[" line="51" column="45" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="33" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/Data/RatingDb/Migrations/20190516124214_InitialCreate.cs" timestamp="1558011153417">
         <mark key="[" line="48" column="0" />
@@ -131,13 +137,12 @@
       <file name="/a.sql" timestamp="1558010069705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01f8e213-5ecc-4708-bead-67f184c26463/console.sql" timestamp="1558017900609">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01f8e213-5ecc-4708-bead-67f184c26463/console.sql" timestamp="1558087709184">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1558086031080">
+      <file name="/dummy.sql" timestamp="1558087969134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutController.cs" timestamp="1558085603871">
@@ -149,35 +154,18 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="C:/projects/Rating/.gitignore" timestamp="1557934283066">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" timestamp="1558015452559">
         <mark key="'" line="34" column="17" />
       </file>
       <file name="/payments.accounting.instructor_payout_details [payments@localhost]" timestamp="1558086028660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.Local.json" timestamp="1557739387358">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="18" column="26" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/72268182-d628-43a2-a7ec-46d81a3d1c01/console_1.sql" timestamp="1557222639579">
-        <mark key="[" line="2" column="73" />
-        <mark key="]" line="2" column="73" />
-        <mark key="." line="2" column="73" />
-        <mark key="^" line="2" column="73" />
-      </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data/Class1.cs" timestamp="1557928745195">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="4" column="3" />
+      <file name="C:/projects/UI-Web/ClientApp/services/http/lms/CatalogService.ts" timestamp="1557904940189">
+        <mark key="'" line="15" column="78" />
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+        <mark key="^" line="6" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" timestamp="1558080555445">
         <mark key="[" line="12" column="48" />
@@ -185,61 +173,20 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.json" timestamp="1557739394292">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/Rating.Data.DbMigration.csproj" timestamp="1557932265664">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="37" />
-        <mark key="." line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-      </file>
-      <file name="/payments.accounting.quarters [payments@localhost]" timestamp="1558086007596">
+      <file name="/payments.accounting.quarters [payments@localhost]" timestamp="1558087966902">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetB2bCompletedTranscriptsCountResponse.cs" timestamp="1557751369317">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-      </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/Data/DesignTimeRatingDbContextFactory.cs" timestamp="1557934627623">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="10" column="57" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetB2bCompletedTranscriptsCountQueryResult.cs" timestamp="1557751079518">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-      </file>
-      <file name="C:/projects/UI-Web/ClientApp/views/course/search/models/IFilter.ts" timestamp="1557843028961">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
       </file>
       <file name="/payments.accounting.instructor_payouts [payments@localhost]" timestamp="1558086020212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.Local.json" timestamp="1557739243431">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="20" column="4" />
-        <mark key="^" line="15" column="67" />
-        <mark key="." line="15" column="65" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.Local.json" timestamp="1558087747729">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="10" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="65" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="160" column="22" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="21" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="144" column="42" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="19" column="74" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="157" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommand.cs" />
       <jump line="154" column="45" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
@@ -335,13 +282,18 @@
       <jump line="34" column="17" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
       <jump line="56" column="42" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayout/ListInstructorPayoutQueryHandler.cs" />
       <jump line="54" column="20" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayout/ListInstructorPayoutQueryHandler.cs" />
+      <jump line="102" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="101" column="17" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="201" column="34" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="203" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="8" column="34" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>|| categories.length === 0</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ListInstructorPayoutQuery</text>
+        <text>false</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -368,16 +320,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>AccountingDbContext</text>
+        <text>step</text>
       </register>
       <register name="0" type="4">
         <text>course_rating_search_vector_update</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Jc1JlcXVpcmVkKCkK</text>
+        <text encoding="base64">CnVwZGF0ZSBwdWJsaWMuImNzb2RfcmVnaXN0cmF0aW9ucyIKc2V0IHJlZ2lzdHJhdGlvbl9wcmljZSA9IG51bGwKd2hlcmUgcmVnaXN0cmF0aW9uX3ByaWNlIGlzIG5vdCBudWxsOwoKCmRlbGV0ZSBmcm9tIGFjY291bnRpbmcuImluc3RydWN0b3JfcGF5b3V0X2RldGFpbHMiOwpkZWxldGUgZnJvbSBhY2NvdW50aW5nLiJpbnN0cnVjdG9yX3BheW91dHMiOwpkZWxldGUgZnJvbSBhY2NvdW50aW5nLiJxdWFydGVybHlfcGF5b3V0cyI7CmRlbGV0ZSBmcm9tIGFjY291bnRpbmcuInF1YXJ0ZXJzIjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -396,28 +348,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Jc1JlcXVpcmVkKCkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>loadCourseCatalogsSuccess</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICBidWlsZGVyLlByb3BlcnR5KHggPT4geC5Db3Vyc2VSZXZpZXcpCiAgICAgICAgICAgICAgICAuSGFzQ29sdW1uVHlwZSgiY2hhcmFjdGVyIHZhcnlpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Jc1JlcXVpcmVkKCkK</text>
+        <text encoding="base64">CgogICAgICAgICAgICBidWlsZGVyLlByb3BlcnR5KHggPT4geC5Db3Vyc2VSZXZpZXcpCiAgICAgICAgICAgICAgICAuSGFzQ29sdW1uVHlwZSgiY2hhcmFjdGVyIHZhcnlpbmciKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Jc1JlcXVpcmVkKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxCdWlsZGVyLmNvbGxhCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -431,30 +383,29 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxCdWlsZGVyLmNvbGxhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJ1aWxkZXIgPSBuZXcgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8UmF0aW5nRGJDb250ZXh0PigpOwo=</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
-      <last-search>AccountingDbContext</last-search>
+      <last-search>step</last-search>
       <last-offset />
-      <last-pattern>AccountingDbContext</last-pattern>
+      <last-pattern>step</last-pattern>
       <last-replace>RatingDbContext</last-replace>
       <last-substitute>AccountingDbContext</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>step</entry>
         <entry>configure(</entry>
         <entry encoding="base64">XDxDb3Vyc2VfQ29tcGxldGVkX1N0YXR1c1w+</entry>
         <entry>attemp</entry>
@@ -474,6 +425,7 @@
         <entry>separato</entry>
         <entry encoding="base64">XDxjb3Vyc2VfY2F0YWxvZ19pZHNcPg==</entry>
         <entry>AccountingDbContext</entry>
+        <entry>step</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19sYW1iZGFDb250ZXh0TW9jay9sYW1iZGFDb250ZXh0TW9jay9n</entry>
@@ -494,8 +446,8 @@
         <entry>action ShowErrorDescription</entry>
         <entry>%s/AccountingDbContext/RatingDbContext/g</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action RenameElement</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
