@@ -21,6 +21,9 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
+      <file name="/payments.accounting.quarterly_payouts [payments@localhost]" timestamp="1558086013361">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DatabaseModificationExtensions.cs" timestamp="1557222458663">
         <mark key="[" line="21" column="35" />
         <mark key="]" line="21" column="35" />
@@ -77,6 +80,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="54" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayout/ListInstructorPayoutQueryHandler.cs" timestamp="1558085638233">
+        <mark key="'" line="56" column="42" />
+      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data/RatingDbContext.cs" timestamp="1558003343123">
         <mark key="'" line="14" column="22" />
         <mark key="[" line="14" column="21" />
@@ -131,8 +137,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1558080141586">
+      <file name="/dummy.sql" timestamp="1558086031080">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutController.cs" timestamp="1558085603871">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="52" />
       </file>
       <file name="/Dummy.txt" timestamp="1558083348685">
         <mark key="[" line="0" column="0" />
@@ -147,6 +157,9 @@
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" timestamp="1558015452559">
         <mark key="'" line="34" column="17" />
+      </file>
+      <file name="/payments.accounting.instructor_payout_details [payments@localhost]" timestamp="1558086028660">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.Local.json" timestamp="1557739387358">
         <mark key="[" line="17" column="0" />
@@ -184,7 +197,7 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="/payments.accounting.quarters [payments@localhost]" timestamp="1557998846666">
+      <file name="/payments.accounting.quarters [payments@localhost]" timestamp="1558086007596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetB2bCompletedTranscriptsCountResponse.cs" timestamp="1557751369317">
@@ -211,6 +224,9 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="/payments.accounting.instructor_payouts [payments@localhost]" timestamp="1558086020212">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.Local.json" timestamp="1557739243431">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="20" column="4" />
@@ -219,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="149" column="32" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="58" column="65" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="160" column="22" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="21" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
@@ -319,13 +333,15 @@
       <jump line="19" column="49" filename="C:/projects/Rating/Web/API/src/Rating.Data/RatingDbContext.cs" />
       <jump line="14" column="22" filename="C:/projects/Rating/Web/API/src/Rating.Data/RatingDbContext.cs" />
       <jump line="34" column="17" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" />
+      <jump line="56" column="42" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayout/ListInstructorPayoutQueryHandler.cs" />
+      <jump line="54" column="20" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayout/ListInstructorPayoutQueryHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>|| categories.length === 0</text>
       </register>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>ListInstructorPayoutQuery</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
