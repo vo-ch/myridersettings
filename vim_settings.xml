@@ -196,6 +196,9 @@
       <file name="/payments.accounting.instructor_payouts [payments@localhost]" timestamp="1558091323271">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1558098470831">
+        <mark key="'" line="24" column="36" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.Local.json" timestamp="1558087747729">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="27" />
@@ -204,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="57" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommandHandler.cs" />
-      <jump line="26" column="79" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommandHandler.cs" />
       <jump line="58" column="28" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/CompleteAttemptCommandHandler.cs" />
       <jump line="41" column="16" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/CompleteAttemptCommandHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Attempt.cs" />
@@ -304,6 +305,8 @@
       <jump line="96" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="8" column="30" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="34" column="134" filename="$APPLICATION_CONFIG_DIR$/consoles/db/01f8e213-5ecc-4708-bead-67f184c26463/console.sql" />
+      <jump line="122" column="43" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" />
+      <jump line="24" column="36" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -340,7 +343,7 @@
         <text>break</text>
       </register>
       <register name="/" type="4">
-        <text>aws</text>
+        <text encoding="base64">XDxBZGRTdGVwRnVuY3Rpb25zU2VydmljZVw+</text>
       </register>
       <register name="0" type="4">
         <text>us-west-2</text>
@@ -413,9 +416,9 @@
       </register>
     </registers>
     <search>
-      <last-search>aws</last-search>
+      <last-search encoding="base64">XDxBZGRTdGVwRnVuY3Rpb25zU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern>aws</last-pattern>
+      <last-pattern encoding="base64">XDxBZGRTdGVwRnVuY3Rpb25zU2VydmljZVw+</last-pattern>
       <last-replace>RatingDbContext</last-replace>
       <last-substitute>AccountingDbContext</last-substitute>
       <last-dir>1</last-dir>
@@ -423,7 +426,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb3Vyc2VfQ29tcGxldGVkX1N0YXR1c1w+</entry>
         <entry>attemp</entry>
         <entry>internal</entry>
         <entry encoding="base64">XDxHZXRUcmFuc2NyaXB0UXVlcnlcPg==</entry>
@@ -443,6 +445,7 @@
         <entry>AccountingDbContext</entry>
         <entry>step</entry>
         <entry>aws</entry>
+        <entry encoding="base64">XDxBZGRTdGVwRnVuY3Rpb25zU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19sYW1iZGFDb250ZXh0TW9jay9sYW1iZGFDb250ZXh0TW9jay9n</entry>
