@@ -227,12 +227,12 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1558364644245">
-        <mark key="'" line="14" column="102" />
-        <mark key="[" line="20" column="54" />
-        <mark key="]" line="20" column="61" />
-        <mark key="." line="20" column="61" />
-        <mark key="^" line="20" column="61" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1558365402436">
+        <mark key="'" line="51" column="51" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="32" column="21" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.json" timestamp="1558357337087">
         <mark key="'" line="18" column="2" />
@@ -302,8 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="44" filename="C:/projects/UI-Web/ClientApp/views/course/search/components/related-topics/RelatedTopics.tsx" />
-      <jump line="209" column="12" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="8" column="37" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/AccountingDbContext.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Data.Entity/Rating.cs" />
       <jump line="8" column="4" filename="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/QuarterMap.cs" />
@@ -402,13 +400,15 @@
       <jump line="21" column="32" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
       <jump line="25" column="23" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Helpers/DateTimeHelper.cs" />
+      <jump line="46" column="51" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
+      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Adapters/DateTime/IDateTimeAdapter.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>AuthenticationHeaderValue</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>lrsService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -444,7 +444,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKGxyc1NlcnZpY2UsIG5hbWVvZihscnNTZXJ2aWNlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdXJzZUF0dGVtcHROdW1iZXIgPSBjb21tYW5kLkNvdXJzZUF0dGVtcHROdW1iZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -456,28 +456,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEluc3RydWN0b3JJZCA9IGNvbW1hbmQuSW5zdHJ1Y3RvcklkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdXJzZVRpdGxlID0gY29tbWFuZC5Db3Vyc2VUaXRsZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdXJzZUF0dGVtcHROdW1iZXIgPSBjb21tYW5kLkNvdXJzZUF0dGVtcHROdW1iZXIsCg==</text>
       </register>
       <register name="s" type="4">
         <text>loadCourseCatalogsSuccess</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdXJzZVJlbGVhc2VJZCA9IGNvbW1hbmQuQ291cnNlUmVsZWFzZUlkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEluc3RydWN0b3JJZCA9IGNvbW1hbmQuSW5zdHJ1Y3RvcklkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdXJzZVJlbGVhc2VOdW1iZXIgPSBjb21tYW5kLkNvdXJzZVJlbGVhc2VOdW1iZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdXJzZVRpdGxlID0gY29tbWFuZC5Db3Vyc2VUaXRsZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdXJzZVJlbGVhc2VJZCA9IGNvbW1hbmQuQ291cnNlUmVsZWFzZUlkLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVRpdGxlLAogICAgICAgICAgICBzdHJpbmcgaW5zdHJ1Y3Rvck5hbWUsCiAgICAgICAgICAgIHN0cmluZyBpbnN0cnVjdG9ySWQsCiAgICAgICAgICAgIGludCBsZWFybmVySWQsCiAgICAgICAgICAgIGludCBjb3Vyc2VTY29yZSwKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJldmlldywKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZUlkLAogICAgICAgICAgICBzdHJpbmcgY291cnNlUmVsZWFzZUlkLAogICAgICAgICAgICBpbnQgY291cnNlUmVsZWFzZU51bWJlciwKICAgICAgICAgICAgaW50IGNvdXJzZUF0dGVtcHROdW1iZXIsCiAgICAgICAgICAgIHN0cmluZyBsZWFybmVyQ29tcGFueU5hbWUs</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdXJzZVJlbGVhc2VOdW1iZXIgPSBjb21tYW5kLkNvdXJzZVJlbGVhc2VOdW1iZXIsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -491,16 +491,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVRpdGxlLAogICAgICAgICAgICBzdHJpbmcgaW5zdHJ1Y3Rvck5hbWUsCiAgICAgICAgICAgIHN0cmluZyBpbnN0cnVjdG9ySWQsCiAgICAgICAgICAgIGludCBsZWFybmVySWQsCiAgICAgICAgICAgIGludCBjb3Vyc2VTY29yZSwKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJldmlldywKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZUlkLAogICAgICAgICAgICBzdHJpbmcgY291cnNlUmVsZWFzZUlkLAogICAgICAgICAgICBpbnQgY291cnNlUmVsZWFzZU51bWJlciwKICAgICAgICAgICAgaW50IGNvdXJzZUF0dGVtcHROdW1iZXIsCiAgICAgICAgICAgIHN0cmluZyBsZWFybmVyQ29tcGFueU5hbWUs</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -551,11 +551,11 @@
         <entry>%s/categories-/related-topics-/g</entry>
         <entry>%s/category-/related-topic-/g</entry>
         <entry>action GotoImplementation</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>%s/AccountingDbContext/RatingDbContext/g</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action RenameElement</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
