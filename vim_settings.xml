@@ -157,8 +157,8 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558104541972">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1558346928441">
+        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -336,8 +336,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSVdlYkhvc3Qgd2ViSG9zdCA9IENyZWF0ZVdlYkhvc3RCdWlsZGVyKGFyZ3MpLkJ1aWxkKCk7CgogICAgICAgICAgICB2YXIgY29uZmlndXJhdGlvbiA9IG5ldyBDb25maWd1cmF0aW9uQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuU2V0QmFzZVBhdGgoRGlyZWN0b3J5LkdldEN1cnJlbnREaXJlY3RvcnkoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLkFkZEpzb25GaWxlKCJhcHBzZXR0aW5ncy5qc29uIikKICAgICAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7CgogICAgICAgICAgICBMb2cuTG9nZ2VyID0gbmV3IExvZ2dlckNvbmZpZ3VyYXRpb24oKQogICAgICAgICAgICAgICAgLlJlYWRGcm9tLkNvbmZpZ3VyYXRpb24oY29uZmlndXJhdGlvbikKICAgICAgICAgICAgICAgIC5FbnJpY2guRnJvbUxvZ0NvbnRleHQoKQogICAgICAgICAgICAgICAgLkNyZWF0ZUxvZ2dlcigpOwoKICAgICAgICAgICAgd2ViSG9zdC5SdW4oKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUhvc3RpbmdFbnZpcm9ubWVudCBlbnYsCg==</text>
+      <register name="&quot;" type="4">
+        <text>fix db name field</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -364,7 +364,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fix db name field</text>
       </register>
       <register name="/" type="4">
         <text>loggly</text>
