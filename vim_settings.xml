@@ -70,8 +70,8 @@
         <mark key="^" line="120" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" timestamp="1558357147269">
-        <mark key="'" line="64" column="28" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" timestamp="1558358960419">
+        <mark key="'" line="61" column="37" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.HealthCheck/Accounting.HealthCheck.csproj" timestamp="1558101904653">
         <mark key="[" line="6" column="0" />
@@ -80,8 +80,10 @@
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/DependencyInjection/DomainExtensions.cs" timestamp="1558104275809">
         <mark key="'" line="18" column="68" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Auth/AuthService.cs" timestamp="1558356584749">
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Auth/AuthService.cs" timestamp="1558359390446">
         <mark key="'" line="25" column="63" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="51" column="9" />
       </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Exception/Accounting.Exception.csproj" timestamp="1558102042496">
         <mark key="[" line="6" column="0" />
@@ -131,10 +133,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="13" column="20" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Authentication/Accounting.Authentication.csproj" timestamp="1558342387136">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="10" column="14" />
-      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" timestamp="1558356376522">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="0" column="0" />
@@ -162,15 +160,11 @@
         <mark key="^" line="10" column="55" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/DesignTimeAccountingDbContextFactory.cs" timestamp="1558345071128">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="24" column="9" />
-      </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1558356929615">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="46" />
-        <mark key="^" line="7" column="46" />
-        <mark key="." line="7" column="46" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1558359692304">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="24" column="90" />
+        <mark key="." line="21" column="37" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/QueryHandlerBase.cs" timestamp="1558104345434">
         <mark key="[" line="18" column="0" />
@@ -199,6 +193,9 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="19" column="36" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetTranscriptResponse.cs" timestamp="1558359072101">
+        <mark key="'" line="17" column="25" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" timestamp="1558345066489">
         <mark key="'" line="31" column="58" />
       </file>
@@ -214,14 +211,18 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/Models/GetTranscriptResponse.cs" timestamp="1558359054089">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="14" column="20" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/CsodRegistrationMap.cs" timestamp="1558354248125">
         <mark key="[" line="27" column="74" />
         <mark key="]" line="27" column="118" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="31" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/node_modules/typescript/lib/lib.es2015.iterable.d.ts" />
       <jump line="142" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/search/stores/CourseSearchStore.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/stores/BaseStore.ts" />
       <jump line="176" column="29" filename="C:/projects/UI-Web/ClientApp/views/course/search/CourseSearch.tsx" />
@@ -320,13 +321,15 @@
       <jump line="14" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Services/Aws/SqsService.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/ConnectedServicesOption.cs" />
       <jump line="18" column="2" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.json" />
+      <jump line="61" column="37" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" />
+      <jump line="17" column="25" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetTranscriptResponse.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSVdlYkhvc3Qgd2ViSG9zdCA9IENyZWF0ZVdlYkhvc3RCdWlsZGVyKGFyZ3MpLkJ1aWxkKCk7CgogICAgICAgICAgICB2YXIgY29uZmlndXJhdGlvbiA9IG5ldyBDb25maWd1cmF0aW9uQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuU2V0QmFzZVBhdGgoRGlyZWN0b3J5LkdldEN1cnJlbnREaXJlY3RvcnkoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLkFkZEpzb25GaWxlKCJhcHBzZXR0aW5ncy5qc29uIikKICAgICAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCk7CgogICAgICAgICAgICBMb2cuTG9nZ2VyID0gbmV3IExvZ2dlckNvbmZpZ3VyYXRpb24oKQogICAgICAgICAgICAgICAgLlJlYWRGcm9tLkNvbmZpZ3VyYXRpb24oY29uZmlndXJhdGlvbikKICAgICAgICAgICAgICAgIC5FbnJpY2guRnJvbUxvZ0NvbnRleHQoKQogICAgICAgICAgICAgICAgLkNyZWF0ZUxvZ2dlcigpOwoKICAgICAgICAgICAgd2ViSG9zdC5SdW4oKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ewogICJMb2dnaW5nIjogewogICAgIkxvZ0xldmVsIjogewogICAgICAiRGVmYXVsdCI6ICJEZWJ1ZyIsCiAgICAgICJTeXN0ZW0iOiAiSW5mb3JtYXRpb24iLAogICAgICAiTWljcm9zb2Z0IjogIkluZm9ybWF0aW9uIgogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQm9keSA9IGF3YWl0IEdldFJlc3BvbnNlQm9keShyZXNwb25zZSk7CgogICAgICAgICAgICByZXR1cm4gSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8R2V0VHJhbnNjcmlwdFJlc3BvbnNlPihyZXNwb25zZUJvZHkpOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -353,16 +356,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Accounting</text>
+        <text>&quot;https://your.site.com&quot;</text>
       </register>
       <register name="/" type="4">
         <text>connecte</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ewogICJTZXJpbG9nIjogewogICAgIk1pbmltdW1MZXZlbCI6ICJXYXJuaW5nIiwKICAgICJXcml0ZVRvIjogWwogICAgICB7ICJOYW1lIjogIkNvbnNvbGUiIH0sCiAgICAgIHsKICAgICAgICAiTmFtZSI6ICJSb2xsaW5nRmlsZSIsCiAgICAgICAgIkFyZ3MiOiB7ICJwYXRoRm9ybWF0IjogIkxvZ3NcXGxvZy17RGF0ZX0udHh0IiB9CiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiTmFtZSI6ICJMb2dnbHkiLAogICAgICAgICJBcmdzIjogewogICAgICAgICAgLy8iY3VzdG9tZXJUb2tlbiI6ICIiLAogICAgICAgICAgInRhZ3MiOiAiY3UtZGV2LWFjY291bnRpbmciCiAgICAgICAgfQogICAgICB9CiAgICBdLAogICAgIkVucmljaCI6IFsgIkZyb21Mb2dDb250ZXh0IiBdLAogICAgIlByb3BlcnRpZXMiOiB7ICJBcHBsaWNhdGlvbiI6ICJBY2NvdW50aW5nIiB9CiAgfSwKCiAgIkNvbm5lY3Rpb25TdHJpbmdzIjogewogICAgIlJhdGluZ0RhdGFiYXNlIjogIiIKICB9LAoKICAiRGF0YWJhc2VTZXR0aW5ncyI6IHsKICAgICJNaWdyYXRlT25TdGFydHVwIjogZmFsc2UKICB9LAoKICAiSWRlbnRpdHlTZXJ2ZXIiOiB7CiAgICAiQXV0aG9yaXR5U2VydmVyQmFzZUFkZHJlc3MiOiAiaHR0cDovL2xvY2FsaG9zdDo1MDA0IgogIH0sCgogICJBdXRoU2VydmljZSI6IHsKICAgICJDbGllbnRJZCI6ICJJbnRlcm5hbCIsCiAgICAiQ2xpZW50U2VjcmV0IjogIiIKICB9LAoKICAiSGVhbHRoQ2hlY2siOiB7CiAgICAiVXJsIjogIi9oZWFsdGgiCiAgfSwKCiAgIkFpcmJyYWtlIjogewogICAgIlByb2plY3RJZCI6ICIiLAogICAgIlByb2plY3RLZXkiOiAiIiwKICAgICJFbnZpcm9ubWVudCI6ICIiCiAgfQp9Cg==</text>
+      <register name="0" type="4">
+        <text>cancellationToken</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ewogICJMb2dnaW5nIjogewogICAgIkxvZ0xldmVsIjogewogICAgICAiRGVmYXVsdCI6ICJEZWJ1ZyIsCiAgICAgICJTeXN0ZW0iOiAiSW5mb3JtYXRpb24iLAogICAgICAiTWljcm9zb2Z0IjogIkluZm9ybWF0aW9uIgogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQm9keSA9IGF3YWl0IEdldFJlc3BvbnNlQm9keShyZXNwb25zZSk7CgogICAgICAgICAgICByZXR1cm4gSnNvbkNvbnZlcnQuRGVzZXJpYWxpemVPYmplY3Q8R2V0VHJhbnNjcmlwdFJlc3BvbnNlPihyZXNwb25zZUJvZHkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -381,28 +384,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IF9odHRwQ2xpZW50LkdldEFzeW5jKCwgY2FuY2VsbGF0aW9uVG9rZW4pOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiU3RlcEZ1bmN0aW9uc1NlcnZpY2UiOiB7CiAgICAiQjJiUmVwb3J0U3RhdGVNYWNoaW5lQXJuIjogIiIKICB9LAoKICAiQVdTIjogewogICAgIlByb2ZpbGUiOiAiZGVmYXVsdCIsCiAgICAiUmVnaW9uIjogInVzLXdlc3QtMiIKICB9LAo=</text>
+        <text encoding="base64">dXNpbmcgTFJTLkFQSS5EYXRhLkVudW1zOwp1c2luZyBMUlMuQVBJLkRhdGEuTW9kZWxzOwp1c2luZyBMUlMuQVBJLkRvbWFpbi5Db21tYW5kczsKdXNpbmcgTFJTLkFQSS5IZWxwZXJzOwp1c2luZyBNb25nb0RCLkJzb247Cg==</text>
       </register>
       <register name="s" type="4">
         <text>loadCourseCatalogsSuccess</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJTZWVkRGVmYXVsdERhdGFPblN0YXJ0dXAiOiBmYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ewogICJMb2dnaW5nIjogewogICAgIkxvZ0xldmVsIjogewogICAgICAiRGVmYXVsdCI6ICJXYXJuaW5nIgogICAgfQogIH0sCiAgIkFsbG93ZWRIb3N0cyI6ICIqIgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEdldFRyYW5zY3JpcHRSZXNwb25zZSBGcm9tKEdldFRyYW5zY3JpcHRRdWVyeVJlc3VsdCByZXN1bHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IEdldFRyYW5zY3JpcHRSZXNwb25zZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBPYmplY3RUeXBlID0gcmVzdWx0LlRyYW5zY3JpcHQuT2JqZWN0VHlwZSwKICAgICAgICAgICAgICAgIE9iamVjdFN0YXR1cyA9IHJlc3VsdC5UcmFuc2NyaXB0Lk9iamVjdFN0YXR1cywKICAgICAgICAgICAgICAgIE9iamVjdElkID0gcmVzdWx0LlRyYW5zY3JpcHQuT2JqZWN0SWQsCiAgICAgICAgICAgICAgICBMYXN0UGxheWVkQWN0aXZpdHkgPSByZXN1bHQuQ291cnNlPy5MYXN0UGxheWVkQWN0aXZpdHlJZCwKICAgICAgICAgICAgICAgIFRvdGFsRHVyYXRpb24gPSByZXN1bHQuQ291cnNlPy5DaGFwdGVycz8uU2VsZWN0TWFueSh4ID0+IHg/Lkxlc3NvbnM/LlNlbGVjdCh5ID0+IHkuQWN0aXZpdHkpKT8uT2ZUeXBlPFZpZGVvQWN0aXZpdHlTdW1tYXJ5PigpPy5TdW0oeCA9PiB4LkR1cmF0aW9uKSA/PyBkZWZhdWx0LAogICAgICAgICAgICAgICAgV2F0Y2hlZER1cmF0aW9uID0gcmVzdWx0LkNvdXJzZT8uQ2hhcHRlcnM/LlNlbGVjdE1hbnkoeCA9PiB4Py5MZXNzb25zPy5TZWxlY3QoeSA9PiB5LkFjdGl2aXR5KSk/Lk9mVHlwZTxWaWRlb0FjdGl2aXR5U3VtbWFyeT4oKT8uU3VtKHggPT4geC5XYXRjaGVkRHVyYXRpb24pID8/IGRlZmF1bHQsCiAgICAgICAgICAgICAgICBIYXNGaW5hbFF1aXogPSAocmVzdWx0LlRyYW5zY3JpcHQgYXMgQ291cnNlVHJhbnNjcmlwdCk/LkZpbmFsUXVpej8uSXNFbmFibGVkID09IHRydWUsCiAgICAgICAgICAgICAgICBGaW5hbFF1aXpQYXNzZWQgPSAocmVzdWx0LlRyYW5zY3JpcHQgYXMgQ291cnNlVHJhbnNjcmlwdCk/LkZpbmFsUXVpej8uUGFzc2VkLAogICAgICAgICAgICAgICAgRmluYWxRdWl6UGFzc2VkU2NvcmUgPSAocmVzdWx0LlRyYW5zY3JpcHQgYXMgQ291cnNlVHJhbnNjcmlwdCk/LkZpbmFsUXVpej8uUGFzc2VkU2NvcmUsCiAgICAgICAgICAgICAgICBBdHRlbXB0TnVtYmVyID0gcmVzdWx0LlRyYW5zY3JpcHQuQXR0ZW1wdE51bWJlcgogICAgICAgICAgICB9OwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCJkYXRlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbSnNvbkNvbnZlcnRlcih0eXBlb2YoT2JqZWN0SWRDb252ZXJ0ZXIpKV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgTnBnc3FsVHNWZWN0b3IgQ291cnNlUmV2aWV3U2VhcmNoVmVjdG9yIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICBbSnNvbkNvbnZlcnRlcih0eXBlb2YoT2JqZWN0SWRDb252ZXJ0ZXIpKV0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -416,10 +419,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICJMb2dnaW5nIjogewogICAgIkxvZ0xldmVsIjogewogICAgICAiRGVmYXVsdCI6ICJEZWJ1ZyIsCiAgICAgICJTeXN0ZW0iOiAiSW5mb3JtYXRpb24iLAogICAgICAiTWljcm9zb2Z0IjogIkluZm9ybWF0aW9uIgogICAgfQogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5IYXNJbmRleCh4ID0+IHguQ291cnNlUmV2aWV3U2VhcmNoVmVjdG9yKQogICAgICAgICAgICAgICAgLkZvck5wZ3NxbEhhc01ldGhvZCgiR0lOIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
