@@ -20,11 +20,6 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1558342113972">
-        <mark key="'" line="200" column="43" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="210" column="15" />
-      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data.Entity/Rating.cs" timestamp="1558003208931">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="29" />
@@ -94,11 +89,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.json" timestamp="1558356293669">
-        <mark key="'" line="19" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="57" column="1" />
-      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Test.Randomizer/RandomHelper.cs" timestamp="1558101752194">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -165,11 +155,6 @@
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/DependencyInjection/DomainExtensions.cs" timestamp="1558104275809">
         <mark key="'" line="18" column="68" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Auth/AuthService.cs" timestamp="1558359390446">
-        <mark key="'" line="25" column="63" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="51" column="9" />
-      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Exception/Accounting.Exception.csproj" timestamp="1558102042496">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="19" column="14" />
@@ -187,11 +172,6 @@
       </file>
       <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/DependencyInjection/LmsServiceExtensions.cs" timestamp="1558356816670">
         <mark key="'" line="25" column="50" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" timestamp="1558363563763">
-        <mark key="'" line="62" column="41" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="67" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Rating.Api.csproj" timestamp="1558342461232">
         <mark key="[" line="46" column="0" />
@@ -214,11 +194,6 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/DomainController.cs" timestamp="1558342048945">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="22" column="13" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Accounting.Api.csproj" timestamp="1558342445073">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="81" column="16" />
       </file>
       <file name="C:/projects/Rating/Rating.sln" timestamp="1558101069043">
         <mark key="[" line="2" column="65" />
@@ -247,7 +222,7 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="/a.sql" timestamp="1558434282839">
+      <file name="/a.sql" timestamp="1558437085396">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" timestamp="1558356376522">
@@ -342,6 +317,12 @@
         <mark key="]" line="23" column="23" />
         <mark key="." line="23" column="25" />
         <mark key="^" line="19" column="36" />
+      </file>
+      <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/Data/RatingDb/Migrations/20190521102536_InitialCreate.cs" timestamp="1558437129503">
+        <mark key="[" line="76" column="65" />
+        <mark key="]" line="76" column="66" />
+        <mark key="." line="76" column="66" />
+        <mark key="^" line="76" column="67" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetTranscriptResponse.cs" timestamp="1558359072101">
         <mark key="'" line="17" column="25" />
@@ -508,7 +489,7 @@
         <text>AuthenticationHeaderValue</text>
       </register>
       <register name="&quot;" type="4">
-        <text>NpgsqlDbType.Varchar.ToString()</text>
+        <text>\</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -535,7 +516,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NpgsqlDbType.Varchar.ToString()</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>_cont</text>
@@ -544,7 +525,7 @@
         <text>$&quot;{NpgsqlDbType.Varchar.ToString()}(24)&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0aW9uQnVpbGRlci5TcWwoIkFERCBDT05TVFJBSU5UIENLX0NvdXJzZVJhdGluZ3NfQ291cnNlU2NvcmUgQ0hFQ0sgKENvdXJzZVNjb3JlID49IDEgQU5EIENvdXJzZVNjb3JlIDw9IDUpOyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3FsKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -556,28 +537,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0aW9uQnVpbGRlci5TcWwoIkFMVEVSIFRBQkxFIHB1YmxpYy5Db3Vyc2VSYXRpbmdzIEFERCBDT05TVFJBSU5UIENLX0NvdXJzZVJhdGluZ3NfQ291cnNlU2NvcmUgQ0hFQ0sgKENvdXJzZVNjb3JlID49IDEgQU5EIENvdXJzZVNjb3JlIDw9IDUpOyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0aW9uQnVpbGRlci5TcWwoIkFERCBDT05TVFJBSU5UIENLX0NvdXJzZVJhdGluZ3NfQ291cnNlU2NvcmUgQ0hFQ0sgKENvdXJzZVNjb3JlID49IDEgQU5EIENvdXJzZVNjb3JlIDw9IDUpOyIpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJsZS5TCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0aW9uQnVpbGRlci5TcWwoIkFMVEVSIFRBQkxFIHB1YmxpYy5Db3Vyc2VSYXRpbmdzIEFERCBDT05TVFJBSU5UIENLX0NvdXJzZVJhdGluZ3NfQ291cnNlU2NvcmUgQ0hFQ0sgKENvdXJzZVNjb3JlID49IDEgQU5EIENvdXJzZVNjb3JlIDw9IDUpOyIpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>loadCourseCatalogsSuccess</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJsZS5TCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguSW5zdHJ1Y3RvcklkKQogICAgICAgICAgICAgICAgLklzUmVxdWlyZWQoKQogICAgICAgICAgICAgICAgLkhhc0NvbHVtblR5cGUoTnBnc3FsRGJUeXBlLlZhcmNoYXIuVG9TdHJpbmcoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguSW5zdHJ1Y3RvcklkKQogICAgICAgICAgICAgICAgLklzUmVxdWlyZWQoKQogICAgICAgICAgICAgICAgLkhhc0NvbHVtblR5cGUoTnBnc3FsRGJUeXBlLlZhcmNoYXIuVG9TdHJpbmcoKSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguQ291cnNlU2NvcmUpCiAgICAgICAgICAgICAgICAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -591,10 +572,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguQ291cnNlU2NvcmUpCiAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5Qcm9wZXJ0eSh4ID0+IHguU3VibWl0dGVkRGF0ZVRpbWUpCiAgICAgICAgICAgICAgICAuSXNSZXF1aXJlZCgpCiAgICAgICAgICAgICAgICAuSGFzQ29sdW1uVHlwZShOcGdzcWxEYlR5cGUuVGkpOwogICAgICAgICAgICAgICAgLkhhc0NvbHVtblR5cGUoInRpbWVzdGFtcCB3aXRob3V0IHRpbWUgem9uZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
