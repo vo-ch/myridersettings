@@ -3,34 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1558448451556">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1558452983838">
         <mark key="'" line="24" column="86" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-        <mark key="^" line="21" column="17" />
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="25" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1558447654213">
-        <mark key="'" line="74" column="94" />
-      </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/Extensions/LrsServiceExtensions.cs" timestamp="1558447944951">
-        <mark key="'" line="19" column="49" />
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="57" />
-        <mark key="^" line="21" column="15" />
-        <mark key="." line="21" column="15" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/Extensions/LrsServiceExtensions.cs" timestamp="1558452861549">
+        <mark key="'" line="15" column="103" />
+        <mark key="[" line="16" column="77" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Exception/Rating.Exception.csproj" timestamp="1558102052326">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="19" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DomainExtensions.cs" timestamp="1558104081929">
-        <mark key="'" line="18" column="52" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" timestamp="1558361376557">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="27" column="42" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterController.cs" timestamp="1558450655790">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="18" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/RatingController.cs" timestamp="1558361807394">
         <mark key="[" line="14" column="17" />
@@ -54,8 +52,8 @@
         <mark key="." line="42" column="70" />
         <mark key="^" line="42" column="70" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" timestamp="1558449190986">
-        <mark key="'" line="197" column="31" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" timestamp="1558450715313">
+        <mark key="'" line="122" column="21" />
         <mark key="[" line="43" column="9" />
         <mark key="]" line="44" column="31" />
         <mark key="." line="44" column="31" />
@@ -66,11 +64,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.Local.json" timestamp="1558449641710">
-        <mark key="[" line="30" column="55" />
-        <mark key="]" line="30" column="56" />
-        <mark key="." line="30" column="56" />
-        <mark key="^" line="39" column="17" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.Local.json" timestamp="1558451973381">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="80" />
+        <mark key="." line="22" column="78" />
+        <mark key="^" line="22" column="78" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Authentication/DependencyInjection/ClientAuthenticationHandlerExtensions.cs" timestamp="1558342504487">
         <mark key="[" line="1" column="0" />
@@ -88,10 +86,6 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="54" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.HealthCheck/Accounting.HealthCheck.csproj" timestamp="1558101904653">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="14" />
-      </file>
       <file name="C:/projects/Rating/Infra/Rating.HealthCheck/Models/HealthReportResponse.cs" timestamp="1558104619128">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -103,14 +97,16 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" timestamp="1558363723569">
-        <mark key="'" line="25" column="23" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" timestamp="1558363563763">
+        <mark key="'" line="62" column="41" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="67" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Rating.Api.csproj" timestamp="1558342461232">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="37" column="3" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Rating.Api.csproj" timestamp="1558450824477">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="58" />
+        <mark key="^" line="7" column="56" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommand.cs" timestamp="1558362725149">
         <mark key="[" line="7" column="0" />
@@ -118,35 +114,15 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Security/Roles.cs" timestamp="1558341963532">
-        <mark key="'" line="4" column="30" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Filters/ValidateModelFilter.cs" timestamp="1558341627423">
-        <mark key="'" line="5" column="39" />
-      </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/DomainController.cs" timestamp="1558342048945">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="13" />
-      </file>
-      <file name="/RatingMap.cs" timestamp="1558432352378">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="49" />
-      </file>
-      <file name="/a.sql" timestamp="1558443362595">
+      <file name="/a.sql" timestamp="1558452485347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" timestamp="1558448661233">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" timestamp="1558452779634">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="47" column="17" />
-        <mark key="]" line="47" column="21" />
+        <mark key="[" line="38" column="3" />
+        <mark key="]" line="38" column="19" />
         <mark key="^" line="47" column="21" />
         <mark key="." line="47" column="21" />
-      </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" timestamp="1558442437233">
-        <mark key="'" line="12" column="31" />
-      </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Domain/V2/ListDomainQueryHandler.cs" timestamp="1558015452559">
-        <mark key="'" line="34" column="17" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.Local.json" timestamp="1558449601036">
         <mark key="[" line="14" column="0" />
@@ -160,10 +136,10 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/appsettings.Local.json" timestamp="1558430495334">
-        <mark key="[" line="7" column="100" />
-        <mark key="]" line="7" column="105" />
-        <mark key="." line="7" column="105" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/appsettings.Local.json" timestamp="1558452006240">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="81" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="105" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.json" timestamp="1558449599378">
@@ -171,13 +147,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="50" />
         <mark key="." line="76" column="24" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/0f/3581e275/AuthenticationHeaderValue.cs" timestamp="1558360922425">
-        <mark key="[" line="78" column="18" />
-        <mark key="]" line="78" column="42" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/LrsBaseController.cs" timestamp="1558360544574">
-        <mark key="'" line="8" column="43" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/ExceptionCode.cs" timestamp="1558104140006">
         <mark key="[" line="6" column="0" />
@@ -191,11 +160,8 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/ConnectedServicesOption.cs" timestamp="1558447575088">
-        <mark key="'" line="2" column="22" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1558098470831">
-        <mark key="'" line="24" column="36" />
+      <file name="/Rating.public.CourseRatings [payments@localhost]" timestamp="1558452677288">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Program.cs" timestamp="1558100910606">
         <mark key="[" line="0" column="0" />
@@ -208,10 +174,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/CsodRegistrationMap.cs" timestamp="1558354248125">
-        <mark key="[" line="27" column="74" />
-        <mark key="]" line="27" column="118" />
-      </file>
       <file name="C:/projects/Rating/Infra/Rating.Exception/Resource/ExceptionMessages.resx" timestamp="1558448291346">
         <mark key="[" line="125" column="14" />
         <mark key="]" line="125" column="28" />
@@ -220,6 +182,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="85" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1558442468074">
+        <mark key="'" line="212" column="33" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="210" column="15" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/RatingBaseController.cs" timestamp="1558361179993">
         <mark key="'" line="8" column="31" />
@@ -235,11 +202,10 @@
         <mark key="." line="29" column="82" />
         <mark key="^" line="29" column="82" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Entities/Roles.cs" timestamp="1558342023689">
-        <mark key="'" line="6" column="28" />
-      </file>
-      <file name="C:/projects/Rating/Infra/Rating.Exception/Resource/ExceptionMessages.Designer.cs" timestamp="1558448280726">
-        <mark key="'" line="65" column="39" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Auth/Extensions/AuthServiceExtensions.cs" timestamp="1558446996890">
+        <mark key="'" line="19" column="99" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="0" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data/Rating.Api/Program.cs" timestamp="1558100553637">
         <mark key="[" line="17" column="0" />
@@ -251,16 +217,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1558442489325">
-        <mark key="'" line="30" column="54" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.json" timestamp="1558356293669">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="57" column="1" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/Data/RatingDb/Migrations/20190521090526_InitialCreate.cs" timestamp="1558430769561">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1558345164183">
-        <mark key="'" line="172" column="16" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1558450704094">
+        <mark key="'" line="185" column="64" />
         <mark key="[" line="168" column="0" />
         <mark key="]" line="189" column="9" />
         <mark key="^" line="120" column="11" />
@@ -271,30 +239,37 @@
         <mark key="]" line="119" column="0" />
         <mark key="." line="119" column="0" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" timestamp="1558360492197">
-        <mark key="'" line="39" column="51" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Configuration/ConnectedServicesOption.cs" timestamp="1558452831649">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="27" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Configuration/ConnectedServicesOption.cs" timestamp="1558447815400">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Auth/AuthService.cs" timestamp="1558359390446">
+        <mark key="'" line="25" column="63" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="51" column="9" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/DependencyInjection/DomainExtensions.cs" timestamp="1558104275809">
-        <mark key="'" line="18" column="68" />
+      <file name="C:/projects/Accounting/Worker/B2bRegistrationIngester/src/Accounting.B2bRegistrationIngester/DependencyInjection/LmsServiceExtensions.cs" timestamp="1558447169771">
+        <mark key="'" line="29" column="35" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="28" column="14" />
       </file>
-      <file name="C:/projects/Accounting/Infra/Accounting.Exception/Accounting.Exception.csproj" timestamp="1558102042496">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="19" column="14" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Accounting.Api.csproj" timestamp="1558450793981">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="15" column="20" />
       </file>
       <file name="C:/projects/Rating/Rating.sln" timestamp="1558101069043">
         <mark key="[" line="2" column="65" />
         <mark key="]" line="2" column="65" />
         <mark key="." line="2" column="65" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Aws/StepFunctions/Extensions/StepFunctionsServiceExtensions.cs" timestamp="1558449076976">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="114" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/appsettings.json" timestamp="1558452001194">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="81" />
+        <mark key="." line="7" column="80" />
+        <mark key="^" line="7" column="80" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data.Entity/CourseRating.cs" timestamp="1558444686507">
         <mark key="'" line="10" column="22" />
@@ -302,22 +277,24 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Aws/StepFunctions/StepFunctionsService.cs" timestamp="1558449038552">
-        <mark key="'" line="17" column="21" />
-      </file>
       <file name="C:/projects/Accounting/Infra/Accounting.Authentication/Accounting.Authentication.csproj" timestamp="1558342387136">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="14" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" timestamp="1558425440200">
-        <mark key="'" line="37" column="24" />
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
-        <mark key="^" line="37" column="26" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" timestamp="1558451208069">
+        <mark key="'" line="33" column="34" />
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
       </file>
-      <file name="/dummy.sql" timestamp="1558448499214">
+      <file name="/dummy.sql" timestamp="1558452908820">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558453047597">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data.DbMigration/Data/AccountingDb/DesignTimeAccountingDbContextFactory.cs" timestamp="1558345071128">
         <mark key="[" line="19" column="0" />
@@ -353,42 +330,8 @@
         <mark key="." line="77" column="33" />
         <mark key="^" line="77" column="33" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetTranscriptResponse.cs" timestamp="1558359072101">
-        <mark key="'" line="17" column="25" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Aws/StepFunctions/Configuration/StepFunctionsServiceOption.cs" timestamp="1558449040551">
-        <mark key="'" line="2" column="17" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" timestamp="1558345066489">
-        <mark key="'" line="31" column="58" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Filters/CyberUExceptionFilter.cs" timestamp="1558341686122">
-        <mark key="'" line="72" column="31" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/SubmitQuarterlyPayoutRequest.cs" timestamp="1558363006911">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="18" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="89" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="29" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Accounting.Api.csproj" />
-      <jump line="100" column="23" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="191" column="31" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="73" column="93" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
-      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/DependencyInjection/DatabaseExtensions.cs" />
-      <jump line="106" column="26" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="90" column="27" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
-      <jump line="221" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="21" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="7" column="26" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6C5B1D59-6F4B-4815-9474-DFEF3FB47968/d7/d9c05a65/AuthenticationServiceCollectionExtensions.cs" />
-      <jump line="214" column="23" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="15" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="9" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
-      <jump line="107" column="12" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="116" column="30" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="120" column="30" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="29" column="85" filename="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" />
       <jump line="31" column="58" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DatabaseInitializationExtension.cs" />
       <jump line="172" column="16" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
@@ -471,13 +414,31 @@
       <jump line="2" column="17" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Aws/StepFunctions/Configuration/StepFunctionsServiceOption.cs" />
       <jump line="51" column="87" filename="C:/projects/Rating/Web/API/src/Rating.Api/Middlewares/CyberUExceptionMiddleware.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947D4F24-E664-4E7D-90E3-3FDBCF9FB10B/89/73f810fd/IAirbrakeFeature.cs" />
+      <jump line="138" column="45" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
+      <jump line="147" column="47" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="25" column="29" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="107" column="15" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="125" column="15" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="131" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="133" column="14" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="134" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="140" column="28" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="168" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="174" column="19" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="176" column="67" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="179" column="19" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="184" column="32" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="185" column="64" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="122" column="21" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
+      <jump line="33" column="34" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" />
+      <jump line="15" column="103" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/Extensions/LrsServiceExtensions.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>airbrakeFeature == null</text>
+        <text>&quot;User ID=vchmuzh;Host=localhost;Port=5432;Database=Rating;&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJhdXRob3JpdHlTZXJ2ZXJVcmkiOiAiaHR0cDovL2xvY2FsaG9zdDo1MDAwIiwK</text>
+      <register name="&quot;" type="4">
+        <text>fixed course rating mapping, according to comments in PR</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -504,16 +465,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fixed course rating mapping, according to comments in PR</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVc2VBaXJicmFrZVw+</text>
+        <text encoding="base64">XDxBZGRTd2FnZ2VyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJhdXRob3JpdHlTZXJ2ZXJVcmkiOiAiaHR0cDovL2xvY2FsaG9zdDo1MDAwIiwK</text>
+      <register name="0" type="4">
+        <text>ConnectedServicesOption</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyA6IGhhbmRsZSBhaXJicmFrZSBieSBmZWF0dXJlIGZsYWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -524,29 +485,29 @@
           <key char="98" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>airbrakeFeature == null</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIExyc1NlcnZpY2VTZWN0aW9uID0gIiI7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBpc0FpcmJyYWtlRW5hYmxlZCA9IGFpcmJyYWtlT3B0aW9uLklzRW5hYmxlZCAmJiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyA6IGhhbmRsZSBhaXJicmFrZSBieSBmZWF0dXJlIGZsYWcK</text>
       </register>
       <register name="s" type="4">
         <text>loadCourseCatalogsSuccess</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>airbrakeFeature == null</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBpc0FpcmJyYWtlRW5hYmxlZCA9IGFpcmJyYWtlT3B0aW9uLklzRW5hYmxlZCAmJiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUFpcmJyYWtlKGFpcmJyYWtlQ29uZmlnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Configuration.GetSection(&quot;Airbrake&quot;)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -560,10 +521,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUFpcmJyYWtlKGFpcmJyYWtlQ29uZmlnKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUFpcmJyYWtlKENvbmZpZ3VyYXRpb24uR2V0U2VjdGlvbigiQWlyYnJha2UiKSk7Cg==</text>
+      <register name="9" type="4">
+        <text>Configuration.GetSection(&quot;Airbrake&quot;)</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
@@ -573,9 +534,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVc2VBaXJicmFrZVw+</last-search>
+      <last-search encoding="base64">XDxBZGRTd2FnZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVc2VBaXJicmFrZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxBZGRTd2FnZ2VyXD4=</last-pattern>
       <last-replace>RatingDbContext</last-replace>
       <last-substitute>AccountingDbContext</last-substitute>
       <last-dir>1</last-dir>
@@ -583,8 +544,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXRhbG9nU2VydmljZVw+</entry>
-        <entry>categ</entry>
         <entry>categor</entry>
         <entry>catego</entry>
         <entry>categories-</entry>
@@ -603,6 +562,8 @@
         <entry>_cont</entry>
         <entry>useair</entry>
         <entry encoding="base64">XDxVc2VBaXJicmFrZVw+</entry>
+        <entry>swag</entry>
+        <entry encoding="base64">XDxBZGRTd2FnZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL19sYW1iZGFDb250ZXh0TW9jay9sYW1iZGFDb250ZXh0TW9jay9n</entry>
