@@ -242,12 +242,11 @@
         <mark key="^" line="55" column="80" />
         <mark key="." line="48" column="12" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data.Entity/CourseRating.cs" timestamp="1558428095646">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Data.Entity/CourseRating.cs" timestamp="1558444686507">
         <mark key="'" line="12" column="22" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="17" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/a.sql" timestamp="1558443362595">
         <mark key="[" line="0" column="0" />
@@ -311,11 +310,11 @@
         <mark key="." line="7" column="105" />
         <mark key="^" line="7" column="105" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" timestamp="1558432675861">
-        <mark key="[" line="36" column="85" />
-        <mark key="]" line="36" column="103" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/86f90ad7-b44b-47fa-a8a5-81ac7a80d797/console.sql" timestamp="1558444766959">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="29" />
         <mark key="^" line="36" column="103" />
-        <mark key="." line="36" column="103" />
+        <mark key="." line="33" column="29" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1558365402436">
         <mark key="'" line="51" column="51" />
@@ -519,7 +518,7 @@
         <text>AuthenticationHeaderValue</text>
       </register>
       <register name="&quot;" type="4">
-        <text>create rating endpoint</text>
+        <text>1</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -546,7 +545,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>create rating endpoint</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>_cont</text>
@@ -555,7 +554,7 @@
         <text>$&quot;{NpgsqlDbType.Varchar.ToString()}(24)&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLkhhc0NvbHVtblR5cGUoJCJ7TnBnc3FsRGJUeXBlLlZhcmNoYXIuVG9TdHJpbmcoKX0oMjQpIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUmFuZ2VdCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -567,13 +566,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCQie05wZ3NxbERiVHlwZS5WYXJjaGFyfSgyNCkiKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLkhhc0NvbHVtblR5cGUoJCJ7TnBnc3FsRGJUeXBlLlZhcmNoYXIuVG9TdHJpbmcoKX0oMjQpIik7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCQie05wZ3NxbERiVHlwZS5WYXJjaGFyLlRvU3RyaW5nKCl9KDUwMDApIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCQie05wZ3NxbERiVHlwZS5WYXJjaGFyfSgyNCkiKTsK</text>
       </register>
       <register name="s" type="4">
         <text>loadCourseCatalogsSuccess</text>
@@ -582,13 +581,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCQie05wZ3NxbERiVHlwZS5WYXJjaGFyLlRvU3RyaW5nKCl9KDUwMDApIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3FsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5IYXNDb2x1bW5UeXBlKCQie05wZ3NxbERiVHlwZS5WYXJjaGFyLlRvU3RyaW5nKCl9KDUwMDApIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0aW9uQnVpbGRlci5TcWwoIkFERCBDT05TVFJBSU5UIENLX0NvdXJzZVJhdGluZ3NfQ291cnNlU2NvcmUgQ0hFQ0sgKENvdXJzZVNjb3JlID49IDEgQU5EIENvdXJzZVNjb3JlIDw9IDUpOyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3FsKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0aW9uQnVpbGRlci5TcWwoIkFMVEVSIFRBQkxFIHB1YmxpYy5Db3Vyc2VSYXRpbmdzIEFERCBDT05TVFJBSU5UIENLX0NvdXJzZVJhdGluZ3NfQ291cnNlU2NvcmUgQ0hFQ0sgKENvdXJzZVNjb3JlID49IDEgQU5EIENvdXJzZVNjb3JlIDw9IDUpOyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0aW9uQnVpbGRlci5TcWwoIkFERCBDT05TVFJBSU5UIENLX0NvdXJzZVJhdGluZ3NfQ291cnNlU2NvcmUgQ0hFQ0sgKENvdXJzZVNjb3JlID49IDEgQU5EIENvdXJzZVNjb3JlIDw9IDUpOyIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -602,10 +601,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJsZS5TCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlncmF0aW9uQnVpbGRlci5TcWwoIkFMVEVSIFRBQkxFIHB1YmxpYy5Db3Vyc2VSYXRpbmdzIEFERCBDT05TVFJBSU5UIENLX0NvdXJzZVJhdGluZ3NfQ291cnNlU2NvcmUgQ0hFQ0sgKENvdXJzZVNjb3JlID49IDEgQU5EIENvdXJzZVNjb3JlIDw9IDUpOyIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWJsZS5TCg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
