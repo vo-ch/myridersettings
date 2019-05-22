@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1558452983838">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1558512274923">
         <mark key="'" line="24" column="86" />
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="25" />
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1558447654213">
         <mark key="'" line="74" column="94" />
@@ -144,12 +144,12 @@
         <mark key="^" line="10" column="55" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1558446814488">
-        <mark key="'" line="10" column="39" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1558512376385">
+        <mark key="'" line="41" column="68" />
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="19" />
+        <mark key="^" line="43" column="19" />
+        <mark key="." line="43" column="19" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/QueryHandlerBase.cs" timestamp="1558104345434">
         <mark key="[" line="18" column="0" />
@@ -178,12 +178,12 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommand.cs" timestamp="1558447996892">
-        <mark key="'" line="25" column="40" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-        <mark key="^" line="10" column="17" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommand.cs" timestamp="1558512107516">
+        <mark key="'" line="21" column="46" />
+        <mark key="[" line="21" column="41" />
+        <mark key="]" line="21" column="65" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="18" column="30" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/ConnectedServicesOption.cs" timestamp="1558447575088">
         <mark key="'" line="2" column="22" />
@@ -306,12 +306,12 @@
         <mark key="^" line="32" column="215" />
         <mark key="." line="33" column="29" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1558447992009">
-        <mark key="'" line="47" column="45" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="32" column="21" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1558512055452">
+        <mark key="'" line="50" column="38" />
+        <mark key="[" line="50" column="36" />
+        <mark key="]" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+        <mark key="^" line="50" column="44" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/Data/DesignTimeRatingDbContextFactory.cs" timestamp="1558345088313">
         <mark key="[" line="23" column="23" />
@@ -345,11 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="16" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
-      <jump line="53" column="49" filename="C:/projects/Rating/Web/API/src/Rating.Data/Mappings/RatingMap.cs" />
-      <jump line="3" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.json" />
-      <jump line="19" column="2" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/appsettings.json" />
-      <jump line="6" column="20" filename="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" />
       <jump line="58" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" />
       <jump line="38" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" />
       <jump line="3" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" />
@@ -445,13 +440,18 @@
       <jump line="15" column="103" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/Extensions/LrsServiceExtensions.cs" />
       <jump line="36" column="44" filename="C:/projects/Rating/Web/API/src/Rating.Data/Mappings/CourseRatingMap.cs" />
       <jump line="180" column="8" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/473FEE3D-42EC-44B9-A383-30EC9B9564F5/5/NpgsqlDbType.cs" />
+      <jump line="50" column="38" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
+      <jump line="33" column="46" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommand.cs" />
+      <jump line="21" column="46" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommand.cs" />
+      <jump line="41" column="68" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4D87ADC8-58CC-4D2E-BA4B-8B4CE368D471/d6/1bab9e64/HttpStatusCode.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>&quot;User ID=vchmuzh;Host=localhost;Port=5432;Database=Rating;&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>added lrs and airbrake services and validation</text>
+        <text>LearnerCompanyName</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -478,7 +478,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>added lrs and airbrake services and validation</text>
+        <text>LearnerCompanyName</text>
       </register>
       <register name="/" type="4">
         <text>timest</text>
