@@ -263,6 +263,10 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/ControllerBase.cs" timestamp="1558602548031">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="46" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/LrsBaseController.cs" timestamp="1558360544574">
         <mark key="'" line="8" column="43" />
       </file>
@@ -296,8 +300,11 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/ConnectedServicesOption.cs" timestamp="1558447575088">
         <mark key="'" line="2" column="22" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1558535932008">
-        <mark key="'" line="36" column="40" />
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1558602629744">
+        <mark key="'" line="36" column="38" />
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/Models/GetTranscriptResponse.cs" timestamp="1558537742227">
         <mark key="[" line="6" column="17" />
@@ -604,7 +611,6 @@
       <jump line="16" column="34" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/TestStartup.cs" />
       <jump line="17" column="33" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/TestStartup.cs" />
       <jump line="90" column="24" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
-      <jump line="36" column="40" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" />
       <jump line="31" column="51" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" />
       <jump line="6" column="17" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Builders/CreateCourseRatingRequestBuilder.cs" />
       <jump line="4" column="17" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Mothers/CourseRatingMother - Copy.cs" />
@@ -650,13 +656,14 @@
       <jump line="42" column="53" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
       <jump line="71" column="111" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
+      <jump line="36" column="38" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>AuthenticationHeaderValue</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Accounting</text>
+        <text>t</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -683,13 +690,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Accounting</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRUcmFuc2NyaXB0UmVzcG9uc2VCdWlsZGVyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>AuthenticationHeaderValue</text>
+        <text>User.Identity</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyZWF0ZWQodXJpOiBzdHJpbmcuRW1wdHksIHZhbHVlOiBudWxsKTsK</text>
