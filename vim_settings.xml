@@ -89,6 +89,13 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
       </file>
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Lrs/AuthServiceTests.cs" timestamp="1558711535501">
+        <mark key="'" line="114" column="8" />
+        <mark key="[" line="63" column="69" />
+        <mark key="]" line="103" column="82" />
+        <mark key="." line="63" column="72" />
+        <mark key="^" line="103" column="82" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommand.cs" timestamp="1558529422390">
         <mark key="'" line="4" column="48" />
         <mark key="[" line="7" column="0" />
@@ -148,10 +155,6 @@
         <mark key="]" line="7" column="45" />
         <mark key="^" line="7" column="45" />
         <mark key="." line="7" column="45" />
-      </file>
-      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Builders/CreateCourseRatingRequestBuilder.cs" timestamp="1558700619296">
-        <mark key="'" line="11" column="0" />
-        <mark key="^" line="10" column="106" />
       </file>
       <file name="/payments.accounting.quarters [payments@localhost]" timestamp="1558520239448">
         <mark key="[" line="0" column="0" />
@@ -308,10 +311,10 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" timestamp="1558613452622">
         <mark key="'" line="24" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558709591333">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="52" />
-        <mark key="." line="0" column="52" />
+      <file name="/Dummy.txt" timestamp="1558711598846">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" timestamp="1558600569632">
         <mark key="'" line="13" column="65" />
@@ -515,12 +518,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/26/e1df5f3d/HttpHeaders.cs" timestamp="1558605528836">
         <mark key="'" line="777" column="57" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1558709435032">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1558711434576">
         <mark key="'" line="13" column="35" />
-        <mark key="[" line="45" column="109" />
-        <mark key="]" line="45" column="109" />
-        <mark key="^" line="45" column="109" />
-        <mark key="." line="45" column="109" />
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="48" />
+        <mark key="^" line="42" column="48" />
+        <mark key="." line="42" column="48" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Exception/Base/CyberUSecurityException.cs" timestamp="1558513925150">
         <mark key="'" line="22" column="67" />
@@ -699,9 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="59" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
-      <jump line="64" column="23" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetTranscriptRequest.cs" />
       <jump line="32" column="53" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
       <jump line="73" column="59" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
       <jump line="10" column="59" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/Transcript/TranscriptNotFoundException.cs" />
@@ -799,13 +799,16 @@
       <jump line="301" column="87" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
       <jump line="302" column="65" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
       <jump line="30" column="51" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
+      <jump line="11" column="17" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Lrs/AuthServiceTests.cs" />
+      <jump line="63" column="26" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Lrs/AuthServiceTests.cs" />
+      <jump line="114" column="8" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Lrs/AuthServiceTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>EnsureUserHasTranscript</text>
+        <text>GetTranscript</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>EnsureUserHasTranscript</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -832,16 +835,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>courseReleaseId</text>
       </register>
       <register name="/" type="4">
-        <text>GetT</text>
+        <text>GetTranscript</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUYXNrPEdldFRyYW5zY3JpcHRSZXNwb25zZT4gR2V0VHJhbnNjcmlwdCgKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJlbGVhc2VJZCwKICAgICAgICAgICAgQXV0aGVudGljYXRpb25IZWFkZXJWYWx1ZSBhdXRoVmFsdWUsCiAgICAgICAgICAgIENhbmNlbGxhdGlvblRva2VuIGNhbmNlbGxhdGlvblRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBHZXRUcmFuc2NyaXB0X0NvdXJzZVJlbGVhc2VJZEVtcHR5X1Rocm93c0FyZ3VtZW50RXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJlbGVhc2VJZCA9ICIiOwogICAgICAgICAgICB2YXIgc2VydmljZSA9IG5ldyBMcnNTZXJ2aWNlKF9odHRwQ2xpZW50TW9jay5PYmplY3QpOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBhd2FpdCBBc3NlcnQuVGhyb3dzQXN5bmM8QXJndW1lbnRFeGNlcHRpb24+KCgpID0+CiAgICAgICAgICAgICAgICBzZXJ2aWNlLkdldFRyYW5zY3JpcHQoY291cnNlUmVsZWFzZUlkLCBfYXV0aFZhbHVlLCBDYW5jZWxsYXRpb25Ub2tlbi5Ob25lKSk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbChuYW1lb2YoY291cnNlUmVsZWFzZUlkKSwgZXhjZXB0aW9uLk1lc3NhZ2UpOwogICAgICAgIH0KCiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2sgR2V0VHJhbnNjcmlwdF9Db3Vyc2VSZWxlYXNlSWROdWxsX1Rocm93c0FyZ3VtZW50RXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJlbGVhc2VJZCA9IG51bGw7CiAgICAgICAgICAgIHZhciBzZXJ2aWNlID0gbmV3IExyc1NlcnZpY2UoX2h0dHBDbGllbnRNb2NrLk9iamVjdCk7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IGF3YWl0IEFzc2VydC5UaHJvd3NBc3luYzxBcmd1bWVudEV4Y2VwdGlvbj4oKCkgPT4KICAgICAgICAgICAgICAgIHNlcnZpY2UuR2V0VHJhbnNjcmlwdChjb3Vyc2VSZWxlYXNlSWQsIF9hdXRoVmFsdWUsIENhbmNlbGxhdGlvblRva2VuLk5vbmUpKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKG5hbWVvZihjb3Vyc2VSZWxlYXNlSWQpLCBleGNlcHRpb24uTWVzc2FnZSk7CiAgICAgICAgfQoKICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBHZXRUcmFuc2NyaXB0X0F1dGhWYWx1ZUVtcHR5X1Rocm93c0FyZ3VtZW50RXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJlbGVhc2VJZCA9IFJhbmRvbUhlbHBlci5OZXdTdHJpbmcoInJlbGVhc2UtaWQiKTsKICAgICAgICAgICAgQXV0aGVudGljYXRpb25IZWFkZXJWYWx1ZSBhdXRoVmFsdWUgPSBudWxsOwogICAgICAgICAgICB2YXIgc2VydmljZSA9IG5ldyBMcnNTZXJ2aWNlKF9odHRwQ2xpZW50TW9jay5PYmplY3QpOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBhd2FpdCBBc3NlcnQuVGhyb3dzQXN5bmM8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PgogICAgICAgICAgICAgICAgc2VydmljZS5HZXRUcmFuc2NyaXB0KGNvdXJzZVJlbGVhc2VJZCwgYXV0aFZhbHVlLCBDYW5jZWxsYXRpb25Ub2tlbi5Ob25lKSk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbChuYW1lb2YoYXV0aFZhbHVlKSwgZXhjZXB0aW9uLk1lc3NhZ2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -865,28 +868,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBHZXRVc2VyX1VzZXJJZFplcm9fVGhyb3dzQXJndW1lbnRFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBpbnQgdXNlcklkID0gMDsKICAgICAgICAgICAgdmFyIHNlcnZpY2UgPSBuZXcgTHJzU2VydmljZShfaHR0cENsaWVudE1vY2suT2JqZWN0KTsKCiAgICAgICAgICAgIC8vIEFjdCArIEFzc2VydAogICAgICAgICAgICB2YXIgZXhjZXB0aW9uID0gYXdhaXQgQXNzZXJ0LlRocm93c0FzeW5jPEFyZ3VtZW50RXhjZXB0aW9uPigoKSA9PgogICAgICAgICAgICAgICAgc2VydmljZS5HZXRVc2VyKHVzZXJJZCwgQ2FuY2VsbGF0aW9uVG9rZW4uTm9uZSkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKHVzZXJJZCksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGF1dGhWYWx1ZSA9IG5ldyBBdXRoZW50aWNhdGlvbkhlYWRlclZhbHVlKCJCZWFyZXIiLCAidGVzdCIpOwo=</text>
       </register>
       <register name="s" type="4">
-        <text>IConfiguration</text>
+        <text>EnsureUserHasTranscript</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJvdGVjdGVkIHZpcnR1YWwgdm9pZCBBZGREYXRlVGltZUFkYXB0ZXIoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkRGF0ZVRpbWVQcm92aWRlcigpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2V0U2VydmljZTxNb2NrPElMcnNTZXJ2aWNlPj4oKQogICAgICAgICAgICAgICAgLlNldHVwKHggPT4geC5HZXRUcmFuc2NyaXB0KAogICAgICAgICAgICAgICAgICAgIHJlcXVlc3QuQ291cnNlUmVsZWFzZUlkLAogICAgICAgICAgICAgICAgICAgIF9hdXRoSGVhZGVyVmFsdWUsCiAgICAgICAgICAgICAgICAgICAgSXQuSXNBbnk8Q2FuY2VsbGF0aW9uVG9rZW4+KCkpKQogICAgICAgICAgICAgICAgLlJldHVybnNBc3luYyhnZXRUcmFuc2NyaXB0UmVzcG9uc2UpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -900,7 +903,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdldFRyYW5zY3JpcHRSZXNwb25zZSA9IEdldFRyYW5zY3JpcHRSZXNwb25zZU1vdGhlci5DcmVhdGUoKS5CdWlsZCgpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgcHJvdGVjdGVkIHZpcnR1YWwgdm9pZCBBZGREYXRlVGltZUFkYXB0ZXIoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkRGF0ZVRpbWVQcm92aWRlcigpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -909,23 +912,20 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text encoding="base64">JzwsJz5zL0dldFRyYW5zY3JpcHQvRW5zdXJlVXNlckhhc1RyYW5zY3JpcHQvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>GetT</last-search>
+      <last-search>GetTranscript</last-search>
       <last-offset />
-      <last-pattern>GetT</last-pattern>
-      <last-replace>dateTimeMock</last-replace>
-      <last-substitute>processorMock</last-substitute>
+      <last-pattern>GetTranscript</last-pattern>
+      <last-replace>EnsureUserHasTranscript</last-replace>
+      <last-substitute>GetTranscript</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Payments</entry>
-        <entry>SubmitQuarterlyPayout</entry>
-        <entry>CourseRating</entry>
         <entry encoding="base64">XDxHZXRUcmFuc2NyaXB0UmVzcG9uc2VcPg==</entry>
         <entry>}</entry>
         <entry>FinalQuizPassedScore</entry>
@@ -943,11 +943,11 @@
         <entry>lear</entry>
         <entry>pag</entry>
         <entry>GetT</entry>
+        <entry>Auth</entry>
+        <entry>GetUser</entry>
+        <entry>GetTranscript</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/SubmitQuarterlyPayout/CreateCourseRating/g</entry>
-        <entry>%s/CourseRatingBuilder/CreateCourseRatingRequestBuilder/g</entry>
-        <entry>%s/CourseRating/CreateCourseRatingRequest/g</entry>
         <entry>%s/FinalQuizPassedScore/GetTranscriptResponseBuilder/g</entry>
         <entry>%s/CourseRatingBuilder/GetTranscriptResponseBuilder/g</entry>
         <entry>nohl</entry>
@@ -965,6 +965,9 @@
         <entry>action GotoImplementation</entry>
         <entry>action RenameElement</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>%s/Auth/Lrs/g</entry>
+        <entry>%s/GetUser/GetTranscript/g</entry>
+        <entry encoding="base64">JzwsJz5zL0dldFRyYW5zY3JpcHQvRW5zdXJlVXNlckhhc1RyYW5zY3JpcHQvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
