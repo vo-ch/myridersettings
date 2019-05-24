@@ -10,6 +10,13 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/TestStartup.cs" timestamp="1558692635532">
+        <mark key="'" line="15" column="35" />
+        <mark key="[" line="51" column="71" />
+        <mark key="]" line="51" column="75" />
+        <mark key="^" line="51" column="75" />
+        <mark key="." line="51" column="75" />
+      </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Mothers/CourseRatingMother - Copy.cs" timestamp="1558624106668">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="8" column="23" />
@@ -197,11 +204,11 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="28" column="14" />
       </file>
-      <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" timestamp="1558682883795">
-        <mark key="[" line="225" column="62" />
-        <mark key="]" line="225" column="62" />
-        <mark key="." line="225" column="74" />
-        <mark key="^" line="232" column="66" />
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" timestamp="1558692646825">
+        <mark key="[" line="226" column="26" />
+        <mark key="]" line="226" column="40" />
+        <mark key="." line="226" column="40" />
+        <mark key="^" line="226" column="40" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/CurrencyNotFoundException.cs" timestamp="1558613538636">
         <mark key="'" line="24" column="61" />
@@ -408,12 +415,12 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommand.cs" timestamp="1558687389834">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommand.cs" timestamp="1558692454578">
         <mark key="'" line="21" column="36" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="43" />
-        <mark key="." line="21" column="43" />
-        <mark key="^" line="21" column="43" />
+        <mark key="[" line="9" column="135" />
+        <mark key="]" line="9" column="147" />
+        <mark key="." line="9" column="147" />
+        <mark key="^" line="9" column="147" />
       </file>
       <file name="/Rating.public.CourseRatings [payments@localhost]" timestamp="1558528631093">
         <mark key="[" line="0" column="0" />
@@ -455,8 +462,8 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="51" column="9" />
       </file>
-      <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1558616791098">
-        <mark key="'" line="30" column="71" />
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1558692525932">
+        <mark key="'" line="72" column="105" />
         <mark key="[" line="48" column="109" />
         <mark key="]" line="48" column="108" />
         <mark key="." line="48" column="108" />
@@ -478,12 +485,12 @@
       <file name="/auth.public.Clients [auth@localhost]" timestamp="1558686758882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" timestamp="1558687346618">
-        <mark key="'" line="39" column="49" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="42" column="15" />
-        <mark key="." line="44" column="0" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" timestamp="1558692435638">
+        <mark key="'" line="39" column="39" />
+        <mark key="[" line="39" column="74" />
+        <mark key="]" line="39" column="103" />
+        <mark key="^" line="39" column="103" />
+        <mark key="." line="39" column="103" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1558625024183">
         <mark key="'" line="65" column="7" />
@@ -518,8 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="777" column="57" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/26/e1df5f3d/HttpHeaders.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/40/0ba529a4/SR.cs" />
       <jump line="60" column="57" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
       <jump line="11" column="24" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Helpers/StringContentHelper.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/37/03accb26/StringContent.cs" />
@@ -617,14 +622,16 @@
       <jump line="18" column="77" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Security/IdentityExtensions.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8BD3D91B-B1DB-4319-8C9E-DBDF21084EDA/bc/3bb44d3c/JwtClaimTypes.cs" />
       <jump line="14" column="65" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/RatingBaseController.cs" />
-      <jump line="39" column="49" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" />
+      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/RatingBaseController.cs" />
+      <jump line="39" column="39" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" />
+      <jump line="72" column="105" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_configurationMock</text>
       </register>
       <register name="&quot;" type="4">
-        <text>learnerDomain</text>
+        <text>Test provider</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -651,7 +658,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>learnerDomain</text>
+        <text>Test provider</text>
       </register>
       <register name="/" type="4">
         <text>processorMock</text>
