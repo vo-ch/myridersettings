@@ -590,7 +590,7 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" timestamp="1558613452622">
         <mark key="'" line="24" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558711598846">
+      <file name="/Dummy.txt" timestamp="1558944089726">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
@@ -679,6 +679,9 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Aws/StepFunctions/Configuration/StepFunctionsServiceOption.cs" timestamp="1558449040551">
         <mark key="'" line="2" column="17" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Csv/CsvService.cs" timestamp="1558944374711">
+        <mark key="'" line="12" column="57" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Helpers/ControllerHelper.cs" timestamp="1558604793707">
         <mark key="'" line="8" column="29" />
       </file>
@@ -702,8 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/LrsBaseController.cs" />
-      <jump line="8" column="60" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" />
       <jump line="8" column="56" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/CurrencyNotFoundException.cs" />
       <jump line="24" column="61" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/CurrencyNotFoundException.cs" />
       <jump line="24" column="68" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" />
@@ -802,6 +803,8 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Auth/Extensions/AuthServiceExtensions.cs" />
       <jump line="82" column="65" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8BD3D91B-B1DB-4319-8C9E-DBDF21084EDA/bc/3bb44d3c/JwtClaimTypes.cs" />
+      <jump line="12" column="57" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Csv/CsvService.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/16775451-A13F-4DE6-9B27-54395A39BA7C/dc/a8044e0f/Configuration.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
