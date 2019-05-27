@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1558700760877">
-        <mark key="^" line="16" column="7" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1558447654213">
         <mark key="'" line="74" column="94" />
       </file>
@@ -258,8 +255,8 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Controllers/InstructorPayoutControllerTest.cs" timestamp="1558604786820">
         <mark key="'" line="70" column="23" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" timestamp="1558442437233">
-        <mark key="'" line="12" column="31" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" timestamp="1558942236488">
+        <mark key="'" line="12" column="37" />
       </file>
       <file name="/C# Console" timestamp="1558617522027">
         <mark key="[" line="0" column="0" />
@@ -361,8 +358,8 @@
       <file name="/Rating.public.CourseRatings [payments@localhost]" timestamp="1558940948941">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1558602629744">
-        <mark key="'" line="36" column="38" />
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1558942479914">
+        <mark key="'" line="82" column="65" />
         <mark key="[" line="36" column="38" />
         <mark key="]" line="36" column="38" />
         <mark key="." line="36" column="38" />
@@ -400,6 +397,9 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c7/7d554bcb/HttpRequest.cs" timestamp="1558600567736">
         <mark key="'" line="64" column="31" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1558942250216">
+        <mark key="'" line="234" column="28" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Middlewares/CyberUExceptionMiddlewareTests.cs" timestamp="1558623247738">
         <mark key="'" line="0" column="3" />
@@ -490,8 +490,8 @@
         <mark key="." line="120" column="31" />
         <mark key="^" line="120" column="31" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1558450704094">
-        <mark key="'" line="185" column="64" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1558942282581">
+        <mark key="'" line="193" column="30" />
         <mark key="[" line="168" column="0" />
         <mark key="]" line="189" column="9" />
         <mark key="^" line="120" column="11" />
@@ -617,7 +617,7 @@
         <mark key="^" line="18" column="181" />
         <mark key="." line="18" column="181" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1558604685111">
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1558942455907">
         <mark key="'" line="43" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/473FEE3D-42EC-44B9-A383-30EC9B9564F5/5/NpgsqlDbType.cs" timestamp="1558510114226">
@@ -702,11 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="53" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="73" column="59" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="10" column="59" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/Transcript/TranscriptNotFoundException.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Resources/ExceptionMessages.resx" />
-      <jump line="68" column="70" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/LrsBaseController.cs" />
       <jump line="8" column="60" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" />
       <jump line="8" column="56" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/CurrencyNotFoundException.cs" />
@@ -777,7 +772,6 @@
       <jump line="6" column="22" filename="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Configuration/ConnectedServicesOption.cs" />
       <jump line="7" column="48" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/ControllerBase.cs" />
       <jump line="18" column="77" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Security/IdentityExtensions.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8BD3D91B-B1DB-4319-8C9E-DBDF21084EDA/bc/3bb44d3c/JwtClaimTypes.cs" />
       <jump line="14" column="65" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/RatingBaseController.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/RatingBaseController.cs" />
       <jump line="39" column="39" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" />
@@ -802,6 +796,12 @@
       <jump line="11" column="17" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Lrs/AuthServiceTests.cs" />
       <jump line="63" column="26" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Lrs/AuthServiceTests.cs" />
       <jump line="114" column="8" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Lrs/AuthServiceTests.cs" />
+      <jump line="12" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" />
+      <jump line="234" column="28" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="193" column="30" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Auth/Extensions/AuthServiceExtensions.cs" />
+      <jump line="82" column="65" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8BD3D91B-B1DB-4319-8C9E-DBDF21084EDA/bc/3bb44d3c/JwtClaimTypes.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
