@@ -21,8 +21,8 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DomainExtensions.cs" timestamp="1558104081929">
         <mark key="'" line="18" column="52" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" timestamp="1558945063807">
-        <mark key="'" line="48" column="17" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" timestamp="1558951247838">
+        <mark key="'" line="45" column="37" />
       </file>
       <file name="/Dummy.cs" timestamp="1558622670152">
         <mark key="[" line="0" column="0" />
@@ -176,12 +176,6 @@
       <file name="C:/projects/Rating/Infra/Rating.Exception/Base/CyberUSecurityException.cs" timestamp="1558513925150">
         <mark key="'" line="22" column="67" />
       </file>
-      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Builders/GetTranscriptResponseBuilder.cs" timestamp="1558704044337">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="103" column="9" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/QueryHandlerBase.cs" timestamp="1558104345434">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -193,12 +187,6 @@
         <mark key="]" line="8" column="110" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="105" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.json" timestamp="1558449599378">
-        <mark key="'" line="18" column="2" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="50" />
-        <mark key="." line="76" column="24" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/DependencyInjection/DateTimeAdapterExtensions.cs" timestamp="1558708190306">
         <mark key="[" line="7" column="38" />
@@ -227,12 +215,6 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Builders/QuarterlyPayoutBuilder - Copy.cs" timestamp="1558598045866">
-        <mark key="'" line="8" column="17" />
-        <mark key="[" line="8" column="17" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/ConnectedServicesOption.cs" timestamp="1558447575088">
         <mark key="'" line="2" column="22" />
       </file>
@@ -240,12 +222,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/TestStartup.cs" timestamp="1558942479914">
-        <mark key="'" line="82" column="65" />
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="36" column="38" />
-        <mark key="." line="36" column="38" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Program.cs" timestamp="1558520728283">
         <mark key="[" line="17" column="72" />
@@ -277,11 +253,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1558942250216">
         <mark key="'" line="234" column="28" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Csv/Mappings/CourseRatingItemResponseMap.cs" timestamp="1558948411489">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Csv/Mappings/CourseRatingItemResponseMap.cs" timestamp="1558951139611">
         <mark key="'" line="6" column="56" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="60" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="21" column="51" />
+        <mark key="]" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="51" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/SubmitQuarterlyPayoutCommandMother.cs" timestamp="1558623685897">
         <mark key="'" line="8" column="47" />
@@ -479,7 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/40/5e6fbfb3/CancellationToken.cs" />
       <jump line="85" column="53" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Infra/Rating.Test.Randomiser/RandomHelper.cs" />
       <jump line="182" column="25" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
@@ -579,13 +555,14 @@
       <jump line="7" column="17" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/B2bRegistration/ListB2bRegistrationResponse.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Accounting.Api.csproj" />
       <jump line="6" column="56" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Csv/Mappings/CourseRatingItemResponseMap.cs" />
+      <jump line="45" column="37" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>GetTranscript</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5Db3Vyc2VJZCkuSW5kZXgoMSkuTmFtZSgiQ291cnNlIElkIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -612,16 +589,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INSTRUCTOR NAME</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>csvhe</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5Db3Vyc2VJZCkuSW5kZXgoMSkuTmFtZSgiQ291cnNlIElkIik7Cg==</text>
+      <register name="0" type="4">
+        <text>CourseAttemptNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5JbnN0cnVjdG9ySWQpLkluZGV4KDMpLk5hbWUoIkluc3RydWN0b3IgSUQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5Db3Vyc2VJZCkuSW5kZXgoMSkuTmFtZSgiQ291cnNlIElkIik7CiAgICAgICAgICAgIE1hcCh4ID0+IHguQ291cnNlSWQpLkluZGV4KDEpLk5hbWUoIkNvdXJzZSBJZCIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,28 +622,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5JbnN0cnVjdG9yTmFtZSkuSW5kZXgoNCkuTmFtZSgiSW5zdHJ1Y3RvciBOYW1lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5JbnN0cnVjdG9ySWQpLkluZGV4KDMpLk5hbWUoIkluc3RydWN0b3IgSUQiKTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5Db3Vyc2VUaXRsZSkuSW5kZXgoMikuTmFtZSgiQ291cnNlIFRpdGxlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5JbnN0cnVjdG9yTmFtZSkuSW5kZXgoNCkuTmFtZSgiSW5zdHJ1Y3RvciBOYW1lIik7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>EnsureUserHasTranscript</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5QdWJsaXNoZXJJZCkuSW5kZXgoNSkuTmFtZSgiUFVCTElTSEVSIElEIik7CiAgICAgICAgICAgIE1hcCh4ID0+IHguRG9tYWluKS5JbmRleCg2KS5OYW1lKCJET01BSU4iKTsKICAgICAgICAgICAgTWFwKHggPT4geC5EYXRlKS5JbmRleCg3KS5OYW1lKCJEQVRFIikuVHlwZUNvbnZlcnRlck9wdGlvbi5Gb3JtYXQoInl5eXktTU0tZGQiKTsKICAgICAgICAgICAgTWFwKHggPT4geC5MZWFybmVySWQpLkluZGV4KDgpLk5hbWUoIkxFQVJORVIgSUQiKTsKICAgICAgICAgICAgTWFwKHggPT4geC5BbW91bnRQZXJSZWdpc3RyYXRpb24pLkluZGV4KDgpLk5hbWUoIkFNT1VOVCBQRVIgUkVHSVNUUkFUSU9OIikuVHlwZUNvbnZlcnRlck9wdGlvbi5OdW1iZXJTdHlsZXMoTnVtYmVyU3R5bGVzLk51bWJlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5Db3Vyc2VUaXRsZSkuSW5kZXgoMikuTmFtZSgiQ291cnNlIFRpdGxlIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5JZCkuSW5kZXgoMCkuTmFtZSgiQ291cnNlIHRpdGxlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5QdWJsaXNoZXJJZCkuSW5kZXgoNSkuTmFtZSgiUFVCTElTSEVSIElEIik7CiAgICAgICAgICAgIE1hcCh4ID0+IHguRG9tYWluKS5JbmRleCg2KS5OYW1lKCJET01BSU4iKTsKICAgICAgICAgICAgTWFwKHggPT4geC5EYXRlKS5JbmRleCg3KS5OYW1lKCJEQVRFIikuVHlwZUNvbnZlcnRlck9wdGlvbi5Gb3JtYXQoInl5eXktTU0tZGQiKTsKICAgICAgICAgICAgTWFwKHggPT4geC5MZWFybmVySWQpLkluZGV4KDgpLk5hbWUoIkxFQVJORVIgSUQiKTsKICAgICAgICAgICAgTWFwKHggPT4geC5BbW91bnRQZXJSZWdpc3RyYXRpb24pLkluZGV4KDgpLk5hbWUoIkFNT1VOVCBQRVIgUkVHSVNUUkFUSU9OIikuVHlwZUNvbnZlcnRlck9wdGlvbi5OdW1iZXJTdHlsZXMoTnVtYmVyU3R5bGVzLk51bWJlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWUgU3VibWl0dGVkRGF0ZVRpbWUgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5JZCkuSW5kZXgoMCkuTmFtZSgiQ291cnNlIHRpdGxlIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIExlYXJuZXJEb21haW4geyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWUgU3VibWl0dGVkRGF0ZVRpbWUgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -680,10 +657,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IElkIHsgZ2V0OyBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIExlYXJuZXJEb21haW4geyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IElkIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
