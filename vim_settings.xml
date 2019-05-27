@@ -93,6 +93,10 @@
         <mark key="." line="9" column="35" />
         <mark key="^" line="9" column="35" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/B2bRegistration/Summary/ByCourse/B2bRegistrationSummaryByCourseQueryHandler.cs" timestamp="1558957380269">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="31" column="14" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" timestamp="1558617194035">
         <mark key="'" line="0" column="0" />
       </file>
@@ -248,7 +252,8 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/ListCourseRatingResponse.cs" timestamp="1558952469012">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/ListCourseRatingResponse.cs" timestamp="1558957657799">
+        <mark key="'" line="4" column="59" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="4" column="82" />
         <mark key="^" line="4" column="82" />
@@ -448,12 +453,12 @@
         <mark key="." line="6" column="105" />
         <mark key="^" line="6" column="105" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" timestamp="1558956668927">
-        <mark key="'" line="8" column="71" />
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="19" column="23" />
-        <mark key="^" line="19" column="23" />
-        <mark key="." line="19" column="23" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" timestamp="1558957916687">
+        <mark key="'" line="26" column="43" />
+        <mark key="[" line="44" column="87" />
+        <mark key="]" line="44" column="87" />
+        <mark key="^" line="43" column="67" />
+        <mark key="." line="44" column="87" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Test.Randomiser/RandomHelper.cs" timestamp="1558531946852">
         <mark key="'" line="34" column="32" />
@@ -556,11 +561,6 @@
         <mark key="." line="24" column="73" />
         <mark key="^" line="24" column="73" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Accounting.Api.csproj" timestamp="1558945703429">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="65" />
-      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/appsettings.json" timestamp="1558452001194">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="81" />
@@ -606,6 +606,12 @@
         <mark key="'" line="8" column="71" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="48" />
+      </file>
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" timestamp="1558957780106">
+        <mark key="[" line="82" column="36" />
+        <mark key="]" line="82" column="41" />
+        <mark key="." line="82" column="41" />
+        <mark key="^" line="82" column="41" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/Transcript/TranscriptNotFoundException.cs" timestamp="1558607483697">
         <mark key="'" line="10" column="59" />
@@ -729,10 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="71" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Fixtures/TestServerFixture.cs" />
-      <jump line="234" column="61" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
-      <jump line="452" column="24" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/B2bRegistrationControllerTests.cs" />
       <jump line="10" column="17" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Controllers/QuarterlyPayoutControllerTests.cs" />
       <jump line="16" column="27" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Helpers/ControllerHelper.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/dc/dbb3ca64/ControllerBase.cs" />
@@ -829,13 +831,17 @@
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
       <jump line="4" column="71" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" />
       <jump line="21" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" />
+      <jump line="4" column="59" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/ListCourseRatingResponse.cs" />
+      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Data.Entity/CourseRating.cs" />
+      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
+      <jump line="26" column="43" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Must be positive</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>CourseTitle</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -862,16 +868,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CourseTitle</text>
       </register>
       <register name="/" type="4">
         <text>csvhe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBFeHBvcnQgeyBnZXQ7IHByaXZhdGUgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKS5Ub0xvd2VyKCldID0KICAgICAgICAgICAgICAgICAgICB0aGlzLk1hcFByb3BUb09yZGVyQnlCYXNlPHN0cmluZywgRGF0YS5FbnRpdHkuQ291cnNlUmF0aW5nPih4ID0+IHguQ291cnNlVGl0bGUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBbbmFtZW9mKEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZS5SZWdpc3RyYXRpb25Db3VudCkuVG9Mb3dlcigpXSA9CiAgICAgICAgICAgICAgICAgICAgdGhpcy5NYXBQcm9wVG9PcmRlckJ5QmFzZTxpbnQsIEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZT4oeCA9PiB4LlJlZ2lzdHJhdGlvbkNvdW50KSwKCiAgICAgICAgICAgICAgICBbbmFtZW9mKEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZS5SZXZlbnVlQW1vdW50KS5Ub0xvd2VyKCldID0KICAgICAgICAgICAgICAgICAgICB0aGlzLk1hcFByb3BUb09yZGVyQnlCYXNlPGRlY2ltYWwsIEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZT4oeCA9PiB4LlJldmVudWVBbW91bnQpLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -895,28 +901,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBlciwK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGdldDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>EnsureUserHasTranscript</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICBlciwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5Db3Vyc2VJZCkuSW5kZXgoMSkuTmFtZSgiQ291cnNlIElkIik7CiAgICAgICAgICAgIE1hcCh4ID0+IHguQ291cnNlSWQpLkluZGV4KDEpLk5hbWUoIkNvdXJzZSBJZCIpOwo=</text>
+        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5JbnN0cnVjdG9ySWQpLkluZGV4KDMpLk5hbWUoIkluc3RydWN0b3IgSUQiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -930,10 +936,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5JbnN0cnVjdG9yTmFtZSkuSW5kZXgoNCkuTmFtZSgiSW5zdHJ1Y3RvciBOYW1lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5Db3Vyc2VJZCkuSW5kZXgoMSkuTmFtZSgiQ291cnNlIElkIik7CiAgICAgICAgICAgIE1hcCh4ID0+IHguQ291cnNlSWQpLkluZGV4KDEpLk5hbWUoIkNvdXJzZSBJZCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5Db3Vyc2VUaXRsZSkuSW5kZXgoMikuTmFtZSgiQ291cnNlIFRpdGxlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5JbnN0cnVjdG9ySWQpLkluZGV4KDMpLk5hbWUoIkluc3RydWN0b3IgSUQiKTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
