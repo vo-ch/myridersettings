@@ -131,8 +131,8 @@
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Resources/ExceptionMessages.Designer.cs" timestamp="1558952084597">
         <mark key="'" line="24" column="17" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" timestamp="1558962727240">
-        <mark key="'" line="27" column="21" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" timestamp="1558965501221">
+        <mark key="'" line="27" column="20" />
         <mark key="[" line="49" column="37" />
         <mark key="]" line="49" column="42" />
         <mark key="." line="49" column="42" />
@@ -610,12 +610,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="48" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" timestamp="1558962813152">
-        <mark key="'" line="101" column="31" />
-        <mark key="[" line="84" column="18" />
-        <mark key="]" line="84" column="18" />
-        <mark key="." line="84" column="18" />
-        <mark key="^" line="84" column="18" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" timestamp="1558965354576">
+        <mark key="'" line="101" column="1" />
+        <mark key="[" line="90" column="16" />
+        <mark key="]" line="90" column="28" />
+        <mark key="^" line="90" column="28" />
+        <mark key="." line="90" column="28" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/Transcript/TranscriptNotFoundException.cs" timestamp="1558607483697">
         <mark key="'" line="10" column="59" />
@@ -739,8 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="44" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Filters/CyberUExceptionFilterTests.cs" />
-      <jump line="111" column="86" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Filters/CyberUExceptionFilterTests.cs" />
       <jump line="131" column="86" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Filters/CyberUExceptionFilterTests.cs" />
       <jump line="151" column="86" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Filters/CyberUExceptionFilterTests.cs" />
       <jump line="170" column="86" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Filters/CyberUExceptionFilterTests.cs" />
@@ -834,18 +832,20 @@
       <jump line="14" column="29" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
       <jump line="56" column="66" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E40B7C55-FD27-459E-9F7E-9AFF1A0664C4/a3/111984cf/PropertyDescriptor.cs" />
-      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
       <jump line="49" column="71" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
       <jump line="80" column="31" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
       <jump line="90" column="45" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
-      <jump line="27" column="21" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
+      <jump line="107" column="22" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
+      <jump line="108" column="1" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
+      <jump line="27" column="20" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
+      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Must be positive</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIEFwcGx5U29ydDxURW50aXR5PigKICAgICAgICAgICAgdGhpcyBJUGFnaW5hdGVkUXVlcnlIYW5kbGVyIHF1ZXJ5SGFuZGxlciwKICAgICAgICAgICAgcmVmIElRdWVyeWFibGU8VEVudGl0eT4gYmFzZVF1ZXJ5LAogICAgICAgICAgICBEaWN0aW9uYXJ5PHN0cmluZywgU29ydEZpZWxkTWFwcGVyPFRFbnRpdHk+PiBzb3J0aW5nTWFwLAogICAgICAgICAgICBzdHJpbmcgc29ydEJ5LAogICAgICAgICAgICBTb3J0T3JkZXJFbnVtPyBzb3J0T3JkZXIsCiAgICAgICAgICAgIHN0cmluZyBkZWZhdWx0UHJvcGVydHkgPSBEZWZhdWx0UHJvcGVydHkpCiAgICAgICAgewogICAgICAgICAgICBzdHJpbmcgc29ydEJ5TG93ZXIgPSBzdHJpbmcuSXNOdWxsT3JFbXB0eShzb3J0QnkpID8gZGVmYXVsdFByb3BlcnR5LlRvTG93ZXIoKSA6IHNvcnRCeS5Ub0xvd2VyKCk7CgogICAgICAgICAgICB2YXIgYXBwbHlTb3J0ID0gc29ydGluZ01hcC5Db250YWluc0tleShzb3J0QnlMb3dlcikgPyBzb3J0aW5nTWFwW3NvcnRCeUxvd2VyXSA6IG51bGw7CgogICAgICAgICAgICBpZiAoYXBwbHlTb3J0ID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkU29ydEV4Y2VwdGlvbigpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBiYXNlUXVlcnkgPSBhcHBseVNvcnQoc29ydE9yZGVyLCBiYXNlUXVlcnkpOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -878,10 +878,10 @@
         <text>this.MapPropToOrderBy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIEFwcGx5U29ydDxURW50aXR5PigKICAgICAgICAgICAgdGhpcyBJUGFnaW5hdGVkUXVlcnlIYW5kbGVyIHF1ZXJ5SGFuZGxlciwKICAgICAgICAgICAgcmVmIElRdWVyeWFibGU8VEVudGl0eT4gYmFzZVF1ZXJ5LAogICAgICAgICAgICBEaWN0aW9uYXJ5PHN0cmluZywgU29ydEZpZWxkTWFwcGVyPFRFbnRpdHk+PiBzb3J0aW5nTWFwLAogICAgICAgICAgICBzdHJpbmcgc29ydEJ5LAogICAgICAgICAgICBTb3J0T3JkZXJFbnVtPyBzb3J0T3JkZXIsCiAgICAgICAgICAgIHN0cmluZyBkZWZhdWx0UHJvcGVydHkgPSBEZWZhdWx0UHJvcGVydHkpCiAgICAgICAgewogICAgICAgICAgICBzdHJpbmcgc29ydEJ5TG93ZXIgPSBzdHJpbmcuSXNOdWxsT3JFbXB0eShzb3J0QnkpID8gZGVmYXVsdFByb3BlcnR5LlRvTG93ZXIoKSA6IHNvcnRCeS5Ub0xvd2VyKCk7CgogICAgICAgICAgICB2YXIgYXBwbHlTb3J0ID0gc29ydGluZ01hcC5Db250YWluc0tleShzb3J0QnlMb3dlcikgPyBzb3J0aW5nTWFwW3NvcnRCeUxvd2VyXSA6IG51bGw7CgogICAgICAgICAgICBpZiAoYXBwbHlTb3J0ID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkU29ydEV4Y2VwdGlvbigpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBiYXNlUXVlcnkgPSBhcHBseVNvcnQoc29ydE9yZGVyLCBiYXNlUXVlcnkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA/IGJhc2VRdWVyeSBpcyBJT3JkZXJlZFF1ZXJ5YWJsZTxUTW9kZWw+IG9yZGVyZWRRdWVyeWFibGUgPyBvcmRlcmVkUXVlcnlhYmxlLlRoZW5CeShrZXlTZWxlY3RvcikgOiBiYXNlUXVlcnkuT3JkZXJCeURlc2NlbmRpbmcoa2V5U2VsZWN0b3IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgUGFnaW5hdGVkUXVlcnlIYW5kbGVyRXh0ZW5zaW9ucy5Tb3J0RmllbGRNYXBwZXI8VEVudGl0eT4gTWFwUHJvcFRvT3JkZXJCeSgKICAgICAgICAgICAgRXhwcmVzc2lvbjxGdW5jPFRFbnRpdHksIG9iamVjdD4+IGtleVNlbGVjdG9yKSA9PiB0aGlzLk1hcFByb3BUb09yZGVyQnlCYXNlKGtleVNlbGVjdG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmluZyBzb3J0QnlMb3dlciA9IHN0cmluZy5Jc051bGxPckVtcHR5KHNvcnRCeSkgPyBkZWZhdWx0UHJvcGVydHkuVG9Mb3dlcigpIDogc29ydEJ5LlRvTG93ZXIoKTsKCiAgICAgICAgICAgICAgICB2YXIgYXBwbHlTb3J0ID0gc29ydGluZ01hcC5Db250YWluc0tleShzb3J0QnlMb3dlcikgPyBzb3J0aW5nTWFwW3NvcnRCeUxvd2VyXSA6IG51bGw7CgogICAgICAgICAgICAgICAgaWYgKGFwcGx5U29ydCA9PSBudWxsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkU29ydEV4Y2VwdGlvbigpOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGJhc2VRdWVyeSA9IGFwcGx5U29ydChzb3J0T3JkZXIsIGJhc2VRdWVyeSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -905,28 +905,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBbbmFtZW9mKEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZS5SZWdpc3RyYXRpb25Db3VudCkuVG9Mb3dlcigpXSA9CiAgICAgICAgICAgICAgICAgICAgdGhpcy5NYXBQcm9wVG9PcmRlckJ5QmFzZTxpbnQsIEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZT4oeCA9PiB4LlJlZ2lzdHJhdGlvbkNvdW50KSwKCiAgICAgICAgICAgICAgICBbbmFtZW9mKEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZS5SZXZlbnVlQW1vdW50KS5Ub0xvd2VyKCldID0KICAgICAgICAgICAgICAgICAgICB0aGlzLk1hcFByb3BUb09yZGVyQnlCYXNlPGRlY2ltYWwsIEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZT4oeCA9PiB4LlJldmVudWVBbW91bnQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGdldDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHNvcnRCeUxvd2VyID0gc3RyaW5nLklzTnVsbE9yRW1wdHkoc29ydEJ5KSA/IGRlZmF1bHRQcm9wZXJ0eS5Ub0xvd2VyKCkgOiBzb3J0QnkuVG9Mb3dlcigpOwoKICAgICAgICAgICAgdmFyIGFwcGx5U29ydCA9IHNvcnRpbmdNYXAuQ29udGFpbnNLZXkoc29ydEJ5TG93ZXIpID8gc29ydGluZ01hcFtzb3J0QnlMb3dlcl0gOiBudWxsOwoKICAgICAgICAgICAgaWYgKGFwcGx5U29ydCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZFNvcnRFeGNlcHRpb24oKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgYmFzZVF1ZXJ5ID0gYXBwbHlTb3J0KHNvcnRPcmRlciwgYmFzZVF1ZXJ5KTsK</text>
       </register>
       <register name="s" type="4">
         <text>EnsureUserHasTranscript</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgUGFnaW5hdGVkUXVlcnlIYW5kbGVyRXh0ZW5zaW9ucy5Tb3J0RmllbGRNYXBwZXI8VEVudGl0eT4gTWFwUHJvcFRvT3JkZXJCeSgKICAgICAgICAgICAgRXhwcmVzc2lvbjxGdW5jPFRFbnRpdHksIG9iamVjdD4+IGtleVNlbGVjdG9yKSA9PiB0aGlzLk1hcFByb3BUb09yZGVyQnlCYXNlKGtleVNlbGVjdG9yKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBlciwK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBbbmFtZW9mKEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZS5SZWdpc3RyYXRpb25Db3VudCkuVG9Mb3dlcigpXSA9CiAgICAgICAgICAgICAgICAgICAgdGhpcy5NYXBQcm9wVG9PcmRlckJ5QmFzZTxpbnQsIEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZT4oeCA9PiB4LlJlZ2lzdHJhdGlvbkNvdW50KSwKCiAgICAgICAgICAgICAgICBbbmFtZW9mKEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZS5SZXZlbnVlQW1vdW50KS5Ub0xvd2VyKCldID0KICAgICAgICAgICAgICAgICAgICB0aGlzLk1hcFByb3BUb09yZGVyQnlCYXNlPGRlY2ltYWwsIEIyYlJlZ2lzdHJhdGlvblN1bW1hcnlCeUNvdXJzZUl0ZW1SZXNwb25zZT4oeCA9PiB4LlJldmVudWVBbW91bnQpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIGdldDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -940,16 +940,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBlciwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwKHggPT4geC5Db3Vyc2VJZCkuSW5kZXgoMSkuTmFtZSgiQ291cnNlIElkIik7CiAgICAgICAgICAgIE1hcCh4ID0+IHguQ291cnNlSWQpLkluZGV4KDEpLk5hbWUoIkNvdXJzZSBJZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/this.MapPropToOrderBy/MapPropToOrderBy/g</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1000,11 +1000,11 @@
         <entry>%s/Auth/Lrs/g</entry>
         <entry>%s/GetUser/GetTranscript/g</entry>
         <entry encoding="base64">JzwsJz5zL0dldFRyYW5zY3JpcHQvRW5zdXJlVXNlckhhc1RyYW5zY3JpcHQvZw==</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>%s/MapPropToOrderByBase/MapPropToOrderBy/g</entry>
         <entry encoding="base64">JXMvPERhdGEuRW50aXR5LkNvdXJzZVJhdGluZz4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzxEYXRhLkVudGl0eS5Db3Vyc2VSYXRpbmc+Ly9n</entry>
         <entry>%s/this.MapPropToOrderBy/MapPropToOrderBy/g</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
