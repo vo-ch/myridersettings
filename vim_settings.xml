@@ -134,12 +134,12 @@
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Resources/ExceptionMessages.Designer.cs" timestamp="1558952084597">
         <mark key="'" line="24" column="17" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" timestamp="1559034963150">
-        <mark key="'" line="67" column="100" />
-        <mark key="[" line="73" column="80" />
-        <mark key="]" line="73" column="80" />
-        <mark key="." line="73" column="80" />
-        <mark key="^" line="30" column="7" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" timestamp="1559037533758">
+        <mark key="'" line="67" column="28" />
+        <mark key="[" line="33" column="59" />
+        <mark key="]" line="33" column="64" />
+        <mark key="." line="33" column="64" />
+        <mark key="^" line="33" column="64" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Resources/ValidationMessages.resx" timestamp="1558448235985">
         <mark key="[" line="21" column="54" />
@@ -477,12 +477,12 @@
         <mark key="." line="6" column="105" />
         <mark key="^" line="6" column="105" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" timestamp="1559035186151">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" timestamp="1559036711837">
         <mark key="'" line="20" column="61" />
-        <mark key="[" line="48" column="69" />
-        <mark key="]" line="48" column="72" />
-        <mark key="." line="48" column="72" />
-        <mark key="^" line="48" column="72" />
+        <mark key="[" line="46" column="85" />
+        <mark key="]" line="47" column="7" />
+        <mark key="." line="49" column="107" />
+        <mark key="^" line="47" column="7" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Test.Randomiser/RandomHelper.cs" timestamp="1558531946852">
         <mark key="'" line="34" column="32" />
@@ -635,12 +635,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="48" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" timestamp="1559033186605">
-        <mark key="'" line="108" column="1" />
-        <mark key="[" line="88" column="56" />
-        <mark key="]" line="88" column="56" />
-        <mark key="^" line="88" column="56" />
-        <mark key="." line="88" column="56" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" timestamp="1559036541793">
+        <mark key="'" line="65" column="67" />
+        <mark key="[" line="68" column="79" />
+        <mark key="]" line="68" column="79" />
+        <mark key="." line="68" column="79" />
+        <mark key="^" line="68" column="79" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/Transcript/TranscriptNotFoundException.cs" timestamp="1558607483697">
         <mark key="'" line="10" column="59" />
@@ -776,7 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="35" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
       <jump line="35" column="51" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/ILrsService.cs" />
       <jump line="215" column="52" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
@@ -859,7 +858,6 @@
       <jump line="28" column="67" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
       <jump line="39" column="26" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6ADA86BC-42B8-4686-9EE9-BE3FA540A9DD/fa/ff6777cd/IOrderedDictionary.cs" />
-      <jump line="71" column="27" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6ADA86BC-42B8-4686-9EE9-BE3FA540A9DD/04/ce300f7c/OrderedDictionary.cs" />
       <jump line="38" column="56" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
       <jump line="1094" column="17" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C6CA9BE2-B60C-4650-819E-189B5827F162/36/654cd091/Enumerable.cs" />
@@ -875,14 +873,16 @@
       <jump line="20" column="61" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" />
       <jump line="31" column="33" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
       <jump line="73" column="26" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
-      <jump line="67" column="100" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
+      <jump line="71" column="41" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
+      <jump line="67" column="28" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
+      <jump line="65" column="67" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">SUxpc3Q8KHN0cmluZywgU29ydE9yZGVyRW51bSk+</text>
+        <text encoding="base64">eCA9PiAhU3RyaW5nLkVxdWFscyh4LktleSwgcXVlcnkuU29ydEJ5LCBTdHJpbmdDb21wYXJpc29uLkN1cnJlbnRDdWx0dXJlSWdub3JlQ2FzZSk=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>SortOrderEnum.Desc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IEZ1bmN0aW9uUnVubmVyLlJ1bihpbnB1dERhdGEsIGNvbnRleHQpOwo=</text>
@@ -909,16 +909,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SortOrderEnum.Desc</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZWZhdWx0U29ydGluZ1w+</text>
       </register>
       <register name="0" type="4">
-        <text>sortingMap.ContainsKey(sortByLower)</text>
+        <text>(nameof(CourseRatingItemResponse.SubmittedDateTime), null)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -929,30 +929,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>,
-                    defaultProperty: defaultProperty</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBzb3J0QnlQYXJhbWV0ZXIgaW4gc29ydEJ5UGFyYW1ldGVycykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBpZiAoc29ydEJ5UGFyYW1ldGVyLk9yZGVyID09IG51bGwpIHNvcnRCeVBhcmFtZXRlci5PcmRlciA9IHF1ZXJ5LlNvcnRPcmRlcjsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">eCA9PiAhU3RyaW5nLkVxdWFscyh4LktleSwgcXVlcnkuU29ydEJ5LCBTdHJpbmdDb21wYXJpc29uLkN1cnJlbnRDdWx0dXJlSWdub3JlQ2FzZSk=</text>
       </register>
       <register name="s" type="4">
         <text>EnsureUserHasTranscript</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdFByb3BlcnR5Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgdmlydHVhbCBzdHJpbmcgRGVmYXVsdFNvcnRpbmcgeyBnZXQ7IH0KCiAgICAgICAgcHJvdGVjdGVkIHZpcnR1YWwgSUxpc3Q8KHN0cmluZywgU29ydE9yZGVyRW51bT8pPiBHZXRTZWNvbmRhcnlTb3J0QnlQYXJhbWV0ZXJzIHsgZ2V0OyB9Cg==</text>
+      <register name="5" type="4">
+        <text>(DefaultProperty, null)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgYWJzdHJhY3QgSURpY3Rpb25hcnk8c3RyaW5nLCBQYWdpbmF0ZWRRdWVyeUhhbmRsZXJFeHRlbnNpb25zLlNvcnRGaWVsZE1hcHBlcjxURW50aXR5Pj4gU29ydGluZ01hcCB7IGdldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>,
+                    defaultProperty: defaultProperty</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -966,7 +966,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgSUxpc3Q8KHN0cmluZywgU29ydE9yZGVyRW51bT8pPiBHZXRTZWNvbmRhcnlTb3J0QnlQYXJhbWV0ZXJzID0+CiAgICAgICAgICAgIG5ldyBMaXN0PChzdHJpbmcsIFNvcnRPcmRlckVudW0/KT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuU3VibWl0dGVkRGF0ZVRpbWUpLCBTb3J0T3JkZXJFbnVtLkRlc2MpCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -975,7 +975,7 @@
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action GotoSuperMethod</text>
       </register>
     </registers>
     <search>
@@ -1011,7 +1011,6 @@
         <entry encoding="base64">XDxEZWZhdWx0U29ydGluZ1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>action CommentByLineComment</entry>
         <entry>%s/QuarterlyPayout/CourseRating/g</entry>
         <entry>%s/Submit/Create/g</entry>
         <entry>%s/Accounting/Rating/g</entry>
@@ -1028,9 +1027,10 @@
         <entry>%s/ListB2bRegistration/ListCourseRating/g</entry>
         <entry>%s/B2bRegistration/CourseRating/g</entry>
         <entry>nohl</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>%s/.ToLower()//g</entry>
         <entry>action RenameElement</entry>
+        <entry>action ShowErrorDescription</entry>
+        <entry>action GotoSuperMethod</entry>
       </history-cmd>
       <history-expr />
       <history-input />
