@@ -193,7 +193,7 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" timestamp="1558613452622">
         <mark key="'" line="24" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559055060070">
+      <file name="/Dummy.txt" timestamp="1559125532178">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -203,6 +203,13 @@
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Mothers/PaginatedQueryMother - Copy.cs" timestamp="1559052941457">
         <mark key="'" line="3" column="0" />
+      </file>
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1559125522775">
+        <mark key="'" line="35" column="51" />
+        <mark key="[" line="60" column="51" />
+        <mark key="]" line="60" column="51" />
+        <mark key="." line="60" column="51" />
+        <mark key="^" line="55" column="50" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/GetTranscriptResponse.cs" timestamp="1558359072101">
         <mark key="'" line="17" column="25" />
@@ -479,7 +486,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlcXVlc3QgPSBMaXN0Q291cnNlUmF0aW5nUmVxdWVzdE1vdGhlci5DcmVhdGUoKQogICAgICAgICAgICAgICAgLldpdGhQYWdlTnVtYmVyKHBhZ2VOdW1iZXIpCiAgICAgICAgICAgICAgICAuV2l0aFBhZ2VTaXplKHBhZ2VTaXplKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CgogICAgICAgICAgICB2YXIgdXJsID0gUXVlcnlIZWxwZXIuQnVpbGQoTGlzdEVuZHBvaW50LCByZXF1ZXN0KTsKCiAgICAgICAgICAgIC8vIEFjdAogICAgICAgICAgICBIdHRwUmVzcG9uc2VNZXNzYWdlIHJlc3BvbnNlID0KICAgICAgICAgICAgICAgIGF3YWl0IGNsaWVudC5HZXRBc3luYyh1cmwpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>fix default sort order</text>
+        <text>put the same value to CreatedDateTime and SubmittedDateTime while creating rating</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKSwgbnVsbCldCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VUaXRsZSksICIiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKSwgIiAgIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VUaXRsZSksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKSwgIkFzQyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuQ291cnNlVGl0bGUpLCAiQVNDIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VSZXZpZXcpLCAiYXNjIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VTY29yZSksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZUlkKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuSW5zdHJ1Y3RvcklkKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuSW5zdHJ1Y3Rvck5hbWUpLCAiYXNjIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5MZWFybmVyRG9tYWluKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuTGVhcm5lcklkKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuQ291cnNlQXR0ZW1wdE51bWJlciksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVJlbGVhc2VJZCksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVJlbGVhc2VOdW1iZXIpLCAiYXNjIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5TdWJtaXR0ZWREYXRlVGltZSksICJhc2MiKV0K</text>
@@ -506,7 +513,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fix default sort order</text>
+        <text>put the same value to CreatedDateTime and SubmittedDateTime while creating rating</text>
       </register>
       <register name="/" type="4">
         <text>Lrs</text>
