@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1559142428373">
-        <mark key="'" line="24" column="179" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1559142832960">
+        <mark key="'" line="24" column="79" />
         <mark key="[" line="24" column="121" />
-        <mark key="]" line="24" column="146" />
-        <mark key="^" line="24" column="146" />
-        <mark key="." line="24" column="146" />
+        <mark key="]" line="24" column="120" />
+        <mark key="^" line="24" column="120" />
+        <mark key="." line="24" column="120" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1558447654213">
         <mark key="'" line="74" column="94" />
@@ -898,7 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="40" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
       <jump line="29" column="29" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
       <jump line="340" column="59" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
       <jump line="8" column="51" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Mothers/ListCourseRatingRequestMother.cs" />
@@ -998,13 +997,14 @@
       <jump line="185" column="0" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Models/CourseRating/CreateCourseRatingRequestTests.cs" />
       <jump line="23" column="179" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/Resources/ValidationMessages.resx" />
+      <jump line="24" column="79" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Rating.Api.Tests.Models.Resources</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Exception</text>
+        <text>InvalidStringLengthMessage</text>
       </register>
       <register name="d" type="4">
         <text>The {0} value cannot exceed {1} characters.</text>
@@ -1031,7 +1031,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text>InvalidStringLengthMessage</text>
       </register>
       <register name="/" type="4">
         <text>InstructorId</text>
