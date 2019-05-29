@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1559137217197">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="41" />
-        <mark key="^" line="23" column="87" />
-        <mark key="." line="23" column="87" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1559142428373">
+        <mark key="'" line="24" column="179" />
+        <mark key="[" line="24" column="121" />
+        <mark key="]" line="24" column="146" />
+        <mark key="^" line="24" column="146" />
+        <mark key="." line="24" column="146" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1558447654213">
         <mark key="'" line="74" column="94" />
@@ -221,9 +222,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="C:/projects/Rating/Infra/Rating.Exception/Resource/ExceptionMessages.resx" timestamp="1558703329353">
+      <file name="C:/projects/Rating/Infra/Rating.Exception/Resource/ExceptionMessages.resx" timestamp="1559141979448">
         <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
+        <mark key="]" line="145" column="9" />
         <mark key="." line="143" column="0" />
         <mark key="^" line="147" column="23" />
       </file>
@@ -376,7 +377,7 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" timestamp="1558613452622">
         <mark key="'" line="24" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559140406094">
+      <file name="/Dummy.txt" timestamp="1559142574096">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -540,11 +541,15 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="54" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Rating.Api.csproj" timestamp="1558945713382">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="65" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="7" column="56" />
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Models/Resources/ValidationMessages.Designer.cs" timestamp="1559142119874">
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="42" />
+      </file>
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Rating.Api.csproj" timestamp="1559142537332">
+        <mark key="[" line="64" column="27" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="36" />
+        <mark key="^" line="71" column="36" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Domain/Command/CourseRating/CreateCourseRatingCommandTests.cs" timestamp="1558623761688">
         <mark key="'" line="12" column="53" />
@@ -580,6 +585,12 @@
         <mark key="]" line="78" column="91" />
         <mark key="^" line="75" column="11" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Models/Resources/ValidationMessages.resx" timestamp="1559142181492">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/PostgreSqlCollectionFixture.cs" timestamp="1558535366276">
         <mark key="'" line="5" column="12" />
@@ -773,6 +784,10 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/Resources/ValidationMessages.Designer.cs" timestamp="1559142424020">
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="65" column="56" />
+      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Enums/SortOrderEnum.cs" timestamp="1558972952898">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="28" />
@@ -795,6 +810,11 @@
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Aws/StepFunctions/StepFunctionsService.cs" timestamp="1558449038552">
         <mark key="'" line="17" column="21" />
+      </file>
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/Resources/ValidationMessages.resx" timestamp="1559142402015">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="41" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Csv/LrsServiceTests.cs" timestamp="1559054816672">
         <mark key="'" line="17" column="28" />
@@ -878,8 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="15" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Builders/ListCourseRatingRequestBuilder.cs" />
-      <jump line="53" column="25" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Builders/ListCourseRatingRequestBuilder.cs" />
       <jump line="306" column="40" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
       <jump line="29" column="29" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
       <jump line="340" column="59" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
@@ -978,16 +996,18 @@
       <jump line="241" column="8" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Models/CourseRating/CreateCourseRatingRequestTests.cs" />
       <jump line="273" column="0" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Models/CourseRating/CreateCourseRatingRequestTests.cs" />
       <jump line="185" column="0" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Models/CourseRating/CreateCourseRatingRequestTests.cs" />
+      <jump line="23" column="179" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" />
+      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/Resources/ValidationMessages.resx" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>CourseTitle</text>
+        <text>Rating.Api.Tests.Models.Resources</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CreateCourseRatingRequest</text>
+        <text>Exception</text>
       </register>
-      <register name="d" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKSwgbnVsbCldCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VUaXRsZSksICIiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKSwgIiAgIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VUaXRsZSksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKSwgIkFzQyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuQ291cnNlVGl0bGUpLCAiQVNDIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VSZXZpZXcpLCAiYXNjIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VTY29yZSksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZUlkKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuSW5zdHJ1Y3RvcklkKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuSW5zdHJ1Y3Rvck5hbWUpLCAiYXNjIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5MZWFybmVyRG9tYWluKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuTGVhcm5lcklkKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuQ291cnNlQXR0ZW1wdE51bWJlciksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVJlbGVhc2VJZCksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVJlbGVhc2VOdW1iZXIpLCAiYXNjIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5TdWJtaXR0ZWREYXRlVGltZSksICJhc2MiKV0K</text>
+      <register name="d" type="4">
+        <text>The {0} value cannot exceed {1} characters.</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9vbHRpcCAmJiB0b29sdGlwSWQgPwogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJlYWN0VG9vbHRpcCBpZD17dG9vbHRpcElkfSBwbGFjZT0idG9wIiB0eXBlPSJkYXJrIiBlZmZlY3Q9InNvbGlkIiA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3Rvb2x0aXB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L1JlYWN0VG9vbHRpcD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDogbnVsbAogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
@@ -1011,13 +1031,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>InstructorId</text>
       </register>
       <register name="0" type="4">
-        <text>CreateCourseRatingRequest</text>
+        <text>Models\Resources\ValidationMessages</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5Nb2RlbHMuQ291cnNlUmF0aW5nOwo=</text>
@@ -1042,7 +1062,7 @@
         <text encoding="base64">ICAgICAgICAgICAgX3Jlc3VsdCA9IHJlc3VsdDsK</text>
       </register>
       <register name="s" type="4">
-        <text>courseTitle</text>
+        <text>InvalidStringLengthMessage</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
