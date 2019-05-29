@@ -376,8 +376,8 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" timestamp="1558613452622">
         <mark key="'" line="24" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559137017143">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1559140406094">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -604,10 +604,10 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/Pagination/PaginatedQuery.cs" timestamp="1559052556265">
         <mark key="'" line="6" column="49" />
       </file>
-      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Models/CourseRating/CreateCourseRatingRequestTests.cs" timestamp="1559139417805">
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Models/CourseRating/CreateCourseRatingRequestTests.cs" timestamp="1559140402880">
         <mark key="'" line="185" column="0" />
-        <mark key="[" line="198" column="65" />
-        <mark key="]" line="198" column="66" />
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="41" />
         <mark key="^" line="241" column="7" />
         <mark key="." line="198" column="66" />
       </file>
@@ -983,8 +983,8 @@
       <register name="a" type="4">
         <text>CourseTitle</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5Nb2RlbHMuQ291cnNlUmF0aW5nOwo=</text>
+      <register name="&quot;" type="4">
+        <text>CreateCourseRatingRequest</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKSwgbnVsbCldCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VUaXRsZSksICIiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKSwgIiAgIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VUaXRsZSksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVRpdGxlKSwgIkFzQyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuQ291cnNlVGl0bGUpLCAiQVNDIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VSZXZpZXcpLCAiYXNjIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5Db3Vyc2VTY29yZSksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZUlkKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuSW5zdHJ1Y3RvcklkKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuSW5zdHJ1Y3Rvck5hbWUpLCAiYXNjIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5MZWFybmVyRG9tYWluKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuTGVhcm5lcklkKSwgImFzYyIpXQogICAgICAgIFtJbmxpbmVEYXRhKG5hbWVvZihDb3Vyc2VSYXRpbmdJdGVtUmVzcG9uc2UuQ291cnNlQXR0ZW1wdE51bWJlciksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVJlbGVhc2VJZCksICJhc2MiKV0KICAgICAgICBbSW5saW5lRGF0YShuYW1lb2YoQ291cnNlUmF0aW5nSXRlbVJlc3BvbnNlLkNvdXJzZVJlbGVhc2VOdW1iZXIpLCAiYXNjIildCiAgICAgICAgW0lubGluZURhdGEobmFtZW9mKENvdXJzZVJhdGluZ0l0ZW1SZXNwb25zZS5TdWJtaXR0ZWREYXRlVGltZSksICJhc2MiKV0K</text>
@@ -1016,8 +1016,8 @@
       <register name="/" type="4">
         <text>InstructorId</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBUb3RhbEluc3RydWN0b3JJZE5lZ2F0aXZlX01vZGVsU3RhdGVJbnZhbGlkKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgaW50IGluc3RydWN0b3JJZCA9IFJhbmRvbUhlbHBlci5OZXdOZWdhdGl2ZUludCgpOwogICAgICAgICAgICB2YXIgbW9kZWwgPSBDcmVhdGVDb3Vyc2VSYXRpbmdSZXF1ZXN0TW90aGVyLkNyZWF0ZSgpLldpdGhJbnN0cnVjdG9ySWQoaW5zdHJ1Y3RvcklkKS5CdWlsZCgpOwogICAgICAgICAgICB2YXIgY29udGV4dCA9IG5ldyBWYWxpZGF0aW9uQ29udGV4dChtb2RlbCk7CgogICAgICAgICAgICAvLyBBY3QKICAgICAgICAgICAgYm9vbCBtb2RlbFN0YXRlVmFsaWQgPSBWYWxpZGF0b3IuVHJ5VmFsaWRhdGVPYmplY3QobW9kZWwsIGNvbnRleHQsIF9yZXN1bHQsIHRydWUpOwoKICAgICAgICAgICAgLy8gQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5GYWxzZShtb2RlbFN0YXRlVmFsaWQpOwogICAgICAgICAgICBBc3NlcnQuQ29udGFpbnMoX3Jlc3VsdCwgeCA9PiB4Lk1lbWJlck5hbWVzLkFueShtID0+IG0gPT0gbmFtZW9mKG1vZGVsLkluc3RydWN0b3JJZCkpKTsKICAgICAgICB9CgogICAgICAgIFtGYWN0XQogICAgICAgIHB1YmxpYyB2b2lkIFRvdGFsSW5zdHJ1Y3RvcklkWmVyb19Nb2RlbFN0YXRlSW52YWxpZCgpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIGludCBpbnN0cnVjdG9ySWQgPSAwOwogICAgICAgICAgICB2YXIgbW9kZWwgPSBDcmVhdGVDb3Vyc2VSYXRpbmdSZXF1ZXN0TW90aGVyLkNyZWF0ZSgpLldpdGhJbnN0cnVjdG9ySWQoaW5zdHJ1Y3RvcklkKS5CdWlsZCgpOwogICAgICAgICAgICB2YXIgY29udGV4dCA9IG5ldyBWYWxpZGF0aW9uQ29udGV4dChtb2RlbCk7CgogICAgICAgICAgICAvLyBBY3QKICAgICAgICAgICAgYm9vbCBtb2RlbFN0YXRlVmFsaWQgPSBWYWxpZGF0b3IuVHJ5VmFsaWRhdGVPYmplY3QobW9kZWwsIGNvbnRleHQsIF9yZXN1bHQsIHRydWUpOwoKICAgICAgICAgICAgLy8gQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5GYWxzZShtb2RlbFN0YXRlVmFsaWQpOwogICAgICAgICAgICBBc3NlcnQuQ29udGFpbnMoX3Jlc3VsdCwgeCA9PiB4Lk1lbWJlck5hbWVzLkFueShtID0+IG0gPT0gbmFtZW9mKG1vZGVsLkluc3RydWN0b3JJZCkpKTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>CreateCourseRatingRequest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5Nb2RlbHMuQ291cnNlUmF0aW5nOwo=</text>
