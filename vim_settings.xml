@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1559142832960">
-        <mark key="'" line="24" column="79" />
-        <mark key="[" line="24" column="121" />
-        <mark key="]" line="24" column="120" />
-        <mark key="^" line="24" column="120" />
-        <mark key="." line="24" column="120" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1559143877727">
+        <mark key="'" line="9" column="79" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="29" column="90" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" timestamp="1558447654213">
         <mark key="'" line="74" column="94" />
@@ -377,10 +377,10 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" timestamp="1558613452622">
         <mark key="'" line="24" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559142574096">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1559144124928">
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" timestamp="1558600569632">
         <mark key="'" line="13" column="65" />
@@ -498,7 +498,7 @@
         <mark key="^" line="69" column="69" />
         <mark key="." line="80" column="70" />
       </file>
-      <file name="/Dummy.cs" timestamp="1559051407631">
+      <file name="/Dummy.cs" timestamp="1559143988710">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="0" />
@@ -1003,8 +1003,8 @@
       <register name="a" type="4">
         <text>Rating.Api.Tests.Models.Resources</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>InvalidStringLengthMessage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5Nb2RlbHM7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>The {0} value cannot exceed {1} characters.</text>
@@ -1031,16 +1031,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>InvalidStringLengthMessage</text>
+        <text>&quot;InvalidStringLengthMessage&quot;</text>
       </register>
       <register name="/" type="4">
         <text>InstructorId</text>
       </register>
       <register name="0" type="4">
-        <text>Models\Resources\ValidationMessages</text>
+        <text>ErrorMessageResourceType = typeof(Rating.Api.Models.Resources.ValidationMessages), ErrorMessageResourceName = &quot;InvalidStringLengthMessage&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5Nb2RlbHMuQ291cnNlUmF0aW5nOwo=</text>
+        <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5Nb2RlbHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1053,28 +1053,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5Nb2RlbHMuQ291cnNlUmF0aW5nOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Jlc3VsdCA9IHJlc3VsdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>InvalidStringLengthMessage</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Jlc3VsdCA9IHJlc3VsdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJlbGVhc2VJZCA9IFJhbmRvbUhlbHBlci5OZXdTdHJpbmcoInJlbGVhc2UtaWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJlbGVhc2VJZCA9IFJhbmRvbUhlbHBlci5OZXdTdHJpbmcoInJlbGVhc2UtaWQiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFPYmplY3RJZC5UcnlQYXJzZShjb3Vyc2VSZWxlYXNlSWQsIG91dCBfKSkgdGhyb3cgbmV3IEFyZ3VtZW50RXhjZXB0aW9uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1088,10 +1088,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQXBwT3B0aW9uIFZhbHVlIHsgZ2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFPYmplY3RJZC5UcnlQYXJzZShjb3Vyc2VSZWxlYXNlSWQsIG91dCBfKSkgdGhyb3cgbmV3IEFyZ3VtZW50RXhjZXB0aW9uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWlyYnJha2VPcHRpb24gQWlyYnJha2UgeyBnZXQ7IHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQXBwT3B0aW9uIFZhbHVlIHsgZ2V0OyB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
