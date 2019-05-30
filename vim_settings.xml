@@ -185,6 +185,11 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Domain/Queries/Pagination/SortedQueryTests.cs" timestamp="1559052980258">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/QueryHandlerBase.cs" timestamp="1558104345434">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -520,10 +525,10 @@
         <mark key="." line="44" column="30" />
         <mark key="^" line="44" column="30" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/ILrsService.cs" timestamp="1558703801743">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="35" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/ILrsService.cs" timestamp="1559229905500">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="9" column="35" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Middlewares/CyberUExceptionMiddleware.cs" timestamp="1559220440873">
@@ -658,12 +663,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/26/e1df5f3d/HttpHeaders.cs" timestamp="1558605528836">
         <mark key="'" line="777" column="57" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1559134538784">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1559229898090">
         <mark key="'" line="42" column="36" />
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="42" />
-        <mark key="." line="42" column="42" />
-        <mark key="^" line="42" column="42" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
+        <mark key="^" line="37" column="15" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Exception/Base/CyberUSecurityException.cs" timestamp="1559210400973">
         <mark key="'" line="22" column="67" />
@@ -894,11 +899,10 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="19" column="36" />
       </file>
-      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Lrs/LrsServiceTests.cs" timestamp="1559135303906">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="67" column="71" />
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Lrs/LrsServiceTests.cs" timestamp="1559229926697">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Aws/StepFunctions/Configuration/StepFunctionsServiceOption.cs" timestamp="1558449040551">
         <mark key="'" line="2" column="17" />
@@ -1020,7 +1024,7 @@
         <text>_loggerFactory.CreateLogger(typeof(Startup))</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZWFkRnJvbS5Db25maWd1cmF0aW9uKGNvbmZpZ3VyYXRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>The {0} value cannot exceed {1} characters.</text>
@@ -1048,7 +1052,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(context, configuration</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>adddom</text>
@@ -1057,7 +1061,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <text>ILoggerFactory loggerFactory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZWFkRnJvbS5Db25maWd1cmF0aW9uKGNvbmZpZ3VyYXRpb24pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1070,28 +1074,28 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBHZXRUcmFuc2NyaXB0X0F1dGhWYWx1ZUVtcHR5X1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvbigpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIHN0cmluZyBjb3Vyc2VSZWxlYXNlSWQgPSBPYmplY3RJZC5HZW5lcmF0ZU5ld0lkKCkuVG9TdHJpbmcoKTsKICAgICAgICAgICAgQXV0aGVudGljYXRpb25IZWFkZXJWYWx1ZSBhdXRoVmFsdWUgPSBudWxsOwogICAgICAgICAgICB2YXIgc2VydmljZSA9IG5ldyBMcnNTZXJ2aWNlKF9odHRwQ2xpZW50TW9jay5PYmplY3QpOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBhd2FpdCBBc3NlcnQuVGhyb3dzQXN5bmM8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PgogICAgICAgICAgICAgICAgc2VydmljZS5HZXRUcmFuc2NyaXB0KGNvdXJzZVJlbGVhc2VJZCwgYXV0aFZhbHVlLCBDYW5jZWxsYXRpb25Ub2tlbi5Ob25lKSk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbChuYW1lb2YoYXV0aFZhbHVlKSwgZXhjZXB0aW9uLk1lc3NhZ2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbmZpZ3VyYXRpb24gPSBuZXcgQ29uZmlndXJhdGlvbkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLlNldEJhc2VQYXRoKERpcmVjdG9yeS5HZXRDdXJyZW50RGlyZWN0b3J5KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5BZGRKc29uRmlsZSgiYXBwc2V0dGluZ3MuanNvbiIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5BZGRKc29uRmlsZSgiYXBwc2V0dGluZ3MuTG9jYWwuanNvbiIsIG9wdGlvbmFsOiB0cnVlKQogICAgICAgICAgICAgICAgICAgICAgICAuQnVpbGQoKTsKCiAgICAgICAgICAgIExvZy5Mb2dnZXIgPSBuZXcgTG9nZ2VyQ29uZmlndXJhdGlvbigpCiAgICAgICAgICAgICAgICAuRW5yaWNoLkZyb21Mb2dDb250ZXh0KCkKICAgICAgICAgICAgICAgIC5SZWFkRnJvbS5Db25maWd1cmF0aW9uKGNvbmZpZ3VyYXRpb24pCiAgICAgICAgICAgICAgICAuQ3JlYXRlTG9nZ2VyKCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>typeof(Startup).Assembly</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5Vc2VTZXJpbG9nKExvZy5Mb2dnZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZWFkRnJvbS5Db25maWd1cmF0aW9uKGNvbmZpZ3VyYXRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBHZXRUcmFuc2NyaXB0X0NvdXJzZVJlbGVhc2VJZEVtcHR5X1Rocm93c0FyZ3VtZW50RXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJlbGVhc2VJZCA9ICIiOwogICAgICAgICAgICB2YXIgc2VydmljZSA9IG5ldyBMcnNTZXJ2aWNlKF9odHRwQ2xpZW50TW9jay5PYmplY3QpOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBhd2FpdCBBc3NlcnQuVGhyb3dzQXN5bmM8QXJndW1lbnRFeGNlcHRpb24+KCgpID0+CiAgICAgICAgICAgICAgICBzZXJ2aWNlLkdldFRyYW5zY3JpcHQoY291cnNlUmVsZWFzZUlkLCBfYXV0aFZhbHVlLCBDYW5jZWxsYXRpb25Ub2tlbi5Ob25lKSk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbChuYW1lb2YoY291cnNlUmVsZWFzZUlkKSwgZXhjZXB0aW9uLk1lc3NhZ2UpOwogICAgICAgIH0KCiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2sgR2V0VHJhbnNjcmlwdF9Db3Vyc2VSZWxlYXNlSWROdWxsX1Rocm93c0FyZ3VtZW50RXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgc3RyaW5nIGNvdXJzZVJlbGVhc2VJZCA9IG51bGw7CiAgICAgICAgICAgIHZhciBzZXJ2aWNlID0gbmV3IExyc1NlcnZpY2UoX2h0dHBDbGllbnRNb2NrLk9iamVjdCk7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IGF3YWl0IEFzc2VydC5UaHJvd3NBc3luYzxBcmd1bWVudEV4Y2VwdGlvbj4oKCkgPT4KICAgICAgICAgICAgICAgIHNlcnZpY2UuR2V0VHJhbnNjcmlwdChjb3Vyc2VSZWxlYXNlSWQsIF9hdXRoVmFsdWUsIENhbmNlbGxhdGlvblRva2VuLk5vbmUpKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKG5hbWVvZihjb3Vyc2VSZWxlYXNlSWQpLCBleGNlcHRpb24uTWVzc2FnZSk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KGNvbnRleHQsIGNvbmZpZ3VyYXRpb24pID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgY29uZmlndXJhdGlvbgogICAgICAgICAgICAgICAgICAgICAgICAuRW5yaWNoLkZyb21Mb2dDb250ZXh0KCkKICAgICAgICAgICAgICAgICAgICAgICAgLlJlYWRGcm9tLkNvbmZpZ3VyYXRpb24oY29udGV4dC5Db25maWd1cmF0aW9uKTsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgVGFzazxHZXRUcmFuc2NyaXB0UmVzcG9uc2U+IEdldFRyYW5zY3JpcHQoCiAgICAgICAgICAgIHN0cmluZyBjb3Vyc2VSZWxlYXNlSWQsCiAgICAgICAgICAgIEF1dGhlbnRpY2F0aW9uSGVhZGVyVmFsdWUgYXV0aFZhbHVlLAogICAgICAgICAgICBDYW5jZWxsYXRpb25Ub2tlbiBjYW5jZWxsYXRpb25Ub2tlbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5SZWFkRnJvbS5Db25maWd1cmF0aW9uKGNvbmZpZ3VyYXRpb24pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1105,10 +1109,10 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dEZWJ1ZygiQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUEiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLklPOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbmZpZ3VyYXRpb24gPSBuZXcgQ29uZmlndXJhdGlvbkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLlNldEJhc2VQYXRoKERpcmVjdG9yeS5HZXRDdXJyZW50RGlyZWN0b3J5KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5BZGRKc29uRmlsZSgiYXBwc2V0dGluZ3MuanNvbiIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5BZGRKc29uRmlsZSgiYXBwc2V0dGluZ3MuTG9jYWwuanNvbiIsIG9wdGlvbmFsOiB0cnVlKQogICAgICAgICAgICAgICAgICAgICAgICAuQnVpbGQoKTsKCiAgICAgICAgICAgIExvZy5Mb2dnZXIgPSBuZXcgTG9nZ2VyQ29uZmlndXJhdGlvbigpCiAgICAgICAgICAgICAgICAuRW5yaWNoLkZyb21Mb2dDb250ZXh0KCkKICAgICAgICAgICAgICAgIC5SZWFkRnJvbS5Db25maWd1cmF0aW9uKGNvbmZpZ3VyYXRpb24pCiAgICAgICAgICAgICAgICAuQ3JlYXRlTG9nZ2VyKCk7Cgo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
