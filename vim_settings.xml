@@ -49,12 +49,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/04/1de39ecd/HttpClient.cs" timestamp="1558605664068">
         <mark key="'" line="159" column="47" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" timestamp="1559225228006">
-        <mark key="'" line="87" column="25" />
-        <mark key="[" line="32" column="78" />
-        <mark key="]" line="32" column="105" />
-        <mark key="." line="87" column="98" />
-        <mark key="^" line="87" column="98" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" timestamp="1559226571195">
+        <mark key="'" line="89" column="27" />
+        <mark key="[" line="89" column="57" />
+        <mark key="]" line="89" column="57" />
+        <mark key="." line="89" column="57" />
+        <mark key="^" line="89" column="57" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data/Mappings/CourseRatingMap.cs" timestamp="1558510324920">
         <mark key="'" line="36" column="44" />
@@ -857,8 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="56" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Domain/Queries/CourseRating/ListB2bRegistrationQueryHandlerTests.cs" />
-      <jump line="12" column="17" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Csv/LrsServiceTests.cs" />
       <jump line="16" column="28" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Csv/LrsServiceTests.cs" />
       <jump line="23" column="40" filename="C:/projects/Rating/Web/API/src/Rating.Api/Filters/CyberUExceptionFilter.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8CD3C90B-00D6-4522-9355-CB8AA812DE98/d1/f28bd65d/IOptions`1.cs" />
@@ -955,15 +953,17 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/5a/c058927c/ValueTuple`2.cs" />
       <jump line="68" column="40" filename="C:/projects/Rating/Infra/Rating.Domain/DependencyInjection/DomainExtensions.cs" />
       <jump line="37" column="53" filename="C:/projects/Rating/Infra/Rating.Domain/DependencyInjection/DomainExtensions.cs" />
+      <jump line="110" column="24" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
+      <jump line="87" column="21" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
+      <jump line="90" column="27" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Infra/Rating.Domain/DependencyInjection/DomainExtensions.cs" />
-      <jump line="87" column="25" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1vY2s8SUxvZ2dlcjxDeWJlclVFeGNlcHRpb25GaWx0ZXI+PiBfbG9nZ2VyOwo=</text>
+      <register name="a" type="4">
+        <text>_loggerFactory.CreateLogger(typeof(Startup))</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ILoggerFactory loggerFactory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvZ2dlciA9IF9sb2dnZXJGYWN0b3J5LkNyZWF0ZUxvZ2dlcih0eXBlb2YoU3RhcnR1cCkpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>The {0} value cannot exceed {1} characters.</text>
@@ -991,16 +991,16 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Factory</text>
       </register>
       <register name="/" type="4">
-        <text>_airbrakeOptionsMock.Object</text>
+        <text>adddom</text>
       </register>
       <register name="0" type="4">
         <text>ILoggerFactory loggerFactory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvZ2dlciA9IF9sb2dnZXJGYWN0b3J5LkNyZWF0ZUxvZ2dlcih0eXBlb2YoU3RhcnR1cCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1013,28 +1013,28 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElMb2dnZXJGYWN0b3J5IF9sb2dnZXJGYWN0b3J5Owo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaCAoaGFuZGxlci5pbnRlcmZhY2VUeXBlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGNhc2UgdHlwZW9mKElDb21tYW5kSGFuZGxlcjw+KTogCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvZ2dlciA9IF9sb2dnZXJGYWN0b3J5LkNyZWF0ZUxvZ2dlcih0eXBlb2YoU3RhcnR1cCkpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>typeof(Startup).Assembly</text>
       </register>
       <register name="4" type="4">
-        <text>typeof(Startup).Assembly</text>
+        <text>_loggerFactory.CreateLogger(typeof(Startup))</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuSHR0cDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaCAoaGFuZGxlci5pbnRlcmZhY2VUeXBlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGNhc2UgdHlwZW9mKElDb21tYW5kSGFuZGxlcjw+KTogCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1047,23 +1047,23 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5GaWx0ZXJzOwo=</text>
+      <register name="8" type="4">
+        <text>typeof(Startup).Assembly</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FpcmJyYWtlT3B0aW9uc01vY2suU2V0dXBHZXQoeCA9PiB4LlZhbHVlKS5SZXR1cm5zKG5ldyBBaXJicmFrZU9wdGlvbigpKTsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
-      <last-search>_airbrakeOptionsMock.Object</last-search>
+      <last-search>adddom</last-search>
       <last-offset />
-      <last-pattern>_airbrakeOptionsMock.Object</last-pattern>
+      <last-pattern>adddom</last-pattern>
       <last-replace>_airbrakeOptionsMock.Object, _logger.Object</last-replace>
       <last-substitute>_airbrakeOptionsMock.Object</last-substitute>
       <last-dir>1</last-dir>
@@ -1071,7 +1071,6 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
     </search>
     <history>
       <history-search>
-        <entry>registrationDomain</entry>
         <entry encoding="base64">XDxjbGllbnROYW1lMVw+</entry>
         <entry>v2\/domains</entry>
         <entry>date</entry>
@@ -1091,9 +1090,9 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <entry encoding="base64">XDxDcmVhdGVSZXNwb25zZUZyb21FeGNlcHRpb25cPg==</entry>
         <entry>airbr</entry>
         <entry>_airbrakeOptionsMock.Object</entry>
+        <entry>adddom</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Request/Query/g</entry>
         <entry>%s/B2bRegistration/CourseRating/g</entry>
         <entry>%s/Accounting/Rating/g</entry>
         <entry>%s/, _paymentContextMock.Object//g</entry>
@@ -1113,6 +1112,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <entry>%s/_airbrakeOptionsMock.Object/_airbrakeOptionsMock.Object, _logger.Object/g</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
