@@ -446,12 +446,12 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="54" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" timestamp="1559563070386">
-        <mark key="'" line="111" column="41" />
-        <mark key="[" line="90" column="44" />
-        <mark key="]" line="90" column="45" />
-        <mark key="^" line="89" column="44" />
-        <mark key="." line="90" column="45" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" timestamp="1559635152062">
+        <mark key="'" line="103" column="23" />
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="23" />
+        <mark key="^" line="103" column="23" />
+        <mark key="." line="103" column="23" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Rating.Api.csproj" timestamp="1559142537332">
         <mark key="[" line="64" column="27" />
@@ -755,8 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="18" filename="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Models/CourseRating/ListCourseRatingRequestTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/GetCourseProgressionResponse.cs" />
       <jump line="30" column="69" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQueryHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQuery.cs" />
       <jump line="32" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQueryHandler.cs" />
@@ -855,13 +853,15 @@
       <jump line="93" column="43" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" />
       <jump line="53" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQueryHandler.cs" />
       <jump line="88" column="41" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" />
+      <jump line="86" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" />
+      <jump line="103" column="23" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>CourseMother.CreateWithOneVideoActivity()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>True</text>
       </register>
       <register name="d" type="4">
         <text>The {0} value cannot exceed {1} characters.</text>
@@ -889,16 +889,16 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>_processor.Object</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBFeGVjdXRlX1RvdGFsV2F0Y2hlZER1cmF0aW9uTW9yZVRoZW5SZXF1aXJlZEZvclJldmlld19SZXR1cm5zSXNSZXZpZXdBbGxvd2VkVHJ1ZSgpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIENvdXJzZSBjb3Vyc2UgPSBDb3Vyc2VNb3RoZXIKICAgICAgICAgICAgICAgIC5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllc1dhdGNoZWQoCiAgICAgICAgICAgICAgICAgICAgKGR1cmF0aW9uOiAxMDAsIHdhdGNoZWQ6IDUwKSwKICAgICAgICAgICAgICAgICAgICAoZHVyYXRpb246IDEwMCwgd2F0Y2hlZDogNTApKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CgogICAgICAgICAgICBhd2FpdCBQZXJzaXN0Q291cnNlKGNvdXJzZSk7CgogICAgICAgICAgICB2YXIgaGFuZGxlciA9IG5ldyBHZXRDb3Vyc2VRdWVyeUhhbmRsZXIoX2xyc0RiQ29udGV4dCwgX2FpY2NTZXJ2aWNlTW9jay5PYmplY3QsIF9wcm9jZXNzb3IpOwogICAgICAgICAgICB2YXIgcXVlcnkgPSBuZXcgR2V0Q291cnNlUXVlcnkoY291cnNlLlJlbGVhc2VJZCwgY291cnNlLlVzZXJJZCk7CgogICAgICAgICAgICAvLyBBY3QKICAgICAgICAgICAgYXdhaXQgaGFuZGxlci5FeGVjdXRlQXN5bmMocXVlcnksIENhbmNlbGxhdGlvblRva2VuLk5vbmUpOwoKICAgICAgICAgICAgLy8gQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5Ob3ROdWxsKHF1ZXJ5LlJlc3VsdCk7CiAgICAgICAgICAgIEFzc2VydC5UcnVlKHF1ZXJ5LlJlc3VsdC5Jc1Jldmlld0FsbG93ZWQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2sgRXhlY3V0ZV9Ub3RhbFdhdGNoZWREdXJhdGlvbkVxdWFsc1JlcXVpcmVkRm9yUmV2aWV3X1JldHVybnNJc1Jldmlld0FsbG93ZWRUcnVlKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlcgogICAgICAgICAgICAgICAgLkNyZWF0ZVdpdGhOVmlkZW9BY3Rpdml0aWVzV2F0Y2hlZCgKICAgICAgICAgICAgICAgICAgICAoZHVyYXRpb246IDUwLCB3YXRjaGVkOiAxMCksCiAgICAgICAgICAgICAgICAgICAgKGR1cmF0aW9uOiA1MCwgd2F0Y2hlZDogMTUpKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CgogICAgICAgICAgICBhd2FpdCBQZXJzaXN0Q291cnNlKGNvdXJzZSk7CgogICAgICAgICAgICB2YXIgaGFuZGxlciA9IG5ldyBHZXRDb3Vyc2VRdWVyeUhhbmRsZXIoX2xyc0RiQ29udGV4dCwgX2FpY2NTZXJ2aWNlTW9jay5PYmplY3QsIF9wcm9jZXNzb3IpOwogICAgICAgICAgICB2YXIgcXVlcnkgPSBuZXcgR2V0Q291cnNlUXVlcnkoY291cnNlLlJlbGVhc2VJZCwgY291cnNlLlVzZXJJZCk7CgogICAgICAgICAgICAvLyBBY3QKICAgICAgICAgICAgYXdhaXQgaGFuZGxlci5FeGVjdXRlQXN5bmMocXVlcnksIENhbmNlbGxhdGlvblRva2VuLk5vbmUpOwoKICAgICAgICAgICAgLy8gQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5Ob3ROdWxsKHF1ZXJ5LlJlc3VsdCk7CiAgICAgICAgICAgIEFzc2VydC5UcnVlKHF1ZXJ5LlJlc3VsdC5Jc1Jldmlld0FsbG93ZWQpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSg1MCwgMCldCiAgICAgICAgW0lubGluZURhdGEoNTAsIDApXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -933,28 +933,28 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGFjdGl2aXR5RHVyYXRpb24sCg==</text>
+        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSg1MCwgMCldCiAgICAgICAgW0lubGluZURhdGEoNTAsIDApXQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuUmVzdWx0LkNvdXJzZQogICAgICAgICAgICAgICAgLlNob3VsZCgpCiAgICAgICAgICAgICAgICAuQmVFcXVpdmFsZW50VG8oCiAgICAgICAgICAgICAgICAgICAgY291cnNlLAogICAgICAgICAgICAgICAgICAgIG9wdGlvbiA9PiBvcHRpb24uRXhjbHVkaW5nKHggPT4geC5DcmVhdGVkKS5FeGNsdWRpbmcoeCA9PiB4LlVwZGF0ZWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGFjdGl2aXR5RHVyYXRpb24sCg==</text>
       </register>
       <register name="s" type="4">
         <text>typeof(Startup).Assembly</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkuUmVzdWx0LkNvdXJzZQogICAgICAgICAgICAgICAgLlNob3VsZCgpCiAgICAgICAgICAgICAgICAuQmVFcXVpdmFsZW50VG8oCiAgICAgICAgICAgICAgICAgICAgY291cnNlLAogICAgICAgICAgICAgICAgICAgIG9wdGlvbiA9PiBvcHRpb24uRXhjbHVkaW5nKHggPT4geC5DcmVhdGVkKS5FeGNsdWRpbmcoeCA9PiB4LlVwZGF0ZWQpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBHZXRfV2F0Y2hlZER1cmF0aW9uU3VmZmljaWVudEZvclJldmlld19SZXR1cm5zSXNSZXZpZXdBbGxvd2VkVHJ1ZSgpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIEdldENvdXJzZVF1ZXJ5UmVzdWx0IHF1ZXJ5UmVzdWx0ID0gR2V0Q291cnNlUXVlcnlSZXN1bHRNb3RoZXIKICAgICAgICAgICAgICAgIC5DcmVhdGUoKQogICAgICAgICAgICAgICAgLldpdGhDb3Vyc2UoQ291cnNlTW90aGVyLkNyZWF0ZVdpdGhPbmVWaWRlb0FjdGl2aXR5KCkpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsKCiAgICAgICAgICAgIF9wcm9jZXNzb3IuU2V0dXBFeGVjdXRlUXVlcnkocXVlcnlSZXN1bHQpOwogICAgICAgICAgICBDb3Vyc2UgY291cnNlID0gcXVlcnlSZXN1bHQuQ291cnNlOwoKICAgICAgICAgICAgdmFyIGNvbnRyb2xsZXIgPSBuZXcgQ291cnNlQ29udHJvbGxlcihfcHJvY2Vzc29yLk9iamVjdCk7CiAgICAgICAgICAgIGNvbnRyb2xsZXIuU2V0VXNlcigpOwoKICAgICAgICAgICAgdmFyIG1vZGVsID0gbmV3IEdldENvdXJzZVByb2dyZXNzaW9uUmVxdWVzdAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb3Vyc2VSZWxlYXNlSWQgPSBjb3Vyc2UuUmVsZWFzZUlkCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIEFpY2NSZWFkT25seVJlcXVlc3QgYWljY1JlcXVlc3QgPSBudWxsOwoKICAgICAgICAgICAgLy8gQWN0CiAgICAgICAgICAgIElBY3Rpb25SZXN1bHQgcmVzcG9uc2UgPSBhd2FpdCBjb250cm9sbGVyLkdldChtb2RlbCwgYWljY1JlcXVlc3QsIENhbmNlbGxhdGlvblRva2VuLk5vbmUpOwoKICAgICAgICAgICAgLy8gQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5Jc1R5cGU8T2tPYmplY3RSZXN1bHQ+KHJlc3BvbnNlKTsKICAgICAgICAgICAgX3Byb2Nlc3Nvci5WZXJpZnkoeCA9PiB4LkV4ZWN1dGVRdWVyeUFzeW5jKEl0LklzQW55PEdldENvdXJzZVF1ZXJ5PigpLCBJdC5Jc0FueTxDYW5jZWxsYXRpb25Ub2tlbj4oKSksIFRpbWVzLk9uY2UpOwogICAgICAgICAgICBfcHJvY2Vzc29yLlZlcmlmeU5vT3RoZXJDYWxscygpOwogICAgICAgICAgICB2YXIgcmVzdWx0ID0gKHJlc3BvbnNlIGFzIE9rT2JqZWN0UmVzdWx0KS5WYWx1ZSBhcyBHZXRDb3Vyc2VQcm9ncmVzc2lvblJlc3BvbnNlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBHZXRfV2F0Y2hlZER1cmF0aW9uU3VmZmljaWVudEZvclJldmlld19SZXR1cm5zSXNSZXZpZXdBbGxvd2VkVHJ1ZSgpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIEdldENvdXJzZVF1ZXJ5UmVzdWx0IHF1ZXJ5UmVzdWx0ID0gR2V0Q291cnNlUXVlcnlSZXN1bHRNb3RoZXIKICAgICAgICAgICAgICAgIC5DcmVhdGUoKQogICAgICAgICAgICAgICAgLldpdGhDb3Vyc2UoQ291cnNlTW90aGVyLkNyZWF0ZVdpdGhPbmVWaWRlb0FjdGl2aXR5KCkpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsKCiAgICAgICAgICAgIF9wcm9jZXNzb3IuU2V0dXBFeGVjdXRlUXVlcnkocXVlcnlSZXN1bHQpOwogICAgICAgICAgICBDb3Vyc2UgY291cnNlID0gcXVlcnlSZXN1bHQuQ291cnNlOwoKICAgICAgICAgICAgdmFyIGNvbnRyb2xsZXIgPSBuZXcgQ291cnNlQ29udHJvbGxlcihfcHJvY2Vzc29yLk9iamVjdCk7CiAgICAgICAgICAgIGNvbnRyb2xsZXIuU2V0VXNlcigpOwoKICAgICAgICAgICAgdmFyIG1vZGVsID0gbmV3IEdldENvdXJzZVByb2dyZXNzaW9uUmVxdWVzdAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb3Vyc2VSZWxlYXNlSWQgPSBjb3Vyc2UuUmVsZWFzZUlkCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIEFpY2NSZWFkT25seVJlcXVlc3QgYWljY1JlcXVlc3QgPSBudWxsOwoKICAgICAgICAgICAgLy8gQWN0CiAgICAgICAgICAgIElBY3Rpb25SZXN1bHQgcmVzcG9uc2UgPSBhd2FpdCBjb250cm9sbGVyLkdldChtb2RlbCwgYWljY1JlcXVlc3QsIENhbmNlbGxhdGlvblRva2VuLk5vbmUpOwoKICAgICAgICAgICAgLy8gQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5Jc1R5cGU8T2tPYmplY3RSZXN1bHQ+KHJlc3BvbnNlKTsKICAgICAgICAgICAgX3Byb2Nlc3Nvci5WZXJpZnkoeCA9PiB4LkV4ZWN1dGVRdWVyeUFzeW5jKEl0LklzQW55PEdldENvdXJzZVF1ZXJ5PigpLCBJdC5Jc0FueTxDYW5jZWxsYXRpb25Ub2tlbj4oKSksIFRpbWVzLk9uY2UpOwogICAgICAgICAgICBfcHJvY2Vzc29yLlZlcmlmeU5vT3RoZXJDYWxscygpOwogICAgICAgICAgICB2YXIgcmVzdWx0ID0gKHJlc3BvbnNlIGFzIE9rT2JqZWN0UmVzdWx0KS5WYWx1ZSBhcyBHZXRDb3Vyc2VQcm9ncmVzc2lvblJlc3BvbnNlOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -968,10 +968,10 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWN0aXZpdHlCdWlsZGVyIENvbXBsZXRlZCgpCiAgICAgICAgewogICAgICAgICAgICBfaXNDb21wbGV0ZWQgPSB0cnVlOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGFjdGl2aXRpZXNUb3RhbER1cmF0aW9uLAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQWN0aXZpdHlCdWlsZGVyIENvbXBsZXRlZCgpCiAgICAgICAgewogICAgICAgICAgICBfaXNDb21wbGV0ZWQgPSB0cnVlOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
