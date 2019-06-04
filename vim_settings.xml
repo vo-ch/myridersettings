@@ -10,6 +10,12 @@
         <mark key="." line="42" column="16" />
         <mark key="^" line="42" column="24" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Activity/V2/SaveActivityProgressionResponse.cs" timestamp="1559652243009">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="56" />
+        <mark key="." line="18" column="56" />
+        <mark key="^" line="18" column="56" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/CourseController.cs" timestamp="1559645678840">
         <mark key="'" line="85" column="70" />
         <mark key="[" line="76" column="30" />
@@ -120,6 +126,13 @@
         <mark key="]" line="11" column="93" />
         <mark key="." line="11" column="93" />
         <mark key="^" line="11" column="93" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" timestamp="1559652510748">
+        <mark key="'" line="222" column="25" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="204" column="12" />
+        <mark key="^" line="204" column="12" />
+        <mark key="." line="204" column="12" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/QueryHandlerBase.cs" timestamp="1558104345434">
         <mark key="[" line="18" column="0" />
@@ -307,10 +320,10 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1559645318299">
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1559652760541">
         <mark key="'" line="20" column="81" />
-        <mark key="[" line="77" column="33" />
-        <mark key="]" line="77" column="66" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="204" column="9" />
         <mark key="^" line="77" column="49" />
         <mark key="." line="77" column="49" />
       </file>
@@ -345,10 +358,10 @@
         <mark key="." line="139" column="74" />
         <mark key="^" line="139" column="74" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" timestamp="1559650604227">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" timestamp="1559652154584">
         <mark key="'" line="59" column="51" />
-        <mark key="[" line="486" column="0" />
-        <mark key="]" line="486" column="101" />
+        <mark key="[" line="480" column="42" />
+        <mark key="]" line="480" column="113" />
         <mark key="^" line="59" column="114" />
         <mark key="." line="59" column="114" />
       </file>
@@ -504,12 +517,6 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQueryHandler.cs" timestamp="1559645140805">
-        <mark key="'" line="57" column="42" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="134" column="9" />
-        <mark key="." line="135" column="0" />
-      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/appsettings.json" timestamp="1558452001194">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="81" />
@@ -527,11 +534,12 @@
         <mark key="[" line="50" column="30" />
         <mark key="]" line="50" column="59" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" timestamp="1559651566444">
-        <mark key="[" line="50" column="73" />
-        <mark key="]" line="51" column="69" />
-        <mark key="." line="51" column="69" />
-        <mark key="^" line="51" column="69" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" timestamp="1559652839789">
+        <mark key="'" line="42" column="39" />
+        <mark key="[" line="70" column="20" />
+        <mark key="]" line="70" column="21" />
+        <mark key="^" line="70" column="19" />
+        <mark key="." line="70" column="21" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CommandHandlerBase.cs" timestamp="1558104354843">
         <mark key="[" line="13" column="34" />
@@ -565,22 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="40" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQuery.cs" />
-      <jump line="49" column="34" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="87" column="76" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommand.cs" />
-      <jump line="89" column="48" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="13" column="20" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQueryHandler - Copy.cs" />
-      <jump line="24" column="101" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetIsReviewAllowedQueryHandler.cs" />
-      <jump line="25" column="59" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetIsReviewAllowedQueryHandler.cs" />
-      <jump line="12" column="43" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetIsReviewAllowedQueryHandler.cs" />
-      <jump line="122" column="43" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/CalculateCourseCompletionCommand.cs" />
-      <jump line="120" column="53" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Data/Models/Course.cs" />
-      <jump line="24" column="29" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/CalculateCourseCompletionCommandHandler.cs" />
-      <jump line="21" column="47" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/CalculateCourseCompletionCommandHandler.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87659507-08DA-4A8B-B09D-0AF635B34DC8/ed/d1468104/DeepClonerExtensions.cs" />
       <jump line="9" column="85" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommand.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Quiz/V2/CompleteQuizResponse.cs" />
       <jump line="7" column="62" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommand.cs" />
@@ -641,7 +633,6 @@
       <jump line="122" column="33" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" />
       <jump line="24" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandResult.cs" />
       <jump line="4" column="16" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandResult.cs" />
-      <jump line="41" column="37" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" />
       <jump line="85" column="70" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/CourseController.cs" />
       <jump line="51" column="35" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommandHandler.cs" />
       <jump line="167" column="25" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
@@ -665,13 +656,30 @@
       <jump line="19" column="75" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandResult.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Models/Activity/V2/SaveActivityProgressionResponseTests.cs" />
       <jump line="16" column="75" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandResult.cs" />
+      <jump line="132" column="23" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8517F607-C12A-4B50-8364-C3F896F0FE6F/2e/7a648d42/Assert.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Activity/V2/SaveActivityProgressionRequest.cs" />
+      <jump line="119" column="90" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="167" column="25" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="166" column="56" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="138" column="8" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="169" column="7" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="163" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="160" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="158" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="153" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="151" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="143" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="189" column="64" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="222" column="25" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="41" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Data.Models.Course course</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CourseCompleted</text>
+        <text>saveCourseProgressionCommandResult.</text>
       </register>
       <register name="d" type="4">
         <text>SaveCourseProgressionCommandResult</text>
@@ -699,43 +707,43 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CourseCompleted</text>
+        <text>saveCourseProgressionCommandResult.</text>
       </register>
       <register name="/" type="4">
         <text>cmd\.Result\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBDb3Vyc2VDb21wbGV0ZWQgeyBnZXQ7IHByaXZhdGUgc2V0OyB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBhc3luYyBUYXNrPGJvb2w+IEdldElzUmV2aWV3QWxsb3dlZChDb3Vyc2UgY291cnNlKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIGNtZCA9IG5ldyBHZXRJc1Jldmlld0FsbG93ZWRRdWVyeShjb3Vyc2UpOwogICAgICAgICAgICBhd2FpdCBfcHJvY2Vzc29yLkV4ZWN1dGVRdWVyeUFzeW5jKGNtZCk7CgogICAgICAgICAgICByZXR1cm4gY21kLlJlc3VsdDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYXZlQ291cnNlUHJvZ3Jlc3Npb25Db21tYW5kUmVzdWx0LkNvdXJzZS5Jc0NvbXBsZXRlZAogICAgICAgICAgICAgICAgICAgICAgICA/IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZFJlc3VsdC5BY3Rpdml0eUFuZENvdXJzZUNvbXBsZXRlZAogICAgICAgICAgICAgICAgICAgICAgICA6IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZFJlc3VsdC5Pbmx5QWN0aXZpdHlDb21wbGV0ZWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>vi&quot;U</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1hbmQuUmVzdWx0ID0gCiAgICAgICAgICAgICAgICAgICAgY291cnNlLklzQ29tcGxldGVkIAogICAgICAgICAgICAgICAgICAgICAgICA/IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZFJlc3VsdC5Pbmx5Q291cnNlQ29tcGxldGVkIAogICAgICAgICAgICAgICAgICAgICAgICA6IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZFJlc3VsdC5BY3Rpdml0eUFuZENvdXJzZU5vdENvbXBsZXRlZDsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBvcmlnaW5hbENvdXJzZURvY3VtZW50Q291bnQgPSBhd2FpdCBHZXRDb3Vyc2VEb2N1bWVudENvdW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoVXNlcklkKHVzZXJJZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKGNvdXJzZS5BdHRlbXB0TnVtYmVyLCBjbWQuUmVzdWx0LkNvdXJzZS5BdHRlbXB0TnVtYmVyKTsKCiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgwLCBvcmlnaW5hbENvdXJzZURvY3VtZW50Q291bnQpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoMSwgYXdhaXQgR2V0Q291cnNlRG9jdW1lbnRDb3VudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LlRydWUoZGF0YS5Db3Vyc2VDb21wbGV0ZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoVXNlcklkKHVzZXJJZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbTWVtYmVyRGF0YShuYW1lb2YoQ291cnNlRGF0YSkpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cENsaWVudCB0ZXN0Q2xpZW50ID0gQ3JlYXRlQ2xpZW50KGNvdXJzZS5Vc2VySWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cENsaWVudCB0ZXN0Q2xpZW50ID0gQ3JlYXRlQ2xpZW50KGNvdXJzZS5Vc2VySWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoT25lSW1hZ2VBY3Rpdml0eSgpLkJ1aWxkKCk7CiAgICAgICAgICAgIGF3YWl0IFBlcnNpc3RDb3Vyc2UoY291cnNlKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -749,10 +757,10 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoT25lVmlkZW9BY3Rpdml0eSgpLkJ1aWxkKCk7CiAgICAgICAgICAgIGF3YWl0IFBlcnNpc3RDb3Vyc2UoY291cnNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Data.Models.Course course</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYXZlQ291cnNlUHJvZ3Jlc3Npb25Db21tYW5kUmVzdWx0LkNvdXJzZS5Jc0NvbXBsZXRlZAogICAgICAgICAgICAgICAgICAgICAgICA/IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZFJlc3VsdC5BY3Rpdml0eUFuZENvdXJzZUNvbXBsZXRlZAogICAgICAgICAgICAgICAgICAgICAgICA6IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZFJlc3VsdC5Pbmx5QWN0aXZpdHlDb21wbGV0ZWQ7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
