@@ -215,6 +215,10 @@
         <mark key="." line="62" column="99" />
         <mark key="^" line="62" column="99" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/AnswerController.cs" timestamp="1559654675257">
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="42" column="37" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandResult.cs" timestamp="1559645230485">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="50" />
@@ -256,9 +260,10 @@
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559650986293">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="25" />
+      <file name="/Dummy.txt" timestamp="1559654586552">
+        <mark key="[" line="0" column="59" />
+        <mark key="]" line="0" column="59" />
+        <mark key="." line="0" column="59" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Data.Entity/BaseEntity.cs" timestamp="1558510045559">
         <mark key="[" line="7" column="29" />
@@ -445,6 +450,12 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="24" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/SaveAttemptCommandResult.cs" timestamp="1559654747413">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.json" timestamp="1559561675922">
         <mark key="'" line="18" column="2" />
         <mark key="[" line="76" column="0" />
@@ -572,6 +583,10 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="28" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/SaveAttemptCommand.cs" timestamp="1559654697763">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="34" />
+      </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Mothers/QuarterlyPayoutMother.cs" timestamp="1558533434423">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="28" />
@@ -683,10 +698,10 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>Data.Models.Course course</text>
+        <text>SaveAttemptCommandResult</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text>SaveAttemptCommandResult</text>
       </register>
       <register name="d" type="4">
         <text>SaveCourseProgressionCommandResult</text>
@@ -714,7 +729,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgMQ==</text>
+        <text>s/{release_id}</text>
       </register>
       <register name="/" type="4">
         <text>cmd\.Result\.</text>
