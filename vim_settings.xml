@@ -385,12 +385,12 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/ListTranscriptQueryHandlerTests.cs" timestamp="1559724593885">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/ListTranscriptQueryHandlerTests.cs" timestamp="1559726459034">
         <mark key="'" line="154" column="57" />
-        <mark key="[" line="183" column="50" />
-        <mark key="]" line="183" column="121" />
-        <mark key="." line="183" column="121" />
-        <mark key="^" line="183" column="121" />
+        <mark key="[" line="218" column="71" />
+        <mark key="]" line="218" column="71" />
+        <mark key="." line="218" column="71" />
+        <mark key="^" line="212" column="77" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/CurrencyNotFoundException.cs" timestamp="1558613452622">
         <mark key="'" line="24" column="68" />
@@ -404,7 +404,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" timestamp="1558600569632">
         <mark key="'" line="13" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559721593470">
+      <file name="/Dummy.txt" timestamp="1559726934500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
@@ -563,6 +563,13 @@
         <mark key="]" line="480" column="113" />
         <mark key="^" line="59" column="114" />
         <mark key="." line="59" column="114" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/TranscriptControllerTests.cs" timestamp="1559726471295">
+        <mark key="'" line="234" column="75" />
+        <mark key="[" line="205" column="9" />
+        <mark key="]" line="206" column="7" />
+        <mark key="^" line="206" column="7" />
+        <mark key="." line="206" column="7" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Helpers/CsvHelper.cs" timestamp="1559051159961">
         <mark key="'" line="14" column="39" />
@@ -897,6 +904,12 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Csv/CsvService.cs" timestamp="1558944374711">
         <mark key="'" line="12" column="57" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Transcript/V2/ListTranscriptResponse.cs" timestamp="1559726307907">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="36" column="7" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/QueryHandlerBase.cs" timestamp="1559305656177">
         <mark key="[" line="21" column="59" />
         <mark key="]" line="23" column="28" />
@@ -911,7 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="51" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
       <jump line="421" column="20" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="50" column="72" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" />
       <jump line="25" column="75" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandResult.cs" />
@@ -1011,13 +1023,14 @@
       <jump line="16" column="51" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" />
       <jump line="153" column="57" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/ListTranscriptQueryHandlerTests.cs" />
+      <jump line="172" column="75" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/TranscriptControllerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">SUxpc3Q8KENvdXJzZSBDb3Vyc2UsIGJvb2wgSXNSZXZpZXdBbGxvd2VkKT4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ReturnsFilledResult</text>
+        <text encoding="base64">ICsgMQ==</text>
       </register>
       <register name="d" type="4">
         <text>SaveCourseProgressionCommandResult</text>
@@ -1045,13 +1058,13 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ReturnsFilledResult</text>
+        <text encoding="base64">ICsgMQ==</text>
       </register>
       <register name="/" type="4">
         <text>_lrsDbContext)</text>
       </register>
-      <register name="0" type="4">
-        <text>TotalWatchedDurationMoreThanRequiredForReview_ReturnsIsReviewAllowedTrue</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBMaXN0X1RvdGFsV2F0Y2hlZER1cmF0aW9uTW9yZVRoYW5SZXF1aXJlZEZvclJldmlld19SZXR1cm5zSXNSZXZpZXdBbGxvd2VkVHJ1ZSgpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIGludCB1c2VySWQgPSBSYW5kb21IZWxwZXIuR2VuZXJhdGVOZXdJbnQoKTsKICAgICAgICAgICAgSHR0cENsaWVudCB0ZXN0Q2xpZW50ID0gQ3JlYXRlQ2xpZW50KHVzZXJJZCk7CiAgICAgICAgICAgIGludCBwZXJjZW50YWdlUmVxdWlyZWRGb3JSZXZpZXcgPSBHZXRPcHRpb248UmV2aWV3QWxsb3dlZE9wdGlvbj4oKS5Qcm9ncmVzc2lvblBlcmNlbnRhZ2U7CiAgICAgICAgICAgIENvdXJzZSBjb3Vyc2UgPSBDb3Vyc2VNb3RoZXIKICAgICAgICAgICAgICAgIC5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllc1dhdGNoZWQoCiAgICAgICAgICAgICAgICAgICAgKGR1cmF0aW9uOiA1MCwgd2F0Y2hlZDogcGVyY2VudGFnZVJlcXVpcmVkRm9yUmV2aWV3ICsgMSksCiAgICAgICAgICAgICAgICAgICAgKGR1cmF0aW9uOiA1MCwgd2F0Y2hlZDogMCkpCiAgICAgICAgICAgICAgICAuV2l0aFVzZXJJZCh1c2VySWQpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsKICAgICAgICAgICAgYXdhaXQgUGVyc2lzdENvdXJzZShjb3Vyc2UpOwoKICAgICAgICAgICAgQ291cnNlVHJhbnNjcmlwdCB0cmFuc2NyaXB0ID0gQ291cnNlVHJhbnNjcmlwdE1vdGhlci5DcmVhdGVGb3JDb3Vyc2UoY291cnNlKS5CdWlsZCgpOwogICAgICAgICAgICBhd2FpdCBQZXJzaXN0VHJhbnNjcmlwdCh0cmFuc2NyaXB0KTsKCiAgICAgICAgICAgIGludCBwYWdlID0gMTsKICAgICAgICAgICAgaW50IHBhZ2VTaXplID0gMTsKCiAgICAgICAgICAgIC8vIEFjdAogICAgICAgICAgICBIdHRwUmVzcG9uc2VNZXNzYWdlIHJlc3BvbnNlID0KICAgICAgICAgICAgICAgIGF3YWl0IHRlc3RDbGllbnQuR2V0QXN5bmMoJCJ2Mi90cmFuc2NyaXB0cz9QYWdlTnVtYmVyPXtwYWdlfSZQYWdlU2l6ZT17cGFnZVNpemV9Iik7CgogICAgICAgICAgICAvLyBBc3NlcnQKICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsKICAgICAgICAgICAgdmFyIGRhdGEgPSBKc29uSGVscGVyLkRlc2VyaWFsaXplT2JqZWN0PFBhZ2luYXRlZFF1ZXJ5UmVzdWx0PExpc3RUcmFuc2NyaXB0UmVzcG9uc2U+PihyZXNwb25zZUNvbnRlbnQpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShkYXRhLlJlc3VsdFswXS5Jc1Jldmlld0FsbG93ZWQpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1060,28 +1073,28 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <text>vi&quot;U</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlSZXN1bHQuUmVzdWx0WzBdLlRyYW5zY3JpcHQuU2hvdWxkKCkuQmVFcXVpdmFsZW50VG8odHJhbnNjcmlwdHNbMF0sCiAgICAgICAgICAgICAgICBvcHRpb25zID0+IG9wdGlvbnMuRXhjbHVkaW5nKHggPT4geC5DcmVhdGVkKS5FeGNsdWRpbmcoeCA9PiB4LlVwZGF0ZWQpKTsKCiAgICAgICAgICAgIHF1ZXJ5UmVzdWx0LlJlc3VsdFswXS5Db3Vyc2UuU2hvdWxkKCkuQmVFcXVpdmFsZW50VG8oY291cnNlc1swXSwKICAgICAgICAgICAgICAgIG9wdGlvbnMgPT4gb3B0aW9ucy5FeGNsdWRpbmcoeCA9PiB4LkNyZWF0ZWQpLkV4Y2x1ZGluZyh4ID0+IHguVXBkYXRlZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBJc1Jldmlld0FsbG93ZWQgeyBnZXQ7IHNldDsgfQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwocXVlcnlSZXN1bHQpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShxdWVyeVJlc3VsdC5Ub3RhbENvdW50ID09IDIpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShxdWVyeVJlc3VsdC5QYWdlTnVtYmVyID09IHBhZ2VOdW1iZXIpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShxdWVyeVJlc3VsdC5QYWdlU2l6ZSA9PSBwYWdlU2l6ZSk7CiAgICAgICAgICAgIEFzc2VydC5Ob3ROdWxsKHF1ZXJ5UmVzdWx0LlJlc3VsdCk7CiAgICAgICAgICAgIEFzc2VydC5UcnVlKHF1ZXJ5UmVzdWx0LlJlc3VsdC5Db3VudCA9PSAxKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKEh0dHBTdGF0dXNDb2RlLk9LLCByZXNwb25zZS5TdGF0dXNDb2RlKTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoVXNlcklkKHVzZXJJZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKGRhdGEuUGFnZU51bWJlciwgcGFnZSk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgxLCBkYXRhLkNvdW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHVzZXJJZCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cENsaWVudCB0ZXN0Q2xpZW50ID0gQ3JlYXRlQ2xpZW50KHRyYW5zY3JpcHQuVXNlcklkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoVXNlcklkKHVzZXJJZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoT25lVmlkZW9BY3Rpdml0eSgpLkJ1aWxkKCk7CiAgICAgICAgICAgIGF3YWl0IFBlcnNpc3RDb3Vyc2UoY291cnNlKTsKCiAgICAgICAgICAgIFRyYW5zY3JpcHRCYXNlIHRyYW5zY3JpcHQgPSBDb3Vyc2VUcmFuc2NyaXB0TW90aGVyLkNyZWF0ZUZvckNvdXJzZShjb3Vyc2UpLkJ1aWxkKCk7CiAgICAgICAgICAgIGF3YWl0IFBlcnNpc3RUcmFuc2NyaXB0KHRyYW5zY3JpcHQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIFF1aXogcXVpeiA9IFF1aXpNb3RoZXIuQ3JlYXRlV2l0aE9uZVF1ZXN0aW9uQW5kT25lQ29ycmVjdEFuc3dlcihjb3Vyc2UpLkJ1aWxkKCk7CiAgICAgICAgICAgIGF3YWl0IFBlcnNpc3RRdWl6KHF1aXopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1095,10 +1108,10 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvdXJzZXMgPSBuZXcgTGlzdDxDb3Vyc2U+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIENvdXJzZU1vdGhlci5DcmVhdGVXaXRoT25lVmlkZW9BY3Rpdml0eSgpLldpdGhVc2VySWQoMSkuV2l0aEF0dGVtcHROdW1iZXIoMSkuQnVpbGQoKSwKICAgICAgICAgICAgICAgIENvdXJzZU1vdGhlci5DcmVhdGVXaXRoT25lVmlkZW9BY3Rpdml0eUFuZEZpbmFsUXVpelBhc3NlZCgpLkNvbXBsZXRlZCgpLldpdGhVc2VySWQoMSkuV2l0aEF0dGVtcHROdW1iZXIoMSkuQnVpbGQoKSwKICAgICAgICAgICAgICAgIENvdXJzZU1vdGhlci5DcmVhdGVXaXRoT25lVmlkZW9BY3Rpdml0eSgpLldpdGhVc2VySWQoMikuV2l0aEF0dGVtcHROdW1iZXIoMSkuQnVpbGQoKSwKICAgICAgICAgICAgfTsKICAgICAgICAgICAgYXdhaXQgUGVyc2lzdENvdXJzZXMoY291cnNlcyk7CgogICAgICAgICAgICB2YXIgdHJhbnNjcmlwdHMgPSBuZXcgTGlzdDxUcmFuc2NyaXB0QmFzZT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQ291cnNlVHJhbnNjcmlwdE1vdGhlci5DcmVhdGVGb3JDb3Vyc2UoY291cnNlc1swXSkuQnVpbGQoKSwKICAgICAgICAgICAgICAgIENvdXJzZVRyYW5zY3JpcHRNb3RoZXIuQ3JlYXRlRm9yQ291cnNlKGNvdXJzZXNbMV0pLkJ1aWxkKCksCiAgICAgICAgICAgICAgICBDb3Vyc2VUcmFuc2NyaXB0TW90aGVyLkNyZWF0ZUZvckNvdXJzZShjb3Vyc2VzWzJdKS5CdWlsZCgpCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGF3YWl0IFBlcnNpc3RUcmFuc2NyaXB0cyh0cmFuc2NyaXB0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlSZXN1bHQuUmVzdWx0WzBdLlRyYW5zY3JpcHQuU2hvdWxkKCkuQmVFcXVpdmFsZW50VG8odHJhbnNjcmlwdHNbMF0sCiAgICAgICAgICAgICAgICBvcHRpb25zID0+IG9wdGlvbnMuRXhjbHVkaW5nKHggPT4geC5DcmVhdGVkKS5FeGNsdWRpbmcoeCA9PiB4LlVwZGF0ZWQpKTsKCiAgICAgICAgICAgIHF1ZXJ5UmVzdWx0LlJlc3VsdFswXS5Db3Vyc2UuU2hvdWxkKCkuQmVFcXVpdmFsZW50VG8oY291cnNlc1swXSwKICAgICAgICAgICAgICAgIG9wdGlvbnMgPT4gb3B0aW9ucy5FeGNsdWRpbmcoeCA9PiB4LkNyZWF0ZWQpLkV4Y2x1ZGluZyh4ID0+IHguVXBkYXRlZCkpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">VGFzawogICAgICAgICAgICAgICAgLldoZW5BbGwoY291cnNlcwogICAgICAgICAgICAgICAgICAgIC5TZWxlY3QoYXN5bmMgY291cnNlID0+CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBib29sIGlzUmV2aWV3QWxsb3dlZCA9IGF3YWl0IEdldElzUmV2aWV3QWxsb3dlZChjb3Vyc2UsIHRva2VuKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIChDb3Vyc2U6IGNvdXJzZSwgSXNSZXZpZXdBbGxvd2VkOiBpc1Jldmlld0FsbG93ZWQpOwogICAgICAgICAgICAgICAgICAgIH0pKQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwocXVlcnlSZXN1bHQpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShxdWVyeVJlc3VsdC5Ub3RhbENvdW50ID09IDIpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShxdWVyeVJlc3VsdC5QYWdlTnVtYmVyID09IHBhZ2VOdW1iZXIpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShxdWVyeVJlc3VsdC5QYWdlU2l6ZSA9PSBwYWdlU2l6ZSk7CiAgICAgICAgICAgIEFzc2VydC5Ob3ROdWxsKHF1ZXJ5UmVzdWx0LlJlc3VsdCk7CiAgICAgICAgICAgIEFzc2VydC5UcnVlKHF1ZXJ5UmVzdWx0LlJlc3VsdC5Db3VudCA9PSAxKTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
