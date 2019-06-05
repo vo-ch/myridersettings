@@ -224,6 +224,9 @@
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="44" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/QuizControllerTests.cs" timestamp="1559719814821">
+        <mark key="'" line="19" column="17" />
+      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Program.cs" timestamp="1559228794769">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="54" />
@@ -875,7 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="43" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/InstructorPayoutController.cs" />
       <jump line="17" column="54" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/InstructorPayout/ListInstructorPayoutResponse.cs" />
       <jump line="57" column="35" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/CourseController.cs" />
       <jump line="21" column="53" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" />
@@ -975,6 +977,7 @@
       <jump line="137" column="27" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/CompleteAttemptCommandHandler.cs" />
       <jump line="39" column="42" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/SaveAttemptCommandHandler.cs" />
       <jump line="39" column="35" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Quiz/CompleteQuizCommandHandler.cs" />
+      <jump line="19" column="17" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/QuizControllerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1012,7 +1015,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <text>CourseIsCompleted</text>
       </register>
       <register name="/" type="4">
-        <text>withn</text>
+        <text>complete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBDb3Vyc2VJc0NvbXBsZXRlZCB7IGdldDsgc2V0OyB9Cg==</text>
@@ -1068,21 +1071,20 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
-      <last-search>withn</last-search>
+      <last-search>complete</last-search>
       <last-offset />
-      <last-pattern>withn</last-pattern>
+      <last-pattern>complete</last-pattern>
       <last-replace>SaveAttemptCommandResult</last-replace>
       <last-substitute>GetCourseQueryResult</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isen</entry>
         <entry encoding="base64">XDxDcmVhdGVSZXNwb25zZUZyb21FeGNlcHRpb25cPg==</entry>
         <entry>airbr</entry>
         <entry>_airbrakeOptionsMock.Object</entry>
@@ -1102,6 +1104,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <entry>GetCourseQueryResult</entry>
         <entry encoding="base64">XDxjb3Vyc2VcPg==</entry>
         <entry>withn</entry>
+        <entry>complete</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0NvdXJzZVRpdGxlL0NvdXJzZVJlbGVhc2VJZC9naQ==</entry>
@@ -1121,9 +1124,9 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <entry>action RenameElement</entry>
         <entry>%s/cmd.Result./cmd.Result.Course./g</entry>
         <entry>%s/cmd\.Result\./cmd.Result.Course./g</entry>
-        <entry>nohl</entry>
         <entry>%s/GetCourseQueryResult/SaveAttemptCommandResult/g</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
