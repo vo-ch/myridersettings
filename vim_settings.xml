@@ -457,7 +457,8 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" timestamp="1559816144877">
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" timestamp="1559816964228">
+        <mark key="'" line="243" column="33" />
         <mark key="[" line="249" column="40" />
         <mark key="]" line="249" column="49" />
         <mark key="." line="249" column="49" />
@@ -535,12 +536,12 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/ReviewNotAllowedException.cs" timestamp="1559810981176">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/ReviewNotAllowedException.cs" timestamp="1559816970184">
         <mark key="'" line="24" column="68" />
-        <mark key="[" line="24" column="55" />
-        <mark key="]" line="24" column="81" />
-        <mark key="." line="24" column="81" />
-        <mark key="^" line="24" column="81" />
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="74" />
+        <mark key="." line="8" column="74" />
+        <mark key="^" line="8" column="74" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/ListTranscriptQueryHandlerTests.cs" timestamp="1559729255946">
         <mark key="'" line="218" column="71" />
@@ -561,7 +562,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" timestamp="1558600569632">
         <mark key="'" line="13" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559737600621">
+      <file name="/Dummy.txt" timestamp="1559816973099">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
@@ -1283,7 +1284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/SaveAttemptCommand.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/CommandBase'.cs" />
       <jump line="37" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/SaveAttemptCommandHandler.cs" />
       <jump line="301" column="59" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Attempt/SaveAttemptCommandHandlerTests.cs" />
@@ -1383,13 +1383,14 @@
       <jump line="24" column="68" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/ReviewNotAllowedException.cs" />
       <jump line="24" column="36" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
       <jump line="40" column="30" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
+      <jump line="243" column="33" filename="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ReviewNotAllowedException</text>
       </register>
       <register name="&quot;" type="4">
-        <text>NotFound</text>
+        <text>TranscriptNotFoundException</text>
       </register>
       <register name="d" type="4">
         <text>SaveCourseProgressionCommandResult</text>
@@ -1417,7 +1418,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NotFound</text>
+        <text>TranscriptNotFoundException</text>
       </register>
       <register name="/" type="4">
         <text>GetCourseQuery</text>
