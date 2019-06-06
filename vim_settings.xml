@@ -612,8 +612,8 @@
         <mark key="^" line="32" column="215" />
         <mark key="." line="33" column="29" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1559809995553">
-        <mark key="'" line="40" column="44" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1559815148997">
+        <mark key="'" line="40" column="30" />
         <mark key="[" line="39" column="54" />
         <mark key="]" line="39" column="67" />
         <mark key="." line="39" column="67" />
@@ -724,11 +724,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/ILrsService.cs" timestamp="1559229905500">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="9" column="35" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/ILrsService.cs" timestamp="1559815171247">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="43" />
+        <mark key="." line="9" column="43" />
+        <mark key="^" line="9" column="43" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Queries/Course/GetIsReviewAllowedQueryTests.cs" timestamp="1559733771896">
         <mark key="'" line="33" column="63" />
@@ -949,12 +949,12 @@
         <mark key="^" line="89" column="1" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1559810702034">
-        <mark key="'" line="33" column="36" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="15" />
-        <mark key="^" line="38" column="15" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1559815132380">
+        <mark key="'" line="24" column="36" />
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Sorting/SortedQuery.cs" timestamp="1559305387655">
         <mark key="'" line="7" column="37" />
@@ -1283,7 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Processors/IProcessor.cs" />
       <jump line="8" column="46" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/SaveAttemptCommand.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/CommandBase'.cs" />
       <jump line="37" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Attempt/SaveAttemptCommandHandler.cs" />
@@ -1374,7 +1373,6 @@
       <jump line="31" column="98" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Queries/Course/GetIsReviewAllowedQueryHandlerTests.cs" />
       <jump line="72" column="40" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/CourseController.cs" />
       <jump line="47" column="40" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" />
-      <jump line="40" column="44" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
       <jump line="29" column="31" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
       <jump line="17" column="31" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/04/1de39ecd/HttpClient.cs" />
@@ -1383,13 +1381,15 @@
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Resources/ExceptionMessages.resx" />
       <jump line="24" column="17" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Resources/ExceptionMessages.Designer.cs" />
       <jump line="24" column="68" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/ReviewNotAllowedException.cs" />
+      <jump line="24" column="36" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
+      <jump line="40" column="30" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ReviewNotAllowedException</text>
       </register>
       <register name="&quot;" type="4">
-        <text>NotFound.Transcript</text>
+        <text>HasTranscript</text>
       </register>
       <register name="d" type="4">
         <text>SaveCourseProgressionCommandResult</text>
@@ -1417,7 +1417,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NotFound.Transcript</text>
+        <text>HasTranscript</text>
       </register>
       <register name="/" type="4">
         <text>GetCourseQuery</text>
@@ -1476,7 +1476,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/GetCourseQuery/GetIsReviewAllowedQuery/g</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -1515,7 +1515,6 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <entry>%s/CreateCourseRating/ListCourseRating/g</entry>
         <entry>%s/Total//g</entry>
         <entry encoding="base64">JzwsJz5zL1BhZ2VOdW1iZXIvUGFnZVNpemUvZ2k=</entry>
-        <entry>action GotoImplementation</entry>
         <entry>%s/Course/IsReviewAllowed/g</entry>
         <entry>%s/_aiccServiceMock.Object/_processorMock.Object/g</entry>
         <entry>%s/_aiccServiceMock.Object/_aiccServiceMock.Object, _processorMock.Object/g</entry>
@@ -1532,6 +1531,7 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         <entry>%s/_aiccServiceMock.Object)/_aiccServiceMock.Object, _processor)/g</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>%s/GetCourseQuery/GetIsReviewAllowedQuery/g</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
