@@ -457,11 +457,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="22" column="46" />
       </file>
-      <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" timestamp="1559234454345">
-        <mark key="[" line="31" column="45" />
-        <mark key="]" line="31" column="60" />
-        <mark key="." line="31" column="60" />
-        <mark key="^" line="31" column="60" />
+      <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Controllers/CourseRatingControllerTests.cs" timestamp="1559816144877">
+        <mark key="[" line="249" column="40" />
+        <mark key="]" line="249" column="49" />
+        <mark key="." line="249" column="49" />
+        <mark key="^" line="249" column="49" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Providers/DateTime/DateTimeAdapter.cs" timestamp="1558708036787">
         <mark key="'" line="4" column="35" />
@@ -1389,7 +1389,7 @@
         <text>ReviewNotAllowedException</text>
       </register>
       <register name="&quot;" type="4">
-        <text>HasTranscript</text>
+        <text>NotFound</text>
       </register>
       <register name="d" type="4">
         <text>SaveCourseProgressionCommandResult</text>
@@ -1417,13 +1417,13 @@ AddHttpContextAccessorServiceProviderHandlerResolver</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HasTranscript</text>
+        <text>NotFound</text>
       </register>
       <register name="/" type="4">
         <text>GetCourseQuery</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICA8ZGF0YSBuYW1lPSJUcmFuc2NyaXB0Tm90Rm91bmRFeGNlcHRpb24iIHhtbDpzcGFjZT0icHJlc2VydmUiPgogICAgPHZhbHVlPlRyYW5zY3JpcHQgbm90IGZvdW5kLjwvdmFsdWU+CiAgPC9kYXRhPgo=</text>
+      <register name="0" type="4">
+        <text>ReviewNotAllowedException</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
