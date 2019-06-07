@@ -851,12 +851,12 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" timestamp="1559918823604">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" timestamp="1559920639715">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="29" column="20" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="14" />
+        <mark key="^" line="37" column="6" />
+        <mark key="." line="37" column="6" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" timestamp="1559657431488">
         <mark key="'" line="167" column="66" />
@@ -1365,7 +1365,7 @@
         <text encoding="base64">Y291cnNlLlRvdGFsRHVyYXRpb24gPD0gMA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MigrateOnStartup</text>
+        <text>LrsBaseUrl</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
@@ -1378,7 +1378,7 @@
       </register>
       <register name="i" type="4">
         <text>ncyInjection
-AddHttpContextAccessorServiceProviderHandlerResolver</text>
+AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
       </register>
       <register name="*" type="4">
         <text>CourseCatalogEnterpriseTableStore</text>
