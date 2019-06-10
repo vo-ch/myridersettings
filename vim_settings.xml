@@ -81,8 +81,10 @@
         <mark key="[" line="118" column="59" />
         <mark key="]" line="118" column="99" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Course reassignment/Workflow1.cs" timestamp="1560162886466">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Course reassignment/Workflow1.cs" timestamp="1560174594159">
         <mark key="'" line="49" column="41" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="98" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" timestamp="1559310528250">
         <mark key="'" line="16" column="24" />
@@ -1217,6 +1219,12 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="17" column="43" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" timestamp="1560174603468">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="98" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="11" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" timestamp="1560169583366">
         <mark key="'" line="42" column="39" />
         <mark key="[" line="71" column="20" />
@@ -1424,7 +1432,7 @@
         <text>SaveActivityProgressionResponse</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgQ29sdW1uNShjbGllbnQsIGNvdXJzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWljY1JlcXVlc3QgYWljY1JlcXVlc3RCZWZvcmVSZWFzc2lnbm1lbnQgPSBBaWNjUmVxdWVzdE1vdGhlci5DcmVhdGVQdXRQYXJhbSgpLkJ1aWxkKCk7CiAgICAgICAgICAgIEFpY2NSZXF1ZXN0IGFpY2NSZXF1ZXN0QWZ0ZXJSZWFzc2lnbm1lbnQgPSBBaWNjUmVxdWVzdE1vdGhlci5DcmVhdGVQdXRQYXJhbSgpLkJ1aWxkKCk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
@@ -1458,7 +1466,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text encoding="base64">XDxJZGVudGl0eVNlcnZlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgQ29sdW1uNShjbGllbnQsIGNvdXJzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWljY1JlcXVlc3QgYWljY1JlcXVlc3RCZWZvcmVSZWFzc2lnbm1lbnQgPSBBaWNjUmVxdWVzdE1vdGhlci5DcmVhdGVQdXRQYXJhbSgpLkJ1aWxkKCk7CiAgICAgICAgICAgIEFpY2NSZXF1ZXN0IGFpY2NSZXF1ZXN0QWZ0ZXJSZWFzc2lnbm1lbnQgPSBBaWNjUmVxdWVzdE1vdGhlci5DcmVhdGVQdXRQYXJhbSgpLkJ1aWxkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXNwb25zZSByZXNwb25zZSA9IGF3YWl0IEFjdGl2aXR5SGVscGVyLkNvbXBsZXRlRmlyc3RBY3Rpdml0eShjbGllbnQsIGNvdXJzZSk7Cg==</text>
