@@ -589,8 +589,8 @@
         <mark key="^" line="32" column="215" />
         <mark key="." line="33" column="29" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1559815148997">
-        <mark key="'" line="40" column="30" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1560152008856">
+        <mark key="'" line="39" column="42" />
         <mark key="[" line="39" column="54" />
         <mark key="]" line="39" column="67" />
         <mark key="." line="39" column="67" />
@@ -942,8 +942,8 @@
         <mark key="^" line="89" column="1" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1559910087075">
-        <mark key="'" line="61" column="65" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" timestamp="1560152528081">
+        <mark key="'" line="34" column="29" />
         <mark key="[" line="61" column="62" />
         <mark key="]" line="61" column="63" />
         <mark key="." line="61" column="63" />
@@ -1181,10 +1181,10 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Exceptions/Transcript/TranscriptNotFoundException.cs" timestamp="1558607483697">
         <mark key="'" line="10" column="59" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" timestamp="1559809955108">
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" timestamp="1560151996066">
         <mark key="'" line="47" column="40" />
-        <mark key="[" line="72" column="131" />
-        <mark key="]" line="72" column="134" />
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="47" column="50" />
         <mark key="." line="72" column="134" />
         <mark key="^" line="72" column="134" />
       </file>
@@ -1262,9 +1262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
-      <jump line="119" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
-      <jump line="122" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
       <jump line="126" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
       <jump line="138" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
       <jump line="141" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
@@ -1362,13 +1359,16 @@
       <jump line="105" column="15" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Infra/Rating.Exception/Base/CyberUBadGatewayException.cs" />
       <jump line="61" column="65" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
+      <jump line="39" column="42" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
+      <jump line="34" column="29" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
+      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/TranscriptNotFoundException.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y291cnNlLlRvdGFsRHVyYXRpb24gPD0gMA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>RatingDatabase</text>
+        <text>CreateCourseRatingCommand</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
@@ -1455,7 +1455,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Review/Rating/g</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -1505,12 +1505,12 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry>%s/_aiccServiceMock.Object)/_aiccServiceMock.Object, _processor)/g</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>%s/GetCourseQuery/GetIsReviewAllowedQuery/g</entry>
-        <entry>action GotoImplementation</entry>
         <entry>%s/IsReviewAllowed/UserCanLeaveRating/gi</entry>
         <entry>%s/IsReviewAllowed/UserCanLeaveRating/g</entry>
         <entry>%s/IsReviewAllowed/userCanLeaveRating/gi</entry>
         <entry>action RenameElement</entry>
         <entry>%s/Review/Rating/g</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
