@@ -52,11 +52,6 @@
         <mark key="^" line="67" column="1" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" timestamp="1560159493385">
-        <mark key="'" line="118" column="59" />
-        <mark key="[" line="118" column="59" />
-        <mark key="]" line="118" column="99" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Course reassignment/Workflow1.cs" timestamp="1560177869128">
         <mark key="'" line="43" column="31" />
         <mark key="[" line="84" column="0" />
@@ -136,12 +131,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8FBEE185-878B-4D90-897B-17A3EEBEA7D7/52/d9977800/ServiceProvider.cs" timestamp="1559221993533">
         <mark key="'" line="49" column="30" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" timestamp="1560177349072">
-        <mark key="'" line="74" column="47" />
-        <mark key="[" line="56" column="122" />
-        <mark key="]" line="57" column="84" />
-        <mark key="^" line="57" column="84" />
-        <mark key="." line="57" column="84" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" timestamp="1560179698555">
+        <mark key="'" line="75" column="47" />
+        <mark key="[" line="56" column="65" />
+        <mark key="]" line="56" column="72" />
+        <mark key="^" line="56" column="72" />
+        <mark key="." line="56" column="72" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Controllers/InstructorPayoutControllerTest.cs" timestamp="1558604786820">
         <mark key="'" line="70" column="23" />
@@ -339,6 +334,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/863B81D8-9327-499B-9618-D9BE52F0AC42/d3/1ab39313/IHeaderDictionary.cs" timestamp="1558600569632">
         <mark key="'" line="13" column="65" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560179906240">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" timestamp="1560177879434">
         <mark key="'" line="84" column="18" />
@@ -757,11 +757,11 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="17" column="43" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" timestamp="1560178217704">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" timestamp="1560178225243">
         <mark key="'" line="47" column="23" />
-        <mark key="[" line="134" column="12" />
-        <mark key="]" line="134" column="18" />
-        <mark key="." line="134" column="18" />
+        <mark key="[" line="134" column="71" />
+        <mark key="]" line="134" column="71" />
+        <mark key="." line="134" column="71" />
         <mark key="^" line="134" column="18" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" timestamp="1560169583366">
@@ -940,8 +940,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY291cnNlID0gYXdhaXQgQ291cnNlSGVscGVyLkdldENvdXJzZShjbGllbnQsIGNvdXJzZS5SZWxlYXNlSWQsIGFpY2NSZXF1ZXN0KTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKDIsIGNvdXJzZS5BdHRlbXB0TnVtYmVyKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IGF3YWl0IENvdXJzZUhlbHBlci5HZXRDb3Vyc2UoY2xpZW50LCBjb3Vyc2VSZWxlYXNlSWQsIGFpY2NSZXF1ZXN0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>added functional testing scenarios according to (https://cyberu.atlassian.net/wiki/spaces/CU/pages/111083570/LRS+Scenarios+-+CyberU#LRSScenarios-CyberU-Ratingacourse)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
@@ -969,7 +969,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>course</text>
+        <text>added functional testing scenarios according to (https://cyberu.atlassian.net/wiki/spaces/CU/pages/111083570/LRS+Scenarios+-+CyberU#LRSScenarios-CyberU-Ratingacourse)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJZGVudGl0eVNlcnZlclw+</text>
