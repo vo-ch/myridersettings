@@ -404,9 +404,9 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="53" column="31" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Resources/ExceptionMessages.resx" timestamp="1559810928250">
-        <mark key="[" line="123" column="11" />
-        <mark key="]" line="123" column="32" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Resources/ExceptionMessages.resx" timestamp="1560153411135">
+        <mark key="[" line="126" column="11" />
+        <mark key="]" line="126" column="56" />
         <mark key="." line="123" column="32" />
         <mark key="^" line="123" column="32" />
       </file>
@@ -589,8 +589,8 @@
         <mark key="^" line="32" column="215" />
         <mark key="." line="33" column="29" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1560152008856">
-        <mark key="'" line="39" column="42" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" timestamp="1560153321088">
+        <mark key="'" line="52" column="54" />
         <mark key="[" line="39" column="54" />
         <mark key="]" line="39" column="67" />
         <mark key="." line="39" column="67" />
@@ -731,8 +731,8 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/CourseRating/CourseRatingMaxCountExceededException.cs" timestamp="1559206518204">
-        <mark key="'" line="6" column="81" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/CourseRating/CourseRatingMaxCountExceededException.cs" timestamp="1560153334527">
+        <mark key="'" line="9" column="80" />
         <mark key="[" line="9" column="80" />
         <mark key="]" line="9" column="107" />
         <mark key="^" line="9" column="107" />
@@ -1262,10 +1262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
-      <jump line="138" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
-      <jump line="141" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
-      <jump line="144" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
       <jump line="147" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Quiz/CompleteQuizCommandHandlerTests.cs" />
       <jump line="47" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/TranscriptController.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Pagination/PaginatedQueryResult.cs" />
@@ -1359,16 +1355,20 @@
       <jump line="105" column="15" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Infra/Rating.Exception/Base/CyberUBadGatewayException.cs" />
       <jump line="61" column="65" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
-      <jump line="39" column="42" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
       <jump line="34" column="29" filename="C:/projects/Rating/Web/API/src/Rating.Api/Services/Lrs/LrsService.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/TranscriptNotFoundException.cs" />
+      <jump line="39" column="48" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
+      <jump line="52" column="54" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Commands/CourseRating/CreateCourseRatingCommandHandler.cs" />
+      <jump line="25" column="73" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/CourseRating/CourseRatingMaxCountExceededException.cs" />
+      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/ExceptionCode.cs" />
+      <jump line="9" column="80" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Exceptions/CourseRating/CourseRatingMaxCountExceededException.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y291cnNlLlRvdGFsRHVyYXRpb24gPD0gMA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CreateCourseRatingCommand</text>
+        <text>Course ratings maximum allowed count exceeded.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
