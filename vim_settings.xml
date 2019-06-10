@@ -214,8 +214,12 @@
         <mark key="." line="5" column="42" />
         <mark key="^" line="5" column="42" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" timestamp="1560163422526">
-        <mark key="'" line="45" column="70" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" timestamp="1560166500236">
+        <mark key="'" line="55" column="60" />
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="34" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="52" column="34" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Controllers/InstructorPayoutControllerTest.cs" timestamp="1558604786820">
         <mark key="'" line="70" column="23" />
@@ -500,10 +504,10 @@
         <mark key="^" line="8" column="60" />
         <mark key="." line="8" column="60" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/GetCourseProgressionResponse.cs" timestamp="1559894434339">
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/GetCourseProgressionResponse.cs" timestamp="1560166509727">
         <mark key="'" line="33" column="48" />
         <mark key="[" line="24" column="20" />
-        <mark key="]" line="24" column="20" />
+        <mark key="]" line="24" column="37" />
         <mark key="." line="24" column="37" />
         <mark key="^" line="42" column="33" />
       </file>
@@ -626,6 +630,13 @@
         <mark key="]" line="37" column="37" />
         <mark key="^" line="37" column="37" />
         <mark key="." line="37" column="37" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" timestamp="1560166496887">
+        <mark key="'" line="39" column="31" />
+        <mark key="[" line="36" column="75" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="11" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CourseRatingItemResponse.cs" timestamp="1559046900710">
         <mark key="[" line="35" column="12" />
@@ -957,6 +968,11 @@
         <mark key="." line="61" column="63" />
         <mark key="^" line="61" column="65" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Course republishing/Workflow1.cs" timestamp="1560166457372">
+        <mark key="'" line="49" column="31" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="75" />
+      </file>
       <file name="/rating_9c09f3f4-7fa1-41b6-9c50-cece5eeb31f1.public.CourseRatings [docker@localhost [2]]" timestamp="1560150575566">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1276,10 +1292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="57" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/ListTranscriptQueryHandlerTests.cs" />
-      <jump line="172" column="75" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/TranscriptControllerTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="129" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/ListTranscriptQueryHandler.cs" />
       <jump line="110" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
       <jump line="56" column="52" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
       <jump line="38" column="19" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
@@ -1373,16 +1385,20 @@
       <jump line="46" column="32" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Course reassignment/Workflow2.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/AiccHelper.cs" />
       <jump line="41" column="23" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Retry/Workflow1.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" />
       <jump line="55" column="44" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Retry/Workflow1.cs" />
       <jump line="45" column="70" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" />
+      <jump line="58" column="39" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Course republishing/Workflow1.cs" />
+      <jump line="49" column="31" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Course republishing/Workflow1.cs" />
+      <jump line="39" column="31" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" />
+      <jump line="55" column="60" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">Y291cnNlLlRvdGFsRHVyYXRpb24gPD0gMA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>IdentityServer:AuthorityServerBaseAddress</text>
+        <text>UserCanLeaveRating</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
@@ -1410,13 +1426,13 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>course is in progress from course endpoint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJZGVudGl0eVNlcnZlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>IdentityServer:AuthorityServerBaseAddress</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gU2F2ZSBjb3Vyc2Ugd2l0aG91dCBhbnkgcHJvZ3Jlc3Npb24KICAgICAgICAgICAgYXdhaXQgQ291cnNlSGVscGVyLlNhdmVDb3Vyc2VQcm9ncmVzc2lvblN0YXR1cyhjbGllbnQsIGNvdXJzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1425,28 +1441,28 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text encoding="base64">ICAgICAgICAgICAgYm9vbCB1c2VyQ2FuTGVhdmVSYXRpbmcgPSBHcmFudFVzZXJSYXRpbmcoY291cnNlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX2h0dHBDbGllbnQuU2VuZEFzeW5jKHJlcXVlc3RNZXNzYWdlLCBjYW5jZWxsYXRpb25Ub2tlbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX3Byb2Nlc3Nvci5FeGVjdXRlQ29tbWFuZChjbWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX2h0dHBDbGllbnQuU2VuZEFzeW5jKHJlcXVlc3RNZXNzYWdlLCBjYW5jZWxsYXRpb25Ub2tlbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnNvbGUuV3JpdGVMaW5lKGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF9odHRwQ2xpZW50LlNlbmRBc3luYyhyZXF1ZXN0TWVzc2FnZSwgY2FuY2VsbGF0aW9uVG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1460,10 +1476,10 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlRocmVhZGluZzsKdXNpbmcgU3lzdGVtLlRocmVhZGluZy5UYXNrczsKdXNpbmcgTFJTLkFQSS5EYXRhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF3YWl0IF9odHRwQ2xpZW50LlNlbmRBc3luYyhyZXF1ZXN0TWVzc2FnZSwgY2FuY2VsbGF0aW9uVG9rZW4pOwo=</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
