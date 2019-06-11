@@ -80,6 +80,13 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="80" column="27" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1560254322192">
+        <mark key="'" line="222" column="52" />
+        <mark key="[" line="81" column="80" />
+        <mark key="]" line="81" column="80" />
+        <mark key="." line="81" column="94" />
+        <mark key="^" line="81" column="90" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE655EDE-CFF8-4AF3-86A3-DBA3713C2805/40/ab1ec7bc/HttpResponseMessage.cs" timestamp="1558521087395">
         <mark key="'" line="62" column="23" />
       </file>
@@ -835,9 +842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="91" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/ListTranscriptQueryHandler.cs" />
-      <jump line="117" column="64" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/ListTranscriptQueryHandler.cs" />
-      <jump line="121" column="42" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/ListTranscriptQueryHandler.cs" />
       <jump line="126" column="21" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/ListTranscriptQueryHandler.cs" />
       <jump line="24" column="39" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetIsReviewAllowedQueryHandlerTests.cs" />
       <jump line="21" column="42" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetIsReviewAllowedQueryHandlerTests.cs" />
@@ -935,6 +939,9 @@
       <jump line="16" column="51" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/AiccHelper.cs" />
       <jump line="84" column="18" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" />
       <jump line="47" column="23" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" />
+      <jump line="81" column="94" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="222" column="52" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Telemetry/NewRelicAdapter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -972,7 +979,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text>added functional testing scenarios according to (https://cyberu.atlassian.net/wiki/spaces/CU/pages/111083570/LRS+Scenarios+-+CyberU#LRSScenarios-CyberU-Ratingacourse)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJZGVudGl0eVNlcnZlclw+</text>
+        <text>newre</text>
       </register>
       <register name="0" type="4">
         <text>courseReleaseId</text>
@@ -1032,9 +1039,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJZGVudGl0eVNlcnZlclw+</last-search>
+      <last-search>newre</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJZGVudGl0eVNlcnZlclw+</last-pattern>
+      <last-pattern>newre</last-pattern>
       <last-replace>Rating</last-replace>
       <last-substitute>Review</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,7 +1049,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTYXZlQ291cnNlRmluYWxRdWl6XD4=</entry>
         <entry>cmd.Result.</entry>
         <entry>cmd\.Result\.</entry>
         <entry>GetCourseQueryResult</entry>
@@ -1062,6 +1068,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry>swagg</entry>
         <entry>Auth</entry>
         <entry encoding="base64">XDxJZGVudGl0eVNlcnZlclw+</entry>
+        <entry>newre</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_aiccServiceMock.Object/_processorMock.Object/g</entry>
