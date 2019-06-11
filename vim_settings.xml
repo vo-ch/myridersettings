@@ -31,10 +31,6 @@
         <mark key="." line="33" column="71" />
         <mark key="^" line="33" column="71" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/CourseController.cs" timestamp="1560172184098">
-        <mark key="[" line="76" column="30" />
-        <mark key="]" line="76" column="57" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/GetTranscriptQueryHandlerTests.cs" timestamp="1559903792706">
         <mark key="'" line="273" column="60" />
         <mark key="[" line="323" column="59" />
@@ -421,10 +417,6 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Filters/CyberUExceptionFilter.cs" timestamp="1558341686122">
         <mark key="'" line="72" column="31" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Course republishing/Workflow2.cs" timestamp="1560171235261">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="75" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/DependencyInjection/DomainExtensions.cs" timestamp="1558104081929">
         <mark key="'" line="18" column="52" />
       </file>
@@ -548,6 +540,9 @@
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Fixtures/PostgreSqlCollectionFixture.cs" timestamp="1558535366276">
         <mark key="'" line="5" column="12" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/Domain/V2/UpdateDomainCommandHandler.cs" timestamp="1560262860335">
+        <mark key="'" line="71" column="46" />
+      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.json" timestamp="1559921568568">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="25" column="5" />
@@ -639,6 +634,9 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/LrsBaseController.cs" timestamp="1558360544574">
         <mark key="'" line="8" column="43" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" timestamp="1560262935593">
+        <mark key="'" line="123" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/ConnectedServicesOption.cs" timestamp="1558447575088">
         <mark key="'" line="2" column="22" />
@@ -756,10 +754,6 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Aws/StepFunctions/StepFunctionsService.cs" timestamp="1558449038552">
         <mark key="'" line="17" column="21" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/ActivityController.cs" timestamp="1560169561836">
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="50" column="59" />
-      </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Csv/LrsServiceTests.cs" timestamp="1559054816672">
         <mark key="'" line="17" column="28" />
         <mark key="[" line="18" column="32" />
@@ -851,9 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="21" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/TranscriptControllerTests.cs" />
-      <jump line="307" column="46" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
-      <jump line="61" column="21" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
       <jump line="189" column="76" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/ListTranscriptQueryHandlerTests.cs" />
       <jump line="273" column="60" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/GetTranscriptQueryHandlerTests.cs" />
       <jump line="399" column="50" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
@@ -951,6 +942,9 @@
       <jump line="193" column="30" filename="C:/projects/Rating/Web/API/src/Rating.Api/Filters/CyberUExceptionFilter.cs" />
       <jump line="142" column="44" filename="C:/projects/Rating/Web/API/src/Rating.Api/Filters/CyberUExceptionFilter.cs" />
       <jump line="198" column="30" filename="C:/projects/Rating/Web/API/src/Rating.Api/Filters/CyberUExceptionFilter.cs" />
+      <jump line="71" column="46" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/Domain/V2/UpdateDomainCommandHandler.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="123" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
