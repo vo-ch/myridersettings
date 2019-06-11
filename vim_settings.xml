@@ -654,8 +654,8 @@
         <mark key="." line="10" column="99" />
         <mark key="^" line="10" column="99" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1558942250216">
-        <mark key="'" line="234" column="28" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1560264163155">
+        <mark key="'" line="278" column="22" />
       </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/SubmitQuarterlyPayoutCommandMother.cs" timestamp="1558623685897">
         <mark key="'" line="8" column="47" />
@@ -845,14 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="76" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/ListTranscriptQueryHandlerTests.cs" />
-      <jump line="273" column="60" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/GetTranscriptQueryHandlerTests.cs" />
-      <jump line="399" column="50" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="91" column="76" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" />
-      <jump line="29" column="76" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Rating/GrantUserRatingCommandHandlerTests.cs" />
-      <jump line="17" column="91" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Rating/GrantUserRatingCommandHandlerTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Rating/GrantUserRatingCommandHandlerTests.cs" />
-      <jump line="39" column="83" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Rating/GrantUserRatingCommandHandler.cs" />
       <jump line="32" column="28" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Rating/GrantUserRatingCommandHandler.cs" />
       <jump line="30" column="1" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
       <jump line="91" column="15" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
@@ -945,6 +937,14 @@
       <jump line="71" column="46" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/Domain/V2/UpdateDomainCommandHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
       <jump line="123" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="265" column="40" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/AddSessionIdToLogMiddleware.cs" />
+      <jump line="267" column="45" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/AddRequestIdToLogMiddleware.cs" />
+      <jump line="281" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/35302C35-81DB-438A-91F3-8FEFA7A01676/e7/4be2ec07/DeveloperExceptionPageExtensions.cs" />
+      <jump line="278" column="22" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/89E901F5-02EC-4DB4-BBC5-F7BFEA24CDDA/ad/a8afb174/HostingEnvironmentExtensions.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -982,7 +982,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text>added functional testing scenarios according to (https://cyberu.atlassian.net/wiki/spaces/CU/pages/111083570/LRS+Scenarios+-+CyberU#LRSScenarios-CyberU-Ratingacourse)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwQ2xpZW50RmFjdG9yeVw+</text>
+        <text>throw</text>
       </register>
       <register name="0" type="4">
         <text>courseReleaseId</text>
@@ -1042,9 +1042,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodHRwQ2xpZW50RmFjdG9yeVw+</last-search>
+      <last-search>throw</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwQ2xpZW50RmFjdG9yeVw+</last-pattern>
+      <last-pattern>throw</last-pattern>
       <last-replace>Rating</last-replace>
       <last-substitute>Review</last-substitute>
       <last-dir>1</last-dir>
@@ -1052,7 +1052,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
     </search>
     <history>
       <history-search>
-        <entry>cmd\.Result\.</entry>
         <entry>GetCourseQueryResult</entry>
         <entry>withn</entry>
         <entry>complete</entry>
@@ -1072,6 +1071,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry encoding="base64">XDxJZGVudGl0eVNlcnZlclw+</entry>
         <entry>newre</entry>
         <entry encoding="base64">XDxodHRwQ2xpZW50RmFjdG9yeVw+</entry>
+        <entry>throw</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_aiccServiceMock.Object/_processorMock.Object/g</entry>
