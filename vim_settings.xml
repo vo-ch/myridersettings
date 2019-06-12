@@ -36,7 +36,7 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560350166669">
+      <file name="/Dummy.txt" timestamp="1560357179117">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -139,19 +139,19 @@
         <mark key="." line="41" column="25" />
         <mark key="^" line="116" column="32" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQueryHandler.cs" timestamp="1560346711632">
-        <mark key="'" line="68" column="35" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="59" column="63" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQueryHandler.cs" timestamp="1560356640984">
+        <mark key="'" line="69" column="35" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="74" column="60" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" timestamp="1560347991731">
-        <mark key="'" line="53" column="50" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="63" column="59" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" timestamp="1560356426542">
+        <mark key="'" line="48" column="50" />
+        <mark key="[" line="48" column="69" />
+        <mark key="]" line="48" column="69" />
+        <mark key="." line="48" column="69" />
+        <mark key="^" line="48" column="69" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" timestamp="1560348489668">
         <mark key="'" line="105" column="35" />
@@ -280,8 +280,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IHVzZXJJZCA9IFJhbmRvbUhlbHBlci5HZW5lcmF0ZU5ld0ludCgpOwogICAgICAgICAgICBIdHRwQ2xpZW50IHRlc3RDbGllbnQgPSBDcmVhdGVDbGllbnQodXNlcklkKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>moved GrantUserRatingCommandHandlerTests to unit test project</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
@@ -309,7 +309,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>course.</text>
+        <text>moved GrantUserRatingCommandHandlerTests to unit test project</text>
       </register>
       <register name="/" type="4">
         <text>createwithn</text>
@@ -318,7 +318,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBDb3Vyc2VCdWlsZGVyIENyZWF0ZVdpdGhOVmlkZW9BY3Rpdml0aWVzV2F0Y2hlZChwYXJhbXMgKGludCBkdXJhdGlvbiwgaW50IHdhdGNoZWQsIGJvb2wgaXNDb21wbGV0ZWQpW10gYWN0aXZpdGllcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgID0gaXNDb3Vyc2VSZWFzc2lnbmVkID8gZmFsc2UgOiBHcmFudFVzZXJSYXRpbmcoY291cnNlKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -333,13 +333,13 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBjYW5Vc2VyTGVhdmVSYXRpbmc7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoVXNlcklkKHVzZXJJZCkK</text>
@@ -354,7 +354,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -368,10 +368,10 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudChjb3Vyc2UuVXNlcklkKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
