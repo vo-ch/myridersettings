@@ -99,6 +99,9 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="28" column="9" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/SaveCourseProgressionLessonRequest.cs" timestamp="1560439096227">
+        <mark key="'" line="16" column="47" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/a.cs" timestamp="1560349604962">
         <mark key="'" line="6" column="65" />
         <mark key="[" line="19" column="13" />
@@ -155,8 +158,8 @@
         <mark key="." line="139" column="74" />
         <mark key="^" line="139" column="74" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" timestamp="1560434025551">
-        <mark key="'" line="511" column="21" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" timestamp="1560438916173">
+        <mark key="'" line="493" column="57" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="87" column="115" />
         <mark key="^" line="534" column="72" />
@@ -213,8 +216,8 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" timestamp="1560438433148">
-        <mark key="'" line="428" column="62" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" timestamp="1560438518508">
+        <mark key="'" line="369" column="56" />
         <mark key="[" line="427" column="0" />
         <mark key="]" line="427" column="0" />
         <mark key="^" line="428" column="72" />
@@ -259,6 +262,13 @@
         <mark key="'" line="178" column="0" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="54" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/SaveCourseProgressionRequestMother.cs" timestamp="1560439425068">
+        <mark key="'" line="10" column="52" />
+        <mark key="[" line="19" column="110" />
+        <mark key="]" line="19" column="133" />
+        <mark key="." line="19" column="133" />
+        <mark key="^" line="19" column="133" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/SaveCourseProgressionChapterRequest.cs" timestamp="1560429506524">
         <mark key="[" line="11" column="17" />
@@ -450,7 +460,6 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/SaveCourseProgressionRequest.cs" timestamp="1560429485712">
         <mark key="'" line="23" column="51" />
       </file>
-      <file name="/CourseMother.cs" timestamp="1560420083949" />
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1558970514781">
         <mark key="'" line="99" column="15" />
         <mark key="[" line="206" column="0" />
@@ -513,6 +522,13 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
         <mark key="^" line="74" column="60" />
+      </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/SaveCourseProgressionRequestBuilder.cs" timestamp="1560439310861">
+        <mark key="'" line="62" column="48" />
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="69" column="11" />
+        <mark key="^" line="69" column="11" />
+        <mark key="." line="69" column="11" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetIsReviewAllowedQueryHandler.cs" timestamp="1559898183690">
         <mark key="'" line="34" column="120" />
@@ -619,12 +635,12 @@
         <mark key="^" line="111" column="32" />
         <mark key="." line="111" column="32" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" timestamp="1560436467120">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" timestamp="1560439053267">
         <mark key="'" line="42" column="33" />
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
-        <mark key="^" line="42" column="86" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="108" column="63" />
+        <mark key="." line="77" column="11" />
+        <mark key="^" line="82" column="15" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Domain/Command/CourseRating/CreateCourseRatingCommandHandlerTests.cs" timestamp="1559132420581">
         <mark key="'" line="56" column="44" />
@@ -705,17 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="39" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="110" column="23" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="100" column="33" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" />
-      <jump line="108" column="40" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" />
-      <jump line="115" column="50" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" />
-      <jump line="53" column="50" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="163" column="21" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Transcript/GetTranscriptQueryHandler.cs" />
-      <jump line="105" column="35" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" />
-      <jump line="21" column="76" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/TranscriptHelper.cs" />
-      <jump line="32" column="32" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/TranscriptHelper.cs" />
-      <jump line="33" column="35" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/TranscriptHelper.cs" />
       <jump line="17" column="61" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Rating/GrantUserRatingCommandHandlerTests.cs" />
       <jump line="6" column="65" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/a.cs" />
       <jump line="18" column="95" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Rating/GrantUserRatingCommandHandlerTests.cs" />
@@ -804,14 +809,25 @@
       <jump line="311" column="19" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/SaveActivityProgressionRequestMother.cs" />
       <jump line="429" column="62" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
+      <jump line="369" column="56" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" />
+      <jump line="544" column="96" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
+      <jump line="518" column="52" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
+      <jump line="470" column="78" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
+      <jump line="10" column="52" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/SaveCourseProgressionRequestMother.cs" />
+      <jump line="10" column="40" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/SaveCourseProgressionRequestBuilder.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/SaveCourseProgressionChapterRequest.cs" />
+      <jump line="493" column="57" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/CourseControllerTests.cs" />
+      <jump line="61" column="48" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/SaveCourseProgressionRequestBuilder.cs" />
+      <jump line="16" column="47" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/SaveCourseProgressionLessonRequest.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Models/Course/V2/SaveCourseProgressionActivityRequest.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwogICAgICAgICAgICBhd2FpdCBQZXJzaXN0Q291cnNlKGNvdXJzZSk7CiAgICAgICAgICAgIENvdXJzZVRyYW5zY3JpcHQgdHJhbnNjcmlwdCA9IENvdXJzZVRyYW5zY3JpcHRNb3RoZXIuQ3JlYXRlRm9yQ291cnNlKGNvdXJzZSkuQnVpbGQoKTsKICAgICAgICAgICAgYXdhaXQgUGVyc2lzdFRyYW5zY3JpcHQodHJhbnNjcmlwdCk7CgogICAgICAgICAgICBIdHRwQ2xpZW50IHRlc3RDbGllbnQgPSBDcmVhdGVDbGllbnQoY291cnNlLlVzZXJJZCk7CiAgICAgICAgICAgIGludCBwZXJjZW50YWdlUmVxdWlyZWRGb3JSYXRpbmcgPSBHZXRPcHRpb248R3JhbnRVc2VyUmF0aW5nT3B0aW9uPigpLk1pbmltdW1XYXRjaGVkUGVyY2VudGFnZTsKCiAgICAgICAgICAgIGF3YWl0IENvdXJzZVByb2dyZXNzSGVscGVyLlNhdmVQcm9ncmVzc1BlcmNlbnRhZ2UoY291cnNlLCB0ZXN0Q2xpZW50LCBwZXJjZW50YWdlUmVxdWlyZWRGb3JSYXRpbmcgLSAxKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGNoYXB0ZXIgaW4gY291cnNlLkNoYXB0ZXJzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmb3JlYWNoIChMZXNzb24gbGVzc29uIGluIGNoYXB0ZXIuTGVzc29ucykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBBcHBseVByb2dyZXNzUGVyY2VudGFnZShsZXNzb24uQWN0aXZpdHkgYXMgVmlkZW9BY3Rpdml0eVN1bW1hcnksIHByb2dyZXNzUGVyY2VudGFnZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFNhdmVDb3Vyc2VQcm9ncmVzc2lvblJlcXVlc3RCdWlsZGVyIENyZWF0ZUZyb21Db3Vyc2UoQ291cnNlIGNvdXJzZSkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgU2F2ZUNvdXJzZVByb2dyZXNzaW9uUmVxdWVzdEJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLldpdGhSZWxlYXNlSWQoY291cnNlLlJlbGVhc2VJZCkKICAgICAgICAgICAgICAgIC5XaXRoVG90YWxEdXJhdGlvbihjb3Vyc2UuVG90YWxEdXJhdGlvbikKICAgICAgICAgICAgICAgIC5XaXRoQ2hhcHRlcnMoY291cnNlPy5DaGFwdGVycz8uU2VsZWN0KHggPT4gbmV3IFNhdmVDb3Vyc2VQcm9ncmVzc2lvbkNoYXB0ZXJSZXF1ZXN0QnVpbGRlcih4KS5CdWlsZCgpKS5Ub0xpc3QoKSkKICAgICAgICAgICAgICAgIC5XaXRoRmluYWxRdWl6KG5ldyBTYXZlRmluYWxRdWl6UHJvZ3Jlc3Npb25SZXF1ZXN0QnVpbGRlcihjb3Vyc2U/LkZpbmFsUXVpeikuQnVpbGQoKSkKICAgICAgICAgICAgICAgIC5XaXRoTGFzdFBsYXllZEFjdGl2aXR5SWQoY291cnNlLkxhc3RQbGF5ZWRBY3Rpdml0eUlkKQogICAgICAgICAgICAgICAgLldpdGhBdHRlbXB0TnVtYmVyKGNvdXJzZS5BdHRlbXB0TnVtYmVyKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
@@ -839,16 +855,16 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, percentageRequiredForRating + 1</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>nopro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBFeGVjdXRlX1RvdGFsV2F0Y2hlZER1cmF0aW9uTW9yZVRoYW5SZXF1aXJlZEZvclJhdGluZ19SZXR1cm5zQ2FuVXNlckxlYXZlUmF0aW5nVHJ1ZSgpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIENvdXJzZSBjb3Vyc2UgPSBDb3Vyc2VNb3RoZXIuQ3JlYXRlV2l0aE5WaWRlb0FjdGl2aXRpZXMoMikuQnVpbGQoKTsKICAgICAgICAgICAgYXdhaXQgUGVyc2lzdENvdXJzZShjb3Vyc2UpOwogICAgICAgICAgICBpbnQgcGVyY2VudGFnZVJlcXVpcmVkRm9yUmF0aW5nID0gR2V0T3B0aW9uPEdyYW50VXNlclJhdGluZ09wdGlvbj4oKS5NaW5pbXVtV2F0Y2hlZFBlcmNlbnRhZ2U7CgogICAgICAgICAgICBjb3Vyc2UgPSBDb3Vyc2VQcm9ncmVzc0hlbHBlci5BcHBseVByb2dyZXNzUGVyY2VudGFnZShjb3Vyc2UsIHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyArIDEpOwoKICAgICAgICAgICAgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0IHJlcXVlc3QxID0gU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0TW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlRnJvbUNvdXJzZShjb3Vyc2UsIDAsIDApCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsKICAgICAgICAgICAgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0IHJlcXVlc3QyID0gU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0TW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlRnJvbUNvdXJzZShjb3Vyc2UsIDAsIDEpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsKCiAgICAgICAgICAgIHZhciBjbWQxID0gbmV3IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZChjb3Vyc2UuVXNlcklkKS5CeVNhdmVBY3Rpdml0eVByb2dyZXNzaW9uUmVxdWVzdChyZXF1ZXN0MSk7CiAgICAgICAgICAgIHZhciBjbWQyID0gbmV3IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZChjb3Vyc2UuVXNlcklkKS5CeVNhdmVBY3Rpdml0eVByb2dyZXNzaW9uUmVxdWVzdChyZXF1ZXN0Mik7CiAgICAgICAgICAgIHZhciBoYW5kbGVyID0gbmV3IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZEhhbmRsZXIoX2xyc0RiQ29udGV4dCwgX3Byb2Nlc3Nvcik7CgogICAgICAgICAgICAvL0FjdAogICAgICAgICAgICBhd2FpdCBoYW5kbGVyLkV4ZWN1dGVBc3luYyhjbWQxLCBDYW5jZWxsYXRpb25Ub2tlbi5Ob25lKTsKICAgICAgICAgICAgYXdhaXQgaGFuZGxlci5FeGVjdXRlQXN5bmMoY21kMiwgQ2FuY2VsbGF0aW9uVG9rZW4uTm9uZSk7CgogICAgICAgICAgICAvL0Fzc2VydAogICAgICAgICAgICBBc3NlcnQuTm90TnVsbChjbWQyLlJlc3VsdCk7CiAgICAgICAgICAgIEFzc2VydC5UcnVlKGNtZDIuUmVzdWx0LkNhblVzZXJMZWF2ZVJhdGluZyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFNhdmVDb3Vyc2VQcm9ncmVzc2lvblJlcXVlc3RCdWlsZGVyIENyZWF0ZUZyb21Db3Vyc2UoQ291cnNlIGNvdXJzZSkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBuZXcgU2F2ZUNvdXJzZVByb2dyZXNzaW9uUmVxdWVzdEJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLldpdGhSZWxlYXNlSWQoY291cnNlLlJlbGVhc2VJZCkKICAgICAgICAgICAgICAgIC5XaXRoVG90YWxEdXJhdGlvbihjb3Vyc2UuVG90YWxEdXJhdGlvbikKICAgICAgICAgICAgICAgIC5XaXRoQ2hhcHRlcnMoY291cnNlPy5DaGFwdGVycz8uU2VsZWN0KHggPT4gbmV3IFNhdmVDb3Vyc2VQcm9ncmVzc2lvbkNoYXB0ZXJSZXF1ZXN0QnVpbGRlcih4KS5CdWlsZCgpKS5Ub0xpc3QoKSkKICAgICAgICAgICAgICAgIC5XaXRoRmluYWxRdWl6KG5ldyBTYXZlRmluYWxRdWl6UHJvZ3Jlc3Npb25SZXF1ZXN0QnVpbGRlcihjb3Vyc2U/LkZpbmFsUXVpeikuQnVpbGQoKSkKICAgICAgICAgICAgICAgIC5XaXRoTGFzdFBsYXllZEFjdGl2aXR5SWQoY291cnNlLkxhc3RQbGF5ZWRBY3Rpdml0eUlkKQogICAgICAgICAgICAgICAgLldpdGhBdHRlbXB0TnVtYmVyKGNvdXJzZS5BdHRlbXB0TnVtYmVyKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIF9hdHRlbXB0TnVtYmVyID0gYXR0ZW1wdE51bWJlcjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -863,28 +879,28 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwogICAgICAgICAgICBDb3Vyc2UgY291cnNlID0gQ291cnNlTW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlV2l0aE5WaWRlb0FjdGl2aXRpZXNXYXRjaGVkKAogICAgICAgICAgICAgICAgICAgIChkdXJhdGlvbjogNTAsIHdhdGNoZWQ6IDApLAogICAgICAgICAgICAgICAgICAgIChkdXJhdGlvbjogNTAsIHdhdGNoZWQ6IDApKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CgogICAgICAgICAgICBhd2FpdCBQZXJzaXN0Q291cnNlKGNvdXJzZSk7CgogICAgICAgICAgICBTYXZlQWN0aXZpdHlQcm9ncmVzc2lvblJlcXVlc3QgcmVxdWVzdCA9IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uUmVxdWVzdE1vdGhlcgogICAgICAgICAgICAgICAgLkNyZWF0ZUZyb21Db3Vyc2UoY291cnNlKQogICAgICAgICAgICAgICAgLldpdGhXYXRjaGVkRHVyYXRpb24ocGVyY2VudGFnZVJlcXVpcmVkRm9yUmF0aW5nICsgMSkKICAgICAgICAgICAgICAgIC5CdWlsZCgpOwogICAgICAgICAgICB2YXIgY21kID0gbmV3IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZChjb3Vyc2UuVXNlcklkKS5CeVNhdmVBY3Rpdml0eVByb2dyZXNzaW9uUmVxdWVzdChyZXF1ZXN0KTsKICAgICAgICAgICAgdmFyIGhhbmRsZXIgPSBuZXcgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25Db21tYW5kSGFuZGxlcihfbHJzRGJDb250ZXh0LCBfcHJvY2Vzc29yKTsKCiAgICAgICAgICAgIC8vQWN0CiAgICAgICAgICAgIGF3YWl0IGhhbmRsZXIuRXhlY3V0ZUFzeW5jKGNtZCwgQ2FuY2VsbGF0aW9uVG9rZW4uTm9uZSk7CgogICAgICAgICAgICAvL0Fzc2VydAogICAgICAgICAgICBBc3NlcnQuTm90TnVsbChjbWQuUmVzdWx0KTsKICAgICAgICAgICAgQXNzZXJ0LlRydWUoY21kLlJlc3VsdC5DYW5Vc2VyTGVhdmVSYXRpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgYWMK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoY21kMS5SZXN1bHQpOwogICAgICAgICAgICBBc3NlcnQuRmFsc2UoY21kMS5SZXN1bHQuQ2FuVXNlckxlYXZlUmF0aW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXBwbHlQcm9ncmVzc1BlcmNlbnRhZ2UobGVzc29uLkFjdGl2aXR5IGFzIFZpZGVvQWN0aXZpdHlTdW1tYXJ5LCBwcm9ncmVzc1BlcmNlbnRhZ2UpOwo=</text>
       </register>
-      <register name="s" type="4">
-        <text encoding="base64">Q291cnNlIGNvdXJzZVdpdGhOZXdQcm9ncmVzcyA=</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU2F2ZUNvdXJzZVByb2dyZXNzaW9uUmVxdWVzdEJ1aWxkZXIgV2l0aEF0dGVtcHROdW1iZXIoaW50IGF0dGVtcHROdW1iZXIpCiAgICAgICAgewogICAgICAgICAgICBfYXR0ZW1wdE51bWJlciA9IGF0dGVtcHROdW1iZXI7CiAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoY21kMS5SZXN1bHQpOwogICAgICAgICAgICBBc3NlcnQuRmFsc2UoY21kMS5SZXN1bHQuQ2FuVXNlckxlYXZlUmF0aW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwogICAgICAgICAgICBDb3Vyc2UgY291cnNlID0gQ291cnNlTW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlV2l0aE5WaWRlb0FjdGl2aXRpZXNXYXRjaGVkKAogICAgICAgICAgICAgICAgICAgIChkdXJhdGlvbjogNTAsIHdhdGNoZWQ6IDApLAogICAgICAgICAgICAgICAgICAgIChkdXJhdGlvbjogNTAsIHdhdGNoZWQ6IDApKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CgogICAgICAgICAgICBhd2FpdCBQZXJzaXN0Q291cnNlKGNvdXJzZSk7CgogICAgICAgICAgICBTYXZlQWN0aXZpdHlQcm9ncmVzc2lvblJlcXVlc3QgcmVxdWVzdCA9IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uUmVxdWVzdE1vdGhlcgogICAgICAgICAgICAgICAgLkNyZWF0ZUZyb21Db3Vyc2UoY291cnNlKQogICAgICAgICAgICAgICAgLldpdGhXYXRjaGVkRHVyYXRpb24ocGVyY2VudGFnZVJlcXVpcmVkRm9yUmF0aW5nKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CiAgICAgICAgICAgIHZhciBjbWQgPSBuZXcgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25Db21tYW5kKGNvdXJzZS5Vc2VySWQpLkJ5U2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0KHJlcXVlc3QpOwogICAgICAgICAgICB2YXIgaGFuZGxlciA9IG5ldyBTYXZlQWN0aXZpdHlQcm9ncmVzc2lvbkNvbW1hbmRIYW5kbGVyKF9scnNEYkNvbnRleHQsIF9wcm9jZXNzb3IpOwoKICAgICAgICAgICAgLy9BY3QKICAgICAgICAgICAgYXdhaXQgaGFuZGxlci5FeGVjdXRlQXN5bmMoY21kLCBDYW5jZWxsYXRpb25Ub2tlbi5Ob25lKTsKCiAgICAgICAgICAgIC8vQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5Ob3ROdWxsKGNtZC5SZXN1bHQpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShjbWQuUmVzdWx0LkNhblVzZXJMZWF2ZVJhdGluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwogICAgICAgICAgICBDb3Vyc2UgY291cnNlID0gQ291cnNlTW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlV2l0aE5WaWRlb0FjdGl2aXRpZXNXYXRjaGVkKAogICAgICAgICAgICAgICAgICAgIChkdXJhdGlvbjogNTAsIHdhdGNoZWQ6IDApLAogICAgICAgICAgICAgICAgICAgIChkdXJhdGlvbjogNTAsIHdhdGNoZWQ6IDApKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CgogICAgICAgICAgICBhd2FpdCBQZXJzaXN0Q291cnNlKGNvdXJzZSk7CgogICAgICAgICAgICBTYXZlQWN0aXZpdHlQcm9ncmVzc2lvblJlcXVlc3QgcmVxdWVzdCA9IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uUmVxdWVzdE1vdGhlcgogICAgICAgICAgICAgICAgLkNyZWF0ZUZyb21Db3Vyc2UoY291cnNlKQogICAgICAgICAgICAgICAgLldpdGhXYXRjaGVkRHVyYXRpb24ocGVyY2VudGFnZVJlcXVpcmVkRm9yUmF0aW5nICsgMSkKICAgICAgICAgICAgICAgIC5CdWlsZCgpOwogICAgICAgICAgICB2YXIgY21kID0gbmV3IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uQ29tbWFuZChjb3Vyc2UuVXNlcklkKS5CeVNhdmVBY3Rpdml0eVByb2dyZXNzaW9uUmVxdWVzdChyZXF1ZXN0KTsKICAgICAgICAgICAgdmFyIGhhbmRsZXIgPSBuZXcgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25Db21tYW5kSGFuZGxlcihfbHJzRGJDb250ZXh0LCBfcHJvY2Vzc29yKTsKCiAgICAgICAgICAgIC8vQWN0CiAgICAgICAgICAgIGF3YWl0IGhhbmRsZXIuRXhlY3V0ZUFzeW5jKGNtZCwgQ2FuY2VsbGF0aW9uVG9rZW4uTm9uZSk7CgogICAgICAgICAgICAvL0Fzc2VydAogICAgICAgICAgICBBc3NlcnQuTm90TnVsbChjbWQuUmVzdWx0KTsKICAgICAgICAgICAgQXNzZXJ0LlRydWUoY21kLlJlc3VsdC5DYW5Vc2VyTGVhdmVSYXRpbmcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0IHJlcXVlc3QxID0gU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0TW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlRnJvbUNvdXJzZShjb3Vyc2UpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsKICAgICAgICAgICAgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0IHJlcXVlc3QyID0gU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0TW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlRnJvbUNvdXJzZShjb3Vyc2UpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoY21kMS5SZXN1bHQpOwogICAgICAgICAgICBBc3NlcnQuRmFsc2UoY21kMS5SZXN1bHQuQ2FuVXNlckxlYXZlUmF0aW5nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0Lk5vdE51bGwoY21kMS5SZXN1bHQpOwogICAgICAgICAgICBBc3NlcnQuRmFsc2UoY21kMS5SZXN1bHQuQ2FuVXNlckxlYXZlUmF0aW5nKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -898,10 +914,10 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvdXJzZSA9IENvdXJzZVByb2dyZXNzSGVscGVyLkFwcGx5UHJvZ3Jlc3NQZXJjZW50YWdlKGNvdXJzZSwgcGVyY2VudGFnZVJlcXVpcmVkRm9yUmF0aW5nIC0gMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHBlcmNlbnRhZ2VSZXF1aXJlZEZvclJhdGluZyA9IEdldE9wdGlvbjxHcmFudFVzZXJSYXRpbmdPcHRpb24+KCkuTWluaW11bVdhdGNoZWRQZXJjZW50YWdlOwogICAgICAgICAgICBDb3Vyc2UgY291cnNlID0gQ291cnNlTW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlV2l0aE5WaWRlb0FjdGl2aXRpZXNXYXRjaGVkKAogICAgICAgICAgICAgICAgICAgIChkdXJhdGlvbjogNTAsIHdhdGNoZWQ6IDApLAogICAgICAgICAgICAgICAgICAgIChkdXJhdGlvbjogNTAsIHdhdGNoZWQ6IDApKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CgogICAgICAgICAgICBhd2FpdCBQZXJzaXN0Q291cnNlKGNvdXJzZSk7CgogICAgICAgICAgICBTYXZlQWN0aXZpdHlQcm9ncmVzc2lvblJlcXVlc3QgcmVxdWVzdCA9IFNhdmVBY3Rpdml0eVByb2dyZXNzaW9uUmVxdWVzdE1vdGhlcgogICAgICAgICAgICAgICAgLkNyZWF0ZUZyb21Db3Vyc2UoY291cnNlKQogICAgICAgICAgICAgICAgLldpdGhXYXRjaGVkRHVyYXRpb24ocGVyY2VudGFnZVJlcXVpcmVkRm9yUmF0aW5nKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CiAgICAgICAgICAgIHZhciBjbWQgPSBuZXcgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25Db21tYW5kKGNvdXJzZS5Vc2VySWQpLkJ5U2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0KHJlcXVlc3QpOwogICAgICAgICAgICB2YXIgaGFuZGxlciA9IG5ldyBTYXZlQWN0aXZpdHlQcm9ncmVzc2lvbkNvbW1hbmRIYW5kbGVyKF9scnNEYkNvbnRleHQsIF9wcm9jZXNzb3IpOwoKICAgICAgICAgICAgLy9BY3QKICAgICAgICAgICAgYXdhaXQgaGFuZGxlci5FeGVjdXRlQXN5bmMoY21kLCBDYW5jZWxsYXRpb25Ub2tlbi5Ob25lKTsKCiAgICAgICAgICAgIC8vQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5Ob3ROdWxsKGNtZC5SZXN1bHQpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShjbWQuUmVzdWx0LkNhblVzZXJMZWF2ZVJhdGluZyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoV2F0Y2hlZER1cmF0aW9uKGNvdXJzZS5DaGFwdGVyc1swXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0IHJlcXVlc3QxID0gU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0TW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlRnJvbUNvdXJzZShjb3Vyc2UpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsKICAgICAgICAgICAgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0IHJlcXVlc3QyID0gU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0TW90aGVyCiAgICAgICAgICAgICAgICAuQ3JlYXRlRnJvbUNvdXJzZShjb3Vyc2UpCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
