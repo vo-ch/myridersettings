@@ -361,12 +361,12 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="54" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Helper/CourseHelper.cs" timestamp="1560423956952">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Helper/CourseHelper.cs" timestamp="1560428361216">
         <mark key="'" line="39" column="32" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
+        <mark key="^" line="15" column="32" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Controllers/V2/CourseControllerTests.cs" timestamp="1559659863332">
         <mark key="'" line="131" column="55" />
@@ -794,7 +794,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaW50IHVzZXJJZCA9IFJhbmRvbUhlbHBlci5HZW5lcmF0ZU5ld0ludCgpOwogICAgICAgICAgICBIdHRwQ2xpZW50IHRlc3RDbGllbnQgPSBDcmVhdGVDbGllbnQodXNlcklkKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIGRhdGEgPSA=</text>
+        <text>Course</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
@@ -822,7 +822,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIGRhdGEgPSA=</text>
+        <text>Course</text>
       </register>
       <register name="/" type="4">
         <text>userId =</text>
