@@ -228,12 +228,12 @@
         <mark key="^" line="37" column="6" />
         <mark key="." line="37" column="6" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" timestamp="1560352863595">
-        <mark key="'" line="401" column="71" />
-        <mark key="[" line="401" column="74" />
-        <mark key="]" line="401" column="77" />
-        <mark key="." line="401" column="77" />
-        <mark key="^" line="401" column="77" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" timestamp="1560420162393">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="400" column="12" />
+        <mark key="]" line="400" column="11" />
+        <mark key="^" line="400" column="11" />
+        <mark key="." line="400" column="11" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Rating/CalculateUserCanLeaveRatingCommandHandler.cs" timestamp="1559898454248">
         <mark key="'" line="11" column="68" />
@@ -406,6 +406,7 @@
         <mark key="^" line="35" column="18" />
         <mark key="." line="35" column="18" />
       </file>
+      <file name="/CourseMother.cs" timestamp="1560420083949" />
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1558970514781">
         <mark key="'" line="99" column="15" />
         <mark key="[" line="206" column="0" />
@@ -676,9 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="44" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Rating/GrantUserRatingCommandHandlerTests.cs" />
-      <jump line="10" column="65" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Rating/GrantUserRatingCommandHandler.cs" />
-      <jump line="138" column="21" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
       <jump line="120" column="8" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/TranscriptControllerTests.cs" />
       <jump line="305" column="50" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
       <jump line="54" column="42" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" />
@@ -776,13 +774,16 @@
       <jump line="326" column="53" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/GetTranscriptQueryHandlerTests.cs" />
       <jump line="39" column="16" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/GetTranscriptQueryHandlerTests.cs" />
       <jump line="53" column="16" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/GetTranscriptQueryHandlerTests.cs" />
+      <jump line="455" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" />
+      <jump line="170" column="53" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" />
+      <jump line="139" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW50IHVzZXJJZCA9IFJhbmRvbUhlbHBlci5HZW5lcmF0ZU5ld0ludCgpOwogICAgICAgICAgICBIdHRwQ2xpZW50IHRlc3RDbGllbnQgPSBDcmVhdGVDbGllbnQodXNlcklkKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>int userId = RandomHelper.GenerateNewInt()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyZWF0ZVdpdGhOVmlkZW9BY3Rpdml0aWVzKFJhbmRvbUhlbHBlci5HZW5lcmF0ZU5ld0ludCgxLCA1KSk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgR3JhbnRVc2VyUmF0aW5nKENvdXJzZSBjb3Vyc2UpCg==</text>
@@ -819,7 +820,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text>int userId = RandomHelper.GenerateNewInt()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgID0gaXNDb3Vyc2VSZWFzc2lnbmVkID8gZmFsc2UgOiBHcmFudFVzZXJSYXRpbmcoY291cnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyZWF0ZVdpdGhOVmlkZW9BY3Rpdml0aWVzKFJhbmRvbUhlbHBlci5HZW5lcmF0ZU5ld0ludCgxLCA1KSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -834,28 +835,28 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBjYW5Vc2VyTGVhdmVSYXRpbmc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENyZWF0ZVdpdGhOVmlkZW9BY3Rpdml0aWVzKFJhbmRvbUhlbHBlci5HZW5lcmF0ZU5ld0ludCgxLCA1KSk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5XaXRoVXNlcklkKHVzZXJJZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIENvdXJzZUJ1aWxkZXIgQ3JlYXRlV2l0aE5WaWRlb0FjdGl2aXRpZXNXYXRjaGVkQW5kRmluYWxRdWl6KAogICAgICAgICAgICBwYXJhbXMgKGludCBkdXJhdGlvbiwgaW50IHdhdGNoZWQpW10gYWN0aXZpdGllcykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBjaGFwdGVyQnVpbGRlciA9IG5ldyBDaGFwdGVyQnVpbGRlcigpOwoKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBhY3Rpdml0aWVzLkxlbmd0aDsgaSsrKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBjaGFwdGVyQnVpbGRlciA9CiAgICAgICAgICAgICAgICAgICAgY2hhcHRlckJ1aWxkZXIuV2l0aExlc3NvbigKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IExlc3NvbkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLldpdGhBY3Rpdml0eSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgQWN0aXZpdHlCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLldpdGhUeXBlKEFjdGl2aXR5VHlwZS5WaWRlbykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLldpdGhEdXJhdGlvbihhY3Rpdml0aWVzW2ldLmR1cmF0aW9uKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuV2l0aFdhdGNoZWREdXJhdGlvbihhY3Rpdml0aWVzW2ldLndhdGNoZWQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5Db21wbGV0ZWQoYWN0aXZpdGllc1tpXS53YXRjaGVkID49IGFjdGl2aXRpZXNbaV0uZHVyYXRpb24pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5CdWlsZCgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLkJ1aWxkKCkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgYnVpbGRlciA9CiAgICAgICAgICAgICAgICBuZXcgQ291cnNlQnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgLldpdGhUb3RhbER1cmF0aW9uKGFjdGl2aXRpZXMuU3VtKHggPT4geC5kdXJhdGlvbikpCiAgICAgICAgICAgICAgICAgICAgLldpdGhDaGFwdGVyKGNoYXB0ZXJCdWlsZGVyLkJ1aWxkKCkpCiAgICAgICAgICAgICAgICAgICAgLldpdGhGaW5hbFF1aXooCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBGaW5hbFF1aXpCdWlsZGVyKCkuQnVpbGQoKSk7CgogICAgICAgICAgICByZXR1cm4gYnVpbGRlcjsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgID0gaXNDb3Vyc2VSZWFzc2lnbmVkID8gZmFsc2UgOiBHcmFudFVzZXJSYXRpbmcoY291cnNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBjYW5Vc2VyTGVhdmVSYXRpbmc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEh0dHBDbGllbnQgdGVzdENsaWVudCA9IENyZWF0ZUNsaWVudCh0cmFuc2NyaXB0LlVzZXJJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
