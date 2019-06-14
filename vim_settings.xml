@@ -631,10 +631,10 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" timestamp="1560525853326">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" timestamp="1560528242488">
         <mark key="'" line="33" column="80" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="136" column="9" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="17" column="36" />
         <mark key="^" line="96" column="14" />
         <mark key="." line="123" column="0" />
       </file>
@@ -823,7 +823,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vY2tHcmFudFVzZXJSYXRpbmdPcHRpb24gPSBTZXJ2aWNlUHJvdmlkZXIuR2V0UmVxdWlyZWRTZXJ2aWNlPE1vY2s8SU9wdGlvbnM8R3JhbnRVc2VyUmF0aW5nT3B0aW9uPj4+KCk7CiAgICAgICAgICAgIG1vY2tHcmFudFVzZXJSYXRpbmdPcHRpb24KICAgICAgICAgICAgICAgIC5TZXR1cEdldCh4ID0+IHguVmFsdWUpCiAgICAgICAgICAgICAgICAuUmV0dXJucyhHcmFudFVzZXJSYXRpbmdPcHRpb25Nb3RoZXIuQ3JlYXRlKCkuQnVpbGQoKSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>add random ids</text>
+        <text>CourseProgressHelper</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -856,8 +856,8 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
       <register name="/" type="4">
         <text>First</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRW5zdXJlIHRoYXQgdXNlciBjYW4ndCBsZWF2ZSByYXRpbmcgZm9yIGNvdXJzZQo=</text>
+      <register name="0" type="4">
+        <text>CourseProgressHelper</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgVHJhbnNjcmlwdEhlbHBlci5FbnN1cmVUcmFuc2NyaXB0UmF0aW5nR3JhbnRlZFN0YXR1cyhjbGllbnQsIGNvdXJzZS5SZWxlYXNlSWQsIGNhblVzZXJMZWF2ZVJhdGluZzogZmFsc2UpOwo=</text>
