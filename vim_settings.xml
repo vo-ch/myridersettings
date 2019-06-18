@@ -89,8 +89,8 @@
         <mark key="]" line="99" column="59" />
         <mark key="." line="99" column="58" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/AirbrakeExtensions.cs" timestamp="1560868733622">
-        <mark key="'" line="15" column="51" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/AirbrakeExtensions.cs" timestamp="1560869428453">
+        <mark key="'" line="15" column="45" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/a.cs" timestamp="1560349604962">
         <mark key="'" line="6" column="65" />
@@ -317,8 +317,8 @@
         <mark key="." line="77" column="28" />
         <mark key="^" line="77" column="28" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" timestamp="1560862646871">
-        <mark key="'" line="35" column="23" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" timestamp="1560870451197">
+        <mark key="'" line="18" column="32" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Builders/CourseRatingBuilder.cs" timestamp="1559136788823">
         <mark key="'" line="8" column="55" />
@@ -344,8 +344,11 @@
         <mark key="." line="10" column="99" />
         <mark key="^" line="10" column="99" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1560868710695">
-        <mark key="'" line="284" column="24" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1560870159271">
+        <mark key="'" line="253" column="41" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="59" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Middlewares/CyberUExceptionMiddlewareTests.cs" timestamp="1559220236466">
         <mark key="'" line="72" column="12" />
@@ -706,11 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="103" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow3.cs" />
-      <jump line="111" column="90" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow3.cs" />
-      <jump line="20" column="71" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
-      <jump line="234" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
-      <jump line="455" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="457" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="27" column="36" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="447" column="87" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
@@ -744,7 +742,6 @@
       <jump line="99" column="52" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
       <jump line="18" column="17" filename="C:/projects/Rating/Web/API/src/Rating.Api/Middlewares/CyberUExceptionMiddleware.cs" />
       <jump line="71" column="49" filename="C:/projects/Rating/Web/API/src/Rating.Api/Middlewares/CyberUExceptionMiddleware.cs" />
-      <jump line="35" column="23" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
       <jump line="69" column="25" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42C17562-71E5-468E-9FE4-52FC8E71D202/d3/233568ba/AirbrakeNotifier.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42C17562-71E5-468E-9FE4-52FC8E71D202/27/f99823e9/ILogger.cs" />
@@ -798,7 +795,6 @@
       <jump line="109" column="34" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/AccountController.cs" />
       <jump line="30" column="31" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" />
       <jump line="284" column="24" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
-      <jump line="15" column="51" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/AirbrakeExtensions.cs" />
       <jump line="270" column="17" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeNotifier.cs" />
       <jump line="262" column="24" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeNotifier.cs" />
       <jump line="243" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeNotifier.cs" />
@@ -806,6 +802,13 @@
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeNotifier.cs" />
       <jump line="18" column="72" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" />
       <jump line="100" column="19" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
+      <jump line="285" column="25" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="15" column="45" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/AirbrakeExtensions.cs" />
+      <jump line="253" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" />
+      <jump line="35" column="22" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="18" column="32" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Abstract/ISystemMessenger.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
