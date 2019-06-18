@@ -126,8 +126,8 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="80" column="27" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1560336575648">
-        <mark key="'" line="81" column="49" />
+      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1560866304794">
+        <mark key="'" line="4" column="14" />
         <mark key="[" line="81" column="80" />
         <mark key="]" line="81" column="80" />
         <mark key="." line="81" column="94" />
@@ -177,6 +177,9 @@
         <mark key="]" line="18" column="37" />
         <mark key="." line="18" column="37" />
         <mark key="^" line="21" column="71" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" timestamp="1560866337458">
+        <mark key="'" line="16" column="37" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Domain/DependencyInjection/DomainExtensions.cs" timestamp="1559232171059">
         <mark key="'" line="41" column="28" />
@@ -282,9 +285,6 @@
         <mark key="]" line="54" column="11" />
         <mark key="." line="54" column="11" />
         <mark key="^" line="54" column="11" />
-      </file>
-      <file name="/rating_9c09f3f4-7fa1-41b6-9c50-cece5eeb31f1.public.CourseRatings [docker@localhost [2]]" timestamp="1560844598656">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeNotifier.cs" timestamp="1560864216621">
         <mark key="'" line="23" column="25" />
@@ -685,21 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" />
-      <jump line="120" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" />
-      <jump line="122" column="8" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" />
-      <jump line="129" column="12" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" />
-      <jump line="134" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" />
-      <jump line="137" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" />
-      <jump line="23" column="36" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/MongoDbRunnerFixture.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" />
-      <jump line="18" column="70" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
-      <jump line="468" column="44" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="487" column="58" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
-      <jump line="145" column="8" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" />
-      <jump line="153" column="8" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" />
-      <jump line="402" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="510" column="24" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="602" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="542" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
@@ -785,6 +770,21 @@
       <jump line="116" column="46" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="39" column="25" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Middlewares/CyberUExceptionMiddleware.cs" />
       <jump line="181" column="46" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="83" column="73" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="86" column="52" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="89" column="71" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="90" column="33" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="97" column="27" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="198" column="34" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="199" column="37" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="200" column="59" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="201" column="85" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="207" column="41" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="276" column="62" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="277" column="35" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="4" column="14" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
+      <jump line="16" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -822,7 +822,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text>canUserLeaveRating</text>
       </register>
       <register name="/" type="4">
-        <text>airbra</text>
+        <text>airbrake</text>
       </register>
       <register name="0" type="4">
         <text>CreateReassignedCourseObject(course)</text>
@@ -874,9 +874,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
       </register>
     </registers>
     <search>
-      <last-search>airbra</last-search>
+      <last-search>airbrake</last-search>
       <last-offset />
-      <last-pattern>airbra</last-pattern>
+      <last-pattern>airbrake</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>First</last-substitute>
       <last-dir>1</last-dir>
@@ -884,7 +884,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
     </search>
     <history>
       <history-search>
-        <entry>nopro</entry>
         <entry>ByCou</entry>
         <entry encoding="base64">XDxfaGFzTmV3QWN0aXZpdHlDb21wbGV0ZWRcPg==</entry>
         <entry encoding="base64">XDxfb3B0aW9uc1w+</entry>
@@ -904,6 +903,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry>Airbr</entry>
         <entry>airb</entry>
         <entry>airbra</entry>
+        <entry>airbrake</entry>
       </history-search>
       <history-cmd>
         <entry>action RenameElement</entry>
