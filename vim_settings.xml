@@ -179,6 +179,9 @@
         <mark key="^" line="363" column="76" />
         <mark key="." line="368" column="0" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Aicc/Handler/AiccHandler.cs" timestamp="1560849313903">
+        <mark key="'" line="53" column="42" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetIsReviewAllowedQuery.cs" timestamp="1559898092178">
         <mark key="'" line="7" column="43" />
         <mark key="[" line="7" column="17" />
@@ -720,7 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="466" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="473" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="459" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" />
       <jump line="76" column="82" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Controllers/V2/CourseController.cs" />
@@ -820,6 +822,7 @@
       <jump line="74" column="68" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" />
       <jump line="87" column="64" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" />
       <jump line="141" column="36" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
+      <jump line="53" column="42" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Aicc/Handler/AiccHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -857,7 +860,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text>add random ids</text>
       </register>
       <register name="/" type="4">
-        <text>First</text>
+        <text>registrationdoma</text>
       </register>
       <register name="0" type="4">
         <text>CourseProgressHelper</text>
@@ -909,17 +912,16 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
       </register>
     </registers>
     <search>
-      <last-search>First</last-search>
+      <last-search>registrationdoma</last-search>
       <last-offset />
-      <last-pattern>First</last-pattern>
+      <last-pattern>registrationdoma</last-pattern>
       <last-replace>Second</last-replace>
       <last-substitute>First</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>inprogress</entry>
         <entry encoding="base64">XDxXaXRoV2F0Y2hlZER1cmF0aW9uXD4=</entry>
         <entry>createwithn</entry>
         <entry>userId =</entry>
@@ -939,6 +941,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry>firts</entry>
         <entry>first</entry>
         <entry>First</entry>
+        <entry>registrationdoma</entry>
       </history-search>
       <history-cmd>
         <entry>action RenameElement</entry>
