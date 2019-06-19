@@ -606,12 +606,12 @@
         <mark key="." line="18" column="34" />
         <mark key="^" line="17" column="43" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" timestamp="1560948841520">
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" timestamp="1560953172418">
         <mark key="'" line="99" column="39" />
-        <mark key="[" line="31" column="65" />
-        <mark key="]" line="32" column="35" />
-        <mark key="." line="32" column="35" />
-        <mark key="^" line="32" column="35" />
+        <mark key="[" line="31" column="61" />
+        <mark key="]" line="31" column="64" />
+        <mark key="." line="31" column="64" />
+        <mark key="^" line="31" column="64" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" timestamp="1560505171708">
         <mark key="'" line="138" column="37" />
@@ -736,12 +736,12 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" timestamp="1560951080084">
-        <mark key="'" line="56" column="105" />
-        <mark key="[" line="56" column="136" />
-        <mark key="]" line="56" column="137" />
-        <mark key="." line="56" column="137" />
-        <mark key="^" line="56" column="137" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" timestamp="1560952956772">
+        <mark key="'" line="56" column="80" />
+        <mark key="[" line="56" column="139" />
+        <mark key="]" line="56" column="140" />
+        <mark key="." line="56" column="140" />
+        <mark key="^" line="56" column="139" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Builders/ListCourseRatingRequestBuilder - Copy.cs" timestamp="1559054200608">
         <mark key="'" line="46" column="0" />
@@ -889,17 +889,17 @@
       <jump line="9" column="39" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/GrantUserRatingOptionMother.cs" />
       <jump line="50" column="33" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/CourseHelper.cs" />
       <jump line="118" column="39" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/ActivityHelper.cs" />
       <jump line="25" column="42" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" />
-      <jump line="56" column="105" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" />
       <jump line="98" column="25" filename="C:/projects/UI-Web/package.json" />
+      <jump line="56" column="80" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" />
+      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/ActivityHelper.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>GrantUserRatingOptionMother.Create().WithMinimumWatchedPercentage(minimumWatchedPercentage).Build()</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>2500</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -927,7 +927,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>2500</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbnN1cmVDb3Vyc2VSYXRpbmdHcmFudGVkU3RhdHVzXD4=</text>
