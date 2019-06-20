@@ -51,9 +51,9 @@
         <mark key="." line="38" column="92" />
         <mark key="^" line="38" column="92" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" timestamp="1561036586262">
-        <mark key="[" line="11" column="84" />
-        <mark key="]" line="11" column="102" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" timestamp="1561038634270">
+        <mark key="[" line="34" column="37" />
+        <mark key="]" line="34" column="103" />
         <mark key="^" line="11" column="102" />
         <mark key="." line="11" column="102" />
       </file>
@@ -501,6 +501,12 @@
         <mark key="^" line="38" column="92" />
         <mark key="." line="38" column="92" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/Configuration/CyberUAuthorizationOptionsBuilder.cs" timestamp="1561038348597">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="50" />
+        <mark key="^" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+      </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Filters/CyberUExceptionFilterTests.cs" timestamp="1559220189677">
         <mark key="'" line="57" column="60" />
         <mark key="[" line="35" column="0" />
@@ -517,8 +523,8 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1561037066713">
-        <mark key="'" line="87" column="29" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1561037765000">
+        <mark key="'" line="84" column="44" />
         <mark key="[" line="206" column="0" />
         <mark key="]" line="209" column="9" />
         <mark key="^" line="120" column="11" />
@@ -556,6 +562,12 @@
         <mark key="[" line="108" column="41" />
         <mark key="]" line="108" column="54" />
         <mark key="." line="55" column="0" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/Configuration/CyberUAuthorizationOptions.cs" timestamp="1561038654759">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="39" column="9" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="29" column="49" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow3.cs" timestamp="1560948563769">
         <mark key="[" line="78" column="41" />
@@ -730,12 +742,6 @@
         <mark key="^" line="111" column="32" />
         <mark key="." line="111" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561035137486">
-        <mark key="e" line="0" column="96" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" timestamp="1560528242488">
         <mark key="'" line="33" column="80" />
         <mark key="[" line="17" column="17" />
@@ -854,8 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="16" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Validation/Contract.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Helpers/RandomHelper.cs" />
       <jump line="41" column="68" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" />
       <jump line="82" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
       <jump line="12" column="67" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/Extensions/GrantUserRatingOptionExtensions.cs" />
@@ -954,13 +958,15 @@
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Auth/Configuration/AuthServiceOption.cs" />
       <jump line="207" column="127" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="87" column="29" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="84" column="44" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Security/Policy.cs" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgIDxJdGVtR3JvdXA+CiAgICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9IklkZW50aXR5TW9kZWwiIFZlcnNpb249IjMuMTAuMTAiIC8+CiAgICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1pY3Jvc29mdC5Bc3BOZXRDb3JlLkF1dGhvcml6YXRpb24iIFZlcnNpb249IjIuMi4wIiAvPgogICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJNaWNyb3NvZnQuRXh0ZW5zaW9ucy5EZXBlbmRlbmN5SW5qZWN0aW9uIiBWZXJzaW9uPSIyLjIuMCIgLz4KICAgICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iTWljcm9zb2Z0LkV4dGVuc2lvbnMuRGVwZW5kZW5jeUluamVjdGlvbi5BYnN0cmFjdGlvbnMiIFZlcnNpb249IjIuMi4wIiAvPgogICAgPC9JdGVtR3JvdXA+Cg==</text>
+      <register name="a" type="4">
+        <text encoding="base64">cG9saWN5ID0+IHBvbGljeS5SZXF1aXJlQ2xhaW0oSnd0Q2xhaW1UeXBlcy5Sb2xlLCBSb2xlcy5TdXBlckFkbWluKQ==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnMuQWRkUG9saWN5KAogICAgICAgICAgICAgICAgICAgIFBvbGljeS5BZG1pbk9yTTJNLCAKICAgICAgICAgICAgICAgICAgICBwb2xpY3kgPT4gcG9saWN5LlJlcXVpcmVBc3NlcnRpb24oY29udGV4dCA9PgogICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0LlVzZXIuSGFzQ2xhaW0oSnd0Q2xhaW1UeXBlcy5DbGllbnRJZCwgQ29uZmlndXJhdGlvbi5HZXRTZWN0aW9uPENsaWVudHNPcHRpb25zPihBdXRoU2VjdGlvbi5DbGllbnRzKS5JbnRlcm5hbC5DbGllbnRJZCkKICAgICAgICAgICAgICAgICAgICAgICAgfHwgY29udGV4dC5Vc2VyLkhhc0NsYWltKEp3dENsYWltVHlwZXMuUm9sZSwgUm9sZXMuQWRtaW4pCiAgICAgICAgICAgICAgICAgICAgICAgIHx8IGNvbnRleHQuVXNlci5IYXNDbGFpbShKd3RDbGFpbVR5cGVzLlJvbGUsIFJvbGVzLlN1cGVyQWRtaW4pKSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIEN5YmVyVUF1dGhvcml6YXRpb25PcHRpb25zIEFkZFN1cGVyQWRtaW4oKQogICAgICAgIHsKICAgICAgICAgICAgQWRkUG9saWN5KFJvbGVzLlVzZXIsIHBvbGljeSA9PiBwb2xpY3kuUmVxdWlyZUNsYWltKEp3dENsYWltVHlwZXMuUm9sZSwgUm9sZXMuU3VwZXJBZG1pbikpOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -988,43 +994,43 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Rating</text>
+        <text encoding="base64">cG9saWN5ID0+IHBvbGljeS5SZXF1aXJlQ2xhaW0oSnd0Q2xhaW1UeXBlcy5Sb2xlLCBSb2xlcy5BZG1pbiwgUm9sZXMuU3VwZXJBZG1pbik=</text>
       </register>
       <register name="/" type="4">
         <text>addauth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnMuQWRkUG9saWN5KAogICAgICAgICAgICAgICAgICAgIFBvbGljeS5BZG1pbk9yTTJNLCAKICAgICAgICAgICAgICAgICAgICBwb2xpY3kgPT4gcG9saWN5LlJlcXVpcmVBc3NlcnRpb24oY29udGV4dCA9PgogICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0LlVzZXIuSGFzQ2xhaW0oSnd0Q2xhaW1UeXBlcy5DbGllbnRJZCwgQ29uZmlndXJhdGlvbi5HZXRTZWN0aW9uPENsaWVudHNPcHRpb25zPihBdXRoU2VjdGlvbi5DbGllbnRzKS5JbnRlcm5hbC5DbGllbnRJZCkKICAgICAgICAgICAgICAgICAgICAgICAgfHwgY29udGV4dC5Vc2VyLkhhc0NsYWltKEp3dENsYWltVHlwZXMuUm9sZSwgUm9sZXMuQWRtaW4pCiAgICAgICAgICAgICAgICAgICAgICAgIHx8IGNvbnRleHQuVXNlci5IYXNDbGFpbShKd3RDbGFpbVR5cGVzLlJvbGUsIFJvbGVzLlN1cGVyQWRtaW4pKSk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIEN5YmVyVUF1dGhvcml6YXRpb25PcHRpb25zIEFkZFN1cGVyQWRtaW4oKQogICAgICAgIHsKICAgICAgICAgICAgQWRkUG9saWN5KFJvbGVzLlVzZXIsIHBvbGljeSA9PiBwb2xpY3kuUmVxdWlyZUNsYWltKEp3dENsYWltVHlwZXMuUm9sZSwgUm9sZXMuU3VwZXJBZG1pbikpOwogICAgICAgICAgICByZXR1cm4gdGhpczsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text>MS_ApiVersionRequestProperties</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IElEaWN0aW9uYXJ5PHN0cmluZywgQWN0aW9uPEF1dGhvcml6YXRpb25Qb2xpY3lCdWlsZGVyPj4gX3JvbGVzVG9Qb2xpY2llc01hcCA9CiAgICAgICAgICAgIG5ldyBEaWN0aW9uYXJ5PHN0cmluZywgQWN0aW9uPEF1dGhvcml6YXRpb25Qb2xpY3lCdWlsZGVyPj4oKTsK</text>
       </register>
       <register name="s" type="4">
         <text>HttpContextMother.Create().WithRequestServices(_serviceProvider).Build()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
+        <text encoding="base64">ewoKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
@@ -1033,7 +1039,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
