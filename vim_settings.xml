@@ -54,6 +54,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="75" column="86" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Exceptions/Resources/ExceptionMessages.resx" timestamp="1561044591728">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="48" column="9" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/ApiResourceController.cs" timestamp="1561041982549">
         <mark key="'" line="133" column="12" />
       </file>
@@ -258,8 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="25" filename="C:/projects/UI-Web/package.json" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/ActivityHelper.cs" />
       <jump line="56" column="104" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" />
       <jump line="203" column="95" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
       <jump line="189" column="41" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" />
@@ -358,13 +362,15 @@
       <jump line="27" column="47" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/Region/RegionNotFoundException.cs" />
       <jump line="26" column="58" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/Region/RegionNotFoundException.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/ExceptionCode.cs" />
+      <jump line="20" column="2" filename="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Exceptions/Resources/ExceptionMessages.resx" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Exceptions/Resources/ExceptionMessages.resx" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZW51bSBOb3RGb3VuZAogICAgICAgIHsKICAgICAgICAgICAgRG9tYWluID0gMzAwOCwKICAgICAgICAgICAgUmVnaW9uID0gMzAwOSwKICAgICAgICAgICAgSW5kdXN0cnkgPSAzMDEwCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICA8ZGF0YSBuYW1lPSJDeWJlclVCYWRHYXRld2F5RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5BbiBlcnJvciBoYXMgb2NjdXJlZCB3aGVuIHJlYWNoaW5nIG91dCBhbiBleHRlcm5hbCBkZXBlbmRlbmNpZXMuPC92YWx1ZT4KICA8L2RhdGE+CiAgPGRhdGEgbmFtZT0iQ3liZXJVQmFkUmVxdWVzdEV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+SW52YWxpZCBwYXJhbWV0ZXJzLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVUV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+QW4gZXJyb3IgaGFzIG9jY3VycmVkLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVU5vdEZvdW5kRXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5UaGUgZW50aXR5IGRvZXNuJ3QgZXhpc3RzLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVVNlY3VyaXR5RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5VbmF1dGhvcml6ZWQgcmVxdWVzdC48L3ZhbHVlPgogIDwvZGF0YT4KICA8ZGF0YSBuYW1lPSJDeWJlclVTZXJ2ZXJFcnJvckV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+QW4gaW50ZXJuYWwgc2VydmVyIGVycm9yIGhhcyBvY2N1cmVkLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkludmFsaWRTb3J0RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5JbnZhbGlkIHNvcnQgdmFsdWUgcHJvdmlkZWQuPC92YWx1ZT4KICA8L2RhdGE+CiAgPGRhdGEgbmFtZT0iUGFnaW5hdGlvbkFyaXRobWV0aWNFeGNlcHRpb24iIHhtbDpzcGFjZT0icHJlc2VydmUiPgogICAgPHZhbHVlPlBhZ2Ugc2l6ZSBhbmQvb3IgbnVtYmVyIGFyZSB0b28gaGlnaC48L3ZhbHVlPgogIDwvZGF0YT4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuRG9tYWluLkVudW1zOwo=</text>
+        <text encoding="base64">ICA8ZGF0YSBuYW1lPSJDeWJlclVCYWRHYXRld2F5RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5BbiBlcnJvciBoYXMgb2NjdXJlZCB3aGVuIHJlYWNoaW5nIG91dCBhbiBleHRlcm5hbCBkZXBlbmRlbmNpZXMuPC92YWx1ZT4KICA8L2RhdGE+CiAgPGRhdGEgbmFtZT0iQ3liZXJVQmFkUmVxdWVzdEV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+SW52YWxpZCBwYXJhbWV0ZXJzLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVUV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+QW4gZXJyb3IgaGFzIG9jY3VycmVkLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVU5vdEZvdW5kRXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5UaGUgZW50aXR5IGRvZXNuJ3QgZXhpc3RzLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVVNlY3VyaXR5RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5VbmF1dGhvcml6ZWQgcmVxdWVzdC48L3ZhbHVlPgogIDwvZGF0YT4KICA8ZGF0YSBuYW1lPSJDeWJlclVTZXJ2ZXJFcnJvckV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+QW4gaW50ZXJuYWwgc2VydmVyIGVycm9yIGhhcyBvY2N1cmVkLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkludmFsaWRTb3J0RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5JbnZhbGlkIHNvcnQgdmFsdWUgcHJvdmlkZWQuPC92YWx1ZT4KICA8L2RhdGE+CiAgPGRhdGEgbmFtZT0iUGFnaW5hdGlvbkFyaXRobWV0aWNFeGNlcHRpb24iIHhtbDpzcGFjZT0icHJlc2VydmUiPgogICAgPHZhbHVlPlBhZ2Ugc2l6ZSBhbmQvb3IgbnVtYmVyIGFyZSB0b28gaGlnaC48L3ZhbHVlPgogIDwvZGF0YT4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
