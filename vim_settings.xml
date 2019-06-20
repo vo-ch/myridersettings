@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/CyberUClaimTypes.cs" timestamp="1561035463158">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" timestamp="1559143877727">
         <mark key="'" line="9" column="79" />
         <mark key="[" line="2" column="0" />
@@ -31,10 +37,6 @@
         <mark key="." line="10" column="37" />
         <mark key="^" line="18" column="56" />
       </file>
-      <file name="/HttpContextBuilder.cs" timestamp="1561022476525">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="51" />
-      </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/TestStartup.cs" timestamp="1559233875050">
         <mark key="'" line="10" column="42" />
         <mark key="[" line="33" column="38" />
@@ -48,6 +50,12 @@
         <mark key="]" line="38" column="92" />
         <mark key="." line="38" column="92" />
         <mark key="^" line="38" column="92" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" timestamp="1561036586262">
+        <mark key="[" line="11" column="84" />
+        <mark key="]" line="11" column="102" />
+        <mark key="^" line="11" column="102" />
+        <mark key="." line="11" column="102" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1560525458627">
         <mark key="'" line="76" column="46" />
@@ -69,8 +77,8 @@
         <mark key="." line="6" column="58" />
         <mark key="^" line="6" column="58" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" timestamp="1561021427192">
-        <mark key="'" line="26" column="57" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" timestamp="1561034039299">
+        <mark key="'" line="54" column="46" />
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="25" />
         <mark key="^" line="16" column="25" />
@@ -103,18 +111,19 @@
         <mark key="^" line="31" column="76" />
         <mark key="." line="38" column="38" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Airbrake/NixAirbrakeNotifier.cs" timestamp="1560867607707">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/AirbrakeExtensions.cs" timestamp="1560869428453">
-        <mark key="'" line="15" column="45" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Builders/a.cs" timestamp="1560349604962">
         <mark key="'" line="6" column="65" />
         <mark key="[" line="19" column="13" />
         <mark key="]" line="20" column="68" />
         <mark key="." line="20" column="68" />
         <mark key="^" line="20" column="68" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Airbrake/NixAirbrakeMiddlewareTests.cs" timestamp="1561034275521">
+        <mark key="'" line="62" column="35" />
+        <mark key="[" line="75" column="87" />
+        <mark key="]" line="75" column="86" />
+        <mark key="." line="75" column="86" />
+        <mark key="^" line="75" column="86" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Queries/Course/GetCourseQueryHandlerTests.cs" timestamp="1559310528250">
         <mark key="'" line="16" column="24" />
@@ -172,10 +181,6 @@
         <mark key="^" line="128" column="67" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="/GrantUserRatingOptionBuilder.cs" timestamp="1560946885308">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="44" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Rating/GrantUserRatingCommandHandler.cs" timestamp="1560525564861">
         <mark key="'" line="10" column="65" />
         <mark key="[" line="8" column="72" />
@@ -190,9 +195,6 @@
         <mark key="^" line="70" column="39" />
         <mark key="." line="70" column="39" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Aicc/Handler/AiccHandler.cs" timestamp="1560849313903">
-        <mark key="'" line="53" column="42" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetIsReviewAllowedQuery.cs" timestamp="1559898092178">
         <mark key="'" line="7" column="43" />
         <mark key="[" line="7" column="17" />
@@ -206,12 +208,22 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" timestamp="1560872517890">
-        <mark key="'" line="17" column="41" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="77" />
-        <mark key="^" line="80" column="45" />
-        <mark key="." line="78" column="48" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/RegionController.cs" timestamp="1561036224881">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" timestamp="1561033689161">
+        <mark key="'" line="23" column="44" />
+        <mark key="[" line="91" column="45" />
+        <mark key="]" line="91" column="65" />
+        <mark key="^" line="47" column="59" />
+        <mark key="." line="47" column="59" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/DomainController.cs" timestamp="1561036197697">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Domain/DependencyInjection/DomainExtensions.cs" timestamp="1559232171059">
         <mark key="'" line="41" column="28" />
@@ -226,8 +238,9 @@
         <mark key="." line="74" column="100" />
         <mark key="^" line="74" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1FEDC1EB-9253-4630-BE72-6C22E52550AB/c9/5073f188/OptionsConfigurationServiceCollectionExtensions.cs" timestamp="1560935539300">
-        <mark key="'" line="46" column="29" />
+      <file name="C:/projects/Rating/Infra/Rating.Security/Rating.Security.csproj" timestamp="1561034918424">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="16" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Helper/ActivityProgressHelper.cs" timestamp="1560429779218">
         <mark key="'" line="20" column="57" />
@@ -298,9 +311,6 @@
         <mark key="." line="50" column="56" />
         <mark key="^" line="50" column="56" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EE80585-87AF-4B6B-9309-D049EEE4B734/93/58090580/UrlSegmentApiVersionReader.cs" timestamp="1561022730952">
-        <mark key="'" line="30" column="59" />
-      </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Domain/Queries/CourseRating/ListB2bRegistrationQueryHandlerTests.cs" timestamp="1559054442658">
         <mark key="'" line="40" column="56" />
         <mark key="[" line="43" column="0" />
@@ -314,12 +324,6 @@
         <mark key="]" line="259" column="24" />
         <mark key="^" line="241" column="7" />
         <mark key="." line="198" column="66" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/28/2a5ec049/DefaultHttpRequest.cs" timestamp="1561021339948">
-        <mark key="'" line="15" column="41" />
-      </file>
-      <file name="/C# Console" timestamp="1561022893353">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/ActivityControllerTests.cs" timestamp="1560959549807">
         <mark key="'" line="161" column="41" />
@@ -342,9 +346,6 @@
         <mark key="." line="21" column="92" />
         <mark key="^" line="21" column="92" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/754B6162-5E72-43DE-9778-8849C4C01264/ad/db0cd403/AirbrakeNotifier.cs" timestamp="1560867689883">
-        <mark key="'" line="152" column="113" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.Local.json" timestamp="1560947534174">
         <mark key="'" line="88" column="3" />
         <mark key="[" line="91" column="32" />
@@ -359,15 +360,18 @@
         <mark key="." line="54" column="11" />
         <mark key="^" line="54" column="11" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeNotifier.cs" timestamp="1561033534625">
+        <mark key="'" line="23" column="76" />
+        <mark key="[" line="23" column="87" />
+        <mark key="]" line="23" column="87" />
+        <mark key="." line="23" column="87" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/appsettings.json" timestamp="1560935346658">
         <mark key="'" line="77" column="33" />
         <mark key="[" line="76" column="3" />
         <mark key="]" line="76" column="17" />
         <mark key="." line="77" column="28" />
         <mark key="^" line="77" column="28" />
-      </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" timestamp="1560870451197">
-        <mark key="'" line="18" column="32" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests.Core/Builders/CourseRatingBuilder.cs" timestamp="1559136788823">
         <mark key="'" line="8" column="55" />
@@ -383,9 +387,6 @@
         <mark key="." line="87" column="0" />
         <mark key="^" line="87" column="52" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Middlewares/CyberUExceptionMiddleware.cs" timestamp="1561020750292">
-        <mark key="'" line="47" column="27" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Validation/Contract.cs" timestamp="1560936843797">
         <mark key="'" line="43" column="16" />
         <mark key="[" line="43" column="71" />
@@ -393,8 +394,10 @@
         <mark key="." line="43" column="71" />
         <mark key="^" line="43" column="71" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c7/7d554bcb/HttpRequest.cs" timestamp="1561022199935">
-        <mark key="'" line="44" column="28" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Repository/LocalUserRepository.cs" timestamp="1561036312308">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Security/DependencyInjection/AuthExtensions.cs" timestamp="1559232181937">
         <mark key="'" line="27" column="96" />
@@ -403,12 +406,12 @@
         <mark key="." line="10" column="99" />
         <mark key="^" line="10" column="99" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1560873041300">
-        <mark key="'" line="168" column="100" />
-        <mark key="[" line="182" column="56" />
-        <mark key="]" line="182" column="100" />
-        <mark key="." line="182" column="100" />
-        <mark key="^" line="182" column="100" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1561036880114">
+        <mark key="'" line="207" column="127" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="209" column="89" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="181" column="100" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Middlewares/CyberUExceptionMiddlewareTests.cs" timestamp="1559220236466">
         <mark key="'" line="72" column="12" />
@@ -444,6 +447,17 @@
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/INixAirbrakeNotifier.cs" timestamp="1561033519493">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/IndustryController.cs" timestamp="1561036210611">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Controllers/V2/CourseControllerTests.cs" timestamp="1559659863332">
         <mark key="'" line="131" column="55" />
@@ -487,17 +501,6 @@
         <mark key="^" line="38" column="92" />
         <mark key="." line="38" column="92" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EE80585-87AF-4B6B-9309-D049EEE4B734/62/2d24c95f/HttpContextExtensions.cs" timestamp="1561022090246">
-        <mark key="'" line="29" column="116" />
-        <mark key="[" line="29" column="97" />
-        <mark key="]" line="29" column="136" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/83CE78FD-F0AE-48FC-B739-03E2539736DE/54/a0c7509b/ConfigurationSection.cs" timestamp="1560939791256">
-        <mark key="'" line="15" column="65" />
-      </file>
-      <file name="C:/projects/UI-Web/package.json" timestamp="1560951666928">
-        <mark key="'" line="98" column="25" />
-      </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Filters/CyberUExceptionFilterTests.cs" timestamp="1559220189677">
         <mark key="'" line="57" column="60" />
         <mark key="[" line="35" column="0" />
@@ -509,24 +512,23 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="35" column="56" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1560864806649">
-        <mark key="'" line="116" column="46" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/DomainM2MController.cs" timestamp="1561036481267">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1561037066713">
+        <mark key="'" line="87" column="29" />
         <mark key="[" line="206" column="0" />
         <mark key="]" line="209" column="9" />
         <mark key="^" line="120" column="11" />
         <mark key="." line="206" column="22" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947D4F24-E664-4E7D-90E3-3FDBCF9FB10B/3b/e6709191/AirbrakeExtension.cs" timestamp="1560864740595">
-        <mark key="'" line="18" column="26" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Models/Activity/V2/SaveActivityProgressionResponseTests.cs" timestamp="1560933773708">
         <mark key="[" line="20" column="102" />
         <mark key="]" line="20" column="119" />
         <mark key="^" line="20" column="119" />
         <mark key="." line="20" column="119" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F0E94C77-1034-4038-A253-68FFB4247542/03/a7afb1d3/DefaultHttpContext.cs" timestamp="1561022288211">
-        <mark key="'" line="176" column="64" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/ActivityMother.cs" timestamp="1560525951483">
         <mark key="'" line="9" column="32" />
@@ -549,18 +551,29 @@
         <mark key="." line="34" column="99" />
         <mark key="^" line="123" column="30" />
       </file>
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/ActivityHelper.cs" timestamp="1560957294857">
+        <mark key="'" line="111" column="49" />
+        <mark key="[" line="108" column="41" />
+        <mark key="]" line="108" column="54" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow3.cs" timestamp="1560948563769">
         <mark key="[" line="78" column="41" />
         <mark key="]" line="78" column="57" />
         <mark key="." line="78" column="57" />
         <mark key="^" line="78" column="57" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1561026374460">
-        <mark key="'" line="103" column="33" />
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="27" column="74" />
-        <mark key="^" line="27" column="74" />
-        <mark key="." line="27" column="74" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/Auth.Security.csproj" timestamp="1561036027153">
+        <mark key="[" line="8" column="84" />
+        <mark key="]" line="8" column="85" />
+        <mark key="." line="8" column="85" />
+        <mark key="^" line="12" column="3" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1561034346675">
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="20" />
+        <mark key="." line="124" column="20" />
+        <mark key="^" line="124" column="20" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1560852816251">
         <mark key="'" line="74" column="34" />
@@ -589,9 +602,6 @@
         <mark key="]" line="16" column="48" />
         <mark key="^" line="8" column="36" />
         <mark key="." line="16" column="48" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c4/414723ac/UseMiddlewareExtensions.cs" timestamp="1560864747670">
-        <mark key="'" line="36" column="28" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Queries/Course/GetCourseQueryHandler.cs" timestamp="1560861142441">
         <mark key="[" line="65" column="0" />
@@ -640,6 +650,15 @@
         <mark key="]" line="55" column="38" />
         <mark key="." line="55" column="38" />
         <mark key="^" line="55" column="38" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/CyberUClaimTypes.cs" timestamp="1561035349361">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="53" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth0.UserMigration/Program.cs" timestamp="1561036363309">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.Tests/Services/Csv/LrsServiceTests.cs" timestamp="1559054816672">
         <mark key="'" line="17" column="28" />
@@ -697,9 +716,6 @@
         <mark key="." line="72" column="134" />
         <mark key="^" line="72" column="134" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/AccountController.cs" timestamp="1560868367626">
-        <mark key="'" line="109" column="34" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" timestamp="1560957647342">
         <mark key="'" line="41" column="68" />
         <mark key="[" line="48" column="38" />
@@ -714,11 +730,11 @@
         <mark key="^" line="111" column="32" />
         <mark key="." line="111" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561020229947">
+      <file name="/Dummy.txt" timestamp="1561035137486">
         <mark key="e" line="0" column="96" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Helpers/CourseProgressHelper.cs" timestamp="1560528242488">
         <mark key="'" line="33" column="80" />
@@ -726,9 +742,6 @@
         <mark key="]" line="17" column="36" />
         <mark key="^" line="96" column="14" />
         <mark key="." line="123" column="0" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/GrantUserRatingOptionMother.cs" timestamp="1560940472691">
-        <mark key="'" line="9" column="39" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Builders/HttpContextBuilder.cs" timestamp="1561023258115">
         <mark key="'" line="37" column="54" />
@@ -785,10 +798,6 @@
         <mark key="^" line="37" column="37" />
         <mark key="." line="37" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2EE80585-87AF-4B6B-9309-D049EEE4B734/90/d067114e/ApiVersion.cs" timestamp="1561022917723">
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="33" />
-      </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" timestamp="1560957037766">
         <mark key="'" line="56" column="104" />
         <mark key="[" line="56" column="139" />
@@ -837,40 +846,14 @@
         <mark key="^" line="8" column="73" />
         <mark key="." line="8" column="73" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/appsettings.json" timestamp="1560867186544">
-        <mark key="'" line="82" column="3" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42C17562-71E5-468E-9FE4-52FC8E71D202/d3/233568ba/AirbrakeNotifier.cs" timestamp="1560863227412">
-        <mark key="[" line="51" column="41" />
-        <mark key="]" line="51" column="51" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" timestamp="1561036247500">
+        <mark key="'" line="45" column="55" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="27" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
-      <jump line="17" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
-      <jump line="60" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Abstract/IFailureNotification.cs" />
-      <jump line="18" column="73" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" />
-      <jump line="168" column="100" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
-      <jump line="20" column="73" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandResult.cs" />
-      <jump line="12" column="62" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Models/Activity/V2/SaveActivityProgressionResponseTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Controllers/V2/ActivityControllerTests.cs" />
-      <jump line="9" column="20" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Models/Activity/V2/SaveActivityProgressionResponseTests.cs" />
-      <jump line="29" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Models/Activity/V2/SaveActivityProgressionResponseTests.cs" />
-      <jump line="101" column="4" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Models/Activity/V2/SaveActivityProgressionResponseTests.cs" />
-      <jump line="31" column="4" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Models/Activity/V2/SaveActivityProgressionResponseTests.cs" />
-      <jump line="39" column="67" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Controllers/V2/ActivityControllerTests.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandResult.cs" />
-      <jump line="51" column="36" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" />
-      <jump line="43" column="54" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" />
-      <jump line="83" column="31" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="29" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1FEDC1EB-9253-4630-BE72-6C22E52550AB/c9/5073f188/OptionsConfigurationServiceCollectionExtensions.cs" />
-      <jump line="46" column="29" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1FEDC1EB-9253-4630-BE72-6C22E52550AB/c9/5073f188/OptionsConfigurationServiceCollectionExtensions.cs" />
-      <jump line="9" column="57" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/Extensions/GrantUserRatingOptionExtensions.cs" />
-      <jump line="10" column="37" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/Extensions/GrantUserRatingOptionExtensions.cs" />
-      <jump line="81" column="28" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
-      <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Configuration/Extensions/GrantUserRatingOptionExtensions.cs" />
       <jump line="43" column="16" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Infrastructure/Validation/Contract.cs" />
       <jump line="0" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/Helpers/RandomHelper.cs" />
       <jump line="41" column="68" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Core/Fixtures/TestServerFixture.cs" />
@@ -945,14 +928,39 @@
       <jump line="40" column="44" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
       <jump line="81" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
       <jump line="49" column="44" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
-      <jump line="101" column="33" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
+      <jump line="27" column="74" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
+      <jump line="101" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
+      <jump line="81" column="50" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Airbrake/NixAirbrakeMiddlewareTests.cs" />
+      <jump line="31" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
+      <jump line="77" column="52" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Airbrake/NixAirbrakeMiddlewareTests.cs" />
+      <jump line="23" column="44" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
+      <jump line="78" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Airbrake/NixAirbrakeMiddlewareTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Abstract/ILog.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Abstract/IFailureNotification.cs" />
+      <jump line="23" column="76" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeNotifier.cs" />
+      <jump line="6" column="21" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/INixAirbrakeNotifier.cs" />
+      <jump line="48" column="17" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" />
+      <jump line="54" column="46" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8C01C9AD-D1DC-48F8-B850-436C56ACB41F/12/8fe9b422/NewRelic.cs" />
+      <jump line="185" column="56" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/INixAirbrakeNotifier.cs" />
+      <jump line="182" column="105" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/Security/Policy.cs" />
+      <jump line="201" column="43" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="4" column="31" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Entities/Roles.cs" />
+      <jump line="46" column="55" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DefaultDatabaseDataInitializationExtensions.cs" />
+      <jump line="206" column="30" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="89" column="141" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Auth/Configuration/AuthServiceOption.cs" />
+      <jump line="207" column="127" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="87" column="29" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gSHR0cENvbnRleHRNb3RoZXIuQ3JlYXRlKCkuV2l0aFJlcXVlc3RTZXJ2aWNlcyhfc2VydmljZVByb3ZpZGVyKS5XaXRoQXBpVmVyc2lvbigiMi4wIikuQnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIDxJdGVtR3JvdXA+CiAgICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9IklkZW50aXR5TW9kZWwiIFZlcnNpb249IjMuMTAuMTAiIC8+CiAgICAgIDxQYWNrYWdlUmVmZXJlbmNlIEluY2x1ZGU9Ik1pY3Jvc29mdC5Bc3BOZXRDb3JlLkF1dGhvcml6YXRpb24iIFZlcnNpb249IjIuMi4wIiAvPgogICAgICA8UGFja2FnZVJlZmVyZW5jZSBJbmNsdWRlPSJNaWNyb3NvZnQuRXh0ZW5zaW9ucy5EZXBlbmRlbmN5SW5qZWN0aW9uIiBWZXJzaW9uPSIyLjIuMCIgLz4KICAgICAgPFBhY2thZ2VSZWZlcmVuY2UgSW5jbHVkZT0iTWljcm9zb2Z0LkV4dGVuc2lvbnMuRGVwZW5kZW5jeUluamVjdGlvbi5BYnN0cmFjdGlvbnMiIFZlcnNpb249IjIuMi4wIiAvPgogICAgPC9JdGVtR3JvdXA+Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>QueryStringApiVersionReader</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnMuQWRkUG9saWN5KAogICAgICAgICAgICAgICAgICAgIFBvbGljeS5BZG1pbk9yTTJNLCAKICAgICAgICAgICAgICAgICAgICBwb2xpY3kgPT4gcG9saWN5LlJlcXVpcmVBc3NlcnRpb24oY29udGV4dCA9PgogICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0LlVzZXIuSGFzQ2xhaW0oSnd0Q2xhaW1UeXBlcy5DbGllbnRJZCwgQ29uZmlndXJhdGlvbi5HZXRTZWN0aW9uPENsaWVudHNPcHRpb25zPihBdXRoU2VjdGlvbi5DbGllbnRzKS5JbnRlcm5hbC5DbGllbnRJZCkKICAgICAgICAgICAgICAgICAgICAgICAgfHwgY29udGV4dC5Vc2VyLkhhc0NsYWltKEp3dENsYWltVHlwZXMuUm9sZSwgUm9sZXMuQWRtaW4pCiAgICAgICAgICAgICAgICAgICAgICAgIHx8IGNvbnRleHQuVXNlci5IYXNDbGFpbShKd3RDbGFpbVR5cGVzLlJvbGUsIFJvbGVzLlN1cGVyQWRtaW4pKSk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -980,64 +988,64 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>QueryStringApiVersionReader</text>
+        <text>Rating</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXJ2ZXJFeGNlcHRpb25cPg==</text>
+        <text>addauth</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbSW5saW5lRGF0YSgiMS4wIildCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wdGlvbnMuQWRkUG9saWN5KAogICAgICAgICAgICAgICAgICAgIFBvbGljeS5BZG1pbk9yTTJNLCAKICAgICAgICAgICAgICAgICAgICBwb2xpY3kgPT4gcG9saWN5LlJlcXVpcmVBc3NlcnRpb24oY29udGV4dCA9PgogICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0LlVzZXIuSGFzQ2xhaW0oSnd0Q2xhaW1UeXBlcy5DbGllbnRJZCwgQ29uZmlndXJhdGlvbi5HZXRTZWN0aW9uPENsaWVudHNPcHRpb25zPihBdXRoU2VjdGlvbi5DbGllbnRzKS5JbnRlcm5hbC5DbGllbnRJZCkKICAgICAgICAgICAgICAgICAgICAgICAgfHwgY29udGV4dC5Vc2VyLkhhc0NsYWltKEp3dENsYWltVHlwZXMuUm9sZSwgUm9sZXMuQWRtaW4pCiAgICAgICAgICAgICAgICAgICAgICAgIHx8IGNvbnRleHQuVXNlci5IYXNDbGFpbShKd3RDbGFpbVR5cGVzLlJvbGUsIFJvbGVzLlN1cGVyQWRtaW4pKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIEFzc2VydAo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
       </register>
       <register name="q" type="4">
         <text>MS_ApiVersionRequestProperties</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BCb2R5ID0gYXdhaXQgUmVhZEJvZHlBc3luYyhodHRwQ29udGV4dCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgoaW50KUh0dHBTdGF0dXNDb2RlLkJhZFJlcXVlc3QsIGh0dHBDb250ZXh0LlJlc3BvbnNlLlN0YXR1c0NvZGUpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwoJCJ7e1wiY29kZVwiOi0xLFwibWVzc2FnZVwiOlwiVW5oYW5kbGVkIGV4Y2VwdGlvbi4gTWVzc2FnZToge2V4Y2VwdGlvbi5NZXNzYWdlfVwifX0iLCByZXNwQm9keSk7Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbWlkZGxld2FyZS5JbnZva2UoaHR0cENvbnRleHQpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>HttpContextMother.Create().WithRequestServices(_serviceProvider).Build()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gSHR0cENvbnRleHRNb3RoZXIuQ3JlYXRlKCkuV2l0aFJlcXVlc3RTZXJ2aWNlcyhfc2VydmljZVByb3ZpZGVyKS5CdWlsZCgpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gSHR0cENvbnRleHRNb3RoZXIuQ3JlYXRlKCkuV2l0aFJlcXVlc3RTZXJ2aWNlcyhfc2VydmljZVByb3ZpZGVyKS5CdWlsZCgpOwogICAgICAgICAgICB2YXIgaHR0cENvbnRleHQgPSBIdHRwQ29udGV4dE1vdGhlci5DcmVhdGUoKS5XaXRoUmVxdWVzdFNlcnZpY2VzKF9zZXJ2aWNlUHJvdmlkZXIpLkJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gSHR0cENvbnRleHRNb3RoZXIuQ3JlYXRlKCkuV2l0aFJlcXVlc3RTZXJ2aWNlcyhfc2VydmljZVByb3ZpZGVyKS5CdWlsZCgpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gSHR0cENvbnRleHRNb3RoZXIuQ3JlYXRlKCkuV2l0aFJlcXVlc3RTZXJ2aWNlcyhfc2VydmljZVByb3ZpZGVyKS5CdWlsZCgpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gSHR0cENvbnRleHRNb3RoZXIuQ3JlYXRlKCkuV2l0aFJlcXVlc3RTZXJ2aWNlcyhfc2VydmljZVByb3ZpZGVyKS5CdWlsZCgpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlcXVlc3QgPQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIFBhdGggPSBuZXcgUGF0aFN0cmluZygiL3YyL29sb2xvIiksCiAgICAgICAgICAgICAgICAgICAgUGF0aEJhc2UgPSBuZXcgUGF0aFN0cmluZygiL3YyL29sb2xvIiksCiAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhQWNjZXNzTGF5ZXIuRW50aXRpZXM7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZXJ2ZXJFeGNlcHRpb25cPg==</last-search>
+      <last-search>addauth</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXJ2ZXJFeGNlcHRpb25cPg==</last-pattern>
+      <last-pattern>addauth</last-pattern>
       <last-replace>Invoke_V2_</last-replace>
       <last-substitute>Invoke_</last-substitute>
       <last-dir>1</last-dir>
@@ -1045,7 +1053,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
     </search>
     <history>
       <history-search>
-        <entry>Airbr</entry>
         <entry>airb</entry>
         <entry>airbra</entry>
         <entry>airbrake</entry>
@@ -1065,11 +1072,11 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry>versio</entry>
         <entry>Invoke_</entry>
         <entry encoding="base64">XDxTZXJ2ZXJFeGNlcHRpb25cPg==</entry>
+        <entry>addauth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/userCanLeaveRating/canUserLeaveRating/gI</entry>
         <entry>%s/UserCanLeaveRating/CanUserLeaveRating/gI</entry>
-        <entry>reg</entry>
         <entry encoding="base64">JzwsJz5zLzI2LzI0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzI2LzI1L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzI0LzI1L2c=</entry>
@@ -1087,6 +1094,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry>action GotoImplementation</entry>
         <entry>%s/Invoke_/Invoke_V2_/g</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
