@@ -555,12 +555,12 @@
         <mark key="." line="78" column="57" />
         <mark key="^" line="78" column="57" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1561025668564">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1561026374460">
         <mark key="'" line="103" column="33" />
-        <mark key="[" line="78" column="110" />
-        <mark key="]" line="78" column="116" />
-        <mark key="^" line="78" column="116" />
-        <mark key="." line="78" column="116" />
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="74" />
+        <mark key="^" line="27" column="74" />
+        <mark key="." line="27" column="74" />
       </file>
       <file name="C:/projects/Rating/Web/API/test/Rating.Api.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1560852816251">
         <mark key="'" line="74" column="34" />
@@ -952,7 +952,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0dHBDb250ZXh0ID0gSHR0cENvbnRleHRNb3RoZXIuQ3JlYXRlKCkuV2l0aFJlcXVlc3RTZXJ2aWNlcyhfc2VydmljZVByb3ZpZGVyKS5XaXRoQXBpVmVyc2lvbigiMi4wIikuQnVpbGQoKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;2.0&quot;</text>
+        <text>QueryStringApiVersionReader</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -980,7 +980,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;2.0&quot;</text>
+        <text>QueryStringApiVersionReader</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXJ2ZXJFeGNlcHRpb25cPg==</text>
