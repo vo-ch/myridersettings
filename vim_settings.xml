@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/appsettings.Local.json" timestamp="1561122639869">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="63" />
-        <mark key="." line="15" column="63" />
-        <mark key="^" line="15" column="63" />
-      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/CyberUClaimTypes.cs" timestamp="1561035463158">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="13" />
@@ -80,12 +74,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/CourseMother.cs" timestamp="1561135511164">
-        <mark key="[" line="109" column="54" />
-        <mark key="]" line="109" column="54" />
-        <mark key="." line="109" column="56" />
-        <mark key="^" line="101" column="42" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" timestamp="1561120078282">
         <mark key="[" line="15" column="100" />
@@ -174,6 +162,9 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/CalculateCourseCompletionCommandHandler.cs" timestamp="1561138524302">
         <mark key="'" line="24" column="25" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1561146181701">
+        <mark key="'" line="11" column="17" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/Domain/DomainNotFoundException.cs" timestamp="1561043663128">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -207,7 +198,7 @@
         <mark key="." line="42" column="42" />
         <mark key="^" line="40" column="49" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1561143264499">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" timestamp="1561145061107">
         <mark key="[" line="24" column="15" />
         <mark key="]" line="24" column="44" />
         <mark key="." line="7" column="0" />
@@ -289,12 +280,6 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/appsettings.json" timestamp="1561120937216">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="30" column="43" />
-        <mark key="." line="30" column="43" />
-        <mark key="^" line="30" column="43" />
-      </file>
       <file name="C:/projects/UI-Web/ClientApp/services/http/lms/CatalogService.ts" timestamp="1561106831327">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="22" />
@@ -317,19 +302,15 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/appsettings.json" timestamp="1561120920509">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/appsettings.json" timestamp="1561145761282">
         <mark key="'" line="92" column="14" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="22" column="42" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="23" column="4" />
         <mark key="." line="17" column="29" />
         <mark key="^" line="17" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="17" filename="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" />
-      <jump line="82" column="13" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/Domain/V2/UpdateDomainCommandHandler.cs" />
-      <jump line="150" column="21" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
-      <jump line="84" column="57" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
       <jump line="83" column="16" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="163" column="32" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="266" column="16" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
@@ -426,13 +407,17 @@
       <jump line="43" column="19" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow4.cs" />
       <jump line="61" column="16" filename="C:/projects/Rating/Web/API/src/Rating.Api/Filters/CyberUExceptionFilter.cs" />
       <jump line="26" column="36" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeNotifier.cs" />
+      <jump line="84" column="44" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="103" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="118" column="25" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="11" column="17" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>aiccRequestAfterReassignment</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MaskCharactersForPasswordParameter</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAiU2VyaWxvZyI6IHsKICAgICJNaW5pbXVtTGV2ZWwiOiAiV2FybmluZyIsCiAgICAiV3JpdGVUbyI6IFsKICAgICAgeyAiTmFtZSI6ICJDb25zb2xlIiB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiUm9sbGluZ0ZpbGUiLAogICAgICAgICJBcmdzIjogeyAicGF0aEZvcm1hdCI6ICJMb2dzXFxsb2cte0RhdGV9LnR4dCIgfQogICAgICB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiTG9nZ2x5IiwKICAgICAgICAiQXJncyI6IHsKICAgICAgICAgIC8vImN1c3RvbWVyVG9rZW4iOiAiIiwKICAgICAgICAgICJ0YWdzIjogImN1LWRldi1hdXRoIgogICAgICAgIH0KICAgICAgfQogICAgXSwKICAgICJFbnJpY2giOiBbICJGcm9tTG9nQ29udGV4dCIgXSwKICAgICJQcm9wZXJ0aWVzIjogeyAiQXBwbGljYXRpb24iOiAiQXV0aCIgfQogIH0sCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -463,10 +448,10 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJTG9nZ2VyXD4=</text>
+        <text>health</text>
       </register>
-      <register name="0" type="4">
-        <text>MaskCharactersForPasswordParameter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJNaW5pbXVtTGV2ZWwiOiAiV2FybmluZyIsCiAgICAiV3JpdGVUbyI6IFsKICAgICAgeyAiTmFtZSI6ICJDb25zb2xlIiB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiUm9sbGluZ0ZpbGUiLAogICAgICAgICJBcmdzIjogeyAicGF0aEZvcm1hdCI6ICJMb2dzXFxsb2cte0RhdGV9LnR4dCIgfQogICAgICB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiTG9nZ2x5IiwKICAgICAgICAiQXJncyI6IHsKICAgICAgICAgIC8vImN1c3RvbWVyVG9rZW4iOiAiIiwKICAgICAgICAgICJ0YWdzIjogImN1LWRldi1hdXRoIgogICAgICAgIH0KICAgICAgfQogICAgXSwKICAgICJFbnJpY2giOiBbICJGcm9tTG9nQ29udGV4dCIgXSwKICAgICJQcm9wZXJ0aWVzIjogeyAiQXBwbGljYXRpb24iOiAiQXV0aCIgfQogIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IGF3YWl0IENvdXJzZUhlbHBlci5HZXRDb3Vyc2UoY2xpZW50LCBjb3Vyc2VSZWxlYXNlSWQsIGFpY2NSZXF1ZXN0KTsK</text>
@@ -521,9 +506,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJTG9nZ2VyXD4=</last-search>
+      <last-search>health</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJTG9nZ2VyXD4=</last-pattern>
+      <last-pattern>health</last-pattern>
       <last-replace>responseContent</last-replace>
       <last-substitute>responseContent2</last-substitute>
       <last-dir>1</last-dir>
@@ -538,7 +523,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry encoding="base64">XDxMb2dnZXJcPg==</entry>
         <entry>loggly</entry>
         <entry>rating</entry>
-        <entry>health</entry>
         <entry>ISystemMessenger</entry>
         <entry>SaveActivityProgressionRequest request1</entry>
         <entry>(request1)</entry>
@@ -551,6 +535,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry>aic</entry>
         <entry>aicc</entry>
         <entry encoding="base64">XDxJTG9nZ2VyXD4=</entry>
+        <entry>health</entry>
       </history-search>
       <history-cmd>
         <entry>%s/HttpContextMother.Create().Build()/HttpContextMother.Create().WithRequestServices(_serviceProvider).Build()/g</entry>
