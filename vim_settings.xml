@@ -20,11 +20,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1561124915207">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="198" column="80" />
-        <mark key="." line="34" column="0" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1561125745610">
+        <mark key="'" line="198" column="46" />
+        <mark key="[" line="198" column="27" />
+        <mark key="]" line="198" column="47" />
+        <mark key="^" line="198" column="26" />
+        <mark key="." line="198" column="27" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Filters/V2/ValidateModelAttributeTests.cs" timestamp="1561042631678">
         <mark key="[" line="0" column="0" />
@@ -188,9 +189,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="12" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561124097728">
+      <file name="/Dummy.txt" timestamp="1561125872327">
         <mark key="e" line="0" column="96" />
-        <mark key="[" line="0" column="74" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="75" />
         <mark key="." line="0" column="75" />
       </file>
@@ -274,7 +275,6 @@
       <jump line="84" column="44" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Security/Policy.cs" />
       <jump line="23" column="67" filename="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
-      <jump line="198" column="22" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="91" column="33" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Airbrake/NixAirbrakeMiddleware.cs" />
       <jump line="95" column="19" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/ApiResourceController.cs" />
       <jump line="133" column="12" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/ApiResourceController.cs" />
@@ -360,14 +360,15 @@
       <jump line="197" column="21" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
       <jump line="244" column="30" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/AuthorizeMiddleware.cs" />
-      <jump line="34" column="14" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="34" column="34" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="198" column="46" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICJNaW5pbXVtTGV2ZWwiOiAiV2FybmluZyIsCiAgICAiV3JpdGVUbyI6IFsKICAgICAgeyAiTmFtZSI6ICJDb25zb2xlIiB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiUm9sbGluZ0ZpbGUiLAogICAgICAgICJBcmdzIjogeyAicGF0aEZvcm1hdCI6ICJMb2dzXFxsb2cte0RhdGV9LnR4dCIgfQogICAgICB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiTG9nZ2x5IiwKICAgICAgICAiQXJncyI6IHsKICAgICAgICAgICJjdXN0b21lclRva2VuIjogIjE5MTQ3YzJhLWM5OGEtNDk5MS1hMjVhLWY2ZWFiYjNjYjFjYyIsCiAgICAgICAgICAidGFncyI6ICJjdS12Y2htdXpoLWF1dGgiCiAgICAgICAgfQogICAgICB9CiAgICBdLAogICAgIkVucmljaCI6IFsgIkZyb21Mb2dDb250ZXh0IiBdLAogICAgIlByb3BlcnRpZXMiOiB7ICJBcHBsaWNhdGlvbiI6ICJBdXRoIiB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgTG9nZ2x5LkNvbmZpZzsK</text>
+      <register name="&quot;" type="4">
+        <text>(authConnectionString)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -395,7 +396,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DatabaseExtensions.RatingDatabase</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>health</text>
