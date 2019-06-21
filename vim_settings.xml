@@ -86,7 +86,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/83CE78FD-F0AE-48FC-B739-03E2539736DE/54/a0c7509b/ConfigurationSection.cs" timestamp="1560939791256">
         <mark key="'" line="15" column="65" />
       </file>
-      <file name="C:/projects/UI-Web/package.json" timestamp="1560951666928">
+      <file name="C:/projects/UI-Web/package.json" timestamp="1561106120318">
         <mark key="'" line="98" column="25" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Airbrake/NixAirbrakeMiddlewareTests.cs" timestamp="1561042591037">
@@ -172,6 +172,13 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="C:/projects/UI-Web/appsettings.Local.json" timestamp="1561105612830">
+        <mark key="'" line="38" column="29" />
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="48" column="32" />
+        <mark key="." line="48" column="32" />
+        <mark key="^" line="48" column="32" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Exception/CyberUBadGatewayException.cs" timestamp="1561041425705">
         <mark key="[" line="6" column="58" />
@@ -274,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="94" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
       <jump line="111" column="45" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/CyberUExceptionMiddleware.cs" />
       <jump line="70" column="50" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/CyberUExceptionMiddlewareTests.cs" />
@@ -374,13 +380,14 @@
       <jump line="5" column="10" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/HealthCheck/HealthStatus.cs" />
       <jump line="47" column="36" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/HealthCheck/NpgSqlHealthCheckService.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/HealthCheck/HealthStatus.cs" />
+      <jump line="38" column="29" filename="C:/projects/UI-Web/appsettings.Local.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8ZGF0YSBuYW1lPSJDeWJlclVCYWRHYXRld2F5RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5BbiBlcnJvciBoYXMgb2NjdXJlZCB3aGVuIHJlYWNoaW5nIG91dCBhbiBleHRlcm5hbCBkZXBlbmRlbmNpZXMuPC92YWx1ZT4KICA8L2RhdGE+CiAgPGRhdGEgbmFtZT0iQ3liZXJVQmFkUmVxdWVzdEV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+SW52YWxpZCBwYXJhbWV0ZXJzLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVUV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+QW4gZXJyb3IgaGFzIG9jY3VycmVkLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVU5vdEZvdW5kRXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5UaGUgZW50aXR5IGRvZXNuJ3QgZXhpc3RzLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVVNlY3VyaXR5RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5VbmF1dGhvcml6ZWQgcmVxdWVzdC48L3ZhbHVlPgogIDwvZGF0YT4KICA8ZGF0YSBuYW1lPSJDeWJlclVTZXJ2ZXJFcnJvckV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+QW4gaW50ZXJuYWwgc2VydmVyIGVycm9yIGhhcyBvY2N1cmVkLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkludmFsaWRTb3J0RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5JbnZhbGlkIHNvcnQgdmFsdWUgcHJvdmlkZWQuPC92YWx1ZT4KICA8L2RhdGE+CiAgPGRhdGEgbmFtZT0iUGFnaW5hdGlvbkFyaXRobWV0aWNFeGNlcHRpb24iIHhtbDpzcGFjZT0icHJlc2VydmUiPgogICAgPHZhbHVlPlBhZ2Ugc2l6ZSBhbmQvb3IgbnVtYmVyIGFyZSB0b28gaGlnaC48L3ZhbHVlPgogIDwvZGF0YT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8ZGF0YSBuYW1lPSJDeWJlclVCYWRHYXRld2F5RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5BbiBlcnJvciBoYXMgb2NjdXJlZCB3aGVuIHJlYWNoaW5nIG91dCBhbiBleHRlcm5hbCBkZXBlbmRlbmNpZXMuPC92YWx1ZT4KICA8L2RhdGE+CiAgPGRhdGEgbmFtZT0iQ3liZXJVQmFkUmVxdWVzdEV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+SW52YWxpZCBwYXJhbWV0ZXJzLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVUV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+QW4gZXJyb3IgaGFzIG9jY3VycmVkLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVU5vdEZvdW5kRXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5UaGUgZW50aXR5IGRvZXNuJ3QgZXhpc3RzLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkN5YmVyVVNlY3VyaXR5RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5VbmF1dGhvcml6ZWQgcmVxdWVzdC48L3ZhbHVlPgogIDwvZGF0YT4KICA8ZGF0YSBuYW1lPSJDeWJlclVTZXJ2ZXJFcnJvckV4Y2VwdGlvbiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CiAgICA8dmFsdWU+QW4gaW50ZXJuYWwgc2VydmVyIGVycm9yIGhhcyBvY2N1cmVkLjwvdmFsdWU+CiAgPC9kYXRhPgogIDxkYXRhIG5hbWU9IkludmFsaWRTb3J0RXhjZXB0aW9uIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICAgIDx2YWx1ZT5JbnZhbGlkIHNvcnQgdmFsdWUgcHJvdmlkZWQuPC92YWx1ZT4KICA8L2RhdGE+CiAgPGRhdGEgbmFtZT0iUGFnaW5hdGlvbkFyaXRobWV0aWNFeGNlcHRpb24iIHhtbDpzcGFjZT0icHJlc2VydmUiPgogICAgPHZhbHVlPlBhZ2Ugc2l6ZSBhbmQvb3IgbnVtYmVyIGFyZSB0b28gaGlnaC48L3ZhbHVlPgogIDwvZGF0YT4K</text>
+      <register name="&quot;" type="4">
+        <text>-api</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -408,13 +415,13 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ExceptionCode</text>
+        <text>-api</text>
       </register>
       <register name="/" type="4">
-        <text>health</text>
+        <text>-vchmuzh</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZW51bSBOb3RGb3VuZAogICAgICAgIHsKICAgICAgICAgICAgRG9tYWluID0gMzAwOCwKICAgICAgICAgICAgUmVnaW9uID0gMzAwOSwKICAgICAgICAgICAgSW5kdXN0cnkgPSAzMDEwCiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>-vchmuzh</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgQXV0aC5BUEkuRG9tYWluLkVudW1zOwo=</text>
@@ -459,21 +466,20 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/new Exceptions/new Exception/g</text>
+        <text>%s/-vchmuzh/.staging/g</text>
       </register>
     </registers>
     <search>
-      <last-search>health</last-search>
+      <last-search>-vchmuzh</last-search>
       <last-offset />
-      <last-pattern>health</last-pattern>
-      <last-replace>new Exception</last-replace>
-      <last-substitute>new Exceptions</last-substitute>
+      <last-pattern>-vchmuzh</last-pattern>
+      <last-replace>.staging</last-replace>
+      <last-substitute>-vchmuzh</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>newrel</entry>
         <entry encoding="base64">XDxNYXNrQ2hhcmFjdGVyc0ZvclBhc3N3b3JkUGFyYW1ldGVyXD4=</entry>
         <entry>passwo</entry>
         <entry encoding="base64">XDxFbmFibGVkTG9nTGV2ZWxcPg==</entry>
@@ -493,9 +499,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry>new Exceptions</entry>
         <entry>healthch</entry>
         <entry>health</entry>
+        <entry>-vchmuzh</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzI0LzI1L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzI0LzI2L2c=</entry>
         <entry encoding="base64">JzwsJz5zL0J5U2F2ZUNvdXJzZVByb2dyZXNzaW9uUmVxdWVzdC9CeUNvdXJzZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2ZpcnRzL3NlY29uZC9n</entry>
@@ -515,6 +521,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry>%s/(Exceptions/Exception/g</entry>
         <entry>%s/(Exceptions/(Exception/g</entry>
         <entry>%s/new Exceptions/new Exception/g</entry>
+        <entry>%s/-vchmuzh/.staging/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
