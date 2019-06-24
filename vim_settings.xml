@@ -12,18 +12,23 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/UserController.cs" timestamp="1561042015264">
         <mark key="'" line="96" column="19" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data.DbMigration/Data/AuthServerDb/DesignTimeDbContextFactory.cs" timestamp="1561382979953">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c7/7d554bcb/HttpRequest.cs" timestamp="1561022199935">
         <mark key="'" line="44" column="28" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1561109151691">
         <mark key="'" line="111" column="17" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1561382307092">
-        <mark key="'" line="100" column="31" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="50" />
-        <mark key="^" line="101" column="42" />
-        <mark key="." line="6" column="0" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1561383041844">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="97" column="42" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/C4/TokenEndpoint.cs" timestamp="1561371882911">
         <mark key="'" line="41" column="31" />
@@ -286,9 +291,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/15/DefaultRefreshTokenService.cs" timestamp="1561379093972">
         <mark key="'" line="79" column="59" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/Data/DesignTimeRatingDbContextFactory.cs" timestamp="1561382132600">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="42" column="9" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Data.DbMigration/Data/DesignTimeRatingDbContextFactory.cs" timestamp="1561382872978">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="24" column="9" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow1.cs" timestamp="1561136724467">
         <mark key="'" line="70" column="74" />
@@ -340,9 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="36" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" />
-      <jump line="126" column="63" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Activity/SaveActivityProgressionCommandHandler.cs" />
-      <jump line="97" column="96" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Scenarios/Rating a course/Workflow3.cs" />
       <jump line="177" column="43" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.FunctionalTests/Helper/ActivityHelper.cs" />
       <jump line="59" column="63" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
       <jump line="136" column="35" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" />
@@ -440,13 +442,16 @@
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/DependencyInjection/DatabaseExtensions.cs" />
       <jump line="35" column="31" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Auth.API.csproj" />
       <jump line="36" column="31" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Auth.API.csproj" />
+      <jump line="62" column="29" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="97" column="81" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="60" column="29" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>aiccRequestAfterReassignment</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Um9vdE5hbWVzcGFjZT5BdXRoLkRhdGEuTWlncmF0aW9uczwvUm9vdE5hbWVzcGFjZT4K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBSQUJCSVRNUV9TRVRUSU5HUyA9ICJSYWJiaXRNcVNldHRpbmciOwoK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -474,16 +479,16 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>RATING_DATABASE</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJZGVudGl0eVNlcnZlcjRcPg==</text>
+        <text encoding="base64">XDxSQUJCSVRNUV9TRVRUSU5HU1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBNSUdSQVRJT05fQVNTRU1CTFkgPSAiQXV0aC5EYXRhLk1pZ3JhdGlvbnMiOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgUmF0aW5nRGJDb250ZXh0IENyZWF0ZURiQ29udGV4dChzdHJpbmdbXSBhcmdzKQogICAgICAgIHsKICAgICAgICAgICAgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8UmF0aW5nRGJDb250ZXh0PiBidWlsZGVyID0gQ3JlYXRlRGJDb250ZXh0T3B0aW9uc0J1aWxkZXIoKTsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSYXRpbmdEYkNvbnRleHQoYnVpbGRlci5PcHRpb25zKTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBzdGF0aWMgUmF0aW5nRGJDb250ZXh0IENyZWF0ZURiQ29udGV4dChJTG9nZ2VyRmFjdG9yeSBsb2dnZXJGYWN0b3J5KQogICAgICAgIHsKICAgICAgICAgICAgRGJDb250ZXh0T3B0aW9uc0J1aWxkZXI8UmF0aW5nRGJDb250ZXh0PiBidWlsZGVyID0gQ3JlYXRlRGJDb250ZXh0T3B0aW9uc0J1aWxkZXIoKTsKICAgICAgICAgICAgaWYgKGxvZ2dlckZhY3RvcnkgIT0gbnVsbCkgYnVpbGRlci5Vc2VMb2dnZXJGYWN0b3J5KGxvZ2dlckZhY3RvcnkpOwogICAgICAgICAgICByZXR1cm4gbmV3IFJhdGluZ0RiQ29udGV4dChidWlsZGVyLk9wdGlvbnMpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Um9vdE5hbWVzcGFjZT5BdXRoLkRhdGEuTWlncmF0aW9uczwvUm9vdE5hbWVzcGFjZT4K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBSQUJCSVRNUV9TRVRUSU5HUyA9ICJSYWJiaXRNcVNldHRpbmciOwoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -495,38 +500,37 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5mcmFzdHJ1Y3R1cmUuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5mcmFzdHJ1Y3R1cmUuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBNSUdSQVRJT05fQVNTRU1CTFkgPSAiQXV0aC5BUEkiOwo=</text>
       </register>
       <register name="s" type="4">
         <text>aiccRequestBeforeReassignment</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5mcmFzdHJ1Y3R1cmUuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5mcmFzdHJ1Y3R1cmUuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQXV0aENvbnRleHQgQ3JlYXRlRGJDb250ZXh0KHN0cmluZ1tdIGFyZ3MpCiAgICAgICAgewogICAgICAgICAgICBJQ29uZmlndXJhdGlvblJvb3QgY29uZmlndXJhdGlvbiA9CiAgICAgICAgICAgICAgICBuZXcgQ29uZmlndXJhdGlvbkJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgIC5TZXRCYXNlUGF0aChEaXJlY3RvcnkuR2V0Q3VycmVudERpcmVjdG9yeSgpKQogICAgICAgICAgICAgICAgICAgIC5BZGRKc29uRmlsZSgiYXBwc2V0dGluZ3MuanNvbiIpCiAgICAgICAgICAgICAgICAgICAgLkFkZEpzb25GaWxlKCJhcHBzZXR0aW5ncy5Mb2NhbC5qc29uIikKICAgICAgICAgICAgICAgICAgICAuQnVpbGQoKTsKCiAgICAgICAgICAgIHZhciBidWlsZGVyID0gbmV3IERiQ29udGV4dE9wdGlvbnNCdWlsZGVyPEF1dGhDb250ZXh0PigpOwogICAgICAgICAgICB2YXIgY29ubmVjdGlvblN0cmluZyA9IGNvbmZpZ3VyYXRpb24uR2V0Q29ubmVjdGlvblN0cmluZygiQXV0aERhdGFiYXNlIik7CiAgICAgICAgICAgIGJ1aWxkZXIuVXNlTnBnc3FsKGNvbm5lY3Rpb25TdHJpbmcsIHNxbCA9PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3FsLk1pZ3JhdGlvbnNBc3NlbWJseShNSUdSQVRJT05fQVNTRU1CTFkpKTsKCiAgICAgICAgICAgIHJldHVybiBuZXcgQXV0aENvbnRleHQoYnVpbGRlci5PcHRpb25zKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkRGJDb250ZXh0PEF1dGhDb250ZXh0PihidWlsZGVyID0+IGJ1aWxkZXIuVXNlTnBnc3FsKGF1dGhDb25uZWN0aW9uU3RyaW5nLCBvcHRpb25zID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG9wdGlvbnMuRW5hYmxlUmV0cnlPbkZhaWx1cmUoKTsKICAgICAgICAgICAgICAgIG9wdGlvbnMuTWlncmF0aW9uc0Fzc2VtYmx5KE1JR1JBVElPTl9BU1NFTUJMWSk7CiAgICAgICAgICAgIH0pKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkRGJDb250ZXh0PE1lc3NhZ2luZ0NvbnRleHQ+KGJ1aWxkZXIgPT4gYnVpbGRlci5Vc2VOcGdzcWwoYXV0aENvbm5lY3Rpb25TdHJpbmcsIG9wdGlvbnMgPT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgb3B0aW9ucy5FbmFibGVSZXRyeU9uRmFpbHVyZSgpOwogICAgICAgICAgICAgICAgb3B0aW9ucy5NaWdyYXRpb25zQXNzZW1ibHkoTUlHUkFUSU9OX0FTU0VNQkxZKTsKICAgICAgICAgICAgfSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Um9vdE5hbWVzcGFjZT5BdXRoLkRhdGEuTWlncmF0aW9uczwvUm9vdE5hbWVzcGFjZT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5mcmFzdHJ1Y3R1cmUuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>maxRetryCount: 10,
-        maxRetryDelay: TimeSpan.FromSeconds(5)</text>
+      <register name="8" type="2">
+        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5mcmFzdHJ1Y3R1cmUuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5mcmFzdHJ1Y3R1cmUuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
@@ -536,9 +540,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJZGVudGl0eVNlcnZlcjRcPg==</last-search>
+      <last-search encoding="base64">XDxSQUJCSVRNUV9TRVRUSU5HU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJZGVudGl0eVNlcnZlcjRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSQUJCSVRNUV9TRVRUSU5HU1w+</last-pattern>
       <last-replace>responseContent</last-replace>
       <last-substitute>responseContent2</last-substitute>
       <last-dir>1</last-dir>
@@ -546,8 +550,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
     </search>
     <history>
       <history-search>
-        <entry>(request1)</entry>
-        <entry>cmd1</entry>
         <entry>request1</entry>
         <entry>response1</entry>
         <entry>var data2</entry>
@@ -566,6 +568,8 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         <entry encoding="base64">XDxhdXRoQ29ubmVjdGlvblN0cmluZ1w+</entry>
         <entry>migrat</entry>
         <entry encoding="base64">XDxJZGVudGl0eVNlcnZlcjRcPg==</entry>
+        <entry encoding="base64">XDxBVVRIX0RBVEFCQVNFXD4=</entry>
+        <entry encoding="base64">XDxSQUJCSVRNUV9TRVRUSU5HU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/HttpContextMother.Create().Build()/HttpContextMother.Create().WithRequestServices(_serviceProvider).Build()/g</entry>
