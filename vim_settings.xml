@@ -475,6 +475,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data.DbMigration/Data/AuthServerDb/Migrations/20190221133615_AddRegistrationDomainsTable.cs" timestamp="1561472280798">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="51" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Mappings/RegistrationDomainMap.cs" timestamp="1561391356071">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -800,7 +804,7 @@
         <text>SeedDefaultDataOnStartup</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>AddRegistrationDomainsTable</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
