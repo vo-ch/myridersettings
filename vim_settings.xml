@@ -375,6 +375,12 @@
       <file name="/Dummy.cs" timestamp="1561369948777">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data.DbMigration/Data/MessagingDBContext/DesignTimeDbContextFactory.cs" timestamp="1561468933997">
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="20" column="54" />
+        <mark key="." line="20" column="55" />
+        <mark key="^" line="11" column="30" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1561465845889">
         <mark key="'" line="86" column="61" />
         <mark key="[" line="79" column="86" />
@@ -421,6 +427,10 @@
         <mark key="]" line="35" column="11" />
         <mark key="^" line="35" column="11" />
         <mark key="." line="35" column="11" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data.DbMigration/Data/MessagingDBContext/Migrations/20170511104021_FixedPropertyName.Designer.cs" timestamp="1561468872243">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="9" column="37" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Mappings/RegionMap.cs" timestamp="1561391344700">
         <mark key="[" line="1" column="0" />
@@ -868,7 +878,7 @@
         <text>DbConstants.MigrationAssembly</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Create entities mappings</text>
+        <text>AuthContext</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -896,7 +906,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrl</text>
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Create entities mappings</text>
+        <text>AuthContext</text>
       </register>
       <register name="/" type="4">
         <text>MessagingContext</text>
