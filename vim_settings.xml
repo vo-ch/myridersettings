@@ -51,12 +51,12 @@
         <mark key="." line="33" column="33" />
         <mark key="^" line="33" column="33" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" timestamp="1561984811738">
-        <mark key="'" line="20" column="57" />
-        <mark key="[" line="14" column="93" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="29" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" timestamp="1561985721939">
+        <mark key="'" line="35" column="57" />
+        <mark key="[" line="19" column="69" />
+        <mark key="]" line="19" column="69" />
+        <mark key="^" line="19" column="59" />
+        <mark key="." line="19" column="71" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data.Migrations/Auth.Data.Migrations.csproj" timestamp="1561381813332">
         <mark key="[" line="6" column="4" />
@@ -1353,8 +1353,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElFbnVtZXJhYmxlPG9iamVjdFtdPiBBbGxWZXJzaW9ucyA9PgogICAgICAgICAgICBuZXcgTGlzdDxvYmplY3RbXT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3IG9iamVjdFtdIHsgQ3VBcGlWZXJzaW9ucy5WMSB9LAogICAgICAgICAgICAgICAgbmV3IG9iamVjdFtdIHsgQ3VBcGlWZXJzaW9ucy5WMiB9LAogICAgICAgICAgICB9Owo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>policyBuilder</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -1382,16 +1382,16 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">byA9PiBwb2xpY3lCdWlsZGVyLkFwcGx5VG8obyk=</text>
+        <text>policyBuilder</text>
       </register>
       <register name="/" type="4">
         <text>addpol</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG8uQWRkUG9saWN5KCJVc2VyIiwgYnVpbGRlciA9PiApKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKHBvbGljeUJ1aWxkZXIsIG5hbWVvZihwb2xpY3lCdWlsZGVyKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChwb2xpY3lCdWlsZGVyID09IG51bGwpIHBvbGljeUJ1aWxkZXIgPSBuZXcgQ3liZXJVQXV0aG9yaXphdGlvblBvbGljeUJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLkFkZFVzZXIoKQogICAgICAgICAgICAgICAgLkFkZEFkbWluKCkKICAgICAgICAgICAgICAgIC5BZGRTdXBlckFkbWluKCkKICAgICAgICAgICAgICAgIC5BZGREZW1vVXNlcigpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1415,37 +1415,37 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzZXJ2aWNlcy5BZGRBdXRob3JpemF0aW9uKG8gPT4gcG9saWN5QnVpbGRlci5BcHBseVRvKG8pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQXV0aG9yaXphdGlvbihvID0+CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQXV0aG9yaXphdGlvbihvID0+IHBvbGljeUJ1aWxkZXIuQXBwbHlUbyhvKSk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ2xpZW50c09wdGlvbnMgY2xpZW50c09wdGlvbnMgPSBDbGllbnRzT3B0aW9uc01vdGhlci5DcmVhdGUoKS5CdWlsZCgpOwoKICAgICAgICAgICAgbG9uZyBvcmlnaW5hbENsaWVudENvdW50ID0gYXdhaXQgR2V0Q2xpZW50c0NvdW50KGNsaWVudHNPcHRpb25zLkludGVybmFsLkNsaWVudElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eS5Db25maWd1cmF0aW9uOwp1c2luZyBBdXRoLlZhbGlkYXRpb24uUmVxdWlyZW1lbnRzOwp1c2luZyBNaWNyb3NvZnQuRXh0ZW5zaW9ucy5EZXBlbmRlbmN5SW5qZWN0aW9uOwoKbmFtZXNwYWNlIEF1dGguU2VjdXJpdHkuRGVwZW5kZW5jeUluamVjdGlvbgp7CiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIEF1dGhFeHRlbnNpb25zCiAgICB7CiAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIEFkZEN5YmVyVUF1dGhvcml6YXRpb24oCiAgICAgICAgICAgIHRoaXMgSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzLAogICAgICAgICAgICBDeWJlclVBdXRob3JpemF0aW9uUG9saWN5QnVpbGRlciBwb2xpY3lCdWlsZGVyKQogICAgICAgIHsKICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKHBvbGljeUJ1aWxkZXIsIG5hbWVvZihwb2xpY3lCdWlsZGVyKSk7CgogICAgICAgICAgICBzZXJ2aWNlcy5BZGRBdXRob3JpemF0aW9uKHBvbGljeUJ1aWxkZXIuQXBwbHlUbyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eS5Db25maWd1cmF0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKHBvbGljeUJ1aWxkZXIsIG5hbWVvZihwb2xpY3lCdWlsZGVyKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkFzcE5ldENvcmUuQXV0aG9yaXphdGlvbjsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzZXJ2aWNlcy5BZGRBdXRob3JpemF0aW9uKG8gPT4gcG9saWN5QnVpbGRlci5BcHBseVRvKG8pKTsK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQXV0aG9yaXphdGlvbihvID0+CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7CiAgICAgICAgICAgICAgICBvLkFkZFBvbGljeSgiVXNlciIsIGJ1aWxkZXIgPT4gKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3liZXJVQXV0aG9yaXphdGlvblBvbGljeUJ1aWxkZXIgY3liZXJVQXV0aG9yaXphdGlvbk9wdGlvbnMgPSBwb2xpY3lCdWlsZGVyKG5ldyBDeWJlclVBdXRob3JpemF0aW9uUG9saWN5QnVpbGRlcigpKTsK</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eS5Db25maWd1cmF0aW9uOwp1c2luZyBBdXRoLlZhbGlkYXRpb24uUmVxdWlyZW1lbnRzOwp1c2luZyBNaWNyb3NvZnQuRXh0ZW5zaW9ucy5EZXBlbmRlbmN5SW5qZWN0aW9uOwoKbmFtZXNwYWNlIEF1dGguU2VjdXJpdHkuRGVwZW5kZW5jeUluamVjdGlvbgp7CiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIEF1dGhFeHRlbnNpb25zCiAgICB7CiAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIEFkZEN5YmVyVUF1dGhvcml6YXRpb24oCiAgICAgICAgICAgIHRoaXMgSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzLAogICAgICAgICAgICBDeWJlclVBdXRob3JpemF0aW9uUG9saWN5QnVpbGRlciBwb2xpY3lCdWlsZGVyKQogICAgICAgIHsKICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKHBvbGljeUJ1aWxkZXIsIG5hbWVvZihwb2xpY3lCdWlsZGVyKSk7CgogICAgICAgICAgICBzZXJ2aWNlcy5BZGRBdXRob3JpemF0aW9uKHBvbGljeUJ1aWxkZXIuQXBwbHlUbyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
