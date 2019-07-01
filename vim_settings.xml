@@ -591,6 +591,12 @@
         <mark key="^" line="68" column="66" />
         <mark key="." line="68" column="66" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Auth.API.csproj" timestamp="1561465782555">
+        <mark key="'" line="36" column="31" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/Domain/V2/ListDomainRegionResponse.cs" timestamp="1561392064494">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -756,6 +762,12 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/InstructorPayoutDetailMap.cs" timestamp="1561474730731">
         <mark key="'" line="6" column="79" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Mappings/LocalUserMap.cs" timestamp="1561475402895">
+        <mark key="'" line="17" column="41" />
+        <mark key="[" line="21" column="68" />
+        <mark key="]" line="21" column="68" />
+        <mark key="." line="21" column="98" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Models/User/User.cs" timestamp="1561392024973">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -768,8 +780,23 @@
         <mark key="^" line="25" column="15" />
         <mark key="." line="44" column="37" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/Database/Initializers/IndustryInitializerTests.cs" timestamp="1561647117975">
-        <mark key="'" line="10" column="31" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/Database/Initializers/IndustryInitializerTests.cs" timestamp="1561992323662">
+        <mark key="'" line="23" column="20" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="63" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Aicc/Handler/AiccHandler.cs" timestamp="1561391943290">
+        <mark key="'" line="52" column="42" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/AuthContext.cs" timestamp="1561476297885">
+        <mark key="'" line="44" column="51" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Mappings/RegionMap.cs" timestamp="1561391344700">
         <mark key="[" line="1" column="0" />
@@ -930,12 +957,6 @@
         <mark key="^" line="190" column="81" />
         <mark key="." line="191" column="123" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" timestamp="1561991542605">
-        <mark key="'" line="15" column="65" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45D20605-9EC8-44F8-8A47-1D6E18421912/50/17cf8413/LoggerFactoryExtensions.cs" timestamp="1561387173794">
         <mark key="'" line="39" column="58" />
       </file>
@@ -960,6 +981,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Mappings/LocalUserClaimMap.cs" timestamp="1561475152145">
+        <mark key="'" line="10" column="63" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Constants/Scopes.cs" timestamp="1561565896396">
         <mark key="'" line="4" column="28" />
@@ -1303,7 +1330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="12" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Initialization/Database/Initializers/IndustryInitializerTests - Copy.cs" />
       <jump line="33" column="48" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Initialization/Database/Initializers/IndustryInitializerTests - Copy.cs" />
       <jump line="76" column="36" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="69" column="39" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Initialization/Database/Initializers/RoleInitializerTests.cs" />
@@ -1403,13 +1429,14 @@
       <jump line="18" column="51" filename="C:/projects/auth2/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests.Core/Fixtures/ServiceProviderFixture.cs" />
       <jump line="15" column="65" filename="C:/projects/auth2/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests.Core/Fixtures/PostgreSqlFixture.cs" />
+      <jump line="23" column="20" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Initialization/Database/Initializers/IndustryInitializerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIElFbnVtZXJhYmxlPG9iamVjdFtdPiBBbGxWZXJzaW9ucyA9PgogICAgICAgICAgICBuZXcgTGlzdDxvYmplY3RbXT4KICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmV3IG9iamVjdFtdIHsgQ3VBcGlWZXJzaW9ucy5WMSB9LAogICAgICAgICAgICAgICAgbmV3IG9iamVjdFtdIHsgQ3VBcGlWZXJzaW9ucy5WMiB9LAogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3B0aW9uID0+ICg=</text>
+        <text>Ctor_AuthContext_ThrowsArgumentNullException</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -1440,13 +1467,13 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <text encoding="base64">b3B0aW9uID0+ICg=</text>
       </register>
       <register name="/" type="4">
-        <text>configure</text>
+        <text encoding="base64">XDxDdG9yX0F1dGhDb250ZXh0X1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VydmljZXMuQ29uZmlndXJlPEF1dGhvcml6YXRpb25PcHRpb25zPihjb25maWd1cmUpOwo=</text>
+      <register name="0" type="4">
+        <text>Ctor_AuthContext_ThrowsArgumentNullException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvLgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBDdG9yX0F1dGhDb250ZXh0X1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvbigpCiAgICAgICAgewo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1470,12 +1497,18 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5pdGlhbGl6YXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvLgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5pdGlhbGl6YXRpb247Cg==</text>
+      </register>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ2xpZW50c09wdGlvbnMgY2xpZW50c09wdGlvbnMgPSBDbGllbnRzT3B0aW9uc01vdGhlci5DcmVhdGUoKS5CdWlsZCgpOwoKICAgICAgICAgICAgbG9uZyBvcmlnaW5hbENsaWVudENvdW50ID0gYXdhaXQgR2V0Q2xpZW50c0NvdW50KGNsaWVudHNPcHRpb25zLkludGVybmFsLkNsaWVudElkKTsK</text>
+      </register>
+      <register name="4" type="4">
         <text>new CyberUAuthorizationPolicyBuilder()
                 .AddUser()
                 .AddAdmin()
@@ -1483,29 +1516,23 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
                 .AddDemoUser()
                 .AddAdminOrM2M(</text>
       </register>
-      <register name="s" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xpZW50c09wdGlvbnMgY2xpZW50c09wdGlvbnMgPSBDbGllbnRzT3B0aW9uc01vdGhlci5DcmVhdGUoKS5CdWlsZCgpOwoKICAgICAgICAgICAgbG9uZyBvcmlnaW5hbENsaWVudENvdW50ID0gYXdhaXQgR2V0Q2xpZW50c0NvdW50KGNsaWVudHNPcHRpb25zLkludGVybmFsLkNsaWVudElkKTsK</text>
-      </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5pdGlhbGl6YXRpb247Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dXNpbmcgQXV0aC5BUEkuTWlkZGxld2FyZXM7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChwb2xpY3lCdWlsZGVyID09IG51bGwpIHBvbGljeUJ1aWxkZXIgPSBuZXcgQ3liZXJVQXV0aG9yaXphdGlvblBvbGljeUJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLkFkZFVzZXIoKQogICAgICAgICAgICAgICAgLkFkZEFkbWluKCkKICAgICAgICAgICAgICAgIC5BZGRTdXBlckFkbWluKCkKICAgICAgICAgICAgICAgIC5BZGREZW1vVXNlcigpOwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChwb2xpY3lCdWlsZGVyID09IG51bGwpIHBvbGljeUJ1aWxkZXIgPSBuZXcgQ3liZXJVQXV0aG9yaXphdGlvblBvbGljeUJ1aWxkZXIoKQogICAgICAgICAgICAgICAgLkFkZFVzZXIoKQogICAgICAgICAgICAgICAgLkFkZEFkbWluKCkKICAgICAgICAgICAgICAgIC5BZGRTdXBlckFkbWluKCkKICAgICAgICAgICAgICAgIC5BZGREZW1vVXNlcigpOwo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQXV0aG9yaXphdGlvbihvID0+IHBvbGljeUJ1aWxkZXIuQXBwbHlUbyhvKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkQXV0aG9yaXphdGlvbihvID0+IHBvbGljeUJ1aWxkZXIuQXBwbHlUbyhvKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
@@ -1515,9 +1542,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
       </register>
     </registers>
     <search>
-      <last-search>configure</last-search>
+      <last-search encoding="base64">XDxDdG9yX0F1dGhDb250ZXh0X1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>configure</last-pattern>
+      <last-pattern encoding="base64">XDxDdG9yX0F1dGhDb250ZXh0X1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvblw+</last-pattern>
       <last-replace>UseAutomatedDbMigrations</last-replace>
       <last-substitute>SeedDefaultDatabaseData</last-substitute>
       <last-dir>1</last-dir>
@@ -1525,7 +1552,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
     </search>
     <history>
       <history-search>
-        <entry>rys</entry>
         <entry>industry</entry>
         <entry>industries</entry>
         <entry>Industries</entry>
@@ -1545,6 +1571,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <entry>Grant</entry>
         <entry>addpol</entry>
         <entry>configure</entry>
+        <entry encoding="base64">XDxDdG9yX0F1dGhDb250ZXh0X1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/industries/regions/g</entry>
