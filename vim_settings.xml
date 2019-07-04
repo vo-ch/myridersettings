@@ -1109,11 +1109,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/AccountController.cs" timestamp="1560868367626">
         <mark key="'" line="110" column="34" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1562252949861">
-        <mark key="'" line="53" column="30" />
-        <mark key="[" line="258" column="0" />
-        <mark key="]" line="275" column="9" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1562254545074">
+        <mark key="'" line="171" column="74" />
+        <mark key="[" line="187" column="51" />
+        <mark key="]" line="187" column="50" />
+        <mark key="." line="187" column="50" />
+        <mark key="^" line="187" column="50" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/RestApiQueueMessenger.cs" timestamp="1562160552988">
         <mark key="'" line="17" column="28" />
@@ -1190,7 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Model/Message.cs" />
       <jump line="10" column="56" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/UserActivityMessanger.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Abstract/IUserActivityMessanger.cs" />
       <jump line="17" column="28" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/RestApiQueueMessenger.cs" />
@@ -1265,11 +1265,6 @@
       <jump line="28" column="6" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="65" column="53" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="249" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="66" column="61" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="182" column="52" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="181" column="52" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="171" column="73" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/Interfaces/ILocalUserRepository.cs" />
       <jump line="180" column="25" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="266" column="45" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="39" column="12" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
@@ -1290,6 +1285,12 @@
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Interfaces/V2/IExportService.cs" />
       <jump line="116" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Interfaces/V2/ICryptoService.cs" />
+      <jump line="333" column="14" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
+      <jump line="66" column="40" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
+      <jump line="182" column="53" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
+      <jump line="181" column="53" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
+      <jump line="171" column="74" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/Interfaces/ILocalUserRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1327,7 +1328,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <text>this.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjc3ZTZXJ2aWNlXD4=</text>
+        <text>createuserall</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKHByb2Nlc3NvciwgbmFtZW9mKHByb2Nlc3NvcikpOwo=</text>
@@ -1379,9 +1380,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjc3ZTZXJ2aWNlXD4=</last-search>
+      <last-search>createuserall</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjc3ZTZXJ2aWNlXD4=</last-pattern>
+      <last-pattern>createuserall</last-pattern>
       <last-replace />
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -1389,7 +1390,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
     </search>
     <history>
       <history-search>
-        <entry>bearer</entry>
         <entry>addauthenti</entry>
         <entry encoding="base64">bGlzdDxJbA==</entry>
         <entry encoding="base64">XDxSZXN0QXBpUXVldWVNZXNzZW5nZXJcPg==</entry>
@@ -1409,6 +1409,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <entry>crypt</entry>
         <entry>csv</entry>
         <entry encoding="base64">XDxjc3ZTZXJ2aWNlXD4=</entry>
+        <entry>createuserall</entry>
       </history-search>
       <history-cmd>
         <entry>%s/RoleInitializer/DataSeedingExtensions/g</entry>
