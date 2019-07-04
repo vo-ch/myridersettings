@@ -103,6 +103,10 @@
         <mark key="^" line="92" column="113" />
         <mark key="." line="92" column="113" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommand - Copy.cs" timestamp="1562256895627">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="28" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/models/course-catalog/ICourseCatalog.ts" timestamp="1561106914816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="1" />
@@ -345,8 +349,8 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Entities/Roles.cs" timestamp="1561034633489">
         <mark key="'" line="4" column="31" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/LocalUserRepository.cs" timestamp="1562255834150">
-        <mark key="'" line="172" column="12" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/LocalUserRepository.cs" timestamp="1562256557986">
+        <mark key="'" line="44" column="36" />
         <mark key="[" line="166" column="0" />
         <mark key="]" line="185" column="9" />
       </file>
@@ -490,9 +494,6 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Queries/Transcript/ListTranscriptQueryHandlerTests.cs" timestamp="1561134153809">
         <mark key="'" line="273" column="49" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562247133497">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" timestamp="1561142087867">
         <mark key="'" line="31" column="58" />
@@ -663,8 +664,8 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/InstructorPayoutDetailMap.cs" timestamp="1561474730731">
         <mark key="'" line="6" column="79" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/SuperAdminService.cs" timestamp="1562079035561">
-        <mark key="'" line="30" column="52" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/SuperAdminService.cs" timestamp="1562256482602">
+        <mark key="'" line="30" column="41" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/ExceptionCode.cs" timestamp="1562245748783">
         <mark key="[" line="12" column="0" />
@@ -1120,8 +1121,8 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/AccountController.cs" timestamp="1560868367626">
         <mark key="'" line="110" column="34" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1562256046255">
-        <mark key="'" line="66" column="41" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1562256827650">
+        <mark key="'" line="169" column="0" />
         <mark key="[" line="169" column="0" />
         <mark key="]" line="206" column="9" />
         <mark key="." line="187" column="50" />
@@ -1202,10 +1203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/User/UpdateUserModel.cs" />
-      <jump line="12" column="28" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/ViewModelConvertExtensions.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Models/User/UserModel.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/ViewModelConvertExtensions.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/User/RegisterUserViewModel.cs" />
       <jump line="35" column="60" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" />
       <jump line="27" column="43" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/User/V2/RegisterUserRequest.cs" />
@@ -1288,7 +1285,6 @@
       <jump line="333" column="14" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="182" column="53" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="181" column="53" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/Interfaces/ILocalUserRepository.cs" />
       <jump line="253" column="47" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Interfaces/ILocalUserService.cs" />
       <jump line="428" column="48" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
@@ -1296,19 +1292,24 @@
       <jump line="99" column="102" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Extensions/SerializeExtensions.cs" />
       <jump line="190" column="63" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="172" column="12" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/LocalUserRepository.cs" />
       <jump line="186" column="28" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="250" column="44" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="66" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="79" column="25" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
       <jump line="101" column="21" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
+      <jump line="172" column="12" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/LocalUserRepository.cs" />
+      <jump line="30" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/SuperAdminService.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/Interfaces/ILocalUserRepository.cs" />
+      <jump line="44" column="36" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/LocalUserRepository.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/SuperAdminController.cs" />
+      <jump line="169" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxVc2VyIGxvY2FsVXNlciA9IGF3YWl0IHRoaXMuQ29udGV4dC5Mb2NhbFVzZXJzLgogICAgICAgICAgICAgICAgRmlyc3RPckRlZmF1bHRBc3luYyh1c2VyID0+IHN0cmluZy5FcXVhbHModXNlci5FbWFpbCwgZW1haWwsIFN0cmluZ0NvbXBhcmlzb24uT3JkaW5hbElnbm9yZUNhc2UpKTsK</text>
+      <register name="a" type="4">
+        <text>RegisterUser</text>
       </register>
       <register name="&quot;" type="4">
-        <text>model</text>
+        <text>RegisterUser</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -1339,7 +1340,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <text>model</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVcGRhdGVVc2VyRGF0YVw+</text>
+        <text>adduserro</text>
       </register>
       <register name="0" type="4">
         <text>RegisterUserCommand</text>
@@ -1391,9 +1392,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVcGRhdGVVc2VyRGF0YVw+</last-search>
+      <last-search>adduserro</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVcGRhdGVVc2VyRGF0YVw+</last-pattern>
+      <last-pattern>adduserro</last-pattern>
       <last-replace />
       <last-substitute>this.</last-substitute>
       <last-dir>1</last-dir>
@@ -1401,8 +1402,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXN0QXBpUXVldWVNZXNzZW5nZXJcPg==</entry>
-        <entry>swagger</entry>
         <entry encoding="base64">XDxwcm92aWRlclw+</entry>
         <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry>notempty</entry>
@@ -1421,6 +1420,8 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <entry>431</entry>
         <entry>createuserall</entry>
         <entry encoding="base64">XDxVcGRhdGVVc2VyRGF0YVw+</entry>
+        <entry>add</entry>
+        <entry>adduserro</entry>
       </history-search>
       <history-cmd>
         <entry>%s/RoleInitializer/DataSeedingExtensions/g</entry>
