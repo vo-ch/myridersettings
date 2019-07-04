@@ -428,7 +428,6 @@
         <mark key="^" line="6" column="84" />
         <mark key="." line="6" column="84" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/Domain/V2/UpdateDomainCommand.cs" timestamp="1562165887233" />
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.BusinessLogicLayer.Test/ExternalUserServiceTests.cs" timestamp="1561391224143">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -745,6 +744,13 @@
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Middlewares/CyberUExceptionMiddleware.cs" timestamp="1562080110736">
         <mark key="'" line="50" column="25" />
+      </file>
+      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/Validators/User/RegisterUserValidator.cs" timestamp="1562227631962">
+        <mark key="'" line="14" column="89" />
+        <mark key="[" line="14" column="90" />
+        <mark key="]" line="14" column="89" />
+        <mark key="^" line="14" column="89" />
+        <mark key="." line="14" column="89" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/HealthCheck/NpgSqlHealthCheckService.cs" timestamp="1561046508229">
         <mark key="'" line="47" column="36" />
@@ -1290,8 +1296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
-      <jump line="35" column="26" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
       <jump line="29" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Model/MessageExtenssions.cs" />
       <jump line="65" column="59" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/RestApiQueueMessenger.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Interfaces/IFailureSentMessageBackup.cs" />
@@ -1390,6 +1394,8 @@
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Test/Validators/RegisterUserValidatorTest.cs" />
       <jump line="210" column="43" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="28" column="6" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="14" column="89" filename="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/Validators/User/RegisterUserValidator.cs" />
+      <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Repository/Interfaces/ILocalUserRepository.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1485,7 +1491,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
       <last-replace>User</last-replace>
       <last-substitute>Region</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
