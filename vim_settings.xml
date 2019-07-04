@@ -39,6 +39,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="9" column="20" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Swagger/SwaggerServiceExtensions.cs" timestamp="1562235723011">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="50" />
+        <mark key="^" line="44" column="50" />
+        <mark key="." line="44" column="50" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/Initializers/RoleInitializer.cs" timestamp="1561644956299">
         <mark key="'" line="29" column="60" />
         <mark key="[" line="33" column="26" />
@@ -345,6 +351,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/LocalUserRepository.cs" timestamp="1562236205850">
+        <mark key="'" line="215" column="57" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByIdsQueryHandler.cs" timestamp="1562149873903">
         <mark key="'" line="19" column="23" />
         <mark key="[" line="19" column="33" />
@@ -607,11 +616,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommand.cs" timestamp="1562165906667">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="9" column="11" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommand.cs" timestamp="1562236009819">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1561138558376">
         <mark key="'" line="97" column="45" />
@@ -808,6 +817,12 @@
         <mark key="." line="41" column="3" />
         <mark key="^" line="41" column="3" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUserQuery - Copy.cs" timestamp="1562236610217">
+        <mark key="[" line="17" column="63" />
+        <mark key="]" line="17" column="63" />
+        <mark key="^" line="17" column="53" />
+        <mark key="." line="17" column="67" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/Domain/V2/UpdateDomainCommandHandler.cs" timestamp="1561538892313">
         <mark key="'" line="80" column="13" />
         <mark key="[" line="3" column="0" />
@@ -910,6 +925,11 @@
         <mark key="." line="36" column="11" />
         <mark key="^" line="36" column="11" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/IsLocalUserExistsQuery.cs" timestamp="1562236618484">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/UserController.cs" timestamp="1562158678852">
         <mark key="'" line="92" column="50" />
         <mark key="[" line="13" column="0" />
@@ -919,8 +939,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c7/7d554bcb/HttpRequest.cs" timestamp="1561022199935">
         <mark key="'" line="44" column="28" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1562233546479">
-        <mark key="'" line="177" column="47" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1562235551010">
+        <mark key="'" line="88" column="24" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -1037,6 +1057,13 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/UpdateDomainCommandHandler.cs" timestamp="1562236062725">
+        <mark key="'" line="12" column="65" />
+        <mark key="[" line="12" column="65" />
+        <mark key="]" line="12" column="76" />
+        <mark key="." line="12" column="66" />
+        <mark key="^" line="12" column="66" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/InstructorPayoutMap.cs" timestamp="1561474762619">
         <mark key="'" line="9" column="71" />
       </file>
@@ -1108,10 +1135,14 @@
       <file name="C:/projects/Accounting/Infra/Accounting.Exception/Base/CyberUUnprocessableEntityException.cs" timestamp="1562085977088">
         <mark key="'" line="22" column="73" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/User/RegisterUserRequestValidator.cs" timestamp="1562234223168">
-        <mark key="'" line="13" column="83" />
-        <mark key="[" line="31" column="89" />
-        <mark key="]" line="31" column="96" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Models/User/UserModel.cs" timestamp="1562235847572">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="10" column="44" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/User/RegisterUserRequestValidator.cs" timestamp="1562236137699">
+        <mark key="'" line="16" column="89" />
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="22" column="91" />
         <mark key="." line="31" column="96" />
         <mark key="^" line="31" column="96" />
       </file>
@@ -1130,8 +1161,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B453F791-1988-448A-BB87-7CBFC1BFFA18/03/a1c991e9/EquivalencyAssertionOptions`1.cs" timestamp="1561566808420">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/ViewModelConvertExtensions.cs" timestamp="1562165725230">
-        <mark key="'" line="12" column="28" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/ViewModelConvertExtensions.cs" timestamp="1562235844042">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="19" column="45" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/DataSeedingExtensions.cs" timestamp="1561646243349">
         <mark key="'" line="41" column="47" />
@@ -1147,8 +1180,8 @@
         <mark key="." line="102" column="112" />
         <mark key="^" line="102" column="112" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1562168559057">
-        <mark key="'" line="101" column="60" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1562235833949">
+        <mark key="'" line="107" column="71" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
@@ -1273,12 +1306,12 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUserQueryHandler - Copy.cs" timestamp="1562149618385">
-        <mark key="'" line="9" column="62" />
-        <mark key="[" line="9" column="62" />
-        <mark key="]" line="9" column="62" />
-        <mark key="." line="9" column="79" />
-        <mark key="^" line="15" column="71" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUserQueryHandler - Copy.cs" timestamp="1562236664685">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="17" column="11" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/appsettings.json" timestamp="1562070457113">
         <mark key="'" line="49" column="0" />
@@ -1319,24 +1352,15 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="56" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/RestApiQueueMessenger.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Model/MessageExtenssions.cs" />
-      <jump line="84" column="48" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.UserProgressApi/Middleware/UserProgressApiMiddleware.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Extensions/LogLevelExtension.cs" />
       <jump line="31" column="38" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="14" column="77" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Infrastructure/Initialization/Database/DefaultDbDataInitializer.cs" />
       <jump line="157" column="27" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
-      <jump line="267" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
-      <jump line="9" column="15" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
-      <jump line="88" column="24" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="140" column="31" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="143" column="20" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="144" column="20" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="155" column="31" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="158" column="20" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="159" column="20" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
-      <jump line="266" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="6" column="59" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByIdsQuery.cs" />
       <jump line="75" column="61" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/69AF68FD-B98B-4619-A844-B7288CBD9DB6/73/e895149e/RequiredAttribute.cs" />
@@ -1365,7 +1389,6 @@
       <jump line="10" column="19" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByIdsQuery.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/468A3C3F-6BB5-4C43-93A1-C302265EEC56/d9/99a030ef/IList`1.cs" />
       <jump line="19" column="23" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByIdsQuery.cs" />
-      <jump line="9" column="62" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUserQueryHandler - Copy.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByIdsQuery.cs" />
       <jump line="21" column="42" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByIdsQueryHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/UserNotFoundException.cs" />
@@ -1398,7 +1421,6 @@
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/User/UpdateUserModel.cs" />
       <jump line="12" column="28" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/ViewModelConvertExtensions.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Models/User/UserModel.cs" />
-      <jump line="107" column="75" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/ViewModelConvertExtensions.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/User/RegisterUserViewModel.cs" />
       <jump line="35" column="60" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CreateCourseRatingRequest.cs" />
@@ -1414,18 +1436,29 @@
       <jump line="0" column="0" filename="C:/projects/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Repository/Interfaces/ILocalUserRepository.cs" />
       <jump line="209" column="0" filename="C:/projects/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/DomainControllerTests.cs" />
       <jump line="24" column="17" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/Resources/ValidationMessages.Designer.cs" />
-      <jump line="177" column="47" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="42" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/DomainController.cs" />
       <jump line="21" column="105" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/User/RegisterUserRequestValidator.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/Resources/ValidationMessages.resx" />
       <jump line="13" column="83" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/User/RegisterUserRequestValidator.cs" />
+      <jump line="177" column="47" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="266" column="19" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="267" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="9" column="15" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="88" column="24" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
+      <jump line="107" column="71" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
+      <jump line="14" column="23" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/ViewModelConvertExtensions.cs" />
+      <jump line="11" column="65" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/UpdateDomainCommandHandler.cs" />
+      <jump line="16" column="89" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/User/RegisterUserRequestValidator.cs" />
+      <jump line="215" column="57" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/LocalUserRepository.cs" />
+      <jump line="195" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Repository/LocalUserRepository.cs" />
+      <jump line="9" column="17" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUserQueryHandler - Copy.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>First name should not be empty</text>
       </register>
       <register name="&quot;" type="4">
-        <text>First</text>
+        <text encoding="base64">YWxVc2VyIHVzZXIgPSA=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -1453,74 +1486,71 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         </keys>
       </register>
       <register name="-" type="4">
-        <text>First</text>
+        <text encoding="base64">YWxVc2VyIHVzZXIgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>fluent</text>
+        <text>GetUser</text>
       </register>
       <register name="0" type="4">
-        <text>ValidationMessages.EmptyFirstName</text>
+        <text>GetUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuVmlld01vZGVscy5Vc2VyOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICh1c2VyID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBVc2VyTm90Rm91bmRFeGNlcHRpb24ocXVlcnkuVXNlcklkKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcXVlcnkuUmVzdWx0ID0gdXNlcjsK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAiU2VyaWxvZyI6IHsKICAgICJNaW5pbXVtTGV2ZWwiOiAiV2FybmluZyIsCiAgICAiV3JpdGVUbyI6IFsKICAgICAgeyAiTmFtZSI6ICJDb25zb2xlIiB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiUm9sbGluZ0ZpbGUiLAogICAgICAgICJBcmdzIjogeyAicGF0aEZvcm1hdCI6ICJMb2dzXFxsb2cte0RhdGV9LnR4dCIgfQogICAgICB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiTG9nZ2x5IiwKICAgICAgICAiQXJncyI6IHsKICAgICAgICAgIC8vImN1c3RvbWVyVG9rZW4iOiAiIiwKICAgICAgICAgICJ0YWdzIjogImN1LWRldi1hdXRoIgogICAgICAgIH0KICAgICAgfQogICAgXSwKICAgICJFbnJpY2giOiBbICJGcm9tTG9nQ29udGV4dCIgXSwKICAgICJQcm9wZXJ0aWVzIjogeyAiQXBwbGljYXRpb24iOiAiQXV0aCIgfSwKICAgICJMb2dnbHkiOiB7CiAgICAgICJBcHBsaWNhdGlvbk5hbWUiOiAiQXV0aCIsCiAgICAgICJDdXN0b21lclRva2VuIjogIiIsCiAgICAgICJUcmFuc3BvcnQiOiB7CiAgICAgICAgIkVuZHBvaW50SG9zdG5hbWUiOiAibG9ncy0wMS5sb2dnbHkuY29tIiwKICAgICAgICAiRW5kcG9pbnRQb3J0IjogIjQ0MyIsCiAgICAgICAgIkxvZ1RyYW5zcG9ydCI6ICJodHRwcyIKICAgICAgfSwKICAgICAgIlRhZ3MiOiBbICIiIF0KICAgIH0KICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuTWlkZGxld2FyZXM7Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhLkVudGl0eTsK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5pdGlhbGl6YXRpb247CnVzaW5nIEF1dGguQVBJLk1pZGRsZXdhcmVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>Last name should not be empty</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5pdGlhbGl6YXRpb24uRGF0YWJhc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IFVzZXJJZCB7IGdldDsgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5pdGlhbGl6YXRpb247CnVzaW5nIEF1dGguQVBJLk1pZGRsZXdhcmVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXNlcklkID0gdXNlcklkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW1haWwgPSByZXF1ZXN0LkVtYWlsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgSWRlbnRpdHlTZXJ2ZXI0Lk1vZGVsczsK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5Db21wb25lbnRNb2RlbC5EYXRhQW5ub3RhdGlvbnM7CnVzaW5nIEF1dGguQVBJLlZpZXdNb2RlbHMuUmVzb3VyY2VzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgUmVnaXN0ZXJVc2VyQ29tbWFuZChSZWdpc3RlclVzZXJSZXF1ZXN0IHJlcXVlc3QpCiAgICAgICAgewogICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>%s/GetUser/IsLocalUserExists/g</text>
       </register>
     </registers>
     <search>
-      <last-search>fluent</last-search>
+      <last-search>GetUser</last-search>
       <last-offset />
-      <last-pattern>fluent</last-pattern>
-      <last-replace>User</last-replace>
-      <last-substitute>Region</last-substitute>
+      <last-pattern>GetUser</last-pattern>
+      <last-replace>IsLocalUserExists</last-replace>
+      <last-substitute>GetUser</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Grant</entry>
-        <entry>addpol</entry>
-        <entry>configure</entry>
         <entry encoding="base64">XDxDdG9yX0F1dGhDb250ZXh0X1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvblw+</entry>
         <entry encoding="base64">XDxBZGRQcm9wZXJ0aWVzRm9yUmFiYml0TVFcPg==</entry>
         <entry>this.</entry>
@@ -1537,11 +1567,12 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry>notempty</entry>
         <entry encoding="base64">XDxFWENIQU5HRVw+</entry>
+        <entry>swagg</entry>
         <entry>fluent</entry>
+        <entry>UpdateDomain</entry>
+        <entry>GetUser</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ClientInitializer/ApiResourceInitializer/g</entry>
-        <entry>%s/ApiResource/IdentityResource/g</entry>
         <entry>%s/IdentityResource/Industries/g</entry>
         <entry>%s/IdentityResource/Industry/g</entry>
         <entry>%s/Industry/Region/g</entry>
@@ -1559,7 +1590,9 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>%s/UpdateDomain/RegisterUser/g</entry>
         <entry>action GotoImplementation</entry>
+        <entry>%s/GetUser/IsLocalUserExists/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
