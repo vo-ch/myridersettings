@@ -674,11 +674,11 @@
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Airbrake/NixAirbrakeNotifier.cs" timestamp="1560867607707">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1562142263328">
+      <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" timestamp="1562229395491">
         <mark key="'" line="192" column="82" />
-        <mark key="[" line="192" column="77" />
-        <mark key="]" line="192" column="84" />
-        <mark key="." line="192" column="84" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="192" column="84" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Worker/RegistrationDomainIngester/test/Auth.RegistrationDomainIngester.IntegrationTests/appsettings.json" timestamp="1562059280479">
@@ -1401,8 +1401,8 @@
       <register name="a" type="4">
         <text>UserItemResponse.From</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>RegisterUserViewModel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5pdGlhbGl6YXRpb24uRGF0YWJhc2U7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -1439,34 +1439,34 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <text encoding="base64">OiBBYnN0cmFjdFZhbGlkYXRvcjxSZWdpc3RlclVzZXJWaWV3TW9kZWw+CiAgICB7CiAgICAgICAgcHVibGljIFJlZ2lzdGVyVXNlclZhbGlkYXRvcihJTG9jYWxVc2VyUmVwb3NpdG9yeSByZXBvKQogICAgICAgIHsKICAgICAgICAgICAgdGhpcy5SdWxlRm9yKHggPT4geC5FbWFpbCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLkNhc2NhZGUoQ2FzY2FkZU1vZGUuU3RvcE9uRmlyc3RGYWlsdXJlKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuTm90RW1wdHkoKS5XaXRoTWVzc2FnZSgiRS1tYWlsIHNob3VsZCBub3QgYmUgZW1wdHkiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuRW1haWxBZGRyZXNzKCkuV2l0aE1lc3NhZ2UoIkludmFsaWQgRS1tYWlsIGFkZHJlc3MiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuTXVzdEFzeW5jKGFzeW5jICh4LCB0b2tlbikgPT4gKGF3YWl0IHJlcG8uSXNMb2NhbFVzZXJFeGlzdHNBc3luYyh4KSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoTWVzc2FnZSgiVXNlciB3aXRoIHN1Y2ggRS1tYWlsIGFscmVhZHkgZXhpc3RzIik7CgogICAgICAgICAgICB0aGlzLlJ1bGVGb3IoeCA9PiB4LlBhc3N3b3JkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLk5vdEVtcHR5KCkuV2l0aE1lc3NhZ2UoIlBhc3N3b3JkIHNob3VsZCBub3QgYmUgZW1wdHkiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLkxlbmd0aCg4LCAyNTYpLldpdGhNZXNzYWdlKCJQYXNzd29yZCBsZW5ndGggbXVzdCBiZSBncmVhdGVyIG9yIGVxdWFsIHRoYW4gOCIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuTWF0Y2hlcyhAIl4oPz0uKlthLXpdKSg/PS4qW0EtWl0pKD89LipcZClbQS1aYS16XGRdIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5XaXRoTWVzc2FnZSgiUGFzc3dvcmQgbXVzdCBjb250YWluIGF0IGxlYXN0IDEgdXBwZXJjYXNlLCAxIGxvd2VyY2FzZSBhbmQgMSBudW1iZXIiKTsKCiAgICAgICAgICAgIHRoaXMuUnVsZUZvcih4ID0+IHguUmVwZWF0ZWRQYXNzd29yZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLk5vdEVtcHR5KCkuV2l0aE1lc3NhZ2UoIlJlcGVhdGVkIHBhc3N3b3JkIHNob3VsZCBub3QgYmUgZW1wdHkiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuRXF1YWwoeCA9PiB4LlBhc3N3b3JkKS5XaXRoTWVzc2FnZSgiUGFzc3dvcmRzIGRvbid0IG1hdGNoIik7CgogICAgICAgICAgICB0aGlzLlJ1bGVGb3IoeCA9PiB4LkZpcnN0TmFtZSkuTm90RW1wdHkoKS5XaXRoTWVzc2FnZSgiRmlyc3QgbmFtZSBzaG91bGQgbm90IGJlIGVtcHR5Iik7CgogICAgICAgICAgICB0aGlzLlJ1bGVGb3IoeCA9PiB4Lkxhc3ROYW1lKS5Ob3RFbXB0eSgpLldpdGhNZXNzYWdlKCJMYXN0IG5hbWUgc2hvdWxkIG5vdCBiZSBlbXB0eSIpOwogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5pdGlhbGl6YXRpb24uRGF0YWJhc2U7Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAiU2VyaWxvZyI6IHsKICAgICJNaW5pbXVtTGV2ZWwiOiAiV2FybmluZyIsCiAgICAiV3JpdGVUbyI6IFsKICAgICAgeyAiTmFtZSI6ICJDb25zb2xlIiB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiUm9sbGluZ0ZpbGUiLAogICAgICAgICJBcmdzIjogeyAicGF0aEZvcm1hdCI6ICJMb2dzXFxsb2cte0RhdGV9LnR4dCIgfQogICAgICB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiTG9nZ2x5IiwKICAgICAgICAiQXJncyI6IHsKICAgICAgICAgIC8vImN1c3RvbWVyVG9rZW4iOiAiIiwKICAgICAgICAgICJ0YWdzIjogImN1LWRldi1hdXRoIgogICAgICAgIH0KICAgICAgfQogICAgXSwKICAgICJFbnJpY2giOiBbICJGcm9tTG9nQ29udGV4dCIgXSwKICAgICJQcm9wZXJ0aWVzIjogeyAiQXBwbGljYXRpb24iOiAiQXV0aCIgfSwKICAgICJMb2dnbHkiOiB7CiAgICAgICJBcHBsaWNhdGlvbk5hbWUiOiAiQXV0aCIsCiAgICAgICJDdXN0b21lclRva2VuIjogIiIsCiAgICAgICJUcmFuc3BvcnQiOiB7CiAgICAgICAgIkVuZHBvaW50SG9zdG5hbWUiOiAibG9ncy0wMS5sb2dnbHkuY29tIiwKICAgICAgICAiRW5kcG9pbnRQb3J0IjogIjQ0MyIsCiAgICAgICAgIkxvZ1RyYW5zcG9ydCI6ICJodHRwcyIKICAgICAgfSwKICAgICAgIlRhZ3MiOiBbICIiIF0KICAgIH0KICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuSW5pdGlhbGl6YXRpb247CnVzaW5nIEF1dGguQVBJLk1pZGRsZXdhcmVzOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5Db21wb25lbnRNb2RlbC5EYXRhQW5ub3RhdGlvbnM7CnVzaW5nIEF1dGguQVBJLlZpZXdNb2RlbHMuUmVzb3VyY2VzOwo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ2xpZW50c09wdGlvbnMgY2xpZW50c09wdGlvbnMgPSBDbGllbnRzT3B0aW9uc01vdGhlci5DcmVhdGUoKS5CdWlsZCgpOwoKICAgICAgICAgICAgbG9uZyBvcmlnaW5hbENsaWVudENvdW50ID0gYXdhaXQgR2V0Q2xpZW50c0NvdW50KGNsaWVudHNPcHRpb25zLkludGVybmFsLkNsaWVudElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW01pbkxlbmd0aCg4KV0K</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7CnVzaW5nIFN5c3RlbS5Db21wb25lbnRNb2RlbC5EYXRhQW5ub3RhdGlvbnM7CnVzaW5nIEF1dGguQVBJLlZpZXdNb2RlbHMuUmVzb3VyY2VzOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCiAgICAgICAgW01pbkxlbmd0aCg4KV0K</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
@@ -1475,7 +1475,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIElFbnVtZXJhYmxlPFZhbGlkYXRpb25SZXN1bHQ+IFZhbGlkYXRlKFZhbGlkYXRpb25Db250ZXh0IHZhbGlkYXRpb25Db250ZXh0KQogICAgICAgIHsKICAgICAgICAgICAgaWYgKFBhc3N3b3JkICE9IFJlcGVhdGVkUGFzc3dvcmQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBuZXcgVmFsaWRhdGlvblJlc3VsdChWYWxpZGF0aW9uTWVzc2FnZXMuUGFzc3dvcmRzRG9udE1hdGNoLAogICAgICAgICAgICAgICAgICAgIG5ld1tdIHsgbmFtZW9mKFJlcGVhdGVkUGFzc3dvcmQpIH0pOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBbUmVxdWlyZWRdCg==</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
