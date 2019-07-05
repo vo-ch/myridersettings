@@ -158,12 +158,12 @@
         <mark key="^" line="205" column="67" />
         <mark key="." line="205" column="67" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/AssignRolesCommandHandler.cs" timestamp="1562258888990">
-        <mark key="'" line="29" column="101" />
-        <mark key="[" line="29" column="104" />
-        <mark key="]" line="29" column="104" />
-        <mark key="." line="29" column="104" />
-        <mark key="^" line="29" column="103" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/AssignRolesCommandHandler.cs" timestamp="1562313839215">
+        <mark key="'" line="33" column="54" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/ClientInitializer.cs" timestamp="1561539629235">
         <mark key="'" line="31" column="24" />
@@ -574,6 +574,13 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/RoleDoesNotExistException.cs" timestamp="1562313852538">
+        <mark key="'" line="6" column="67" />
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+      </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1561138558376">
         <mark key="'" line="97" column="45" />
       </file>
@@ -737,11 +744,12 @@
         <mark key="." line="15" column="99" />
         <mark key="^" line="15" column="99" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/UserNotFoundException - Copy.cs" timestamp="1562245378565">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-        <mark key="^" line="6" column="33" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/UserNotFoundException - Copy.cs" timestamp="1562313216914">
+        <mark key="'" line="26" column="67" />
+        <mark key="[" line="6" column="47" />
+        <mark key="]" line="6" column="75" />
+        <mark key="." line="6" column="75" />
+        <mark key="^" line="6" column="75" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.HealthCheck/Auth.HealthCheck.csproj" timestamp="1561123467182">
         <mark key="[" line="6" column="4" />
@@ -765,6 +773,13 @@
         <mark key="]" line="38" column="11" />
         <mark key="." line="38" column="11" />
         <mark key="^" line="38" column="11" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" timestamp="1562314006410">
+        <mark key="'" line="160" column="23" />
+        <mark key="[" line="160" column="23" />
+        <mark key="]" line="160" column="23" />
+        <mark key="." line="160" column="23" />
+        <mark key="^" line="160" column="23" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Middlewares/CyberUExceptionMiddleware.cs" timestamp="1562080359343">
         <mark key="'" line="39" column="30" />
@@ -816,6 +831,12 @@
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Constants/Scopes.cs" timestamp="1561565896396">
         <mark key="'" line="4" column="28" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/ExceptionCode.cs" timestamp="1562313446471">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="28" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Helpers/CuApiVersions.cs" timestamp="1561970726307">
         <mark key="[" line="6" column="71" />
@@ -895,11 +916,12 @@
         <mark key="." line="43" column="57" />
         <mark key="^" line="43" column="57" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Resources/ExceptionMessages.resx" timestamp="1562248321330">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Resources/ExceptionMessages.resx" timestamp="1562313386790">
         <mark key="'" line="62" column="67" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+        <mark key="[" line="146" column="30" />
+        <mark key="]" line="146" column="30" />
+        <mark key="." line="146" column="30" />
+        <mark key="^" line="146" column="24" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Model/LoggingMessage.cs" timestamp="1562158831929">
         <mark key="'" line="9" column="66" />
@@ -1083,6 +1105,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/RestApiQueueMessenger.cs" timestamp="1562160552988">
         <mark key="'" line="17" column="28" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Exceptions/CyberUUnprocessableEntityException.cs" timestamp="1562313873507">
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="4" column="78" />
+        <mark key="^" line="4" column="78" />
+        <mark key="." line="4" column="78" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/RegionNotFoundException.cs" timestamp="1562079424778">
         <mark key="'" line="9" column="44" />
         <mark key="[" line="13" column="41" />
@@ -1135,6 +1163,13 @@
         <mark key="^" line="60" column="33" />
         <mark key="." line="60" column="33" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/RoleNotExistsException.cs" timestamp="1562313402846">
+        <mark key="'" line="9" column="49" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="33" />
+      </file>
       <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/appsettings.Local.json" timestamp="1562065843050">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="35" column="28" />
@@ -1155,20 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="29" filename="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Domain/Queries/Extensions/QueryExtensions.cs" />
-      <jump line="8" column="115" filename="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Domain/Queries/Extensions/QueryExtensions.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Exceptions/CyberUBadRequestException.cs" />
-      <jump line="88" column="49" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
-      <jump line="92" column="55" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
-      <jump line="89" column="12" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
-      <jump line="21" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUserQueryHandler.cs" />
-      <jump line="14" column="72" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/UserNotFoundException.cs" />
-      <jump line="35" column="19" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
-      <jump line="43" column="63" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
-      <jump line="38" column="70" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
-      <jump line="5" column="62" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/QuarterlyPayout/NoDomainIncludedInPayoutFoundException.cs" />
-      <jump line="24" column="75" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Exceptions/Currency/RevenuesInDifferentCurrenciesException.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="35" column="26" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
       <jump line="15" column="52" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/User/RegisterUserRequestValidator.cs" />
       <jump line="9" column="67" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/UserAlreadyExistsException.cs" />
@@ -1255,13 +1276,27 @@
       <jump line="45" column="24" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/AssignRolesCommandHandler.cs" />
       <jump line="29" column="101" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/AssignRolesCommandHandler.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FA0F803A-DC2C-489A-A2EF-09A002B77465/74/40dd67c9/JwtClaimTypes.cs" />
+      <jump line="26" column="67" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/UserNotFoundException - Copy.cs" />
+      <jump line="9" column="49" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/RoleNotExistsException.cs" />
+      <jump line="26" column="85" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/RoleDoesNotExistException.cs" />
+      <jump line="34" column="54" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/AssignRolesCommandHandler.cs" />
+      <jump line="6" column="67" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/RoleDoesNotExistException.cs" />
+      <jump line="105" column="51" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="129" column="30" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="158" column="30" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="166" column="25" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="117" column="38" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="120" column="44" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="114" column="28" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="160" column="23" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Filters/V2/CyberUExceptionFilter.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/2f/7054505d/BadRequestObjectResult.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>RegisterUser</text>
+        <text>roleClaim.Value</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;role&quot;</text>
+        <text>BadRequest</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -1289,64 +1324,68 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;role&quot;</text>
+        <text>BadRequest</text>
       </register>
       <register name="/" type="4">
-        <text>this.Logger</text>
+        <text>servererr</text>
       </register>
       <register name="0" type="4">
-        <text>this.Logger</text>
+        <text>command.User.Email</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuRG9tYWluLlJlc291cmNlczsK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAiU2VyaWxvZyI6IHsKICAgICJNaW5pbXVtTGV2ZWwiOiAiV2FybmluZyIsCiAgICAiV3JpdGVUbyI6IFsKICAgICAgeyAiTmFtZSI6ICJDb25zb2xlIiB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiUm9sbGluZ0ZpbGUiLAogICAgICAgICJBcmdzIjogeyAicGF0aEZvcm1hdCI6ICJMb2dzXFxsb2cte0RhdGV9LnR4dCIgfQogICAgICB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiTG9nZ2x5IiwKICAgICAgICAiQXJncyI6IHsKICAgICAgICAgIC8vImN1c3RvbWVyVG9rZW4iOiAiIiwKICAgICAgICAgICJ0YWdzIjogImN1LWRldi1hdXRoIgogICAgICAgIH0KICAgICAgfQogICAgXSwKICAgICJFbnJpY2giOiBbICJGcm9tTG9nQ29udGV4dCIgXSwKICAgICJQcm9wZXJ0aWVzIjogeyAiQXBwbGljYXRpb24iOiAiQXV0aCIgfSwKICAgICJMb2dnbHkiOiB7CiAgICAgICJBcHBsaWNhdGlvbk5hbWUiOiAiQXV0aCIsCiAgICAgICJDdXN0b21lclRva2VuIjogIiIsCiAgICAgICJUcmFuc3BvcnQiOiB7CiAgICAgICAgIkVuZHBvaW50SG9zdG5hbWUiOiAibG9ncy0wMS5sb2dnbHkuY29tIiwKICAgICAgICAiRW5kcG9pbnRQb3J0IjogIjQ0MyIsCiAgICAgICAgIkxvZ1RyYW5zcG9ydCI6ICJodHRwcyIKICAgICAgfSwKICAgICAgIlRhZ3MiOiBbICIiIF0KICAgIH0KICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uVGhyZWFkaW5nOwp1c2luZyBTeXN0ZW0uVGhyZWFkaW5nLlRhc2tzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJvdGVjdGVkIG92ZXJyaWRlIFRhc2sgRXhlY3V0ZUludGVybmFsKEFzc2lnblJvbGVzQ29tbWFuZCBjb21tYW5kLCBDYW5jZWxsYXRpb25Ub2tlbiB0b2tlbikKICAgICAgICB7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciByb2xlIGluIHJvbGVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDbGFpbSByb2xlQ2xhaW0gPSBhd2FpdCB0aGlzLkNvbnRleHQuQ2xhaW1zLgogICAgICAgICAgICAgICAgICAgIEZpcnN0T3JEZWZhdWx0QXN5bmMoY2xhaW0gPT4gY2xhaW0uVmFsdWUgPT0gcm9sZSAmJiBjbGFpbS5UeXBlID09ICJyb2xlIik7CgogICAgICAgICAgICAgICAgaWYgKHJvbGVDbGFpbSAhPSBudWxsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciB1c2VyQ2xhaW0gPSBhd2FpdCB0aGlzLkNvbnRleHQuTG9jYWxVc2VyQ2xhaW1zLgogICAgICAgICAgICAgICAgICAgICAgICBGaXJzdE9yRGVmYXVsdEFzeW5jKHAgPT4gcC5Mb2NhbFVzZXJJZCA9PSB1c2VyLklkICYmIHAuQ2xhaW1JZCA9PSByb2xlQ2xhaW0uSWQpOwogICAgICAgICAgICAgICAgICAgIGlmICh1c2VyQ2xhaW0gPT0gbnVsbCkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBsb2NhbFVzZXJDbGFpbSA9IG5ldyBMb2NhbFVzZXJDbGFpbQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2NhbFVzZXJJZCA9IHVzZXIuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBMb2NhbFVzZXIgPSB1c2VyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQ2xhaW1JZCA9IHJvbGVDbGFpbS5JZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENsYWltID0gcm9sZUNsYWltCiAgICAgICAgICAgICAgICAgICAgICAgIH07CgogICAgICAgICAgICAgICAgICAgICAgICBhd2FpdCB0aGlzLkNvbnRleHQuTG9jYWxVc2VyQ2xhaW1zLkFkZEFzeW5jKGxvY2FsVXNlckNsYWltKTsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5Mb2dnZXIuTG9nSW5mb3JtYXRpb24oIkNsYWltIFwiezB9XCIgZm9yIHVzZXIgd2l0aCBFLW1haWwgXCJ7MX1cIiBpcyBhZGRlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICByb2xlQ2xhaW0uVmFsdWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VyLkVtYWlsKTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIHRoaXMuTG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCJDbGFpbSBcInswfVwiIGZvciB1c2VyIHdpdGggRS1tYWlsIFwiezF9XCIgaXMgYWxyZWFkeSBleGlzdGVkIiwKICAgICAgICAgICAgICAgICAgICAgICAgcm9sZUNsYWltLlZhbHVlLAogICAgICAgICAgICAgICAgICAgICAgICB1c2VyLkVtYWlsKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB0aGlzLkxvZ2dlci5Mb2dJbmZvcm1hdGlvbigiUm9sZSBcInswfVwiIGRvZXMgbm90IGV4aXN0Iiwgcm9sZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGF3YWl0IHRoaXMuQ29udGV4dC5TYXZlQ2hhbmdlc0FzeW5jKCk7CiAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text>,
+                    roleClaim.Value,
+                    command.User.Email</text>
       </register>
       <register name="s" type="4">
-        <text>Last name should not be empty</text>
+        <text>command.User.Email</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>,
+                        roleClaim.Value,
+                        command.User.Email</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuVmlld01vZGVscy5Vc2VyLlYyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5TZWN1cml0eTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oIkNsYWltIFwiezB9XCIgZm9yIHVzZXIgd2l0aCBFLW1haWwgXCJ7MX1cIiBpcyBhbHJlYWR5IGV4aXN0ZWQiLAogICAgICAgICAgICAgICAgICAgIHJvbGVDbGFpbS5WYWx1ZSwKICAgICAgICAgICAgICAgICAgICBjb21tYW5kLlVzZXIuRW1haWwpOwo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQXNzaWduUm9sZXNDb21tYW5kQ29tbWFuZCgpIDogdGhpcyhudWxsKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBfbG9nZ2VyLkxvZ0luZm9ybWF0aW9uKCJSb2xlIFwiezB9XCIgZG9lcyBub3QgZXhpc3QiLCByb2xlKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>.</text>
       </register>
       <register name=":" type="4">
-        <text>%s/this.Logger/_logger/g</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
-      <last-search>this.Logger</last-search>
+      <last-search>servererr</last-search>
       <last-offset />
-      <last-pattern>this.Logger</last-pattern>
+      <last-pattern>servererr</last-pattern>
       <last-replace>_logger</last-replace>
       <last-substitute>this.Logger</last-substitute>
       <last-dir>1</last-dir>
@@ -1354,7 +1393,6 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFWENIQU5HRVw+</entry>
         <entry>swagg</entry>
         <entry>UpdateDomain</entry>
         <entry>GetUser</entry>
@@ -1374,6 +1412,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <entry>RegisterUser</entry>
         <entry>this.Context</entry>
         <entry>this.Logger</entry>
+        <entry>servererr</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SeedDefaultDatabaseData/UseAutomatedDbMigrations/g</entry>
@@ -1381,21 +1420,21 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <entry encoding="base64">JzwsJz5zL2xvY2FsVXNlci91c2VyL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry>%s/Region/User/g</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>%s/UpdateDomain/RegisterUser/g</entry>
         <entry>%s/GetUser/IsLocalUserExists/g</entry>
         <entry>nohl</entry>
         <entry>%s/this.//g</entry>
-        <entry>reg</entry>
         <entry>w</entry>
         <entry>h recording</entry>
-        <entry>action GotoImplementation</entry>
         <entry>%s/RegisterUser/AssignRolesCommand/g</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action CommentByLineComment</entry>
         <entry>%s/this.Context/_context/g</entry>
         <entry>%s/this.Logger/_logger/g</entry>
+        <entry>reg</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
