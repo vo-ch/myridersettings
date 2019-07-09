@@ -116,12 +116,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Service/Crypto.cs" timestamp="1562251392251">
         <mark key="'" line="5" column="30" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" timestamp="1562704411850">
-        <mark key="'" line="46" column="34" />
-        <mark key="[" line="46" column="78" />
-        <mark key="]" line="46" column="92" />
-        <mark key="^" line="46" column="92" />
-        <mark key="." line="46" column="92" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" timestamp="1562709545862">
+        <mark key="'" line="46" column="32" />
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="31" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Domain/Queries/Pagination/PaginatedQueryHandlerExtensions.cs" timestamp="1562685309642">
         <mark key="'" line="96" column="34" />
@@ -322,10 +322,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Middlewares/CyberUExceptionMiddleware.cs" timestamp="1562080110736">
         <mark key="'" line="50" column="25" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data.Entity/LocalUser.cs" timestamp="1562668068282">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data.Entity/LocalUser.cs" timestamp="1562709200073">
         <mark key="'" line="41" column="20" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="89" />
+        <mark key="[" line="41" column="68" />
+        <mark key="]" line="41" column="68" />
+        <mark key="." line="41" column="68" />
+        <mark key="^" line="41" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/17/DefaultTokenService.cs" timestamp="1561378814112">
         <mark key="'" line="91" column="23" />
@@ -336,6 +338,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="27" column="18" />
+      </file>
+      <file name="/SearchUsersQueryHandler.cs" timestamp="1562708498002">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="52" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/75/DefaultGrantStore.cs" timestamp="1561379114200">
         <mark key="'" line="168" column="26" />
@@ -362,21 +368,14 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/HealthCheck/HealthStatus.cs" timestamp="1561046506417">
         <mark key="'" line="5" column="10" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryResult.cs" timestamp="1562704440150">
-        <mark key="'" line="20" column="20" />
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="28" column="54" />
-        <mark key="." line="28" column="54" />
-        <mark key="^" line="22" column="52" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryResult.cs" timestamp="1562709249125">
+        <mark key="[" line="18" column="90" />
+        <mark key="]" line="18" column="90" />
+        <mark key="." line="18" column="90" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c7/7d554bcb/HttpRequest.cs" timestamp="1561022199935">
         <mark key="'" line="44" column="28" />
-      </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Domain/Queries/Pagination/PaginatedQuery.cs" timestamp="1562589136984">
-        <mark key="'" line="6" column="59" />
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="60" />
-        <mark key="." line="6" column="53" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45D20605-9EC8-44F8-8A47-1D6E18421912/50/17cf8413/LoggerFactoryExtensions.cs" timestamp="1561387173794">
         <mark key="'" line="39" column="58" />
@@ -496,12 +495,6 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/User/V2/SearchUsersRequest.cs" timestamp="1562664502310">
-        <mark key="'" line="4" column="43" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/SystemMessenger.cs" timestamp="1562319802426">
         <mark key="'" line="23" column="50" />
       </file>
@@ -607,17 +600,17 @@
       <jump line="101" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" />
       <jump line="103" column="45" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" />
-      <jump line="29" column="102" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" />
       <jump line="48" column="33" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" />
-      <jump line="46" column="34" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" />
       <jump line="20" column="20" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryResult.cs" />
+      <jump line="29" column="102" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" />
+      <jump line="46" column="32" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeCA9PiB4LkV4dGVybmFsVXNlcnMuU2VsZWN0KHkgPT4geS5MYXN0TG9naW5EYXRlVGltZSkuT3JkZXJCeURlc2NlbmRpbmcoeSA9PiB5KS5GaXJzdE9yRGVmYXVsdCgpID4geC5MYXN0TG9naW5EYXRlVGltZQogICAgICAgICAgICAgICAgICAgICAgICA/IHguRXh0ZXJuYWxVc2Vycy5TZWxlY3QoeSA9PiB5Lkxhc3RMb2dpbkRhdGVUaW1lKS5PcmRlckJ5RGVzY2VuZGluZyh5ID0+IHkpLkZpcnN0T3JEZWZhdWx0KCkKICAgICAgICAgICAgICAgICAgICAgICAgOiB4Lkxhc3RMb2dpbkRhdGVUaW1lOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>ToList</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ291cnNlIGNvdXJzZSA9IENvdXJzZU1vdGhlci5DcmVhdGVXaXRoTlZpZGVvQWN0aXZpdGllcygyKS5CdWlsZCgpOwo=</text>
@@ -645,15 +638,42 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>ToList</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgSUxpc3Q8U2VhcmNoVXNlcnNFeHRlcm5hbFVzZXJRdWVyeVJlc3VsdD4gRXh0ZXJuYWxVc2VycyB7IGdldDsgc2V0OyB9ID0gbmV3IExpc3Q8U2VhcmNoVXNlcnNFeHRlcm5hbFVzZXJRdWVyeVJlc3VsdD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFeHRlcm5hbFVzZXJzID0geC5FeHRlcm5hbFVzZXJzLlNlbGVjdCh5ID0+IG5ldyBTZWFyY2hVc2Vyc0V4dGVybmFsVXNlclF1ZXJ5UmVzdWx0CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBJZCA9IHkuSWQsCiAgICAgICAgICAgICAgICAgICAgICAgIFByb3ZpZGVyID0geS5Qcm92aWRlciwKICAgICAgICAgICAgICAgICAgICAgICAgTGFzdExvZ2luRGF0ZVRpbWUgPSB5Lkxhc3RMb2dpbkRhdGVUaW1lLAogICAgICAgICAgICAgICAgICAgICAgICBTaWduVXBEYXRlVGltZSA9IHkuU2lnblVwRGF0ZVRpbWUsCiAgICAgICAgICAgICAgICAgICAgfSkuVG9MaXN0KCksCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0cmluZyBFeHRlcm5hbFVzZXJzUHIgeyBnZXQ7IHNldDsgfQo=</text>
+      </register>
+      <register name="q" type="2">
+        <text encoding="base64">ICAiU2VyaWxvZyI6IHsKICAgICJNaW5pbXVtTGV2ZWwiOiAiV2FybmluZyIsCiAgICAiV3JpdGVUbyI6IFsKICAgICAgeyAiTmFtZSI6ICJDb25zb2xlIiB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiUm9sbGluZ0ZpbGUiLAogICAgICAgICJBcmdzIjogeyAicGF0aEZvcm1hdCI6ICJMb2dzXFxsb2cte0RhdGV9LnR4dCIgfQogICAgICB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiTG9nZ2x5IiwKICAgICAgICAiQXJncyI6IHsKICAgICAgICAgIC8vImN1c3RvbWVyVG9rZW4iOiAiIiwKICAgICAgICAgICJ0YWdzIjogImN1LWRldi1hdXRoIgogICAgICAgIH0KICAgICAgfQogICAgXSwKICAgICJFbnJpY2giOiBbICJGcm9tTG9nQ29udGV4dCIgXSwKICAgICJQcm9wZXJ0aWVzIjogeyAiQXBwbGljYXRpb24iOiAiQXV0aCIgfSwKICAgICJMb2dnbHkiOiB7CiAgICAgICJBcHBsaWNhdGlvbk5hbWUiOiAiQXV0aCIsCiAgICAgICJDdXN0b21lclRva2VuIjogIiIsCiAgICAgICJUcmFuc3BvcnQiOiB7CiAgICAgICAgIkVuZHBvaW50SG9zdG5hbWUiOiAibG9ncy0wMS5sb2dnbHkuY29tIiwKICAgICAgICAiRW5kcG9pbnRQb3J0IjogIjQ0MyIsCiAgICAgICAgIkxvZ1RyYW5zcG9ydCI6ICJodHRwcyIKICAgICAgfSwKICAgICAgIlRhZ3MiOiBbICIiIF0KICAgIH0KICB9LAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWUgRXhMYXN0TG9naW5EYXRlVGltZSB7IGdldDsgc2V0OyB9CgogICAgICAgIHB1YmxpYyBEYXRlVGltZSBFeFNpZ25VcERhdGVUaW1lIHsgZ2V0OyBzZXQ7IH0KCg==</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeCA9PiB4LkV4dGVybmFsVXNlcnMuU2VsZWN0KHkgPT4geS5TaWduVXBEYXRlVGltZSkuT3JkZXJCeSh5ID0+IHkpLkZpcnN0T3JEZWZhdWx0KCkgPCB4LlNpZ25VcERhdGVUaW1lCiAgICAgICAgICAgICAgICAgICAgICAgID8geC5FeHRlcm5hbFVzZXJzLlNlbGVjdCh5ID0+IHkuU2lnblVwRGF0ZVRpbWUpLk9yZGVyQnkoeSA9PiB5KS5GaXJzdE9yRGVmYXVsdCgpCiAgICAgICAgICAgICAgICAgICAgICAgIDogeC5TaWduVXBEYXRlVGltZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEV4cHJlc3Npb248RnVuYzxTZWFyY2hVc2Vyc1F1ZXJ5UmVzdWx0LCBvYmplY3Q+PiBMYXN0TG9naW5EYXRlU2VsZWN0b3IyID0+CiAgICAgICAgICAgIHggPT4geC5FeExhc3RMb2dpbkRhdGVUaW1lID4geC5MYXN0TG9naW5EYXRlVGltZQogICAgICAgICAgICAgICAgICAgICAgICA/IHguRXhMYXN0TG9naW5EYXRlVGltZQogICAgICAgICAgICAgICAgICAgICAgICA6IHguTGFzdExvZ2luRGF0ZVRpbWU7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFeHRlcm5hbFVzZXJzUHIgPSB4LkV4dGVybmFsVXNlcnMuU2VsZWN0KHkgPT4geS5Qcm92aWRlcikuRmlyc3RPckRlZmF1bHQoKSwKICAgICAgICAgICAgICAgICAgICBFeExhc3RMb2dpbkRhdGVUaW1lID0geC5FeHRlcm5hbFVzZXJzLlNlbGVjdCh5ID0+IHkuTGFzdExvZ2luRGF0ZVRpbWUpLk9yZGVyQnlEZXNjZW5kaW5nKHkgPT4geSkuRmlyc3RPckRlZmF1bHQoKSwKICAgICAgICAgICAgICAgICAgICBFeFNpZ25VcERhdGVUaW1lID0gIHguRXh0ZXJuYWxVc2Vycy5TZWxlY3QoeSA9PiB5LlNpZ25VcERhdGVUaW1lKS5PcmRlckJ5KHkgPT4geSkuRmlyc3RPckRlZmF1bHQoKSwK</text>
+      </register>
+      <register name="7" type="4">
         <text>new SearchUsersExternalUserQueryResult
                     {
                         Id = y.Id,
@@ -662,41 +682,14 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
                         SignUpDateTime = y.SignUpDateTime,
                     }</text>
       </register>
-      <register name="q" type="2">
-        <text encoding="base64">ICAiU2VyaWxvZyI6IHsKICAgICJNaW5pbXVtTGV2ZWwiOiAiV2FybmluZyIsCiAgICAiV3JpdGVUbyI6IFsKICAgICAgeyAiTmFtZSI6ICJDb25zb2xlIiB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiUm9sbGluZ0ZpbGUiLAogICAgICAgICJBcmdzIjogeyAicGF0aEZvcm1hdCI6ICJMb2dzXFxsb2cte0RhdGV9LnR4dCIgfQogICAgICB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiTG9nZ2x5IiwKICAgICAgICAiQXJncyI6IHsKICAgICAgICAgIC8vImN1c3RvbWVyVG9rZW4iOiAiIiwKICAgICAgICAgICJ0YWdzIjogImN1LWRldi1hdXRoIgogICAgICAgIH0KICAgICAgfQogICAgXSwKICAgICJFbnJpY2giOiBbICJGcm9tTG9nQ29udGV4dCIgXSwKICAgICJQcm9wZXJ0aWVzIjogeyAiQXBwbGljYXRpb24iOiAiQXV0aCIgfSwKICAgICJMb2dnbHkiOiB7CiAgICAgICJBcHBsaWNhdGlvbk5hbWUiOiAiQXV0aCIsCiAgICAgICJDdXN0b21lclRva2VuIjogIiIsCiAgICAgICJUcmFuc3BvcnQiOiB7CiAgICAgICAgIkVuZHBvaW50SG9zdG5hbWUiOiAibG9ncy0wMS5sb2dnbHkuY29tIiwKICAgICAgICAiRW5kcG9pbnRQb3J0IjogIjQ0MyIsCiAgICAgICAgIkxvZ1RyYW5zcG9ydCI6ICJodHRwcyIKICAgICAgfSwKICAgICAgIlRhZ3MiOiBbICIiIF0KICAgIH0KICB9LAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFeHRlcm5hbFVzZXJzID0geC5FeHRlcm5hbFVzZXJzLAo=</text>
-      </register>
-      <register name="r" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFeHRlcm5hbFVzZXJzID0geC5FeHRlcm5hbFVzZXJzLAo=</text>
-      </register>
-      <register name="s" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9PiB4LkV4dGVybmFsVXNlcnMuU2VsZWN0KHkgPT4geS5TaWduVXBEYXRlVGltZSkuT3JkZXJCeSh5ID0+IHkpLkZpcnN0T3JEZWZhdWx0KCkgPCB4LlNpZ25VcERhdGVUaW1lCiAgICAgICAgICAgICAgICAgICAgICAgID8geC5FeHRlcm5hbFVzZXJzLlNlbGVjdCh5ID0+IHkuU2lnblVwRGF0ZVRpbWUpLk9yZGVyQnkoeSA9PiB5KS5GaXJzdE9yRGVmYXVsdCgpCiAgICAgICAgICAgICAgICAgICAgICAgIDogeC5TaWduVXBEYXRlVGltZTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFeFNpZ25VcERhdGVUaW1lID0gIHguRXh0ZXJuYWxVc2Vycy5TZWxlY3QoeSA9PiB5LlNpZ25VcERhdGVUaW1lKS5PcmRlckJ5KHkgPT4geSkuRmlyc3RPckRlZmF1bHQoKSwK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IDwgeC5TaWduVXBEYXRlVGltZQogICAgICAgICAgICAgICAgICAgICAgICA/IHguRXh0ZXJuYWxVc2Vycy5TZWxlY3QoeSA9PiB5LlNpZ25VcERhdGVUaW1lKS5PcmRlckJ5KHkgPT4geSkuRmlyc3RPckRlZmF1bHQoKQogICAgICAgICAgICAgICAgICAgICAgICA6IHguU2lnblVwRGF0ZVRpbWU=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PiB4Lkxhc3RMb2dpbkRhdGVUaW1lCiAgICAgICAgICAgICAgICAgICAgICAgID8geC5FeHRlcm5hbFVzZXJzLlNlbGVjdCh5ID0+IHkuTGFzdExvZ2luRGF0ZVRpbWUpLk9yZGVyQnlEZXNjZW5kaW5nKHkgPT4geSkuRmlyc3RPckRlZmF1bHQoKQogICAgICAgICAgICAgICAgICAgICAgICA6IHguTGFzdExvZ2luRGF0ZVRpbWU=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFeHRlcm5hbFVzZXJzID0geC5FeHRlcm5hbFVzZXJzLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFeHRlcm5hbFVzZXJzID0geC5FeHRlcm5hbFVzZXJzLAo=</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -708,7 +701,7 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         </keys>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -760,10 +753,10 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <entry>%s/RegisterUserRequest/UpdateUserProfileRequest/g</entry>
         <entry>%s/RatingDbContext/AuthContext/g</entry>
         <entry>%s/GetUser/SearchUsers/g</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
