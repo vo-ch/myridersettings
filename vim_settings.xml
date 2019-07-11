@@ -24,6 +24,9 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Domain/Commands/CommandBase.cs" timestamp="1562836300114">
         <mark key="'" line="2" column="40" />
       </file>
+      <file name="C:/projects/UI-Web/webpack.shared.js" timestamp="1562845132128">
+        <mark key="'" line="86" column="43" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Extensions/SortExtensions.cs" timestamp="1562596224441">
         <mark key="'" line="20" column="50" />
       </file>
@@ -216,9 +219,8 @@
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests.Core/ObjectMothers/GrantUserRatingOptionMother.cs" timestamp="1560940472691">
         <mark key="'" line="9" column="39" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUserByEmailQueryHandler.cs" timestamp="1562836904489">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="35" column="9" />
+      <file name="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" timestamp="1562844857702">
+        <mark key="'" line="20" column="45" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/15/DefaultRefreshTokenService.cs" timestamp="1561379093972">
         <mark key="'" line="79" column="59" />
@@ -247,6 +249,9 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Domain/Commands/Course/SaveCourseProgressionCommandHandler.cs" timestamp="1562836548846">
         <mark key="'" line="96" column="43" />
+      </file>
+      <file name="C:/projects/UI-Web/ClientApp/routing/Bundles.ts" timestamp="1562844729994">
+        <mark key="'" line="18" column="56" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Middlewares/AuthenticationExtensions.cs" timestamp="1562079980478">
         <mark key="'" line="27" column="78" />
@@ -351,6 +356,9 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" timestamp="1562765551638">
         <mark key="'" line="79" column="42" />
       </file>
+      <file name="C:/projects/UI-Web/ClientApp/routing/routes.tsx" timestamp="1562844597176">
+        <mark key="'" line="50" column="63" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/InstructorPayoutMap.cs" timestamp="1561474762619">
         <mark key="'" line="9" column="71" />
       </file>
@@ -413,6 +421,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c4/414723ac/UseMiddlewareExtensions.cs" timestamp="1560864747670">
         <mark key="'" line="36" column="28" />
       </file>
+      <file name="C:/projects/UI-Web/webpack.config.js" timestamp="1562845161302">
+        <mark key="'" line="44" column="32" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87DAEA5C-C5D0-47D4-A6BB-FF8954AA1C4A/03/7e674771/OptionsServiceCollectionExtensions.cs" timestamp="1562142911568">
         <mark key="'" line="48" column="25" />
       </file>
@@ -437,16 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="43" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
-      <jump line="72" column="55" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
-      <jump line="7" column="58" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByIdsQuery - Copy.cs" />
-      <jump line="11" column="27" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByIdsQueryHandler - Copy.cs" />
-      <jump line="30" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByEmailQueryHandler.cs" />
-      <jump line="20" column="20" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUsersByEmailQueryHandler.cs" />
-      <jump line="34" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RequestPasswordResetCommandHandler.cs" />
-      <jump line="214" column="69" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="38" column="24" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RequestPasswordResetCommandHandler.cs" />
-      <jump line="190" column="50" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="201" column="42" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="219" column="54" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="252" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
@@ -537,6 +538,16 @@
       <jump line="46" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/ConfirmEmailCommandHandler.cs" />
       <jump line="157" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
       <jump line="416" column="32" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
+      <jump line="98" column="32" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
+      <jump line="50" column="63" filename="C:/projects/UI-Web/ClientApp/routing/routes.tsx" />
+      <jump line="35" column="38" filename="C:/projects/UI-Web/webpack.config.js" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/webpack.shared.js" />
+      <jump line="18" column="56" filename="C:/projects/UI-Web/ClientApp/routing/Bundles.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/routing/helpers/bundleComponent.tsx" />
+      <jump line="20" column="45" filename="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" />
+      <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/routing/helpers/asyncBundleComponent.tsx" />
+      <jump line="86" column="43" filename="C:/projects/UI-Web/webpack.shared.js" />
+      <jump line="44" column="32" filename="C:/projects/UI-Web/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
