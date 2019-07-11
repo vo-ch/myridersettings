@@ -396,12 +396,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B453F791-1988-448A-BB87-7CBFC1BFFA18/03/a1c991e9/EquivalencyAssertionOptions`1.cs" timestamp="1561566808420">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1562842786237">
-        <mark key="'" line="232" column="44" />
-        <mark key="[" line="261" column="9" />
-        <mark key="]" line="264" column="11" />
-        <mark key="." line="264" column="11" />
-        <mark key="^" line="264" column="11" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1562849347816">
+        <mark key="'" line="287" column="45" />
+        <mark key="[" line="295" column="30" />
+        <mark key="]" line="295" column="58" />
+        <mark key="." line="295" column="58" />
+        <mark key="^" line="295" column="58" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/AuthContext.cs" timestamp="1562588699848">
         <mark key="'" line="6" column="33" />
@@ -436,10 +436,10 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/AccountController.cs" timestamp="1560868367626">
         <mark key="'" line="110" column="34" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1562842772849">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1562848064037">
         <mark key="'" line="416" column="32" />
-        <mark key="[" line="418" column="0" />
-        <mark key="]" line="425" column="25" />
+        <mark key="[" line="422" column="23" />
+        <mark key="]" line="422" column="91" />
         <mark key="." line="187" column="50" />
         <mark key="^" line="187" column="50" />
       </file>
@@ -448,11 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="42" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="219" column="54" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="252" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" />
-      <jump line="25" column="79" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Mailing/EmailInteractionService.cs" />
-      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Mailing/Templates/ResetPasswordTemplate.cs" />
       <jump line="41" column="18" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RequestPasswordResetCommandHandler.cs" />
       <jump line="23" column="59" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/User/RegisterUserRequestValidator.cs" />
       <jump line="44" column="36" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/User/RegisterUserRequestValidator.cs" />
@@ -548,13 +543,18 @@
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/routing/helpers/asyncBundleComponent.tsx" />
       <jump line="86" column="43" filename="C:/projects/UI-Web/webpack.shared.js" />
       <jump line="44" column="32" filename="C:/projects/UI-Web/webpack.config.js" />
+      <jump line="265" column="82" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
+      <jump line="267" column="65" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/GetUserByVerificationCodeQueryHandler.cs" />
+      <jump line="286" column="45" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B5FF368C-E4A0-496F-AFA8-34AAE78144DC/99/86b8ae40/QueryHelpers.cs" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXIgPSBhd2FpdCB0aGlzLnVzZXJSZXBvc2l0b3J5LkdldFVzZXJCeVZhbGlkYXRpb25Db2RlQXN5bmMoY29kZSk7CiAgICAgICAgICAgIGlmICh1c2VyICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIHZlcmlmeSBjb2RlIGV4cGlyYXRpb24gdGltZQogICAgICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5FcXVhbHModXNlci5FbWFpbCwgZW1haWwsIFN0cmluZ0NvbXBhcmlzb24uT3JkaW5hbElnbm9yZUNhc2UpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="a" type="4">
+        <text>string.Equals(user.Email, email, StringComparison.OrdinalIgnoreCase)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXIgPSBhd2FpdCB0aGlzLnVzZXJSZXBvc2l0b3J5LkdldFVzZXJCeVZhbGlkYXRpb25Db2RlQXN5bmMoY29kZSk7CiAgICAgICAgICAgIGlmICh1c2VyICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIC8vIHZlcmlmeSBjb2RlIGV4cGlyYXRpb24gdGltZQogICAgICAgICAgICAgICAgcmV0dXJuIHN0cmluZy5FcXVhbHModXNlci5FbWFpbCwgZW1haWwsIFN0cmluZ0NvbXBhcmlzb24uT3JkaW5hbElnbm9yZUNhc2UpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>404</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -593,52 +593,52 @@ AddHttpContextAccessorServiceProviderHandlerResolverLrsBaseUrlMigrationsAssembly
         <text />
       </register>
       <register name="-" type="4">
-        <text>fhis.</text>
+        <text>404</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWZXJpZnlJZkNvZGVJc1ZhbGlkQXN5bmNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxVc2VyIGxvY2FsVXNlciA9IGF3YWl0IF9jb250ZXh0LkxvY2FsVXNlcnMuRmlyc3RPckRlZmF1bHRBc3luYyhxID0+IHEuVmVyaWZpY2F0aW9uQ29kZSA9PSBjb2RlLCB0b2tlbik7CgogICAgICAgICAgICBpZiAobG9jYWxVc2VyID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkVmVyaWZpY2F0aW9uQ29kZUV4Y2VwdGlvbigpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJVc2VyIHdpdGggdmFsaWRhdGlvbiBjb2RlIFwie2NvZGV9XCIgZXhpc3RzLiB7bG9jYWxVc2VyLlRvSnNvbkhhbmRsZVJlZmVyZW5jZUxvb3AoKX0iKTsKCiAgICAgICAgICAgIHJldHVybiBsb2NhbFVzZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUHJvZHVjZXNSZXNwb25zZVR5cGUoU3RhdHVzQ29kZXMuU3RhdHVzMzA3VGVtcG9yYXJ5UmVkaXJlY3QpXQogICAgICAgIFtQcm9kdWNlc1Jlc3BvbnNlVHlwZShTdGF0dXNDb2Rlcy5TdGF0dXM0MDBCYWRSZXF1ZXN0KV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGV4KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5Ob3RGb3VuZChleC5NZXNzYWdlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAiU2VyaWxvZyI6IHsKICAgICJNaW5pbXVtTGV2ZWwiOiAiV2FybmluZyIsCiAgICAiV3JpdGVUbyI6IFsKICAgICAgeyAiTmFtZSI6ICJDb25zb2xlIiB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiUm9sbGluZ0ZpbGUiLAogICAgICAgICJBcmdzIjogeyAicGF0aEZvcm1hdCI6ICJMb2dzXFxsb2cte0RhdGV9LnR4dCIgfQogICAgICB9LAogICAgICB7CiAgICAgICAgIk5hbWUiOiAiTG9nZ2x5IiwKICAgICAgICAiQXJncyI6IHsKICAgICAgICAgIC8vImN1c3RvbWVyVG9rZW4iOiAiIiwKICAgICAgICAgICJ0YWdzIjogImN1LWRldi1hdXRoIgogICAgICAgIH0KICAgICAgfQogICAgXSwKICAgICJFbnJpY2giOiBbICJGcm9tTG9nQ29udGV4dCIgXSwKICAgICJQcm9wZXJ0aWVzIjogeyAiQXBwbGljYXRpb24iOiAiQXV0aCIgfSwKICAgICJMb2dnbHkiOiB7CiAgICAgICJBcHBsaWNhdGlvbk5hbWUiOiAiQXV0aCIsCiAgICAgICJDdXN0b21lclRva2VuIjogIiIsCiAgICAgICJUcmFuc3BvcnQiOiB7CiAgICAgICAgIkVuZHBvaW50SG9zdG5hbWUiOiAibG9ncy0wMS5sb2dnbHkuY29tIiwKICAgICAgICAiRW5kcG9pbnRQb3J0IjogIjQ0MyIsCiAgICAgICAgIkxvZ1RyYW5zcG9ydCI6ICJodHRwcyIKICAgICAgfSwKICAgICAgIlRhZ3MiOiBbICIiIF0KICAgIH0KICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuRG9tYWluLkV4Y2VwdGlvbnMuVXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLk5vQ29udGVudCgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNhdGNoIChFeGNlcHRpb24gZXgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLk5vdEZvdW5kKGV4Lk1lc3NhZ2UpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhLkV4dGVuc2lvbnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5CiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="s" type="4">
         <text>VerifyIfCodeIsValidAsync</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkVudGl0eUZyYW1ld29ya0NvcmU7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUHJvZHVjZXNSZXNwb25zZVR5cGUoU3RhdHVzQ29kZXMuU3RhdHVzMjAwT0spXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGFzeW5jIFRhc2s8TG9jYWxVc2VyPiBHZXRVc2VyQnlWZXJpZmljYXRpb25Db2RlQXN5bmMoc3RyaW5nIGNvZGUsIENhbmNlbGxhdGlvblRva2VuIHRva2VuKQogICAgICAgIHsKICAgICAgICAgICAgTG9jYWxVc2VyIGxvY2FsVXNlciA9IGF3YWl0IF9jb250ZXh0LkxvY2FsVXNlcnMuRmlyc3RPckRlZmF1bHRBc3luYyhxID0+IHEuVmVyaWZpY2F0aW9uQ29kZSA9PSBjb2RlLCB0b2tlbik7CgogICAgICAgICAgICBpZiAobG9jYWxVc2VyID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbnZhbGlkVmVyaWZpY2F0aW9uQ29kZUV4Y2VwdGlvbigpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIF9sb2dnZXIuTG9nSW5mb3JtYXRpb24oJCJVc2VyIHdpdGggdmFsaWRhdGlvbiBjb2RlIFwie2NvZGV9XCIgZXhpc3RzLiB7bG9jYWxVc2VyLlRvSnNvbkhhbmRsZVJlZmVyZW5jZUxvb3AoKX0iKTsKCiAgICAgICAgICAgIHJldHVybiBsb2NhbFVzZXI7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICB2YXIgY29uZmlybWF0aW9uUmVzdWx0ID0gYXdhaXQgdGhpcy51c2VyU2VydmljZS5Db25maXJtRW1haWxBc3luYyhjb2RlKTsKCiAgICAgICAgICAgIGlmIChjb25maXJtYXRpb25SZXN1bHQgPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbmV3IENvbmZpcm1FbWFpbENvbW1hbmQodXNlcikuRXhlY3V0ZUJ5KF9wcm9jZXNzb3IpOwo=</text>
+        <text encoding="base64">CgogICAgICAgICAgICBpZiAoIXN0cmluZy5Jc051bGxPcldoaXRlU3BhY2UoY29kZSkgJiYgIXN0cmluZy5Jc051bGxPcldoaXRlU3BhY2UoZW1haWwpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgdmFsaWRhdGlvblJlc3VsdCA9IGF3YWl0IHRoaXMudXNlclNlcnZpY2UuVmVyaWZ5SWZDb2RlSXNWYWxpZEFzeW5jKGNvZGUsIGVtYWlsKTsKICAgICAgICAgICAgICAgIGlmICh2YWxpZGF0aW9uUmVzdWx0KQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHBhcmFtZXRlcnMuQWRkKCJlbWFpbCIsIGVtYWlsKTsKICAgICAgICAgICAgICAgICAgICBwYXJhbWV0ZXJzLkFkZCgiY29kZSIsIGNvZGUpOwogICAgICAgICAgICAgICAgICAgIHBhcmFtZXRlcnMuQWRkKCJyZXN1bHQiLCB0cnVlLlRvU3RyaW5nKCkpOwoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5SZWRpcmVjdChRdWVyeUhlbHBlcnMuQWRkUXVlcnlTdHJpbmcoJCJ7dGhpcy5zZXR0aW5ncy5VaUhvc3RVcmx9L3Jlc2V0IiwgcGFyYW1ldGVycykpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBwYXJhbWV0ZXJzLkFkZCgiZW1haWwiLCBlbWFpbCk7CiAgICAgICAgICAgIHBhcmFtZXRlcnMuQWRkKCJyZXN1bHQiLCBmYWxzZS5Ub1N0cmluZygpKTsKCiAgICAgICAgICAgIHJldHVybiB0aGlzLlJlZGlyZWN0KFF1ZXJ5SGVscGVycy5BZGRRdWVyeVN0cmluZygkInt0aGlzLnNldHRpbmdzLlVpSG9zdFVybH0vcmVzZXQiLCBwYXJhbWV0ZXJzKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHBhcmFtZXRlcnMuQWRkKCJlbWFpbCIsIGVtYWlsKTsKICAgICAgICAgICAgcGFyYW1ldGVycy5BZGQoInJlc3VsdCIsIGlzVmFsaWQuVG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
