@@ -95,8 +95,8 @@
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" timestamp="1562926322334">
-        <mark key="'" line="91" column="54" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" timestamp="1562930990138">
+        <mark key="'" line="78" column="73" />
         <mark key="[" line="91" column="32" />
         <mark key="]" line="91" column="53" />
         <mark key="." line="91" column="53" />
@@ -705,11 +705,11 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Builders/LocalUserBuilder.cs" timestamp="1562861452419">
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="16" />
-        <mark key="^" line="27" column="16" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Builders/LocalUserBuilder.cs" timestamp="1562931002035">
+        <mark key="[" line="27" column="57" />
+        <mark key="]" line="27" column="89" />
+        <mark key="." line="27" column="89" />
+        <mark key="^" line="27" column="89" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/LocalUserAgreement/TermsAndConditionsNotFoundException.cs" timestamp="1562338736710">
         <mark key="'" line="25" column="77" />
@@ -848,6 +848,9 @@
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Extensions/UserExtensions.cs" timestamp="1562330506227">
         <mark key="'" line="10" column="31" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Mothers/LocalUserMother.cs" timestamp="1562930992385">
+        <mark key="'" line="8" column="37" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/47128462-ADFE-4069-BCC1-C45FA48D8CEB/e4/03e8d516/RelationalDatabase.cs" timestamp="1561379308089">
         <mark key="'" line="68" column="65" />
@@ -1765,8 +1768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="30" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
-      <jump line="82" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
       <jump line="116" column="21" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
       <jump line="13" column="40" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/Pagination/PaginatedQueryHandlerBase.cs" />
@@ -1864,7 +1865,9 @@
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data.Entity/LocalUser.cs" />
       <jump line="88" column="54" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/User/V2/UserItemResponse.cs" />
-      <jump line="91" column="54" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="91" column="55" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="78" column="73" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="8" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Mothers/LocalUserMother.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
