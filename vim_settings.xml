@@ -95,12 +95,12 @@
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" timestamp="1562948448719">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" timestamp="1562949619609">
         <mark key="'" line="609" column="35" />
-        <mark key="[" line="620" column="0" />
-        <mark key="]" line="620" column="0" />
-        <mark key="^" line="655" column="105" />
-        <mark key="." line="620" column="0" />
+        <mark key="[" line="627" column="63" />
+        <mark key="]" line="627" column="71" />
+        <mark key="^" line="627" column="71" />
+        <mark key="." line="627" column="71" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/80AC6FFE-34C8-4980-AD7A-7A3C7ECC9455/E/ClientMappers.cs" timestamp="1561551930177">
         <mark key="'" line="36" column="31" />
@@ -1904,8 +1904,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfS97dXNlci5JZH0iLCByZXF1ZXN0Q29udGVudCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfT9pZD17dXNlci5JZH0iLCByZXF1ZXN0Q29udGVudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Unauthorized</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1998,7 +1998,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>user.Id</text>
+        <text>Unauthorized</text>
       </register>
       <register name="/" type="4">
         <text>Region</text>
