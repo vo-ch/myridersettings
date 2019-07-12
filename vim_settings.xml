@@ -95,12 +95,12 @@
         <mark key="." line="29" column="70" />
         <mark key="^" line="29" column="70" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" timestamp="1562945530782">
-        <mark key="'" line="568" column="70" />
-        <mark key="[" line="542" column="51" />
-        <mark key="]" line="542" column="65" />
-        <mark key="^" line="542" column="65" />
-        <mark key="." line="542" column="65" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" timestamp="1562948448719">
+        <mark key="'" line="609" column="35" />
+        <mark key="[" line="620" column="0" />
+        <mark key="]" line="620" column="0" />
+        <mark key="^" line="655" column="105" />
+        <mark key="." line="620" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/80AC6FFE-34C8-4980-AD7A-7A3C7ECC9455/E/ClientMappers.cs" timestamp="1561551930177">
         <mark key="'" line="36" column="31" />
@@ -1579,8 +1579,8 @@
         <mark key="." line="102" column="112" />
         <mark key="^" line="102" column="112" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1562945576801">
-        <mark key="'" line="130" column="41" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1562948144846">
+        <mark key="'" line="148" column="36" />
         <mark key="[" line="115" column="13" />
         <mark key="]" line="115" column="11" />
         <mark key="^" line="115" column="11" />
@@ -1799,18 +1799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="36" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/283EC7A1-E0DC-44AE-802F-2A38BD868DC7/a6/580927e2/AuthorizationServiceCollectionExtensions.cs" />
-      <jump line="38" column="30" filename="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
-      <jump line="39" column="33" filename="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
-      <jump line="48" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8CD3C90B-00D6-4522-9355-CB8AA812DE98/64/dca278b1/OptionsServiceCollectionExtensions.cs" />
-      <jump line="70" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8CD3C90B-00D6-4522-9355-CB8AA812DE98/64/dca278b1/OptionsServiceCollectionExtensions.cs" />
-      <jump line="45" column="19" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/283EC7A1-E0DC-44AE-802F-2A38BD868DC7/a6/580927e2/AuthorizationServiceCollectionExtensions.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87DAEA5C-C5D0-47D4-A6BB-FF8954AA1C4A/ac/0fbf7e9f/ConfigureNamedOptions`1.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87DAEA5C-C5D0-47D4-A6BB-FF8954AA1C4A/61/4adb84d7/IConfigureOptions`1.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87DAEA5C-C5D0-47D4-A6BB-FF8954AA1C4A/ee/252a3784/OptionsWrapper`1.cs" />
-      <jump line="40" column="83" filename="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
-      <jump line="41" column="33" filename="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
-      <jump line="84" column="71" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
       <jump line="90" column="29" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B453F791-1988-448A-BB87-7CBFC1BFFA18/2c/67a0344c/ObjectAssertions.cs" />
       <jump line="93" column="42" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
@@ -1899,13 +1887,25 @@
       <jump line="8" column="23" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Mothers/UpdateUserProfileRequestMother.cs" />
       <jump line="130" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
       <jump line="34" column="43" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/UpdateUserProfileCommandHandler.cs" />
+      <jump line="542" column="55" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="63" column="52" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="560" column="8" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="540" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="615" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="617" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="620" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="79" column="38" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="148" column="36" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
+      <jump line="667" column="12" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/User/V2/UpdateUserProfileRequest.cs" />
+      <jump line="609" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBfaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfS97dXNlci5JZH0iLCByZXF1ZXN0Q29udGVudCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfT9pZD17dXNlci5JZH0iLCByZXF1ZXN0Q29udGVudCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1998,16 +1998,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>user.Id</text>
       </register>
       <register name="/" type="4">
         <text>Region</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgYXN5bmMgVGFzayBQdXRVc2VyX1VzZXJFeGlzdHNfVXBkYXRlc1VzZXIoKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBMb2NhbFVzZXIgdXNlciA9IGF3YWl0IFBlcnNpc3RFbnRpdHkoTG9jYWxVc2VyTW90aGVyLkNyZWF0ZSgpLkJ1aWxkKCkpOwoKICAgICAgICAgICAgVXBkYXRlVXNlclByb2ZpbGVSZXF1ZXN0IHJlcXVlc3QgPSBVcGRhdGVVc2VyUHJvZmlsZVJlcXVlc3RNb3RoZXIKICAgICAgICAgICAgICAgIC5DcmVhdGUoKQogICAgICAgICAgICAgICAgLkJ1aWxkKCk7CiAgICAgICAgICAgIHZhciByZXF1ZXN0Qm9keSA9IEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChyZXF1ZXN0KTsKICAgICAgICAgICAgdmFyIHJlcXVlc3RDb250ZW50ID0gbmV3IFN0cmluZ0NvbnRlbnQocmVxdWVzdEJvZHksIEVuY29kaW5nLlVURjgsICJhcHBsaWNhdGlvbi9qc29uIik7CgogICAgICAgICAgICBpbnQgaW5pdGlhbENvdW50ID0gYXdhaXQgR2V0RW50aXR5Q291bnQ8TG9jYWxVc2VyPigpOwoKICAgICAgICAgICAgSHR0cENsaWVudCBjbGllbnQgPSBDcmVhdGVVc2VyQ2xpZW50KHVzZXIuSWQpOwoKICAgICAgICAgICAgLy8gQWN0CiAgICAgICAgICAgIEh0dHBSZXNwb25zZU1lc3NhZ2UgcmVzcG9uc2UgPSBhd2FpdCBjbGllbnQuUHV0QXN5bmMoJCJ7QmFzZVVybH0iLCByZXF1ZXN0Q29udGVudCk7CgogICAgICAgICAgICAvLyBBc3NlcnQKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKEh0dHBTdGF0dXNDb2RlLk9LLCByZXNwb25zZS5TdGF0dXNDb2RlKTsKCiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgxLCBpbml0aWFsQ291bnQpOwogICAgICAgICAgICBpbnQgcmVzdWx0Q291bnQgPSBhd2FpdCBHZXRFbnRpdHlDb3VudDxMb2NhbFVzZXI+KCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgxLCByZXN1bHRDb3VudCk7CgogICAgICAgICAgICBMb2NhbFVzZXIgdXBkYXRlZFVzZXIgPSAoYXdhaXQgR2V0RW50aXRpZXM8TG9jYWxVc2VyPigpKS5GaXJzdE9yRGVmYXVsdCgpOwogICAgICAgICAgICB1cGRhdGVkVXNlci5TaG91bGQoKS5CZUVxdWl2YWxlbnRUbyhyZXF1ZXN0LCBvID0+IG8KICAgICAgICAgICAgICAgIC5JbmNsdWRpbmcoeCA9PiB4LkZpcnN0TmFtZSkKICAgICAgICAgICAgICAgIC5JbmNsdWRpbmcoeCA9PiB4Lkxhc3ROYW1lKQogICAgICAgICAgICAgICAgLkluY2x1ZGluZyh4ID0+IHguSGVhZGxpbmUpCiAgICAgICAgICAgICAgICAuSW5jbHVkaW5nKHggPT4geC5Qcm9maWxlUGljdHVyZSkKICAgICAgICAgICAgICAgIC5JbmNsdWRpbmcoeCA9PiB4LkJpbykpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfT9pZD17dXNlci5JZH0iLCByZXF1ZXN0Q29udGVudCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgwLCBpbml0aWFsQ291bnQpOwogICAgICAgICAgICBpbnQgcmVzdWx0Q291bnQgPSBhd2FpdCBHZXRFbnRpdHlDb3VudDxMb2NhbFVzZXI+KCk7CiAgICAgICAgICAgIEFzc2VydC5FcXVhbCgxLCByZXN1bHRDb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfT9pZD17dXNlci5JZH0iLCByZXF1ZXN0Q29udGVudCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2033,19 +2033,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIExvY2FsVXNlciB1cGRhdGVkVXNlciA9IChhd2FpdCBHZXRFbnRpdGllczxMb2NhbFVzZXI+KCkpLkZpcnN0T3JEZWZhdWx0KCk7CiAgICAgICAgICAgIHVwZGF0ZWRVc2VyLlNob3VsZCgpLkJlRXF1aXZhbGVudFRvKHJlcXVlc3QsIG8gPT4gbwogICAgICAgICAgICAgICAgLkluY2x1ZGluZyh4ID0+IHguRmlyc3ROYW1lKQogICAgICAgICAgICAgICAgLkluY2x1ZGluZyh4ID0+IHguTGFzdE5hbWUpCiAgICAgICAgICAgICAgICAuSW5jbHVkaW5nKHggPT4geC5IZWFkbGluZSkKICAgICAgICAgICAgICAgIC5JbmNsdWRpbmcoeCA9PiB4LlByb2ZpbGVQaWN0dXJlKQogICAgICAgICAgICAgICAgLkluY2x1ZGluZyh4ID0+IHguQmlvKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfT9pZD17dXNlci5JZH0iLCByZXF1ZXN0Q29udGVudCk7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfT9pZD17UmFuZG9tSGVscGVyLk5ld1Bvc2l0aXZlSW50KCl9IiwgcmVxdWVzdENvbnRlbnQpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>VerifyIfCodeIsValidAsync</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxVc2VyIHVzZXIgPSBhd2FpdCBQZXJzaXN0RW50aXR5KExvY2FsVXNlck1vdGhlci5DcmVhdGUoKS5CdWlsZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfT9pZD17dXNlci5JZH0iLCByZXF1ZXN0Q29udGVudCk7Cg==</text>
       </register>
       <register name="t" type="4">
         <keys>
@@ -2055,13 +2055,13 @@
         </keys>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfSIsIHJlcXVlc3RDb250ZW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5IZWFkbGluZSA9ICJvbG8iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxVc2VyIHVzZXIgPSBhd2FpdCBQZXJzaXN0RW50aXR5KExvY2FsVXNlck1vdGhlci5DcmVhdGUoKS5CdWlsZCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfSIsIHJlcXVlc3RDb250ZW50KTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2082,10 +2082,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIChlbWFpbCwgcGFzc3dvcmQsIGZpcnN0TmFtZSwgbGFzdE5hbWUpID0gUmVnaXN0ZXJVc2VyUGFyYW1zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSHR0cFJlc3BvbnNlTWVzc2FnZSByZXNwb25zZSA9IGF3YWl0IGNsaWVudC5QdXRBc3luYygkIntCYXNlVXJsfSIsIHJlcXVlc3RDb250ZW50KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGF3YWl0IFBlcnNpc3RFbnRpdHkoQ2xhaW1Nb3RoZXIuQ3JlYXRlKCkKICAgICAgICAgICAgICAgIC5XaXRoVHlwZShKd3RDbGFpbVR5cGVzLlJvbGUpCiAgICAgICAgICAgICAgICAuV2l0aFZhbHVlKFJvbGVzLlVzZXIpLkJ1aWxkKCkpOwoKICAgICAgICAgICAgYXdhaXQgUGVyc2lzdEVudGl0eShUZXJtc0FuZENvbmRpdGlvbk1vdGhlci5DcmVhdGUoKS5CdWlsZCgpKTsKICAgICAgICAgICAgYXdhaXQgUGVyc2lzdEVudGl0eShQcml2YWN5UG9saWN5TW90aGVyLkNyZWF0ZSgpLkJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
