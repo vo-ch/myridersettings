@@ -288,8 +288,8 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/ResourceOwnerPasswordValidator.cs" timestamp="1562330356075">
         <mark key="'" line="29" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/283EC7A1-E0DC-44AE-802F-2A38BD868DC7/a6/580927e2/AuthorizationServiceCollectionExtensions.cs" timestamp="1562919490066">
-        <mark key="'" line="46" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/283EC7A1-E0DC-44AE-802F-2A38BD868DC7/a6/580927e2/AuthorizationServiceCollectionExtensions.cs" timestamp="1562920818394">
+        <mark key="'" line="45" column="19" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Service/Crypto/CryptoService.cs" timestamp="1562253141188">
         <mark key="'" line="4" column="33" />
@@ -543,6 +543,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/EE/IdentityServerServiceCollectionExtensions.cs" timestamp="1561370415373">
         <mark key="'" line="41" column="25" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8CD3C90B-00D6-4522-9355-CB8AA812DE98/64/dca278b1/OptionsServiceCollectionExtensions.cs" timestamp="1562920983258">
+        <mark key="'" line="48" column="25" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="148" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Entities/Roles.cs" timestamp="1561034633489">
         <mark key="'" line="4" column="31" />
@@ -1577,8 +1582,8 @@
         <mark key="^" line="39" column="37" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" timestamp="1562919700767">
-        <mark key="'" line="38" column="30" />
+      <file name="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" timestamp="1562920812427">
+        <mark key="'" line="39" column="33" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="^" line="39" column="37" />
@@ -1759,9 +1764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="38" filename="C:/projects/UI-Web/webpack.config.js" />
-      <jump line="0" column="0" filename="C:/projects/UI-Web/webpack.shared.js" />
-      <jump line="18" column="56" filename="C:/projects/UI-Web/ClientApp/routing/Bundles.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/routing/helpers/bundleComponent.tsx" />
       <jump line="20" column="45" filename="C:/projects/UI-Web/ClientApp/routing/AsyncBundles.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/routing/helpers/asyncBundleComponent.tsx" />
@@ -1857,15 +1859,18 @@
       <jump line="42" column="27" filename="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
       <jump line="43" column="13" filename="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
       <jump line="46" column="36" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/283EC7A1-E0DC-44AE-802F-2A38BD868DC7/a6/580927e2/AuthorizationServiceCollectionExtensions.cs" />
-      <jump line="39" column="21" filename="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
       <jump line="38" column="30" filename="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
+      <jump line="39" column="33" filename="C:/projects/Auth-Api/Auth/Infra/Auth.Security/DependencyInjection/AuthExtensions.cs" />
+      <jump line="45" column="19" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/283EC7A1-E0DC-44AE-802F-2A38BD868DC7/a6/580927e2/AuthorizationServiceCollectionExtensions.cs" />
+      <jump line="48" column="25" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8CD3C90B-00D6-4522-9355-CB8AA812DE98/64/dca278b1/OptionsServiceCollectionExtensions.cs" />
+      <jump line="70" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8CD3C90B-00D6-4522-9355-CB8AA812DE98/64/dca278b1/OptionsServiceCollectionExtensions.cs" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>_kind</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgc2VydmljZXMuQWRkT3B0aW9ucygpOwogICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b248SUNvbmZpZ3VyZU9wdGlvbnM8VE9wdGlvbnM+PigoSUNvbmZpZ3VyZU9wdGlvbnM8VE9wdGlvbnM+KSBuZXcgQ29uZmlndXJlTmFtZWRPcHRpb25zPFRPcHRpb25zPihuYW1lLCBjb25maWd1cmVPcHRpb25zKSk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VydmljZXMuQWRkT3B0aW9ucygpOwogICAgICBzZXJ2aWNlcy5BZGRTaW5nbGV0b248SUNvbmZpZ3VyZU9wdGlvbnM8VE9wdGlvbnM+PigoSUNvbmZpZ3VyZU9wdGlvbnM8VE9wdGlvbnM+KSBuZXcgQ29uZmlndXJlTmFtZWRPcHRpb25zPFRPcHRpb25zPihuYW1lLCBjb25maWd1cmVPcHRpb25zKSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
