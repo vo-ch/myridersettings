@@ -1400,12 +1400,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/ConfirmEmailCommandHandlerTests - Copy.cs" timestamp="1563358013511">
-        <mark key="'" line="48" column="37" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="38" />
-        <mark key="^" line="63" column="23" />
-        <mark key="." line="44" column="0" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/ConfirmEmailCommandHandlerTests - Copy.cs" timestamp="1563359641155">
+        <mark key="'" line="142" column="52" />
+        <mark key="[" line="201" column="16" />
+        <mark key="]" line="201" column="42" />
+        <mark key="^" line="201" column="42" />
+        <mark key="." line="201" column="42" />
       </file>
       <file name="C:/projects/Auth-Api/Auth/Web/API/src/Auth.API/appsettings.Local.json" timestamp="1563183349697">
         <mark key="'" line="2" column="50" />
@@ -1417,7 +1417,6 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/Domain/V2/UpdateDomainCommandTests.cs" timestamp="1563355581151" />
     </filemarks>
     <jumps>
-      <jump line="1211" column="49" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
       <jump line="6" column="36" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Mothers/LocalUserMother.cs" />
       <jump line="236" column="31" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
       <jump line="1262" column="55" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
@@ -1517,6 +1516,7 @@
       <jump line="35" column="30" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/ConfirmEmailCommandHandlerTests - Copy.cs" />
       <jump line="34" column="78" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/ConfirmEmailCommandHandlerTests - Copy.cs" />
       <jump line="48" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/ConfirmEmailCommandHandlerTests - Copy.cs" />
+      <jump line="142" column="52" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/ConfirmEmailCommandHandlerTests - Copy.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1529,8 +1529,8 @@
                 _userActivityMessengerMock.Object,
                 _systemMessengerMock.Object)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9wcm9jZXNzb3JNb2NrLk9iamVjdCwK</text>
+      <register name="&quot;" type="4">
+        <text>_contextMock.Object, _processorMock.Object, _emailConfirmationServiceMock.Object, _loggerMock.Object</text>
       </register>
       <register name="d" type="4">
         <text>_WithAdminPolicy</text>
@@ -1615,16 +1615,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text />
+        <text>_contextMock.Object, _processorMock.Object, _emailConfirmationServiceMock.Object, _loggerMock.Object</text>
       </register>
       <register name="/" type="4">
         <text>ConfirmEmail</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">SVN5c3RlbU1lc3NlbmdlcjxSZWdpc3RlclVzZXJDb21tYW5kSGFuZGxlcj4gc3lzdGVtTWVzc2VuZ2Vy</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9jb250ZXh0TW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfcHJvY2Vzc29yTW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfY3J5cHRvTW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfZW1haWxDb25maXJtYXRpb25TZXJ2aWNlTW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfbG9nZ2VyTW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfdXNlckFjdGl2aXR5TWVzc2VuZ2VyTW9jay5PYmplY3QsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9wcm9jZXNzb3JNb2NrLk9iamVjdCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1640,35 +1640,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9wcm9jZXNzb3JNb2NrLk9iamVjdCwK</text>
+        <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBDdG9yX0NvbnRleHROdWxsX1Rocm93c0FyZ3VtZW50TnVsbEV4Y2VwdGlvbigpCiAgICAgICAgewogICAgICAgICAgICAvLyBBcnJhbmdlCiAgICAgICAgICAgIEF1dGhDb250ZXh0IGNvbnRleHQgPSBudWxsOwoKICAgICAgICAgICAgLy8gQWN0ICsgYXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBBc3NlcnQuVGhyb3dzPEFyZ3VtZW50TnVsbEV4Y2VwdGlvbj4oKCkgPT4gbmV3IFJlZ2lzdGVyVXNlckNvbW1hbmRIYW5kbGVyKAogICAgICAgICAgICAgICAgY29udGV4dCwKICAgICAgICAgICAgICAgIF9wcm9jZXNzb3JNb2NrLk9iamVjdCwKICAgICAgICAgICAgICAgIF9jcnlwdG9Nb2NrLk9iamVjdCwKICAgICAgICAgICAgICAgIF9lbWFpbENvbmZpcm1hdGlvblNlcnZpY2VNb2NrLk9iamVjdCwKICAgICAgICAgICAgICAgIF9sb2dnZXJNb2NrLk9iamVjdCwKICAgICAgICAgICAgICAgIF91c2VyQWN0aXZpdHlNZXNzZW5nZXJNb2NrLk9iamVjdCwKICAgICAgICAgICAgICAgIF9zeXN0ZW1NZXNzZW5nZXJNb2NrLk9iamVjdCkpOwoKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKG5hbWVvZihjb250ZXh0KSwgZXhjZXB0aW9uLk1lc3NhZ2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9jb250ZXh0TW9jay5PYmplY3QsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQsCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBHZXRVc2VyQnlJZF9IYXNfQXV0aG9yaXplQXR0cmlidXRlKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBhdHRyaWJ1dGUgPSBBdHRyaWJ1dGVIZWxwZXIuR2V0QXV0aG9yaXplQXR0cmlidXRlPFVzZXJDb250cm9sbGVyPihuYW1lb2YoVXNlckNvbnRyb2xsZXIuR2V0VXNlckJ5SWQpKTsKCiAgICAgICAgICAgIC8vIEFzc2VydAogICAgICAgICAgICBBc3NlcnQuTm90TnVsbChhdHRyaWJ1dGUpOwovLyAgICAgICAgICAgIEFzc2VydC5FcXVhbChSb2xlcy5Vc2VyLCBhdHRyaWJ1dGUuUG9saWN5KTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKElkZW50aXR5U2VydmVyQXV0aGVudGljYXRpb25EZWZhdWx0cy5BdXRoZW50aWNhdGlvblNjaGVtZSwgYXR0cmlidXRlLkF1dGhlbnRpY2F0aW9uU2NoZW1lcyk7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>(
-                context,
-                _processorMock.Object,
-                _emailConfirmationServiceMock.Object,
-                _loggerMock.Object)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF91c2VyQWN0aXZpdHlNZXNzZW5nZXJNb2NrLk9iamVjdCwK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhLkVudGl0eTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9sb2dnZXJNb2NrLk9iamVjdCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgVmFsaWRhdGVfVXNlck51bGxfVGhyb3dzQXJndW1lbnROdWxsRXhjZXB0aW9uKCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIEFycmFuZ2UKICAgICAgICAgICAgTG9jYWxVc2VyIHVzZXIgPSBudWxsOwogICAgICAgICAgICB2YXIgY29tbWFuZCA9IG5ldyBSZWdpc3RlclVzZXJDb21tYW5kKHVzZXIpOwoKICAgICAgICAgICAgLy8gQWN0ICsgQXNzZXJ0CiAgICAgICAgICAgIHZhciBleGNlcHRpb24gPSBBc3NlcnQuVGhyb3dzPEFyZ3VtZW50TnVsbEV4Y2VwdGlvbj4oKCkgPT4gY29tbWFuZC5WYWxpZGF0ZSgpKTsKICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKG5hbWVvZihSZWdpc3RlclVzZXJDb21tYW5kLlVzZXIpLCBleGNlcHRpb24uTWVzc2FnZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1689,10 +1685,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhbmRsZXIgPSBuZXcgQ29uZmlybUVtYWlsQ29tbWFuZEhhbmRsZXIoX2NvbnRleHRNb2NrLk9iamVjdCwgX2xvZ2dlck1vY2suT2JqZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9lbWFpbENvbmZpcm1hdGlvblNlcnZpY2VNb2NrLk9iamVjdCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIHZvaWQgQ3Rvcl9Db250ZXh0TnVsbF9UaHJvd3NBcmd1bWVudE51bGxFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBBdXRoQ29udGV4dCBjb250ZXh0ID0gbnVsbDsKCiAgICAgICAgICAgIC8vIEFjdCArIGFzc2VydAogICAgICAgICAgICB2YXIgZXhjZXB0aW9uID0gQXNzZXJ0LlRocm93czxBcmd1bWVudE51bGxFeGNlcHRpb24+KCgpID0+IG5ldyBDb25maXJtRW1haWxDb21tYW5kSGFuZGxlcigKICAgICAgICAgICAgICAgIF9jb250ZXh0TW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfcHJvY2Vzc29yTW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfZW1haWxDb25maXJtYXRpb25TZXJ2aWNlTW9jay5PYmplY3QsCiAgICAgICAgICAgICAgICBfbG9nZ2VyTW9jay5PYmplY3QpKTsKCiAgICAgICAgICAgIEFzc2VydC5FcXVhbChuYW1lb2YoY29udGV4dCksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQsCg==</text>
       </register>
       <register name="y" type="4">
         <keys>
