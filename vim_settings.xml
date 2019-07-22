@@ -155,12 +155,12 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" timestamp="1561133584374">
-        <mark key="'" line="402" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="373" column="68" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" timestamp="1563802691276">
+        <mark key="'" line="372" column="0" />
+        <mark key="[" line="355" column="17" />
+        <mark key="]" line="355" column="55" />
+        <mark key="^" line="355" column="55" />
+        <mark key="." line="355" column="55" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Builders/RegionBuilder.cs" timestamp="1562943115343">
         <mark key="'" line="18" column="26" />
@@ -645,9 +645,9 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" timestamp="1562765551638">
         <mark key="'" line="79" column="42" />
       </file>
-      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" timestamp="1563790420265">
-        <mark key="[" line="445" column="17" />
-        <mark key="]" line="445" column="68" />
+      <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Course/SaveCourseProgressionCommandHandlerTests.cs" timestamp="1563802605509">
+        <mark key="[" line="440" column="85" />
+        <mark key="]" line="440" column="156" />
         <mark key="." line="445" column="68" />
         <mark key="^" line="445" column="68" />
       </file>
@@ -1552,7 +1552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="26" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/RegisterUserCommandTests - Copy.cs" />
       <jump line="14" column="61" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/RegisterUserCommandTests - Copy.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RequestPasswordResetCommand.cs" />
       <jump line="26" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/RequestPasswordResetCommandTests.cs" />
@@ -1652,10 +1651,11 @@
       <jump line="318" column="64" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/TranscriptControllerTests.cs" />
       <jump line="168" column="12" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/TranscriptControllerTests.cs" />
       <jump line="164" column="26" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Controllers/V2/TranscriptControllerTests.cs" />
+      <jump line="350" column="0" filename="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests/Domain/Commands/Activity/SaveActivityProgressionCommandHandlerTests.cs" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgQ291cnNlUHJvZ3Jlc3NIZWxwZXIuU2F2ZUNvdXJzZVdpdGhGaXJzdEFjdGl2aXR5UHJvZ3Jlc3M5OVBlcmNlbnRzKHRlc3RDbGllbnQsIGNvdXJzZSk7Cg==</text>
+      <register name="a" type="4">
+        <text>LessThanRequiredForRating_ActivityWithDurationEnoughForRatingIsCompleted</text>
       </register>
       <register name="&quot;" type="4">
         <text>CreateFromCourseWithProgress25Percents</text>
@@ -1748,8 +1748,8 @@
       <register name="/" type="4">
         <text>submit</text>
       </register>
-      <register name="0" type="4">
-        <text>_ActivityWithDurationEnoughForRatingIsCompleted</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAgICAgW0ZhY3RdCiAgICAgICAgcHVibGljIGFzeW5jIFRhc2sgRXhlY3V0ZV9Ub3RhbFdhdGNoZWREdXJhdGlvbkVxdWFsc1RvUmVxdWlyZWRGb3JSYXRpbmdfUmV0dXJuc0NhblVzZXJMZWF2ZVJhdGluZ1RydWUoKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBDb3Vyc2UgY291cnNlID0gQ291cnNlTW90aGVyLkNyZWF0ZVdpdGhPbmVWaWRlb0FjdGl2aXR5KCkuQnVpbGQoKTsKICAgICAgICAgICAgYXdhaXQgUGVyc2lzdENvdXJzZShjb3Vyc2UpOwoKICAgICAgICAgICAgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0IHJlcXVlc3QgPSBTYXZlQWN0aXZpdHlQcm9ncmVzc2lvblJlcXVlc3RNb3RoZXIKICAgICAgICAgICAgICAgIC5DcmVhdGVGcm9tQ291cnNlV2l0aFByb2dyZXNzMjVQZXJjZW50cyhjb3Vyc2UsIGNoYXB0ZXJJbmRleDogMCwgbGVzc29uSW5kZXg6IDApCiAgICAgICAgICAgICAgICAuQnVpbGQoKTsKCiAgICAgICAgICAgIHZhciBjbWQgPSBuZXcgU2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25Db21tYW5kKGNvdXJzZS5Vc2VySWQpLkJ5U2F2ZUFjdGl2aXR5UHJvZ3Jlc3Npb25SZXF1ZXN0KHJlcXVlc3QpOwogICAgICAgICAgICB2YXIgaGFuZGxlciA9IG5ldyBTYXZlQWN0aXZpdHlQcm9ncmVzc2lvbkNvbW1hbmRIYW5kbGVyKF9scnNEYkNvbnRleHQsIF9wcm9jZXNzb3IpOwoKICAgICAgICAgICAgLy9BY3QKICAgICAgICAgICAgYXdhaXQgaGFuZGxlci5FeGVjdXRlQXN5bmMoY21kLCBDYW5jZWxsYXRpb25Ub2tlbi5Ob25lKTsKCiAgICAgICAgICAgIC8vQXNzZXJ0CiAgICAgICAgICAgIEFzc2VydC5Ob3ROdWxsKGNtZC5SZXN1bHQpOwogICAgICAgICAgICBBc3NlcnQuVHJ1ZShjbWQuUmVzdWx0LkNhblVzZXJMZWF2ZVJhdGluZyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuRGVwZW5kZW5jeUluamVjdGlvbjsK</text>
@@ -1847,7 +1847,7 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -1883,7 +1883,6 @@
         <entry>submit</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/LocalUserController/UserController/g</entry>
         <entry encoding="base64">JzwsJz5zL1JlZ2lzdGVyL1VwZGF0ZVVzZXJQcm9maWxlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1B1dFVzZXIvUHV0VXNlckJ5SWQvZw==</entry>
         <entry>%s/UpdateDomain/AssignRoles/g</entry>
@@ -1903,6 +1902,7 @@
         <entry>%s/GetUser/GetUsersByIds/g</entry>
         <entry>%s/GetUser/SearchUsers/g</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
