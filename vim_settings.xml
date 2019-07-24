@@ -560,6 +560,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="12" column="20" />
       </file>
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/appsettings.Local.json" timestamp="1563978501595">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Exceptions/User/InvalidVerificationCodeException.cs" timestamp="1562774422932">
         <mark key="'" line="25" column="65" />
         <mark key="[" line="25" column="66" />
@@ -1664,10 +1670,10 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1563354099438">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1563978966211">
         <mark key="'" line="302" column="22" />
-        <mark key="[" line="86" column="65" />
-        <mark key="]" line="86" column="77" />
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="87" />
         <mark key="^" line="224" column="15" />
         <mark key="." line="224" column="15" />
       </file>
@@ -1712,12 +1718,12 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" timestamp="1563976625046">
-        <mark key="'" line="67" column="48" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="94" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="47" column="58" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" timestamp="1563978990420">
+        <mark key="'" line="74" column="48" />
+        <mark key="[" line="68" column="34" />
+        <mark key="]" line="68" column="34" />
+        <mark key="." line="68" column="34" />
+        <mark key="^" line="45" column="11" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/LocalUserService.cs" timestamp="1562848064037">
         <mark key="'" line="416" column="32" />
@@ -1896,7 +1902,7 @@
         <text>&quot;Rating API&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CU-5369: respond with 502 status when LRS api is down</text>
+        <text>, &quot;user&quot;, &quot;demo user&quot;</text>
       </register>
       <register name="d" type="4">
         <text>_ActivityWithDurationEnoughForRatingIsCompleted</text>
@@ -1981,16 +1987,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>CU-5369: respond with 502 status when LRS api is down</text>
+        <text>, &quot;user&quot;, &quot;demo user&quot;</text>
       </register>
       <register name="/" type="4">
         <text>addswa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbUHJvZHVjZXNSZXNwb25zZVR5cGUodHlwZW9mKEN5YmVyVUVycm9yUmVzcG9uc2UpLCBTdGF0dXNDb2Rlcy5TdGF0dXM0MDFVbmF1dGhvcml6ZWQpXQo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJlbWFya3M+CiAgICAgICAgLy8vIEl0IHJlcXVpcmVzIHVzZXIgdG8gaGF2ZSBhdCBsZWFzdCAyNSUgb2Ygd2F0Y2hlZCBwcm9ncmVzcyBpbiBvcmRlciB0byBjcmVhdGUgcmF0aW5nLgogICAgICAgIC8vLyAiYWRtaW4iLCAic3VwZXIgYWRtaW4iLCAidXNlciIsICJkZW1vIHVzZXIiIGNhbiBhY2Nlc3MgdGhpcyBtZXRob2QuCiAgICAgICAgLy8vIDwvcmVtYXJrcz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLlJlZmxlY3Rpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gSXQgcmVxdWlyZXMgdXNlciB0byBoYXZlIGF0IGxlYXN0IDI1JSBvZiB3YXRjaGVkIHByb2dyZXNzIGluIG9yZGVyIHRvIGNyZWF0ZSByYXRpbmcuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2022,34 +2028,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5Nb2RlbHMuQ291cnNlUmF0aW5nLkV4YW1wbGVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJlCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3dhc2hidWNrbGUuQXNwTmV0Q29yZS5Bbm5vdGF0aW9uczsKdXNpbmcgU3dhc2hidWNrbGUuQXNwTmV0Q29yZS5GaWx0ZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICBbU3dhXQo=</text>
       </register>
       <register name="s" type="4">
         <text>TotalWatchedDurationLessThanRequiredForRating_ActivityWithDurationEnoughForRatingIsCompleted_ReturnsCanUserLeaveRatingTrue</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gRmllbGQgbmFtZSB0byBzb3J0IGJ5IChGaWVsZCBuYW1lIGZyb20gcmVzcG9uc2UgbW9kZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJlbWFya3M+CiAgICAgICAgLy8vIEl0IHJlcXVpcmVzIHVzZXIgdG8gaGF2ZSBhdCBsZWFzdCAyNSUgb2Ygd2F0Y2hlZCBwcm9ncmVzcyBpbiBvcmRlciB0byBjcmVhdGUgcmF0aW5nCiAgICAgICAgLy8vIDwvcmVtYXJrcz4K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIHhtbEZpbGUgPSAkIntBc3NlbWJseS5HZXRFeGVjdXRpbmdBc3NlbWJseSgpLkdldE5hbWUoKS5OYW1lfS54bWwiOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlJlZmxlY3Rpb247Cg==</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBWYWxpZGF0ZV9Vc2VyTnVsbF9UaHJvd3NBcmd1bWVudE51bGxFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBMb2NhbFVzZXIgdXNlciA9IG51bGw7CiAgICAgICAgICAgIHZhciBjb21tYW5kID0gbmV3IENvbmZpcm1FbWFpbENvbW1hbmQodXNlcik7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiBjb21tYW5kLlZhbGlkYXRlKCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKENvbmZpcm1FbWFpbENvbW1hbmQuVXNlciksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgUmF0aW5nLkFwaS5Nb2RlbHMuQ291cnNlUmF0aW5nLkV4YW1wbGVzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgVXNlU3dhZ2dlcigKICAgICAgICAgICAgSUFwcGxpY2F0aW9uQnVpbGRlciBhcHAsCiAgICAgICAgICAgIElBcGlWZXJzaW9uRGVzY3JpcHRpb25Qcm92aWRlciBwcm92aWRlcikKICAgICAgICB7CiAgICAgICAgICAgIGFwcC5Vc2VTdGF0aWNGaWxlcygpOwoKICAgICAgICAgICAgYXBwLlVzZVN3YWdnZXIoYyA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBjLlByZVNlcmlhbGl6ZUZpbHRlcnMuQWRkKChzd2FnZ2VyRG9jLCBodHRwUmVxKSA9PiBzd2FnZ2VyRG9jLkhvc3QgPSBodHRwUmVxLkhvc3QuVmFsdWUpOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIGFwcC5Vc2VTd2FnZ2VyVUkoCiAgICAgICAgICAgICAgICBvcHRpb25zID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGRlc2NyaXB0aW9uIGluIHByb3ZpZGVyLkFwaVZlcnNpb25EZXNjcmlwdGlvbnMpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zLlN3YWdnZXJFbmRwb2ludCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkIi9zd2FnZ2VyL3tkZXNjcmlwdGlvbi5Hcm91cE5hbWV9L3N3YWdnZXIuanNvbiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbi5Hcm91cE5hbWUuVG9VcHBlckludmFyaWFudCgpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3dhc2hidWNrbGUuQXNwTmV0Q29yZS5Bbm5vdGF0aW9uczsKdXNpbmcgU3dhc2hidWNrbGUuQXNwTmV0Q29yZS5GaWx0ZXJzOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2070,10 +2076,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gRmllbGQgbmFtZSB0byBzb3J0IGJ5IChGaWVsZCBuYW1lIGZyb20gcmVzcG9uc2UgbW9kZWwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3dhc2hidWNrbGUuQXNwTmV0Q29yZS5GaWx0ZXJzOwp1c2luZyBTd2FzaGJ1Y2tsZS5Bc3BOZXRDb3JlLlN3YWdnZXI7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIHhtbEZpbGUgPSAkIntBc3NlbWJseS5HZXRFeGVjdXRpbmdBc3NlbWJseSgpLkdldE5hbWUoKS5OYW1lfS54bWwiOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
