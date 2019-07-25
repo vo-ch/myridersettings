@@ -219,8 +219,10 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.DataAccessLayer/Entities/Roles.cs" timestamp="1561034633489">
         <mark key="'" line="4" column="31" />
       </file>
-      <file name="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Startup.cs" timestamp="1564066800378">
+      <file name="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Startup.cs" timestamp="1564068773537">
         <mark key="'" line="43" column="97" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="46" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" timestamp="1563972400087">
         <mark key="'" line="44" column="53" />
@@ -278,12 +280,12 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" timestamp="1564062923769">
-        <mark key="'" line="43" column="52" />
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="26" column="11" />
-        <mark key="." line="26" column="11" />
-        <mark key="^" line="26" column="11" />
+      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" timestamp="1564068799200">
+        <mark key="'" line="31" column="82" />
+        <mark key="[" line="31" column="88" />
+        <mark key="]" line="31" column="87" />
+        <mark key="." line="31" column="87" />
+        <mark key="^" line="31" column="87" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/CourseRatingItemResponse.cs" timestamp="1563974651065">
         <mark key="[" line="4" column="1" />
@@ -806,6 +808,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/EB/Core.cs" timestamp="1561370431667">
         <mark key="'" line="88" column="33" />
       </file>
+      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/TestQuery.cs" timestamp="1564068951765">
+        <mark key="[" line="17" column="53" />
+        <mark key="]" line="17" column="58" />
+        <mark key="." line="17" column="58" />
+        <mark key="^" line="17" column="58" />
+      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/Examples/ListCourseRatingRequestExample.cs" timestamp="1563893325741">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="30" />
@@ -917,8 +925,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/15/DefaultRefreshTokenService.cs" timestamp="1561379093972">
         <mark key="'" line="79" column="59" />
       </file>
-      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/LambdaEntryPoint.cs" timestamp="1564062281113">
-        <mark key="'" line="22" column="48" />
+      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/LambdaEntryPoint.cs" timestamp="1564068724664">
+        <mark key="'" line="41" column="33" />
         <mark key="[" line="39" column="19" />
         <mark key="]" line="40" column="46" />
         <mark key="^" line="40" column="46" />
@@ -1219,8 +1227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="23" filename="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Swagger/SwaggerExampleValueFilter.cs" />
-      <jump line="33" column="63" filename="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Swagger/SwaggerExampleValueFilter.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/Sorting/SortingRequest.cs" />
       <jump line="17" column="30" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/Sorting/SortingRequest.cs" />
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Enums/SortOrderEnum.cs" />
@@ -1319,13 +1325,15 @@
       <jump line="8" column="17" filename="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Helpers/ContextServiceLocator.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/3b/659c6eb9/FuncDependencyResolver.cs" />
       <jump line="43" column="97" filename="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Startup.cs" />
+      <jump line="41" column="33" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/LambdaEntryPoint.cs" />
+      <jump line="31" column="82" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>IHttpContextAccessor</text>
       </register>
       <register name="&quot;" type="4">
-        <text>IHttpContextAccessor</text>
+        <text>All</text>
       </register>
       <register name="d" type="4">
         <text>_ActivityWithDurationEnoughForRatingIsCompleted</text>
@@ -1410,16 +1418,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>Player</text>
+        <text>All</text>
       </register>
       <register name="/" type="4">
         <text>acc</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">OiBPYmplY3RHcmFwaFR5cGU8UGxheWVyPgogICAgewogICAgICAgIHB1YmxpYyBQbGF5ZXJUeXBlKENvbnRleHRTZXJ2aWNlTG9jYXRvciBjb250ZXh0U2VydmljZUxvY2F0b3IpCiAgICAgICAgewogICAgICAgICAgICBGaWVsZCh4ID0+IHguSWQpOwogICAgICAgICAgICBGaWVsZCh4ID0+IHguTmFtZSwgdHJ1ZSk7CiAgICAgICAgICAgIEZpZWxkKHggPT4geC5CaXJ0aFBsYWNlKTsKICAgICAgICAgICAgRmllbGQoeCA9PiB4LkhlaWdodCk7CiAgICAgICAgICAgIEZpZWxkKHggPT4geC5XZWlnaHRMYnMpOwogICAgICAgICAgICBGaWVsZDxTdHJpbmdHcmFwaFR5cGU+KCJiaXJ0aERhdGUiLCByZXNvbHZlOiBjb250ZXh0ID0+IGNvbnRleHQuU291cmNlLkJpcnRoRGF0ZS5Ub1Nob3J0RGF0ZVN0cmluZygpKTsKICAgICAgICAgICAgRmllbGQ8TGlzdEdyYXBoVHlwZTxTa2F0ZXJTdGF0aXN0aWNUeXBlPj4oInNrYXRlclNlYXNvblN0YXRzIiwKICAgICAgICAgICAgICAgIGFyZ3VtZW50czogbmV3IFF1ZXJ5QXJndW1lbnRzKG5ldyBRdWVyeUFyZ3VtZW50PEludEdyYXBoVHlwZT4geyBOYW1lID0gImlkIiB9KSwKICAgICAgICAgICAgICAgIHJlc29sdmU6IGNvbnRleHQgPT4gY29udGV4dFNlcnZpY2VMb2NhdG9yLlNrYXRlclN0YXRpc3RpY1JlcG9zaXRvcnkuR2V0KGNvbnRleHQuU291cmNlLklkKSwgZGVzY3JpcHRpb246ICJQbGF5ZXIncyBza2F0ZXIgc3RhdHMiKTsKICAgICAgICB9CiAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkSHR0cENvbnRleHRBY2Nlc3NvcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEZpZWxkPFBsYXllclR5cGU+KAogICAgICAgICAgICAgICAgInJhbmRvbVBsYXllciIsCiAgICAgICAgICAgICAgICByZXNvbHZlOiBjb250ZXh0ID0+IGNvbnRleHRTZXJ2aWNlTG9jYXRvci5QbGF5ZXJSZXBvc2l0b3J5LkdldFJhbmRvbSgpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1463,22 +1471,22 @@
         <text>TotalWatchedDurationLessThanRequiredForRating_ActivityWithDurationEnoughForRatingIsCompleted_ReturnsCanUserLeaveRatingTrue</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHRVQgYXBpL3ZhbHVlcwogICAgICAgIFtIdHRwR2V0XQogICAgICAgIHB1YmxpYyBJRW51bWVyYWJsZTxzdHJpbmc+IEdldCgpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IHN0cmluZ1tdIHsgInZhbHVlMSIsICJ2YWx1ZTIiIH07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHRVQgYXBpL3ZhbHVlcy81CiAgICAgICAgW0h0dHBHZXQoIntpZH0iKV0KICAgICAgICBwdWJsaWMgc3RyaW5nIEdldChpbnQgaWQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gInZhbHVlIjsKICAgICAgICB9CgogICAgICAgIC8vIFBPU1QgYXBpL3ZhbHVlcwogICAgICAgIFtIdHRwUG9zdF0KICAgICAgICBwdWJsaWMgdm9pZCBQb3N0KFtGcm9tQm9keV1zdHJpbmcgdmFsdWUpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSh2YWx1ZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBWYWxpZGF0ZV9Vc2VyTnVsbF9UaHJvd3NBcmd1bWVudE51bGxFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBMb2NhbFVzZXIgdXNlciA9IG51bGw7CiAgICAgICAgICAgIHZhciBjb21tYW5kID0gbmV3IENvbmZpcm1FbWFpbENvbW1hbmQodXNlcik7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiBjb21tYW5kLlZhbGlkYXRlKCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKENvbmZpcm1FbWFpbENvbW1hbmQuVXNlciksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIEFkZFBheW1lbnRzRGJDb250ZXh0KHRoaXMgSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzLCBJQ29uZmlndXJhdGlvbiBjb25maWcpCiAgICAgICAgewogICAgICAgICAgICBDb250cmFjdC5SZXF1aXJlc05vdE51bGwoc2VydmljZXMsIG5hbWVvZihzZXJ2aWNlcykpOwogICAgICAgICAgICBDb250cmFjdC5SZXF1aXJlc05vdE51bGwoY29uZmlnLCBuYW1lb2YoY29uZmlnKSk7CgogICAgICAgICAgICBzdHJpbmcgYWNjb3VudGluZ0Nvbm5lY3Rpb25TdHJpbmcgPSBjb25maWcuR2V0Q29ubmVjdGlvblN0cmluZyhBY2NvdW50aW5nRGF0YWJhc2UpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGREYkNvbnRleHQ8UGF5bWVudHNEYkNvbnRleHQ+KGJ1aWxkZXIgPT4gYnVpbGRlci5Vc2VOcGdzcWwoYWNjb3VudGluZ0Nvbm5lY3Rpb25TdHJpbmcsIG9wdGlvbnMgPT4gb3B0aW9ucy5FbmFibGVSZXRyeU9uRmFpbHVyZSgpKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBHRVQgYXBpL3ZhbHVlcwogICAgICAgIFtIdHRwR2V0XQogICAgICAgIHB1YmxpYyBJRW51bWVyYWJsZTxzdHJpbmc+IEdldCgpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3IHN0cmluZ1tdIHsgInZhbHVlMSIsICJ2YWx1ZTIiIH07CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkRpYWdub3N0aWNzLkNvbnRyYWN0czsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBHRVQgYXBpL3ZhbHVlcy81CiAgICAgICAgW0h0dHBHZXQoIntpZH0iKV0KICAgICAgICBwdWJsaWMgc3RyaW5nIEdldChpbnQgaWQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gInZhbHVlIjsKICAgICAgICB9CgogICAgICAgIC8vIFBPU1QgYXBpL3ZhbHVlcwogICAgICAgIFtIdHRwUG9zdF0KICAgICAgICBwdWJsaWMgdm9pZCBQb3N0KFtGcm9tQm9keV1zdHJpbmcgdmFsdWUpCiAgICAgICAgewogICAgICAgICAgICBDb25zb2xlLldyaXRlTGluZSh2YWx1ZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1499,10 +1507,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKHNlcnZpY2VzLCBuYW1lb2Yoc2VydmljZXMpKTsKICAgICAgICAgICAgQ29udHJhY3QuUmVxdWlyZXNOb3ROdWxsKGNvbmZpZywgbmFtZW9mKGNvbmZpZykpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIEFkZFBheW1lbnRzRGJDb250ZXh0KHRoaXMgSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzLCBJQ29uZmlndXJhdGlvbiBjb25maWcpCiAgICAgICAgewogICAgICAgICAgICBDb250cmFjdC5SZXF1aXJlc05vdE51bGwoc2VydmljZXMsIG5hbWVvZihzZXJ2aWNlcykpOwogICAgICAgICAgICBDb250cmFjdC5SZXF1aXJlc05vdE51bGwoY29uZmlnLCBuYW1lb2YoY29uZmlnKSk7CgogICAgICAgICAgICBzdHJpbmcgYWNjb3VudGluZ0Nvbm5lY3Rpb25TdHJpbmcgPSBjb25maWcuR2V0Q29ubmVjdGlvblN0cmluZyhBY2NvdW50aW5nRGF0YWJhc2UpOwogICAgICAgICAgICBzZXJ2aWNlcy5BZGREYkNvbnRleHQ8UGF5bWVudHNEYkNvbnRleHQ+KGJ1aWxkZXIgPT4gYnVpbGRlci5Vc2VOcGdzcWwoYWNjb3VudGluZ0Nvbm5lY3Rpb25TdHJpbmcsIG9wdGlvbnMgPT4gb3B0aW9ucy5FbmFibGVSZXRyeU9uRmFpbHVyZSgpKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0YWJhc2VJbml0aWFsaXphdGlvbkV4dGVuc2lvbi5Vc2VBdXRvbWF0ZWREYk1pZ3JhdGlvbnMoc2VydmljZUNvbGxlY3Rpb24pOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkRpYWdub3N0aWNzLkNvbnRyYWN0czsK</text>
       </register>
       <register name="y" type="4">
         <keys>
