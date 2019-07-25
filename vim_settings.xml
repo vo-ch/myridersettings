@@ -808,11 +808,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/EB/Core.cs" timestamp="1561370431667">
         <mark key="'" line="88" column="33" />
       </file>
-      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/TestQuery.cs" timestamp="1564068951765">
-        <mark key="[" line="17" column="53" />
-        <mark key="]" line="17" column="58" />
-        <mark key="." line="17" column="58" />
-        <mark key="^" line="17" column="58" />
+      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/TestQuery.cs" timestamp="1564069897520">
+        <mark key="'" line="12" column="37" />
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="13" column="63" />
+        <mark key="." line="13" column="63" />
+        <mark key="^" line="13" column="63" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/Examples/ListCourseRatingRequestExample.cs" timestamp="1563893325741">
         <mark key="[" line="15" column="30" />
@@ -1227,10 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/Sorting/SortingRequest.cs" />
-      <jump line="17" column="30" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/Sorting/SortingRequest.cs" />
-      <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Enums/SortOrderEnum.cs" />
-      <jump line="13" column="26" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/ListCourseRatingRequest.cs" />
       <jump line="69" column="61" filename="C:/projects/Rating/Web/API/src/Rating.Api/Controllers/CourseRatingController.cs" />
       <jump line="8" column="23" filename="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Swagger/SwaggerSortByExampleValueAttribute.cs" />
       <jump line="8" column="38" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/ListCourseRatingRequest.cs" />
@@ -1327,13 +1324,17 @@
       <jump line="43" column="97" filename="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Startup.cs" />
       <jump line="41" column="33" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/LambdaEntryPoint.cs" />
       <jump line="31" column="82" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" />
+      <jump line="13" column="16" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/TestQuery.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/bd/8054228d/ComplexGraphType`1.cs" />
+      <jump line="12" column="37" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/TestQuery.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/0c/e68c4074/QueryArguments.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>IHttpContextAccessor</text>
       </register>
       <register name="&quot;" type="4">
-        <text>All</text>
+        <text>contextServiceLocator.PlayerRepository.</text>
       </register>
       <register name="d" type="4">
         <text>_ActivityWithDurationEnoughForRatingIsCompleted</text>
@@ -1418,7 +1419,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>All</text>
+        <text>contextServiceLocator.PlayerRepository.</text>
       </register>
       <register name="/" type="4">
         <text>acc</text>
