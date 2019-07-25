@@ -507,11 +507,11 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Services/Aws/StepFunctions/Extensions/StepFunctionsServiceExtensions.cs" timestamp="1563806548438">
         <mark key="'" line="20" column="43" />
       </file>
-      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Controllers/ValuesController.cs" timestamp="1564049782148">
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="29" column="34" />
-        <mark key="^" line="29" column="34" />
-        <mark key="." line="29" column="34" />
+      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Controllers/ValuesController.cs" timestamp="1564059193535">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87DAEA5C-C5D0-47D4-A6BB-FF8954AA1C4A/03/7e674771/OptionsServiceCollectionExtensions.cs" timestamp="1562142911568">
         <mark key="'" line="48" column="25" />
@@ -1278,7 +1278,7 @@
         <text>NpgsqlDbType.Varchar.ToString()</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">W2Fzc2VtYmx5OiBMYW1iZGFTZXJpYWxpemVyKHR5cGVvZihBbWF6b24uTGFtYmRhLlNlcmlhbGl6YXRpb24uSnNvbi5Kc29uU2VyaWFsaXplcikpXQo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8gUFVUIGFwaS92YWx1ZXMvNQogICAgICAgIFtIdHRwUHV0KCJ7aWR9IildCiAgICAgICAgcHVibGljIHZvaWQgUHV0KGludCBpZCwgW0Zyb21Cb2R5XXN0cmluZyB2YWx1ZSkKICAgICAgICB7CiAgICAgICAgfQoKICAgICAgICAvLyBERUxFVEUgYXBpL3ZhbHVlcy81CiAgICAgICAgW0h0dHBEZWxldGUoIntpZH0iKV0KICAgICAgICBwdWJsaWMgdm9pZCBEZWxldGUoaW50IGlkKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <text>_ActivityWithDurationEnoughForRatingIsCompleted</text>
@@ -1363,7 +1363,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>api/</text>
       </register>
       <register name="/" type="4">
         <text>region</text>
@@ -1372,7 +1372,7 @@
         <text encoding="base64">W2Fzc2VtYmx5OiBMYW1iZGFTZXJpYWxpemVyKHR5cGVvZihBbWF6b24uTGFtYmRhLlNlcmlhbGl6YXRpb24uSnNvbi5Kc29uU2VyaWFsaXplcikpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLkxpbnE7CnVzaW5nIFN5c3RlbS5UaHJlYWRpbmcuVGFza3M7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gUFVUIGFwaS92YWx1ZXMvNQogICAgICAgIFtIdHRwUHV0KCJ7aWR9IildCiAgICAgICAgcHVibGljIHZvaWQgUHV0KGludCBpZCwgW0Zyb21Cb2R5XXN0cmluZyB2YWx1ZSkKICAgICAgICB7CiAgICAgICAgfQoKICAgICAgICAvLyBERUxFVEUgYXBpL3ZhbHVlcy81CiAgICAgICAgW0h0dHBEZWxldGUoIntpZH0iKV0KICAgICAgICBwdWJsaWMgdm9pZCBEZWxldGUoaW50IGlkKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1404,34 +1404,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7CnVzaW5nIFN5c3RlbS5UaHJlYWRpbmcuVGFza3M7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYzsKdXNpbmcgU3lzdGVtLkxpbnE7CnVzaW5nIFN5c3RlbS5UaHJlYWRpbmcuVGFza3M7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>TotalWatchedDurationLessThanRequiredForRating_ActivityWithDurationEnoughForRatingIsCompleted_ReturnsCanUserLeaveRatingTrue</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIEFwcFMzQnVja2V0S2V5ID0gIkFwcFMzQnVja2V0IjsK</text>
+        <text encoding="base64">dXNpbmcgTWljcm9zb2Z0LkV4dGVuc2lvbnMuTG9nZ2luZzsK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUh0dHBzUmVkaXJlY3Rpb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBWYWxpZGF0ZV9Vc2VyTnVsbF9UaHJvd3NBcmd1bWVudE51bGxFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBMb2NhbFVzZXIgdXNlciA9IG51bGw7CiAgICAgICAgICAgIHZhciBjb21tYW5kID0gbmV3IENvbmZpcm1FbWFpbENvbW1hbmQodXNlcik7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiBjb21tYW5kLlZhbGlkYXRlKCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKENvbmZpcm1FbWFpbENvbW1hbmQuVXNlciksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIEFwcFMzQnVja2V0S2V5ID0gIkFwcFMzQnVja2V0IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudi5Jc0RldmVsb3BtZW50KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGFwcC5Vc2VEZXZlbG9wZXJFeGNlcHRpb25QYWdlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBhcHAuVXNlSHN0cygpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwLlVzZUh0dHBzUmVkaXJlY3Rpb24oKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1452,10 +1452,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIC8vIEFkZCBTMyB0byB0aGUgQVNQLk5FVCBDb3JlIGRlcGVuZGVuY3kgaW5qZWN0aW9uIGZyYW1ld29yay4KICAgICAgICAgICAgc2VydmljZXMuQWRkQVdTU2VydmljZTxBbWF6b24uUzMuSUFtYXpvblMzPigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiQXBwUzNCdWNrZXQiOiAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudi5Jc0RldmVsb3BtZW50KCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGFwcC5Vc2VEZXZlbG9wZXJFeGNlcHRpb25QYWdlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBhcHAuVXNlSHN0cygpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
