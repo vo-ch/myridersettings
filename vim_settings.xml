@@ -10,11 +10,6 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="23" column="45" />
       </file>
-      <file name="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Models/NHLStatsSchema.cs" timestamp="1564065881761">
-        <mark key="'" line="10" column="39" />
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="13" column="4" />
-      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Swagger/Filter/SwaggerExampleValueFilter.cs" timestamp="1563974480448">
         <mark key="'" line="53" column="103" />
         <mark key="[" line="19" column="0" />
@@ -65,11 +60,6 @@
         <mark key="^" line="100" column="20" />
         <mark key="." line="100" column="20" />
       </file>
-      <file name="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Controllers/GraphQLController.cs" timestamp="1564065103801">
-        <mark key="'" line="24" column="60" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="21" column="9" />
-      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Extensions/AirbrakeExtensions.cs" timestamp="1560869428453">
         <mark key="'" line="15" column="45" />
       </file>
@@ -81,6 +71,13 @@
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Extensions/SortExtensions.cs" timestamp="1562596224441">
         <mark key="'" line="20" column="50" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/ResetPasswordCommandHandler.cs" timestamp="1565172224738">
+        <mark key="'" line="62" column="21" />
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45D20605-9EC8-44F8-8A47-1D6E18421912/b9/86da361e/LoggerExtensions.cs" timestamp="1562841214295">
         <mark key="'" line="371" column="14" />
@@ -145,6 +142,12 @@
         <mark key="]" line="7" column="37" />
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/UpdateUserProfileCommandHandler.cs" timestamp="1565172297258">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="18" />
+        <mark key="." line="55" column="18" />
+        <mark key="^" line="55" column="18" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/ClientInitializer.cs" timestamp="1561539629235">
         <mark key="'" line="31" column="24" />
@@ -233,11 +236,6 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data.DbMigration/Data/AuthServerDb/Migrations/20190724154533_UpdateDataTypesMigration.cs" timestamp="1563983212722">
         <mark key="'" line="255" column="24" />
       </file>
-      <file name="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Helpers/ContextServiceLocator.cs" timestamp="1564148928534">
-        <mark key="'" line="8" column="17" />
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="56" />
-      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/ViewModels/Pagination/V2/PagingResponse.cs" timestamp="1562592605978">
         <mark key="'" line="8" column="31" />
       </file>
@@ -310,16 +308,6 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests/Domain/Commands/User/V2/AssignRolesCommandHandlerTests.cs" timestamp="1563356240788">
         <mark key="'" line="65" column="90" />
       </file>
-      <file name="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Startup.cs" timestamp="1564148670051">
-        <mark key="'" line="32" column="40" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="46" />
-      </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/CourseRating/ListCourseRatingQueryHandler.cs" timestamp="1563972400087">
-        <mark key="'" line="44" column="53" />
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="60" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/83CE78FD-F0AE-48FC-B739-03E2539736DE/54/a0c7509b/ConfigurationSection.cs" timestamp="1560939791256">
         <mark key="'" line="15" column="65" />
       </file>
@@ -358,11 +346,6 @@
         <mark key="." line="12" column="37" />
         <mark key="^" line="12" column="37" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Program.cs" timestamp="1564062197448">
-        <mark key="'" line="15" column="36" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="33" />
-      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Mailing/EmailInteractionService.cs" timestamp="1565171340979">
         <mark key="'" line="25" column="38" />
       </file>
@@ -382,21 +365,11 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Mothers/UpdateUserProfileRequestMother.cs" timestamp="1562945141648">
         <mark key="'" line="8" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E90827B4-0C16-4524-AAC8-4FDD35BA2C3E/cc/c409ba08/NonBodyParameter.cs" timestamp="1563974393056">
-        <mark key="'" line="8" column="45" />
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="46" />
-      </file>
       <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl.Data/Repository/CourseRepository - Copy.cs" timestamp="1564126593079">
         <mark key="[" line="21" column="32" />
         <mark key="]" line="21" column="39" />
         <mark key="." line="21" column="39" />
         <mark key="^" line="21" column="39" />
-      </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Filters/CyberUExceptionFilter.cs" timestamp="1563976198298">
-        <mark key="'" line="130" column="62" />
-        <mark key="[" line="179" column="40" />
-        <mark key="]" line="179" column="58" />
       </file>
       <file name="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Models/SkaterStatisticType.cs" timestamp="1564071200713">
         <mark key="'" line="17" column="74" />
@@ -682,11 +655,6 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.UserProgressApi/Handler/EndpointRouter.cs" timestamp="1561476538305">
         <mark key="'" line="17" column="60" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1564062790363">
-        <mark key="'" line="47" column="22" />
-        <mark key="[" line="123" column="16" />
-        <mark key="]" line="123" column="76" />
-      </file>
       <file name="C:/projects/Rating/Infra/Rating.Swagger/Extensions/SwaggerExtensions.cs" timestamp="1563976842842">
         <mark key="'" line="16" column="44" />
         <mark key="[" line="3" column="0" />
@@ -719,22 +687,17 @@
       <file name="C:/projects/Accounting/Infra/Accounting.Exception/Base/CyberUUnprocessableEntityException.cs" timestamp="1562085977088">
         <mark key="'" line="22" column="73" />
       </file>
-      <file name="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Models/PlayerType.cs" timestamp="1564127980645">
-        <mark key="'" line="8" column="49" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="146" />
-      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQuery.cs" timestamp="1562589122614">
         <mark key="'" line="6" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B453F791-1988-448A-BB87-7CBFC1BFFA18/03/a1c991e9/EquivalencyAssertionOptions`1.cs" timestamp="1561566808420">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1565171003077">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="0" />
-        <mark key="." line="302" column="0" />
-        <mark key="^" line="301" column="98" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1565172638961">
+        <mark key="[" line="72" column="29" />
+        <mark key="]" line="72" column="40" />
+        <mark key="." line="72" column="40" />
+        <mark key="^" line="72" column="40" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/AuthContext.cs" timestamp="1562942768688">
         <mark key="'" line="22" column="26" />
@@ -804,11 +767,6 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Mothers/RegionMother - Copy.cs" timestamp="1563287619731">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/.lambda-test-tool/SavedRequests/get_request.json" timestamp="1564048852511">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="61" column="1" />
-      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Swagger/SwaggerSortingRequestAttribute.cs" timestamp="1563972338803">
         <mark key="[" line="12" column="72" />
         <mark key="]" line="12" column="71" />
@@ -817,8 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="21" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
-      <jump line="128" column="16" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
       <jump line="16" column="44" filename="C:/projects/Rating/Infra/Rating.Swagger/Extensions/SwaggerExtensions.cs" />
       <jump line="120" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E90827B4-0C16-4524-AAC8-4FDD35BA2C3E/f1/af1f3bda/SwaggerBuilderExtensions.cs" />
@@ -917,13 +873,15 @@
       <jump line="2" column="70" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/115F617C-6F93-4662-903C-69E9F3CE113A/fc/8679680e/IMandrillMessagesApi.cs" />
       <jump line="39" column="63" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Mailing/MandrillMailingService.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/115F617C-6F93-4662-903C-69E9F3CE113A/fc/8679680e/IMandrillMessagesApi.cs" />
+      <jump line="62" column="21" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/ResetPasswordCommandHandler.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Mailing/MandrillMailingService.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>IConfigurationRoot</text>
+        <text>new GetUserQuery(id)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YXdhaXQgbmV3IEdldFVzZXJRdWVyeShpZCkuRXhlY3V0ZUJ5PEdldFVzZXJRdWVyeSwgTG9jYWxVc2VyPihfcHJvY2Vzc29yLCB0b2tlbik=</text>
       </register>
       <register name="d" type="4">
         <text>_ActivityWithDurationEnoughForRatingIsCompleted</text>
@@ -1008,16 +966,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>new UpdateUserCommand(user)</text>
+        <text encoding="base64">YXdhaXQgbmV3IEdldFVzZXJRdWVyeShpZCkuRXhlY3V0ZUJ5PEdldFVzZXJRdWVyeSwgTG9jYWxVc2VyPihfcHJvY2Vzc29yLCB0b2tlbik=</text>
       </register>
       <register name="/" type="4">
-        <text>token</text>
+        <text encoding="base64">XDxVcGRhdGVVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5JbmNsdWRlKHggPT4geC5DYXRlZ29yeSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5Eb21haW4uUXVlcmllcy5FeHRlbnNpb25zOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1049,34 +1007,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICghdG9rZW4uSXNDYW5jZWxsYXRpb25SZXF1ZXN0ZWQpCiAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC5FeGVjdXRlQnkoX3Byb2Nlc3Nvcik7Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5Eb21haW4uQ29tbWFuZHMuRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="s" type="4">
         <text>TotalWatchedDurationLessThanRequiredForRating_ActivityWithDurationEnoughForRatingIsCompleted_ReturnsCanUserLeaveRatingTrue</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX2VtYWlsQ29uZmlybWF0aW9uU2VydmljZS5QYXNzd29yZFJlc2V0RW1haWxBc3luYyh1c2VyLkVtYWlsLCB1c2VyLlZlcmlmaWNhdGlvbkNvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC5FeGVjdXRlQnkoX3Byb2Nlc3Nvcik7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC5FeGVjdXRlQnkoX3Byb2Nlc3Nvcik7Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5Eb21haW4uQ29tbWFuZHMuRXh0ZW5zaW9uczsK</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBWYWxpZGF0ZV9Vc2VyTnVsbF9UaHJvd3NBcmd1bWVudE51bGxFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBMb2NhbFVzZXIgdXNlciA9IG51bGw7CiAgICAgICAgICAgIHZhciBjb21tYW5kID0gbmV3IENvbmZpcm1FbWFpbENvbW1hbmQodXNlcik7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiBjb21tYW5kLlZhbGlkYXRlKCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKENvbmZpcm1FbWFpbENvbW1hbmQuVXNlciksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5Eb21haW4uQ29tbWFuZHMuRXh0ZW5zaW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC5FeGVjdXRlQnkoX3Byb2Nlc3Nvcik7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICghdG9rZW4uSXNDYW5jZWxsYXRpb25SZXF1ZXN0ZWQpCiAgICAgICAgICAgIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1097,10 +1055,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC5FeGVjdXRlQnkoX3Byb2Nlc3Nvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC5FeGVjdXRlQnkoX3Byb2Nlc3Nvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX2VtYWlsQ29uZmlybWF0aW9uU2VydmljZS5QYXNzd29yZFJlc2V0RW1haWxBc3luYyh1c2VyLkVtYWlsLCB1c2VyLlZlcmlmaWNhdGlvbkNvZGUpOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -1116,9 +1074,9 @@
       </register>
     </registers>
     <search>
-      <last-search>token</last-search>
+      <last-search encoding="base64">XDxVcGRhdGVVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>token</last-pattern>
+      <last-pattern encoding="base64">XDxVcGRhdGVVc2VyXD4=</last-pattern>
       <last-replace>testDbContext</last-replace>
       <last-substitute>accountingDbContext</last-substitute>
       <last-dir>1</last-dir>
@@ -1126,7 +1084,6 @@
     </search>
     <history>
       <history-search>
-        <entry>serilog</entry>
         <entry>Loggly</entry>
         <entry encoding="base64">XDxfc2VjdGlvblw+</entry>
         <entry>writeto</entry>
@@ -1146,6 +1103,7 @@
         <entry>cour</entry>
         <entry>connect</entry>
         <entry>token</entry>
+        <entry encoding="base64">XDxVcGRhdGVVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/RegisterUser/ResetPassword/g</entry>
