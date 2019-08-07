@@ -687,17 +687,23 @@
       <file name="C:/projects/Accounting/Infra/Accounting.Exception/Base/CyberUUnprocessableEntityException.cs" timestamp="1562085977088">
         <mark key="'" line="22" column="73" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/User/RegisterUserRequestValidator.cs" timestamp="1565180542387">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="31" />
+        <mark key="." line="45" column="31" />
+        <mark key="^" line="45" column="31" />
+      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Domain/Queries/Pagination/PaginatedQuery.cs" timestamp="1562589122614">
         <mark key="'" line="6" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B453F791-1988-448A-BB87-7CBFC1BFFA18/03/a1c991e9/EquivalencyAssertionOptions`1.cs" timestamp="1561566808420">
         <mark key="'" line="35" column="11" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1565173304797">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="100" column="49" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1565180484324">
+        <mark key="[" line="277" column="46" />
+        <mark key="]" line="278" column="15" />
+        <mark key="^" line="278" column="15" />
+        <mark key="." line="278" column="15" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/AuthContext.cs" timestamp="1562942768688">
         <mark key="'" line="22" column="26" />
@@ -877,14 +883,14 @@
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Mailing/MandrillMailingService.cs" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHF1ZXJ5ID0gCg==</text>
+      <register name="a" type="4">
+        <text encoding="base64">TG9jYWxVc2VyIHVzZXIg</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5FeGVjdXRlQnk8R2V0VXNlcnNCeUlkc1F1ZXJ5LCBJTGlzdDxMb2NhbFVzZXI+PihfcHJvY2Vzc29yLCB0b2tlbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>exist</text>
       </register>
-      <register name="d" type="4">
-        <text>_ActivityWithDurationEnoughForRatingIsCompleted</text>
+      <register name="d" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IHF1ZXJ5LlJlc3VsdDsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -966,16 +972,16 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>await _processor.ExecuteQuery(query, token);</text>
+        <text>exist</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVcGRhdGVVc2VyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5JbmNsdWRlKHggPT4geC5DYXRlZ29yeSkK</text>
+      <register name="0" type="4">
+        <text>doesExist</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5FeGVjdXRlQnk8R2V0VXNlcnNCeUlkc1F1ZXJ5LCBJTGlzdDxMb2NhbFVzZXI+PihfcHJvY2Vzc29yLCB0b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBleGlzdCA9IGF3YWl0IAogICAgICAgICAgICAgICAgLkV4ZWN1dGVCeTxEb2VzTG9jYWxVc2VyRXhpc3RRdWVyeSwgYm9vbD4oX3Byb2Nlc3NvciwgdG9rZW4pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1007,34 +1013,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5Eb21haW4uUXVlcmllcy5FeHRlbnNpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC5FeGVjdXRlQnkoX3Byb2Nlc3Nvcik7Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5Eb21haW4uUXVlcmllcy5FeHRlbnNpb25zOwo=</text>
       </register>
-      <register name="s" type="4">
-        <text>TotalWatchedDurationLessThanRequiredForRating_ActivityWithDurationEnoughForRatingIsCompleted_ReturnsCanUserLeaveRatingTrue</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3Byb2Nlc3Nvci5FeGVjdXRlUXVlcnkocXVlcnksIHRva2VuKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5Eb21haW4uQ29tbWFuZHMuRXh0ZW5zaW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuRXhlY3V0ZUJ5PEdldFVzZXJCeVZlcmlmaWNhdGlvbkNvZGVRdWVyeSwgTG9jYWxVc2VyPihfcHJvY2Vzc29yLCB0b2tlbik7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIC5FeGVjdXRlQnkoX3Byb2Nlc3Nvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID0gYXdhaXQgCg==</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBWYWxpZGF0ZV9Vc2VyTnVsbF9UaHJvd3NBcmd1bWVudE51bGxFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBMb2NhbFVzZXIgdXNlciA9IG51bGw7CiAgICAgICAgICAgIHZhciBjb21tYW5kID0gbmV3IENvbmZpcm1FbWFpbENvbW1hbmQodXNlcik7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiBjb21tYW5kLlZhbGlkYXRlKCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKENvbmZpcm1FbWFpbENvbW1hbmQuVXNlciksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5Eb21haW4uQ29tbWFuZHMuRXh0ZW5zaW9uczsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">TG9jYWxVc2VyIHVzZXIg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvY2FsVXNlciB1c2VyID0gYXdhaXQKICAgICAgICAgICAgICAgICAgICAuRXhlY3V0ZUJ5PEdldFVzZXJCeVZlcmlmaWNhdGlvbkNvZGVRdWVyeSwgTG9jYWxVc2VyPihfcHJvY2Vzc29yLCB0b2tlbik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1055,10 +1061,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICghdG9rZW4uSXNDYW5jZWxsYXRpb25SZXF1ZXN0ZWQpCiAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRvZXNFeGlzdCA9IHF1ZXJ5LlJlc3VsdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBkb2VzRXhpc3QgPSBhd2FpdAogICAgICAgICAgICAgICAgLkV4ZWN1dGVCeTxEb2VzTG9jYWxVc2VyRXhpc3RRdWVyeSwgYm9vbD4oX3Byb2Nlc3NvciwgdG9rZW4pOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -1070,7 +1076,7 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1122,10 +1128,10 @@
         <entry>%s/defaultValueAttribute/exampleValueAttribute/g</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>%s/accountingDbContext/testDbContext/g</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
