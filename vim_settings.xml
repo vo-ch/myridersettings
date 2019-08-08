@@ -27,6 +27,9 @@
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/Pagination/PagingRequest.cs" timestamp="1563195067093">
         <mark key="'" line="4" column="33" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/ListQuarterlyPayoutQuery.cs" timestamp="1565275927584">
+        <mark key="'" line="5" column="69" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/Initializers/RoleInitializer.cs" timestamp="1563982483648">
         <mark key="'" line="29" column="38" />
         <mark key="[" line="29" column="55" />
@@ -72,7 +75,7 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Extensions/SortExtensions.cs" timestamp="1562596224441">
         <mark key="'" line="20" column="50" />
       </file>
-      <file name="/payments.public.csod_registrations [payments@localhost]" timestamp="1565190734714">
+      <file name="/payments.public.csod_registrations [payments@localhost]" timestamp="1565275248279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PayStatementsTable.tsx" timestamp="1565257491887">
@@ -132,8 +135,8 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" timestamp="1565273149798">
-        <mark key="'" line="68" column="33" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" timestamp="1565275295135">
+        <mark key="'" line="68" column="54" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Swagger/SwaggerSortByExampleValueAttribute.cs" timestamp="1563972282465">
         <mark key="'" line="10" column="23" />
@@ -141,6 +144,13 @@
         <mark key="]" line="7" column="37" />
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="37" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/SubmitQuarterlyPayoutRequestBuilder.cs" timestamp="1565278563937">
+        <mark key="'" line="7" column="72" />
+        <mark key="[" line="7" column="67" />
+        <mark key="]" line="7" column="74" />
+        <mark key="." line="7" column="74" />
+        <mark key="^" line="7" column="74" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Initialization/Database/ClientInitializer.cs" timestamp="1561539629235">
         <mark key="'" line="31" column="24" />
@@ -189,14 +199,15 @@
         <mark key="." line="22" column="44" />
         <mark key="^" line="22" column="14" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQuery.cs" timestamp="1565271200594">
-        <mark key="'" line="4" column="59" />
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="15" />
-        <mark key="." line="16" column="18" />
-      </file>
       <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterControllerTests.cs" timestamp="1565194542257">
         <mark key="'" line="148" column="26" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" timestamp="1565278659413">
+        <mark key="'" line="528" column="86" />
+        <mark key="[" line="544" column="63" />
+        <mark key="]" line="544" column="65" />
+        <mark key="." line="544" column="65" />
+        <mark key="^" line="544" column="65" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Service/Crypto.cs" timestamp="1562251392251">
         <mark key="'" line="5" column="30" />
@@ -207,7 +218,7 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQueryHandler.cs" timestamp="1565191495712">
         <mark key="'" line="30" column="91" />
       </file>
-      <file name="/C# Console" timestamp="1565271505916">
+      <file name="/C# Console" timestamp="1565276541322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="1" />
@@ -251,6 +262,9 @@
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Infra/Auth.Exceptions/CyberUException.cs" timestamp="1562341537246">
         <mark key="'" line="14" column="83" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/ListQuarterlyPayoutQueryHandler.cs" timestamp="1565275904487">
+        <mark key="'" line="40" column="43" />
       </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/CsodRegistrationMap.cs" timestamp="1561476043553">
         <mark key="'" line="27" column="40" />
@@ -317,8 +331,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1B97D13F-74B0-47D2-840E-FE507CFEF1C5/b5/b97a134a/SwaggerGenOptionsExtensions.cs" timestamp="1563894743442">
         <mark key="'" line="14" column="40" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" timestamp="1565273195326">
-        <mark key="'" line="38" column="44" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" timestamp="1565275386375">
+        <mark key="'" line="80" column="34" />
         <mark key="[" line="45" column="61" />
         <mark key="]" line="45" column="63" />
         <mark key="." line="45" column="63" />
@@ -333,6 +347,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/EB/Core.cs" timestamp="1561370431667">
         <mark key="'" line="88" column="33" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/ListQuarterlyPayoutItemResponse.cs" timestamp="1565276640284">
+        <mark key="[" line="26" column="88" />
+        <mark key="]" line="26" column="90" />
+        <mark key="." line="26" column="90" />
+        <mark key="^" line="26" column="90" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Validators/V2/Resources/ValidationMessages.Designer.cs" timestamp="1562233334031">
         <mark key="'" line="24" column="17" />
       </file>
@@ -342,6 +362,9 @@
         <mark key="]" line="20" column="42" />
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/SubmitQuarterlyPayoutRequestMother.cs" timestamp="1565278510073">
+        <mark key="'" line="14" column="56" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/Mappings/RegionMap.cs" timestamp="1563982439096">
         <mark key="[" line="14" column="56" />
@@ -386,6 +409,9 @@
       <file name="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Models/SkaterStatisticType.cs" timestamp="1564071200713">
         <mark key="'" line="17" column="74" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/ListQuarterlyPayoutResponse.cs" timestamp="1565275944269">
+        <mark key="'" line="13" column="54" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ADF771F9-2E75-4FE1-BB85-C5850CD0C16B/f0/0346931d/DbSet`1.cs" timestamp="1562603394504">
         <mark key="'" line="90" column="67" />
       </file>
@@ -398,7 +424,7 @@
       <file name="C:/projects/NewCMS/src/views/management/courses-in-review/CoursesInReviewPage.jsx" timestamp="1563539100609">
         <mark key="'" line="41" column="47" />
       </file>
-      <file name="/dummy.sql" timestamp="1565273412175">
+      <file name="/dummy.sql" timestamp="1565275597005">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Models/Sorting/SortingRequest.cs" timestamp="1563975923907">
@@ -408,10 +434,10 @@
         <mark key="." line="16" column="22" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565269344899">
+      <file name="/Dummy.txt" timestamp="1565279109730">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
-        <mark key="." line="7" column="93" />
+        <mark key="." line="0" column="48" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" timestamp="1561142087867">
         <mark key="'" line="31" column="58" />
@@ -485,7 +511,10 @@
         <mark key="." line="26" column="35" />
         <mark key="^" line="25" column="27" />
       </file>
-      <file name="/payments.accounting.quarterly_payouts [payments@localhost]" timestamp="1565273405604">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1565275809324">
+        <mark key="[" line="0" column="9" />
+      </file>
+      <file name="/payments.accounting.quarterly_payouts [payments@localhost]" timestamp="1565275446698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/appsettings.Development.json" timestamp="1564153885903">
@@ -557,8 +586,10 @@
       <file name="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" timestamp="1565258251183">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" timestamp="1565273250101">
-        <mark key="'" line="33" column="28" />
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" timestamp="1565275933817">
+        <mark key="'" line="37" column="36" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="49" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Swagger/Attribute/SwaggerSortingRequestAttribute.cs" timestamp="1563974095231">
         <mark key="'" line="18" column="66" />
@@ -585,8 +616,8 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01f8e213-5ecc-4708-bead-67f184c26463/console_1.sql" timestamp="1565189931242">
-        <mark key="[" line="34" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/01f8e213-5ecc-4708-bead-67f184c26463/console_1.sql" timestamp="1565274699655">
+        <mark key="[" line="34" column="87" />
         <mark key="]" line="34" column="86" />
         <mark key="^" line="34" column="86" />
         <mark key="." line="34" column="86" />
@@ -609,6 +640,15 @@
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Rating/GrantUserRatingCommandHandlerTests.cs" timestamp="1563871477082">
         <mark key="'" line="154" column="34" />
+      </file>
+      <file name="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests/Models/QuarterlyPayout/ListQuarterlyPayoutItemResponseTests.cs" timestamp="1565278118164">
+        <mark key="[" line="42" column="62" />
+        <mark key="]" line="64" column="64" />
+        <mark key="^" line="64" column="64" />
+        <mark key="." line="42" column="64" />
+      </file>
+      <file name="/quarterly_payouts [payments@localhost]" timestamp="1565277721203">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/NewCMS/src/views/management/courses-in-review/stores/CoursesInReviewStore.js" timestamp="1563539128493">
         <mark key="'" line="102" column="52" />
@@ -635,7 +675,7 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/HealthCheck/HealthStatus.cs" timestamp="1561046506417">
         <mark key="'" line="5" column="10" />
       </file>
-      <file name="/payments.accounting.instructor_payouts [payments@localhost]" timestamp="1565254259531">
+      <file name="/payments.accounting.instructor_payouts [payments@localhost]" timestamp="1565275005596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V1/UserController.cs" timestamp="1563192082057">
@@ -692,18 +732,14 @@
       <file name="C:/projects/UI-Web/ClientApp/routing/routes.tsx" timestamp="1562844597176">
         <mark key="'" line="50" column="63" />
       </file>
+      <file name="/payments.public.currencies [payments@localhost]" timestamp="1565275040173">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/projects/Accounting/Web/API/src/Accounting.Data/Mappings/InstructorPayoutMap.cs" timestamp="1561474762619">
         <mark key="'" line="9" column="71" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.UserProgressApi/Handler/EndpointRouter.cs" timestamp="1561476538305">
         <mark key="'" line="17" column="60" />
-      </file>
-      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1565254731462">
-        <mark key="'" line="131" column="53" />
-        <mark key="[" line="122" column="15" />
-        <mark key="]" line="123" column="11" />
-        <mark key="^" line="123" column="11" />
-        <mark key="." line="123" column="11" />
       </file>
       <file name="C:/projects/Rating/Infra/Rating.Swagger/Extensions/SwaggerExtensions.cs" timestamp="1563976842842">
         <mark key="'" line="16" column="44" />
@@ -831,6 +867,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/appsettings.Local.json" timestamp="1565185700220">
         <mark key="'" line="20" column="8" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/SubmitQuarterlyPayoutRequest.cs" timestamp="1565275054350">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+      </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Infrastructure/Swagger/SwaggerSortingRequestAttribute.cs" timestamp="1563972338803">
         <mark key="[" line="12" column="72" />
         <mark key="]" line="12" column="71" />
@@ -839,23 +881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="32" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" />
-      <jump line="42" column="34" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" />
-      <jump line="10" column="41" filename="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Models/NHLStatsQuery.cs" />
-      <jump line="0" column="0" filename="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Helpers/ContextServiceLocator.cs" />
-      <jump line="32" column="40" filename="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Startup.cs" />
-      <jump line="43" column="34" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" />
-      <jump line="0" column="0" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/Type/CourseType.cs" />
-      <jump line="45" column="43" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" />
-      <jump line="0" column="0" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/TestSchema.cs" />
-      <jump line="23" column="66" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Controllers/GraphQlController.cs" />
-      <jump line="17" column="57" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/.lambda-test-tool/SavedRequests/post_grahpql_request.json" />
-      <jump line="22" column="57" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/TestQuery.cs" />
-      <jump line="0" column="0" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/.lambda-test-tool/SavedRequests/post_grahpql_request.json" />
-      <jump line="62" column="0" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/.lambda-test-tool/SavedRequests/post_grahpql_request.json" />
-      <jump line="32" column="21" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" />
-      <jump line="0" column="0" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Infrastructure/DependencyInjection/DatabaseExtensions.cs" />
-      <jump line="62" column="46" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Startup.cs" />
       <jump line="11" column="67" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/Type/CategoryType.cs" />
       <jump line="110" column="43" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
       <jump line="81" column="22" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/RegisterUserCommandHandler.cs" />
@@ -878,8 +903,6 @@
       <jump line="60" column="17" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/stores/PayStatementStore.ts" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/services/http/payments/PayStatementService.ts" />
       <jump line="75" column="4" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PaymentSection.tsx" />
-      <jump line="59" column="38" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/SubmitQuarterlyPayoutRequest.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommand.cs" />
       <jump line="31" column="31" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/InstructorPayout/ListInstructorPayoutQueryHandler.cs" />
       <jump line="123" column="53" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
@@ -923,7 +946,6 @@
       <jump line="91" column="48" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
       <jump line="95" column="34" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
       <jump line="49" column="14" filename="C:/projects/Accounting/Infra/Accounting.Validation/Requirements/Contract.cs" />
-      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
       <jump line="4" column="59" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQuery.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryResult.cs" />
       <jump line="64" column="64" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
@@ -936,9 +958,29 @@
       <jump line="48" column="36" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
       <jump line="78" column="21" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQuery.cs" />
-      <jump line="68" column="33" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
       <jump line="38" column="44" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
-      <jump line="33" column="28" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" />
+      <jump line="59" column="24" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" />
+      <jump line="38" column="78" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
+      <jump line="68" column="54" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Commands/QuarterlyPayout/SubmitQuarterlyPayoutCommandHandler.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
+      <jump line="36" column="54" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Data.Entity/CsodRegistration.cs" />
+      <jump line="80" column="34" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/CalculateQuarterlyPayoutQueryHandler.cs" />
+      <jump line="40" column="43" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/ListQuarterlyPayoutQueryHandler.cs" />
+      <jump line="33" column="36" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" />
+      <jump line="5" column="69" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/ListQuarterlyPayoutQuery.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Domain/Queries/QuarterlyPayout/ListQuarterlyPayoutQueryResult.cs" />
+      <jump line="37" column="36" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/QuarterlyPayoutController.cs" />
+      <jump line="13" column="54" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/ListQuarterlyPayoutResponse.cs" />
+      <jump line="111" column="23" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" />
+      <jump line="388" column="52" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" />
+      <jump line="363" column="0" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/QuarterlyPayout/SubmitQuarterlyPayoutRequest.cs" />
+      <jump line="540" column="30" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" />
+      <jump line="528" column="86" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.IntegrationTests/Controllers/QuarterlyPayoutControllerTests.cs" />
+      <jump line="14" column="56" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Mothers/SubmitQuarterlyPayoutRequestMother.cs" />
+      <jump line="7" column="72" filename="C:/projects/Accounting/Web/API/test/Accounting.Api.Tests.Core/Builders/SubmitQuarterlyPayoutRequestBuilder.cs" />
+      <jump line="0" column="0" filename="C:/projects/Accounting/Infra/Accounting.Test.Randomizer/RandomHelper.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1033,13 +1075,13 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>husk</text>
+        <text encoding="base64">XDxUb3RhbFBheW91dFBvb2xcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>ArgumentException</text>
+        <text>quarterlyPayouts</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZXM8QXJndW1lbnRFeGNlcHRpb24+KHZhbHVlID4gMCwgbWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUXVhcnRlcmx5UGF5b3V0IGV4cGVjdGVkUXVhcnRlcmx5UGF5b3V0ID0gUXVhcnRlcmx5UGF5b3V0TW90aGVyLkNyZWF0ZSgpLkJ1aWxkKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1070,26 +1112,26 @@
           <key char="47" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>accounting-api.staging.</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIFF1YXJ0ZXJseVBheW91dCBjcmVhdGVkUXVhdGVybHlQYXlvdXQgPSBHZXRRdWFydGVybHlQYXlvdXQoKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjc29kX3JlZ2lzdHJhdGlvbnMgd2hlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWlyZXM8QXJndW1lbnRFeGNlcHRpb24+KHZhbHVlID4gMCwgbWVzc2FnZSk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgX3Byb2Nlc3Nvci5FeGVjdXRlUXVlcnkocXVlcnksIHRva2VuKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJDZXJ0TmFtZSI6ICIiLAogICAgIkNlcnRQYXNzd29yZCI6ICIiCg==</text>
+      <register name="4" type="4">
+        <text>accounting-api.staging.</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJDZXJ0TmFtZSI6ICIiLAogICAgIkNlcnRQYXNzd29yZCI6ICIiCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBjc29kX3JlZ2lzdHJhdGlvbnMgd2hlcmUK</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBWYWxpZGF0ZV9Vc2VyTnVsbF9UaHJvd3NBcmd1bWVudE51bGxFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBMb2NhbFVzZXIgdXNlciA9IG51bGw7CiAgICAgICAgICAgIHZhciBjb21tYW5kID0gbmV3IENvbmZpcm1FbWFpbENvbW1hbmQodXNlcik7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiBjb21tYW5kLlZhbGlkYXRlKCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKENvbmZpcm1FbWFpbENvbW1hbmQuVXNlciksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
@@ -1098,7 +1140,7 @@
         <text encoding="base64">ICAgICJDZXJ0TmFtZSI6ICIiLAogICAgIkNlcnRQYXNzd29yZCI6ICIiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBleGlzdCA9IGF3YWl0IAogICAgICAgICAgICAgICAgLkV4ZWN1dGVCeTxEb2VzTG9jYWxVc2VyRXhpc3RRdWVyeSwgYm9vbD4oX3Byb2Nlc3NvciwgdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICJDZXJ0TmFtZSI6ICIiLAogICAgIkNlcnRQYXNzd29yZCI6ICIiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1119,10 +1161,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJDZXJ0TmFtZSI6ICIiLAogICAgIkNlcnRQYXNzd29yZCI6ICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5Eb21haW4uUXVlcmllcy5FeHRlbnNpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBleGlzdCA9IGF3YWl0IAogICAgICAgICAgICAgICAgLkV4ZWN1dGVCeTxEb2VzTG9jYWxVc2VyRXhpc3RRdWVyeSwgYm9vbD4oX3Byb2Nlc3NvciwgdG9rZW4pOwo=</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -1134,22 +1176,20 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
-      <last-search>husk</last-search>
+      <last-search encoding="base64">XDxUb3RhbFBheW91dFBvb2xcPg==</last-search>
       <last-offset />
-      <last-pattern>husk</last-pattern>
+      <last-pattern encoding="base64">XDxUb3RhbFBheW91dFBvb2xcPg==</last-pattern>
       <last-replace>Search_</last-replace>
       <last-substitute>GetUsers_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>region</entry>
-        <entry>datasee</entry>
         <entry>accountingDbContext</entry>
         <entry>datase</entry>
         <entry>acc</entry>
@@ -1168,6 +1208,8 @@
         <entry encoding="base64">XDxOdW1iZXJGb3JtYXR0ZXJcPg==</entry>
         <entry>console</entry>
         <entry>husk</entry>
+        <entry encoding="base64">XDxHZXRRdWFydGVybHlQYXlvdXRcPg==</entry>
+        <entry encoding="base64">XDxUb3RhbFBheW91dFBvb2xcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ConfirmEmail/ResetPassword/g</entry>
@@ -1187,9 +1229,9 @@
         <entry>%s/accountingDbContext/testDbContext/g</entry>
         <entry>%s/GetUsers_/Search_/g</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
