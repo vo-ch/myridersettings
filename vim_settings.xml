@@ -655,6 +655,9 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Services/ExternalUserService.cs" timestamp="1562765551638">
         <mark key="'" line="79" column="42" />
       </file>
+      <file name="C:/projects/UI-Web/package.json" timestamp="1565267959155">
+        <mark key="'" line="223" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87E8CE02-3EE4-404D-9082-6C8A5038171A/04/8b911ddd/BindingInfo.cs" timestamp="1563962593110">
         <mark key="'" line="42" column="22" />
       </file>
@@ -802,9 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="27" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/Type/CourseType - Copy.cs" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7C9A35B-06A3-4993-8BB6-1C4C3B96BCE0/54/f55957c3/ResolveFieldContext`1.cs" />
-      <jump line="17" column="74" filename="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Models/SkaterStatisticType.cs" />
       <jump line="0" column="0" filename="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Core/Models/SkaterStatistic.cs" />
       <jump line="20" column="104" filename="D:/projects/ASPNetCoreGraphQL/src/backend/NHLStats.Api/Models/PlayerType.cs" />
       <jump line="16" column="19" filename="D:/projects/lambdagraphql/TestGraphQl/TestGraphQl/Graphql/Type/CourseType.cs" />
@@ -902,6 +902,9 @@
       <jump line="3" column="7" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PayStatementsTable.tsx" />
       <jump line="153" column="37" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PayStatementsTable.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/ClientApp/components/errors/ErrorBoundary.tsx" />
+      <jump line="216" column="41" filename="C:/projects/UI-Web/package.json" />
+      <jump line="203" column="9" filename="C:/projects/UI-Web/package.json" />
+      <jump line="223" column="5" filename="C:/projects/UI-Web/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -996,7 +999,7 @@
         <text>443</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>husk</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIlByb3RvY29sIjogImh0dHBzIiwKICAgICAgICAgICAgIkhvc3ROYW1lIjogImFjY291bnRpbmctYXBpLXZjaG11emguY3liZXJ1LmlvIiwKICAgICAgICAgICAgIlBvcnQiOiAiNDQzIgo=</text>
@@ -1101,17 +1104,16 @@
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>husk</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>husk</last-pattern>
       <last-replace>Search_</last-replace>
       <last-substitute>GetUsers_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addswa</entry>
         <entry>region</entry>
         <entry>datasee</entry>
         <entry>accountingDbContext</entry>
@@ -1131,6 +1133,7 @@
         <entry>cy</entry>
         <entry encoding="base64">XDxOdW1iZXJGb3JtYXR0ZXJcPg==</entry>
         <entry>console</entry>
+        <entry>husk</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ConfirmEmail/ResetPassword/g</entry>
