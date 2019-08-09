@@ -175,6 +175,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F674ADBC-35DF-448B-9F14-B0F2F2BB8C5A/EB/Core.cs" timestamp="1561370431667">
         <mark key="'" line="88" column="33" />
       </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/IndustryControllerTests.cs" timestamp="1565353016111">
+        <mark key="'" line="13" column="17" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="65" />
+      </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Builders/RegionBuilder.cs" timestamp="1562943115343">
         <mark key="'" line="18" column="26" />
       </file>
@@ -874,7 +879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/115F617C-6F93-4662-903C-69E9F3CE113A/fc/8679680e/IMandrillMessagesApi.cs" />
       <jump line="62" column="21" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Commands/User/V2/ResetPasswordCommandHandler.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Mailing/MandrillMailingService.cs" />
       <jump line="89" column="12" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
@@ -974,6 +978,7 @@
       <jump line="518" column="57" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
       <jump line="544" column="65" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/12891E82-5FCE-44A5-81E5-BBBB579C1D49/88/31250296/JsonConvert.cs" />
       <jump line="391" column="13" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="13" column="17" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/IndustryControllerTests.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -983,12 +988,8 @@
                 Formatting = Formatting.Indented,
             }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, new JsonSerializerSettings
-            {
-                ReferenceLoopHandling = ReferenceLoopHandling.Ignore,
-                Formatting = Formatting.Indented,
-            }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LkVxdWFsKEh0dHBTdGF0dXNDb2RlLk9LLCByZXNwb25zZS5TdGF0dXNDb2RlKTsK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IHF1ZXJ5LlJlc3VsdDsK</text>
@@ -1076,7 +1077,7 @@
         <text>Formatting.Indented</text>
       </register>
       <register name="/" type="4">
-        <text>_outpu</text>
+        <text>List_DataRetrieved_ReturnsResult</text>
       </register>
       <register name="0" type="4">
         <text>JsonSerializerSettings</text>
@@ -1181,17 +1182,16 @@
       </register>
     </registers>
     <search>
-      <last-search>_outpu</last-search>
+      <last-search>List_DataRetrieved_ReturnsResult</last-search>
       <last-offset />
-      <last-pattern>_outpu</last-pattern>
+      <last-pattern>List_DataRetrieved_ReturnsResult</last-pattern>
       <last-replace>Search_</last-replace>
       <last-substitute>GetUsers_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>acc</entry>
         <entry>cour</entry>
         <entry>connect</entry>
         <entry>token</entry>
@@ -1211,6 +1211,7 @@
         <entry encoding="base64">XDxUb3RhbFBheW91dFBvb2xcPg==</entry>
         <entry>Search_SortOrderSpecified_ReturnsCorrectOrderResult</entry>
         <entry>_outpu</entry>
+        <entry>List_DataRetrieved_ReturnsResult</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ConfirmEmail/ResetPassword/g</entry>
