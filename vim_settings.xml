@@ -350,12 +350,11 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Model/Message.cs" timestamp="1562160349809">
         <mark key="'" line="9" column="104" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1565601536725">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1565604150930">
         <mark key="'" line="90" column="104" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/csod_registrations [payments@localhost]" timestamp="1565248673372">
         <mark key="[" line="0" column="0" />
@@ -471,8 +470,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/283EC7A1-E0DC-44AE-802F-2A38BD868DC7/e5/8207c027/AuthorizationPolicyBuilder.cs" timestamp="1561972899627">
         <mark key="'" line="32" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565602414853">
+      <file name="/Dummy.txt" timestamp="1565604246498">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" timestamp="1561142087867">
         <mark key="'" line="31" column="58" />
@@ -1037,8 +1039,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlci5Mb2dPYmplY3QobmFtZTogIlBlcnNpc3RlZCB1c2VycyBpbnB1dCBkYXRhOiAiLCBvYmo6IHBlcnNpc3RlZFVzZXJzKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhLkV4dGVuc2lvbnM7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>izarion</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IG5ldyBUZXN0TG9nZ2VyKG91dHB1dEhlbHBlcik7Cg==</text>
@@ -1123,7 +1125,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>izarion</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDcmVhdGVSZXNwb25zZUZvclNlcnZlckVycm9yRXhjZXB0aW9uXD4=</text>
@@ -1132,7 +1134,7 @@
         <text encoding="base64">ICAgICAgICAgICAgX291dHB1dEhlbHBlci5Xcml0ZUxpbmUoRGVsaW1pdGVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhLkV4dGVuc2lvbnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1164,19 +1166,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsKICAgICAgICAgICAgX2xvZ2dlci5Mb2cobmFtZTogIlJlc3BvbnNlIiwgZGF0YTogcmVzcG9uc2VDb250ZW50KTsK</text>
+        <text encoding="base64">W2Fzc2VtYmx5OiBDb2xsZWN0aW9uQmVoYXZpb3IoRGlzYWJsZVRlc3RQYXJhbGxlbGl6YXRpb24gPSB0cnVlKV0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsK</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5EYXRhLkV4dGVuc2lvbnM7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsKICAgICAgICAgICAgX2xvZ2dlci5Mb2cobmFtZTogIlJlc3BvbnNlIiwgZGF0YTogcmVzcG9uc2VDb250ZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsKICAgICAgICAgICAgX2xvZ2dlci5Mb2cobmFtZTogIlJlc3BvbnNlIiwgZGF0YTogcmVzcG9uc2VDb250ZW50KTsK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
@@ -1227,7 +1229,7 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -1278,11 +1280,11 @@
         <entry>%s/accountingDbContext/testDbContext/g</entry>
         <entry>%s/GetUsers_/Search_/g</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>nohl</entry>
         <entry>action GotoImplementation</entry>
         <entry>s/1/2/g</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
