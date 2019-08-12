@@ -475,7 +475,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" timestamp="1565613429671">
         <mark key="'" line="56" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565622705253">
+      <file name="/Dummy.txt" timestamp="1565624241514">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="28" />
@@ -712,10 +712,10 @@
         <mark key="." line="46" column="29" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Jenkinsfile-build-k8s" timestamp="1565622695431">
-        <mark key="[" line="53" column="24" />
-        <mark key="]" line="53" column="53" />
-        <mark key="^" line="53" column="23" />
-        <mark key="." line="53" column="24" />
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="53" />
+        <mark key="^" line="44" column="23" />
+        <mark key="." line="44" column="24" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Rating/GrantUserRatingCommandHandlerTests.cs" timestamp="1563871477082">
         <mark key="'" line="154" column="34" />
@@ -1284,7 +1284,7 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>action ShowErrorDescription</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
@@ -1294,7 +1294,7 @@
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1335,11 +1335,11 @@
         <entry>%s/accountingDbContext/testDbContext/g</entry>
         <entry>%s/GetUsers_/Search_/g</entry>
         <entry>action VimVisualSwapSelections</entry>
-        <entry>nohl</entry>
         <entry>s/1/2/g</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
