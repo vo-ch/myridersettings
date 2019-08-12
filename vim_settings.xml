@@ -358,11 +358,11 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Model/Message.cs" timestamp="1562160349809">
         <mark key="'" line="9" column="104" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1565622761102">
-        <mark key="'" line="82" column="0" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1565626843501">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/csod_registrations [payments@localhost]" timestamp="1565248673372">
         <mark key="[" line="0" column="0" />
@@ -481,7 +481,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" timestamp="1565613429671">
         <mark key="'" line="56" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565624241514">
+      <file name="/Dummy.txt" timestamp="1565626846303">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="28" />
@@ -1101,8 +1101,8 @@
       <register name="a" type="4">
         <text>services</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>postgres-$BUILD_TAG:localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IG5ldyBUZXN0TG9nZ2VyKG91dHB1dEhlbHBlcik7Cg==</text>
@@ -1196,7 +1196,7 @@
         <text>postgres-$BUILD_TAG:localhost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYnVpbGRlci5BZGRGb3JtYXR0ZXJNYXBwaW5ncygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1228,34 +1228,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTXZjU2VydmljZUNvbGxlY3Rpb25FeHRlbnNpb25zLkFkZERlZmF1bHRGcmFtZXdvcmtQYXJ0cyhidWlsZGVyLlBhcnRNYW5hZ2VyKTsK</text>
+        <text encoding="base64">ICAgICAgYnVpbGRlci5BZGRGb3JtYXR0ZXJNYXBwaW5ncygpOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTXZjU2VydmljZUNvbGxlY3Rpb25FeHRlbnNpb25zLkFkZERlZmF1bHRGcmFtZXdvcmtQYXJ0cyhidWlsZGVyLlBhcnRNYW5hZ2VyKTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsKICAgICAgICAgICAgX2xvZ2dlci5Mb2cobmFtZTogIlJlc3BvbnNlIiwgZGF0YTogcmVzcG9uc2VDb250ZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5BZGRDYWNoZVRhZ0hlbHBlcigpCiAgICAgICAgICAuQWRkRGF0YUFubm90YXRpb25zKCkKICAgICAgICAgIC5BZGRKc29uRm9ybWF0dGVycygpCiAgICAgICAgICAuQWRkQ29ycygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLkFkZE12YygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5BZGRDYWNoZVRhZ0hlbHBlcigpCiAgICAgICAgICAuQWRkRGF0YUFubm90YXRpb25zKCkKICAgICAgICAgIC5BZGRKc29uRm9ybWF0dGVycygpCiAgICAgICAgICAuQWRkQ29ycygpCg==</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBWYWxpZGF0ZV9Vc2VyTnVsbF9UaHJvd3NBcmd1bWVudE51bGxFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBMb2NhbFVzZXIgdXNlciA9IG51bGw7CiAgICAgICAgICAgIHZhciBjb21tYW5kID0gbmV3IENvbmZpcm1FbWFpbENvbW1hbmQodXNlcik7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiBjb21tYW5kLlZhbGlkYXRlKCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKENvbmZpcm1FbWFpbENvbW1hbmQuVXNlciksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>services</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLkFkZE12YygpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZE12YygpOwo=</text>
+      <register name="7" type="4">
+        <text>services</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1276,10 +1276,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZE12YygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VydmljZXMuQWRkTXZjQ29yZShvcHRpb25zID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgb3B0aW9ucy5GaWx0ZXJzLkFkZCh0eXBlb2YoVmFsaWRhdGVNb2RlbEZpbHRlcikpOwogICAgICAgICAgICAgICAgICAgIG9wdGlvbnMuRmlsdGVycy5BZGQodHlwZW9mKEN5YmVyVUV4Y2VwdGlvbkZpbHRlcikpOwogICAgICAgICAgICAgICAgICAgIG9wdGlvbnMuRmlsdGVycy5BZGQobmV3IFJlc3BvbnNlQ2FjaGVBdHRyaWJ1dGUgeyBOb1N0b3JlID0gdHJ1ZSwgTG9jYXRpb24gPSBSZXNwb25zZUNhY2hlTG9jYXRpb24uTm9uZSB9KTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAuQWRkVmVyc2lvbmVkQXBpRXhwbG9yZXIobyA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG8uR3JvdXBOYW1lRm9ybWF0ID0gIid2J1ZWViI7CiAgICAgICAgICAgICAgICAgICAgby5TdWJzdGl0dXRlQXBpVmVyc2lvbkluVXJsID0gdHJ1ZTsKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgc2VydmljZXMuQWRkQXBpVmVyc2lvbmluZyhvID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG8uQXNzdW1lRGVmYXVsdFZlcnNpb25XaGVuVW5zcGVjaWZpZWQgPSB0cnVlOwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZE12YygpLkFkZEZsdWVudFZhbGlkYXRpb24oeCA9PiB4LlJlZ2lzdGVyVmFsaWRhdG9yc0Zyb21Bc3NlbWJseUNvbnRhaW5pbmc8U3RhcnR1cD4oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -1291,7 +1291,7 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -1345,8 +1345,8 @@
         <entry>s/1/2/g</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>nohl</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
