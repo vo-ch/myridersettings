@@ -53,8 +53,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DD7BBB1E-B6CB-4178-A82C-D5136B2606B8/c7/7d554bcb/HttpRequest.cs" timestamp="1561022199935">
         <mark key="'" line="44" column="28" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" timestamp="1565364609068">
-        <mark key="'" line="543" column="0" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" timestamp="1565596916891">
+        <mark key="'" line="26" column="39" />
         <mark key="[" line="748" column="0" />
         <mark key="]" line="749" column="65" />
         <mark key="^" line="544" column="47" />
@@ -349,6 +349,9 @@
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Model/Message.cs" timestamp="1562160349809">
         <mark key="'" line="9" column="104" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1565596928149">
+        <mark key="'" line="14" column="37" />
       </file>
       <file name="/csod_registrations [payments@localhost]" timestamp="1565248673372">
         <mark key="[" line="0" column="0" />
@@ -914,10 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="28" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PaymentSection.tsx" />
-      <jump line="43" column="38" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PayStatementsTable.tsx" />
-      <jump line="109" column="43" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PayStatementsTable.tsx" />
-      <jump line="88" column="52" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PayStatementsTable.tsx" />
       <jump line="0" column="0" filename="C:/projects/UI-Web/node_modules/format-number/index.d.ts" />
       <jump line="3" column="7" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PayStatementsTable.tsx" />
       <jump line="153" column="37" filename="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/PayStatementsTable.tsx" />
@@ -1014,6 +1013,10 @@
       <jump line="287" column="12" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/DomainControllerTests.cs" />
       <jump line="295" column="41" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/DomainControllerTests.cs" />
       <jump line="25" column="24" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/RegionControllerTests.cs" />
+      <jump line="760" column="8" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="26" column="39" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="14" column="37" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" />
+      <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests.Core/Fixtures/DatabaseFixture.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
