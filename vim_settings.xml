@@ -352,8 +352,8 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Model/Message.cs" timestamp="1562160349809">
         <mark key="'" line="9" column="104" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1565618689716">
-        <mark key="'" line="79" column="41" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1565622761102">
+        <mark key="'" line="82" column="0" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
@@ -475,7 +475,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" timestamp="1565613429671">
         <mark key="'" line="56" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565618423581">
+      <file name="/Dummy.txt" timestamp="1565622705253">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="28" />
@@ -705,10 +705,17 @@
         <mark key="." line="56" column="59" />
         <mark key="^" line="56" column="59" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" timestamp="1565621508514">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" timestamp="1565622537994">
+        <mark key="'" line="44" column="27" />
         <mark key="[" line="46" column="29" />
         <mark key="]" line="46" column="29" />
         <mark key="." line="46" column="29" />
+      </file>
+      <file name="C:/projects/auth2/Auth-Api/Jenkinsfile-build-k8s" timestamp="1565622695431">
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="53" />
+        <mark key="^" line="53" column="23" />
+        <mark key="." line="53" column="24" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.Tests/Domain/Commands/Rating/GrantUserRatingCommandHandlerTests.cs" timestamp="1563871477082">
         <mark key="'" line="154" column="34" />
@@ -982,9 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="550" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
-      <jump line="558" column="68" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
-      <jump line="564" column="84" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
       <jump line="565" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
       <jump line="574" column="69" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
       <jump line="580" column="84" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
@@ -1082,13 +1086,16 @@
       <jump line="0" column="0" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/ListCourseRatingRequest.cs" />
       <jump line="50" column="23" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" />
       <jump line="53" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" />
+      <jump line="44" column="27" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/TestStartup.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8426252F-9318-4FF8-BCAF-CFC72DABA638/b5/06328042/MvcApiExplorerMvcCoreBuilderExtensions.cs" />
+      <jump line="82" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>services</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>postgres-$BUILD_TAG:localhost</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IG5ldyBUZXN0TG9nZ2VyKG91dHB1dEhlbHBlcik7Cg==</text>
@@ -1178,8 +1185,8 @@
       <register name="/" type="4">
         <text>client</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYnVpbGRlci5BZGRBcGlFeHBsb3JlcigpOwogICAgICBidWlsZGVyLkFkZEF1dGhvcml6YXRpb24oKTsKICAgICAgTXZjU2VydmljZUNvbGxlY3Rpb25FeHRlbnNpb25zLkFkZERlZmF1bHRGcmFtZXdvcmtQYXJ0cyhidWlsZGVyLlBhcnRNYW5hZ2VyKTsKICAgICAgYnVpbGRlci5BZGRGb3JtYXR0ZXJNYXBwaW5ncygpOwo=</text>
+      <register name="0" type="4">
+        <text>postgres-$BUILD_TAG:localhost</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYnVpbGRlci5BZGRGb3JtYXR0ZXJNYXBwaW5ncygpOwo=</text>
@@ -1277,7 +1284,7 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action ShowErrorDescription</text>
       </register>
     </registers>
     <search>
@@ -1330,9 +1337,9 @@
         <entry>action VimVisualSwapSelections</entry>
         <entry>nohl</entry>
         <entry>s/1/2/g</entry>
-        <entry>action ShowErrorDescription</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action ShowErrorDescription</entry>
       </history-cmd>
       <history-expr />
       <history-input />
