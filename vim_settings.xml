@@ -350,8 +350,8 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/Model/Message.cs" timestamp="1562160349809">
         <mark key="'" line="9" column="104" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1565628125370">
-        <mark key="'" line="77" column="0" />
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Fixtures/TestServerFixture.cs" timestamp="1565699162957">
+        <mark key="'" line="81" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -464,11 +464,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" timestamp="1565613429671">
         <mark key="'" line="56" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565693160695">
+      <file name="/Dummy.txt" timestamp="1565699216642">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/tests/LRS.API.IntegrationTests.Core/Fakes/AiccServiceFake.cs" timestamp="1561142087867">
         <mark key="'" line="31" column="58" />
@@ -1074,7 +1074,7 @@
         <text>.AddFormatterMappings()</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IG5ldyBUZXN0TG9nZ2VyKG91dHB1dEhlbHBlcik7Cg==</text>
@@ -1159,7 +1159,7 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Search_SortOrderSpecified_ReturnsCorrectOrderResult</text>
@@ -1168,7 +1168,7 @@
         <text encoding="base64">ICAgIHNoICJkb2NrZXIgbG9ncyBwb3N0Z3Jlcy0kQlVJTERfVEFHIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgQXV0aC5BUEkuVGVzdHMuQ29yZS5IZWxwZXJzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1200,34 +1200,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0VG9vbHRpcCBmcm9tICdyZWFjdC10b29sdGlwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3BvbnNlLlN0YXR1c0NvZGUgIT0gSHR0cFN0YXR1c0NvZGUuT0spCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9vdXRwdXRIZWxwZXIuV3JpdGVMaW5lKCJFcnJvciByZXNwb25zZTogIik7CiAgICAgICAgICAgICAgICBfb3V0cHV0SGVscGVyLldyaXRlTGluZShyZXNwb25zZUNvbnRlbnQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RyaW5nIHJlc3BvbnNlQ29udGVudCA9IGF3YWl0IHJlc3BvbnNlLkNvbnRlbnQuUmVhZEFzU3RyaW5nQXN5bmMoKTsKICAgICAgICAgICAgX2xvZ2dlci5Mb2cobmFtZTogIlJlc3BvbnNlIiwgZGF0YTogcmVzcG9uc2VDb250ZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3BvbnNlLlN0YXR1c0NvZGUgIT0gSHR0cFN0YXR1c0NvZGUuT0spCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9vdXRwdXRIZWxwZXIuV3JpdGVMaW5lKCJFcnJvciByZXNwb25zZTogIik7CiAgICAgICAgICAgICAgICBfb3V0cHV0SGVscGVyLldyaXRlTGluZShyZXNwb25zZUNvbnRlbnQpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBZGRNYWlsaW5nU2VydmljZXMoSVNlcnZpY2VDb2xsZWN0aW9uIHNlcnZpY2VzKQogICAgICAgIHsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uPE1vY2s8SU1haWxpbmdTZXJ2aWNlPj4oKTsKICAgICAgICAgICAgc2VydmljZXMuQWRkU2luZ2xldG9uKHNwID0+IHNwLkdldFJlcXVpcmVkU2VydmljZTxNb2NrPElNYWlsaW5nU2VydmljZT4+KCkuT2JqZWN0KTsKCiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbjxNb2NrPElFbWFpbEludGVyYWN0aW9uU2VydmljZT4+KCk7CiAgICAgICAgICAgIHNlcnZpY2VzLkFkZFNpbmdsZXRvbihzcCA9PiBzcC5HZXRSZXF1aXJlZFNlcnZpY2U8TW9jazxJRW1haWxJbnRlcmFjdGlvblNlcnZpY2U+PigpLk9iamVjdCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX291dHB1dEhlbHBlci5Xcml0ZUxpbmUoIlBlcnNpc3RlZCB1c2VyczogIik7CiAgICAgICAgICAgIF9vdXRwdXRIZWxwZXIuV3JpdGVMaW5lKEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChwZXJzaXN0ZWRVc2VycywgbmV3IEpzb25TZXJpYWxpemVyU2V0dGluZ3MKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgUmVmZXJlbmNlTG9vcEhhbmRsaW5nID0gUmVmZXJlbmNlTG9vcEhhbmRsaW5nLklnbm9yZSwKICAgICAgICAgICAgICAgIEZvcm1hdHRpbmcgPSBGb3JtYXR0aW5nLkluZGVudGVkLAogICAgICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="2">
         <text encoding="base64">ICAgICAgICBbRmFjdF0KICAgICAgICBwdWJsaWMgdm9pZCBWYWxpZGF0ZV9Vc2VyTnVsbF9UaHJvd3NBcmd1bWVudE51bGxFeGNlcHRpb24oKQogICAgICAgIHsKICAgICAgICAgICAgLy8gQXJyYW5nZQogICAgICAgICAgICBMb2NhbFVzZXIgdXNlciA9IG51bGw7CiAgICAgICAgICAgIHZhciBjb21tYW5kID0gbmV3IENvbmZpcm1FbWFpbENvbW1hbmQodXNlcik7CgogICAgICAgICAgICAvLyBBY3QgKyBBc3NlcnQKICAgICAgICAgICAgdmFyIGV4Y2VwdGlvbiA9IEFzc2VydC5UaHJvd3M8QXJndW1lbnROdWxsRXhjZXB0aW9uPigoKSA9PiBjb21tYW5kLlZhbGlkYXRlKCkpOwogICAgICAgICAgICBBc3NlcnQuRXF1YWwobmFtZW9mKENvbmZpcm1FbWFpbENvbW1hbmQuVXNlciksIGV4Y2VwdGlvbi5NZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcGlFeHBsb3JlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX291dHB1dEhlbHBlci5Xcml0ZUxpbmUoIlBlcnNpc3RlZCB1c2VyczogIik7CiAgICAgICAgICAgIF9vdXRwdXRIZWxwZXIuV3JpdGVMaW5lKEpzb25Db252ZXJ0LlNlcmlhbGl6ZU9iamVjdChwZXJzaXN0ZWRVc2VycywgbmV3IEpzb25TZXJpYWxpemVyU2V0dGluZ3MKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgUmVmZXJlbmNlTG9vcEhhbmRsaW5nID0gUmVmZXJlbmNlTG9vcEhhbmRsaW5nLklnbm9yZSwKICAgICAgICAgICAgICAgIEZvcm1hdHRpbmcgPSBGb3JtYXR0aW5nLkluZGVudGVkLAogICAgICAgICAgICB9KSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRDb3JzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRBcGlFeHBsb3JlcigpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1248,10 +1248,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRDYWNoZVRhZ0hlbHBlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRDb3JzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRDYWNoZVRhZ0hlbHBlcigpCg==</text>
       </register>
       <register name="y" type="4">
         <keys>
@@ -1263,7 +1263,7 @@
         </keys>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzsvL2c=</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -1317,8 +1317,8 @@
         <entry>action GotoImplementation</entry>
         <entry>action ShowErrorDescription</entry>
         <entry>nohl</entry>
-        <entry>action CommentByLineComment</entry>
         <entry encoding="base64">JzwsJz5zLzsvL2c=</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
