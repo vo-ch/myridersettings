@@ -69,8 +69,8 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.UserProgressApi/Middleware/UserProgressApiMiddleware.cs" timestamp="1561476531429">
         <mark key="'" line="33" column="43" />
       </file>
-      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" timestamp="1563975704754">
-        <mark key="'" line="86" column="24" />
+      <file name="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" timestamp="1565699920558">
+        <mark key="'" line="86" column="26" />
         <mark key="[" line="100" column="19" />
         <mark key="]" line="100" column="20" />
         <mark key="^" line="100" column="20" />
@@ -828,6 +828,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/dc/dbb3ca64/ControllerBase.cs" timestamp="1562840905599">
         <mark key="'" line="394" column="29" />
       </file>
+      <file name="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" timestamp="1565699937005">
+        <mark key="'" line="107" column="15" />
+      </file>
       <file name="C:/projects/Rating/Infra/Rating.Swagger/Extensions/SwaggerExtensions.cs" timestamp="1563976842842">
         <mark key="'" line="16" column="44" />
         <mark key="[" line="3" column="0" />
@@ -968,10 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="596" column="84" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
-      <jump line="597" column="23" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
-      <jump line="605" column="47" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
-      <jump line="610" column="85" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
       <jump line="613" column="13" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
       <jump line="617" column="42" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
       <jump line="622" column="84" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9152434B-0FAC-463B-87F2-DD9AF798817F/1e/9177512e/Assert.cs" />
@@ -1068,6 +1067,10 @@
       <jump line="182" column="18" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Startup.cs" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4447B62F-AF7E-4004-863E-38D856C6CBF9/33/186be050/IServiceCollectionExtensions.cs" />
       <jump line="571" column="35" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.IntegrationTests/Controllers/V2/UserControllerTests.cs" />
+      <jump line="77" column="40" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
+      <jump line="86" column="26" filename="C:/projects/Rating/Web/API/src/Rating.Api/Startup.cs" />
+      <jump line="62" column="16" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
+      <jump line="107" column="15" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Startup.cs" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1162,7 +1165,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>Search_SortOrderSpecified_ReturnsCorrectOrderResult</text>
+        <text>swagger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNoICJkb2NrZXIgbG9ncyBwb3N0Z3Jlcy0kQlVJTERfVEFHIgo=</text>
@@ -1267,9 +1270,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Search_SortOrderSpecified_ReturnsCorrectOrderResult</last-search>
+      <last-search>swagger</last-search>
       <last-offset />
-      <last-pattern>Search_SortOrderSpecified_ReturnsCorrectOrderResult</last-pattern>
+      <last-pattern>swagger</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1277,8 +1280,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRRdWFydGVybHlQYXlvdXRcPg==</entry>
-        <entry encoding="base64">XDxUb3RhbFBheW91dFBvb2xcPg==</entry>
         <entry>_outpu</entry>
         <entry>List_DataRetrieved_ReturnsResult</entry>
         <entry encoding="base64">XDxFcXVhbFw+</entry>
@@ -1297,6 +1298,8 @@
         <entry>;</entry>
         <entry>cors</entry>
         <entry>Search_SortOrderSpecified_ReturnsCorrectOrderResult</entry>
+        <entry>Swagg</entry>
+        <entry>swagger</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UpdateUser/UpdateUserProfile/g</entry>
