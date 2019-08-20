@@ -520,8 +520,8 @@
         <mark key="." line="56" column="59" />
         <mark key="^" line="56" column="59" />
       </file>
-      <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Readme.md" timestamp="1566315564150">
-        <mark key="'" line="1" column="0" />
+      <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Readme.md" timestamp="1566317973851">
+        <mark key="'" line="18" column="8" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -810,8 +810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="0" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Initialization/Database/MockData/courses-mock-data.json" />
-      <jump line="0" column="0" filename="C:/projects/ccms-curation/.gitignore" />
       <jump line="31" column="76" filename="C:/projects/ccms-curation/deploy-dev.yml" />
       <jump line="158" column="26" filename="C:/projects/ccms-curation/serverless.yml" />
       <jump line="162" column="20" filename="C:/projects/ccms-curation/serverless.yml" />
@@ -910,6 +908,8 @@
       <jump line="135" column="28" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" />
       <jump line="0" column="0" filename="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Domain/Queries/User/V2/SearchUsersQuery.cs" />
       <jump line="5" column="0" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Readme.md" />
+      <jump line="18" column="8" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Readme.md" />
+      <jump line="0" column="0" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/web.config" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1004,7 +1004,7 @@
         <text># Required Environment Variables</text>
       </register>
       <register name="/" type="4">
-        <text>xml</text>
+        <text>localent</text>
       </register>
       <register name="0" type="4">
         <text>CcmsDbIsDataSeedingEnabled</text>
@@ -1109,9 +1109,9 @@
       </register>
     </registers>
     <search>
-      <last-search>xml</last-search>
+      <last-search>localent</last-search>
       <last-offset />
-      <last-pattern>xml</last-pattern>
+      <last-pattern>localent</last-pattern>
       <last-replace />
       <last-substitute>Rating</last-substitute>
       <last-dir>1</last-dir>
@@ -1119,7 +1119,6 @@
     </search>
     <history>
       <history-search>
-        <entry>functionhandle</entry>
         <entry encoding="base64">XDxGdW5jdGlvbkhhbmRsZXJBc3luY1w+</entry>
         <entry encoding="base64">XDxJRFw+</entry>
         <entry encoding="base64">XDxPVVRQVVRfVEVNUExBVEVfRklMRVw+</entry>
@@ -1139,6 +1138,7 @@
         <entry>su</entry>
         <entry>swagge</entry>
         <entry>xml</entry>
+        <entry>localent</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ListRegion/DoesLocalUserExist/g</entry>
