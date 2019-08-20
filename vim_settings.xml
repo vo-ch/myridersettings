@@ -105,12 +105,12 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/test/Auth.API.Tests.Core/Mothers/ClaimMother.cs" timestamp="1562941430670">
         <mark key="'" line="8" column="33" />
       </file>
-      <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Domain/Queries/Course/ListCourseQueryHandler.cs" timestamp="1566306173135">
+      <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Domain/Queries/Course/ListCourseQueryHandler.cs" timestamp="1566306853810">
         <mark key="'" line="54" column="35" />
-        <mark key="[" line="56" column="110" />
-        <mark key="]" line="56" column="115" />
-        <mark key="." line="56" column="115" />
-        <mark key="^" line="56" column="115" />
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="64" column="35" />
+        <mark key="." line="64" column="35" />
+        <mark key="^" line="64" column="35" />
       </file>
       <file name="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" timestamp="1566226127712">
         <mark key="'" line="305" column="21" />
@@ -438,11 +438,12 @@
       <file name="C:/projects/UI-Web/ClientApp/views/profiles/user/components/payment-section/stores/PayStatementStore.ts" timestamp="1565188857143">
         <mark key="'" line="60" column="17" />
       </file>
-      <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Controllers/CourseController.cs" timestamp="1566294620474">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="17" column="57" />
+      <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Controllers/CourseController.cs" timestamp="1566307058270">
+        <mark key="'" line="28" column="40" />
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="50" />
+        <mark key="." line="32" column="50" />
+        <mark key="^" line="32" column="50" />
       </file>
       <file name="C:/projects/Rating/Web/API/src/Rating.Api/Filters/CyberUExceptionFilter.cs" timestamp="1566300500720">
         <mark key="'" line="179" column="42" />
@@ -893,10 +894,10 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="97" />
       </file>
-      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1566294546230">
+      <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Controllers/V2/UserController.cs" timestamp="1566306902496">
         <mark key="'" line="76" column="65" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="63" column="59" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="36" />
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.Data/AuthContext.cs" timestamp="1562942768688">
         <mark key="'" line="22" column="26" />
@@ -1055,7 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="49" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Startup.cs" />
       <jump line="35" column="35" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Startup.cs" />
       <jump line="14" column="41" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Startup.cs" />
       <jump line="305" column="21" filename="C:/projects/LRS-Api/LRS.API/src/LRS.API/Startup.cs" />
@@ -1155,13 +1155,14 @@
       <jump line="24" column="25" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Domain/Queries/Course/ListCourseQuery.cs" />
       <jump line="7" column="42" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Domain/Queries/Course/ListCourseQuery.cs" />
       <jump line="54" column="35" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Domain/Queries/Course/ListCourseQueryHandler.cs" />
+      <jump line="27" column="40" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Controllers/CourseController.cs" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICA8ZGF0YSBuYW1lPSJDeWJlclVVbmF1dGhvcml6ZWRFeGNlcHRpb24iIHhtbDpzcGFjZT0icHJlc2VydmUiPgogICAgPHZhbHVlPlVuYXV0aG9yaXplZC48L3ZhbHVlPgogIDwvZGF0YT4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICE9IG51bGw=</text>
+        <text>.UserId</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IG5ldyBUZXN0TG9nZ2VyKG91dHB1dEhlbHBlcik7Cg==</text>
@@ -1246,13 +1247,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICE9IG51bGw=</text>
+        <text>.UserId</text>
       </register>
       <register name="/" type="4">
         <text>su</text>
       </register>
-      <register name="0" type="4">
-        <text>ObjectId</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXNpbmcgQ0NNUy5Eb21haW4uUHJvY2Vzc29yczsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIFByb3ZpZGVySWQgPSByZXF1ZXN0LlByb3ZpZGVySWQ7CiAgICAgICAgICAgIFN1YmplY3QgPSByZXF1ZXN0LlN1YmplY3Q7CiAgICAgICAgICAgIExhbmd1YWdlID0gcmVxdWVzdC5MYW5ndWFnZTsKICAgICAgICAgICAgU3Vic2NyaXB0aW9uSWQgPSBPYmplY3RJZC5UcnlQYXJzZQ==</text>
