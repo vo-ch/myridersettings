@@ -259,6 +259,9 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="9" column="16" />
       </file>
+      <file name="C:/projects/ccms-curation/deploy-dev.yml" timestamp="1566289572700">
+        <mark key="'" line="31" column="76" />
+      </file>
       <file name="C:/projects/UI-Web/ClientApp/views/course/stores/CourseSearchBaseStore.ts" timestamp="1561109151691">
         <mark key="'" line="111" column="17" />
       </file>
@@ -605,10 +608,10 @@
         <mark key="]" line="7" column="107" />
       </file>
       <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Startup.cs" timestamp="1566233933286">
-        <mark key="'" line="87" column="16" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="12" />
-        <mark key="." line="87" column="12" />
+        <mark key="'" line="109" column="16" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="12" />
+        <mark key="." line="109" column="12" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/aws-lambda-tools-defaults.json" timestamp="1566232201619">
         <mark key="[" line="14" column="0" />
@@ -932,7 +935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="33" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/Pagination/PagingRequest.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/Sorting/SortingRequest.cs" />
       <jump line="8" column="5" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/ListCourseRatingRequest.cs" />
       <jump line="81" column="58" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Controllers/B2bRegistrationController.cs" />
@@ -1032,6 +1034,7 @@
       <jump line="42" column="0" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Initialization/Database/MockData/courses-mock-data.json" />
       <jump line="80" column="0" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Initialization/Database/MockData/courses-mock-data.json" />
       <jump line="0" column="0" filename="C:/projects/ccms-curation/.gitignore" />
+      <jump line="31" column="76" filename="C:/projects/ccms-curation/deploy-dev.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1126,7 +1129,7 @@
         <text>local</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJRFw+</text>
+        <text encoding="base64">XDxPVVRQVVRfVEVNUExBVEVfRklMRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiMgTG9jYWwgSGlzdG9yeSBmb3IgVmlzdWFsIFN0dWRpbwoubG9jYWxoaXN0b3J5Lwo=</text>
@@ -1231,9 +1234,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJRFw+</last-search>
+      <last-search encoding="base64">XDxPVVRQVVRfVEVNUExBVEVfRklMRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJRFw+</last-pattern>
+      <last-pattern encoding="base64">XDxPVVRQVVRfVEVNUExBVEVfRklMRVw+</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1241,7 +1244,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cors</entry>
         <entry>Search_SortOrderSpecified_ReturnsCorrectOrderResult</entry>
         <entry>Swagg</entry>
         <entry>swagger</entry>
@@ -1261,6 +1263,7 @@
         <entry>functionhandle</entry>
         <entry encoding="base64">XDxGdW5jdGlvbkhhbmRsZXJBc3luY1w+</entry>
         <entry encoding="base64">XDxJRFw+</entry>
+        <entry encoding="base64">XDxPVVRQVVRfVEVNUExBVEVfRklMRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/UpdateUser/UpdateUserProfile/g</entry>
