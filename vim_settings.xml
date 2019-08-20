@@ -410,7 +410,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/77A26029-7DE4-4284-9A96-A0F2080CD8D7/b8/e8071d03/TestServer.cs" timestamp="1565613429671">
         <mark key="'" line="56" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566234257769">
+      <file name="/Dummy.txt" timestamp="1566287781252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="100" />
         <mark key="^" line="0" column="74" />
@@ -605,10 +605,10 @@
         <mark key="]" line="7" column="107" />
       </file>
       <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Startup.cs" timestamp="1566233933286">
-        <mark key="'" line="85" column="16" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="12" />
-        <mark key="." line="85" column="12" />
+        <mark key="'" line="87" column="16" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="12" />
+        <mark key="." line="87" column="12" />
       </file>
       <file name="C:/projects/Accounting/Worker/InstructorPayoutBreakdownCalculator/src/Accounting.InstructorPayoutBreakdownCalculator/aws-lambda-tools-defaults.json" timestamp="1566232201619">
         <mark key="[" line="14" column="0" />
@@ -666,12 +666,6 @@
       </file>
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.API/Infrastructure/HealthCheck/HealthStatus.cs" timestamp="1561046506417">
         <mark key="'" line="5" column="10" />
-      </file>
-      <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Initialization/Database/Builders/CoursesMockDataBuilder.cs" timestamp="1566229343915">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947D4F24-E664-4E7D-90E3-3FDBCF9FB10B/3b/e6709191/AirbrakeExtension.cs" timestamp="1560864740595">
         <mark key="'" line="18" column="26" />
@@ -888,6 +882,13 @@
       <file name="C:/projects/auth2/Auth-Api/Auth/Web/API/src/Auth.BusinessLogicLayer/Logger/SystemMessenger.cs" timestamp="1562319802426">
         <mark key="'" line="23" column="50" />
       </file>
+      <file name="C:/projects/ccms-curation/.gitignore" timestamp="1566287759316">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="344" column="33" />
+        <mark key="]" line="344" column="37" />
+        <mark key="^" line="344" column="37" />
+        <mark key="." line="344" column="37" />
+      </file>
       <file name="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/CCMS.Curation.Api.csproj" timestamp="1566228954712">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="75" />
@@ -931,7 +932,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="33" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/Pagination/PagingRequest.cs" />
       <jump line="5" column="33" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/Pagination/PagingRequest.cs" />
       <jump line="0" column="0" filename="C:/projects/Accounting/Web/API/src/Accounting.Api/Models/Sorting/SortingRequest.cs" />
       <jump line="8" column="5" filename="C:/projects/Rating/Web/API/src/Rating.Api/Models/CourseRating/ListCourseRatingRequest.cs" />
@@ -1031,13 +1031,14 @@
       <jump line="4" column="0" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Initialization/Database/MockData/courses-mock-data.json" />
       <jump line="42" column="0" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Initialization/Database/MockData/courses-mock-data.json" />
       <jump line="80" column="0" filename="C:/projects/ccms-curation/Web/API/src/CCMS.Curation.Api/Initialization/Database/MockData/courses-mock-data.json" />
+      <jump line="0" column="0" filename="C:/projects/ccms-curation/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>Initialization\Database\MockData\courses-mock-data.json</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJJRCI6ICJiMWFlYTM2Yy03YzRlLTQyZDAtOGZiMy00YzRmMmU4ZjkxNTQiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>local</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2xvZ2dlciA9IG5ldyBUZXN0TG9nZ2VyKG91dHB1dEhlbHBlcik7Cg==</text>
@@ -1122,13 +1123,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>CCMS.Curation.Api::CCMS.Curation.Api.LambdaEntryPoint::FunctionHandlerAsync</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJRFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>CcmsDbIsDataSeedingEnabled</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiMgTG9jYWwgSGlzdG9yeSBmb3IgVmlzdWFsIFN0dWRpbwoubG9jYWxoaXN0b3J5Lwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJJRCI6ICJiMWFlYTM2Yy03YzRlLTQyZDAtOGZiMy00YzRmMmU4ZjkxNTQiLAo=</text>
