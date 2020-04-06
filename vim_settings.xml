@@ -14,6 +14,9 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gVmltVmlzdWFsU3dhcFNlbGVjdGlvbnM=</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQ29tbWVudEJ5TGluZUNvbW1lbnQ=</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action CommentByBlockComment</entry>
+        <entry>split</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -117,11 +120,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="10" />
       </file>
-      <file name="C:/projects/wcf/WcfClient/WcfClient/Auth/ApiKeyAuthenticationBehavior.cs" timestamp="1586196580975">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="41" column="7" />
+      <file name="C:/projects/wcf/WcfClient/WcfClient/Auth/ApiKeyAuthenticationBehavior.cs" timestamp="1586196680483">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="17" />
       </file>
       <file name="C:/projects/wcf/WcfClient/WcfClient/App.config" timestamp="1582472152630">
         <mark key="[" line="13" column="62" />
@@ -232,6 +236,8 @@
       <jump line="10" column="84" filename="C:/projects/wcf/WcfClient/WcfClient/Auth/ApiKeyAuthenticationBehavior.cs" />
       <jump line="13" column="19" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F4D803DD-0959-4C89-BF64-CC00232267BF/cc/a7409000/IEndpointBehavior.cs" />
       <jump line="12" column="0" filename="C:/projects/wcf/WcfClient/WcfClient/Auth/ApiKeyAuthenticationBehavior.cs" />
+      <jump line="21" column="16" filename="C:/projects/wcf/WcfClient/WcfClient/Auth/ApiKeyAuthenticationBehavior.cs" />
+      <jump line="51" column="0" filename="C:/projects/wcf/WcfClient/WcfClient/Auth/ApiKeyAuthenticationBehavior.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,7 +313,7 @@ using System.ServiceModel.Dispatcher;</text>
         }</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
